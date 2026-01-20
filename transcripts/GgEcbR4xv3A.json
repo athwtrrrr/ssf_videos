@@ -1,0 +1,7973 @@
+{
+  "video_id": "GgEcbR4xv3A",
+  "title": "Workshop 1: Adobe Rush (2021)",
+  "channel": "Shaping STEMS Futures ",
+  "published": "2025-09-24T08:35:34Z",
+  "transcript": [
+    {
+      "text": "Good afternoon everyone and welcome to",
+      "start": 0.56,
+      "duration": 6.88
+    },
+    {
+      "text": "the storytelling video by Adobe Rush. So",
+      "start": 3.36,
+      "duration": 6.08
+    },
+    {
+      "text": "we are here today with a very",
+      "start": 7.44,
+      "duration": 4.96
+    },
+    {
+      "text": "informative session about using the",
+      "start": 9.44,
+      "duration": 6.159
+    },
+    {
+      "text": "Adobe Rush. This can be something that",
+      "start": 12.4,
+      "duration": 5.68
+    },
+    {
+      "text": "you need as part of your assessment in",
+      "start": 15.599,
+      "duration": 5.68
+    },
+    {
+      "text": "the unit that you are taken or enrolled",
+      "start": 18.08,
+      "duration": 5.6
+    },
+    {
+      "text": "or it might be uh something that you",
+      "start": 21.279,
+      "duration": 5.121
+    },
+    {
+      "text": "would like to improve in terms of your",
+      "start": 23.68,
+      "duration": 5.919
+    },
+    {
+      "text": "uh digital skills. uh considering",
+      "start": 26.4,
+      "duration": 5.999
+    },
+    {
+      "text": "nowadays uh most of the you know some of",
+      "start": 29.599,
+      "duration": 6.161
+    },
+    {
+      "text": "the uh even conferences you need to uh",
+      "start": 32.399,
+      "duration": 5.84
+    },
+    {
+      "text": "submit your video. So you will really",
+      "start": 35.76,
+      "duration": 5.2
+    },
+    {
+      "text": "want to present yourself professionally",
+      "start": 38.239,
+      "duration": 5.601
+    },
+    {
+      "text": "and of course um that is aligned with",
+      "start": 40.96,
+      "duration": 6.16
+    },
+    {
+      "text": "the start talking competition which is",
+      "start": 43.84,
+      "duration": 8.0
+    },
+    {
+      "text": "coming on 14th of October 2021 is the",
+      "start": 47.12,
+      "duration": 8.64
+    },
+    {
+      "text": "Swimburn um um you know uh local",
+      "start": 51.84,
+      "duration": 7.28
+    },
+    {
+      "text": "competition for STEM public speaking",
+      "start": 55.76,
+      "duration": 6.08
+    },
+    {
+      "text": "which is open to all the Swimburn",
+      "start": 59.12,
+      "duration": 6.88
+    },
+    {
+      "text": "students here in Australia and Sarowak.",
+      "start": 61.84,
+      "duration": 6.639
+    },
+    {
+      "text": "So there is a poll and you see on the",
+      "start": 66.0,
+      "duration": 6.72
+    },
+    {
+      "text": "page we want you to take an action on",
+      "start": 68.479,
+      "duration": 4.241
+    },
+    {
+      "text": "And I invite Janet to just I can see the",
+      "start": 97.92,
+      "duration": 6.08
+    },
+    {
+      "text": "results. But if uh Janet, do you want to",
+      "start": 101.439,
+      "duration": 7.0
+    },
+    {
+      "text": "touch base on the outcome?",
+      "start": 104.0,
+      "duration": 4.439
+    },
+    {
+      "text": ">> So I'm sharing the poll results. Can you",
+      "start": 112.88,
+      "duration": 3.519
+    },
+    {
+      "text": "see them?",
+      "start": 115.28,
+      "duration": 5.72
+    },
+    {
+      "text": ">> Yes, we can see them. Thank you, Janet.",
+      "start": 116.399,
+      "duration": 4.601
+    },
+    {
+      "text": ">> So do you want to read or I read Janet",
+      "start": 121.2,
+      "duration": 5.599
+    },
+    {
+      "text": "because we want to move to the next",
+      "start": 124.479,
+      "duration": 3.601
+    },
+    {
+      "text": "part.",
+      "start": 126.799,
+      "duration": 3.44
+    },
+    {
+      "text": ">> Okay. So the question was how important",
+      "start": 128.08,
+      "duration": 4.08
+    },
+    {
+      "text": "is digital literacy for STEM",
+      "start": 130.239,
+      "duration": 6.241
+    },
+    {
+      "text": "communication and your career? We have",
+      "start": 132.16,
+      "duration": 7.76
+    },
+    {
+      "text": "13 of you. So 68% of you are saying it's",
+      "start": 136.48,
+      "duration": 5.839
+    },
+    {
+      "text": "vital and I want all the tips and advice",
+      "start": 139.92,
+      "duration": 6.16
+    },
+    {
+      "text": "I can get. 37% of you are saying I know",
+      "start": 142.319,
+      "duration": 6.161
+    },
+    {
+      "text": "I need to develop my skills but I",
+      "start": 146.08,
+      "duration": 5.44
+    },
+    {
+      "text": "haven't really thought about it as yet.",
+      "start": 148.48,
+      "duration": 5.44
+    },
+    {
+      "text": "And no one is saying that they don't",
+      "start": 151.52,
+      "duration": 3.92
+    },
+    {
+      "text": "think they will need the skills for",
+      "start": 153.92,
+      "duration": 4.72
+    },
+    {
+      "text": "their career. So that's really pleasing",
+      "start": 155.44,
+      "duration": 5.84
+    },
+    {
+      "text": "to see that everyone is aware um of the",
+      "start": 158.64,
+      "duration": 5.12
+    },
+    {
+      "text": "importance of digital literacy and also",
+      "start": 161.28,
+      "duration": 5.959
+    },
+    {
+      "text": "STEM communication.",
+      "start": 163.76,
+      "duration": 3.479
+    },
+    {
+      "text": "Thank you so much Janet. I know you were",
+      "start": 167.599,
+      "duration": 5.28
+    },
+    {
+      "text": "working hard to organizing this kind you",
+      "start": 170.239,
+      "duration": 4.801
+    },
+    {
+      "text": "know events and I wanted you to be part",
+      "start": 172.879,
+      "duration": 4.64
+    },
+    {
+      "text": "of that. Thank you very much for the",
+      "start": 175.04,
+      "duration": 5.36
+    },
+    {
+      "text": "outcome and um I guess now I would like",
+      "start": 177.519,
+      "duration": 5.201
+    },
+    {
+      "text": "to go with the acknowledgements of the",
+      "start": 180.4,
+      "duration": 5.839
+    },
+    {
+      "text": "country. So um",
+      "start": 182.72,
+      "duration": 5.84
+    },
+    {
+      "text": "on behalf of the people who are in this",
+      "start": 186.239,
+      "duration": 4.561
+    },
+    {
+      "text": "meeting, I know that we have some staff",
+      "start": 188.56,
+      "duration": 5.759
+    },
+    {
+      "text": "or students from uh Malaysia, Sarvak,",
+      "start": 190.8,
+      "duration": 6.799
+    },
+    {
+      "text": "Simburn and in Australia. I would like",
+      "start": 194.319,
+      "duration": 6.721
+    },
+    {
+      "text": "to respectfully acknowledge the past,",
+      "start": 197.599,
+      "duration": 6.881
+    },
+    {
+      "text": "present and future traditional owners of",
+      "start": 201.04,
+      "duration": 7.119
+    },
+    {
+      "text": "the land and respect their culture and",
+      "start": 204.48,
+      "duration": 6.64
+    },
+    {
+      "text": "identity which has been bounded up with",
+      "start": 208.159,
+      "duration": 7.64
+    },
+    {
+      "text": "the land and sea for generations.",
+      "start": 211.12,
+      "duration": 4.679
+    },
+    {
+      "text": "So I guess if I want to brief you about",
+      "start": 219.68,
+      "duration": 5.04
+    },
+    {
+      "text": "what is planned for today, it's a very",
+      "start": 222.319,
+      "duration": 5.121
+    },
+    {
+      "text": "short session. That's why we want to",
+      "start": 224.72,
+      "duration": 4.879
+    },
+    {
+      "text": "make sure that we have an informative",
+      "start": 227.44,
+      "duration": 5.439
+    },
+    {
+      "text": "session teaching you about Adobe Rush.",
+      "start": 229.599,
+      "duration": 7.28
+    },
+    {
+      "text": "So our speaker tatana",
+      "start": 232.879,
+      "duration": 7.601
+    },
+    {
+      "text": "is she's going to explain and introduce",
+      "start": 236.879,
+      "duration": 6.961
+    },
+    {
+      "text": "herself shortly and she's going to take",
+      "start": 240.48,
+      "duration": 6.24
+    },
+    {
+      "text": "you to the Adobe rush step by step from",
+      "start": 243.84,
+      "duration": 5.28
+    },
+    {
+      "text": "the beginning to the end. We had this",
+      "start": 246.72,
+      "duration": 5.2
+    },
+    {
+      "text": "meeting yesterday and I'm sure that you",
+      "start": 249.12,
+      "duration": 4.96
+    },
+    {
+      "text": "are going to learn a lot and of course",
+      "start": 251.92,
+      "duration": 5.36
+    },
+    {
+      "text": "it's it's just a matter of spending some",
+      "start": 254.08,
+      "duration": 6.159
+    },
+    {
+      "text": "time and practice and applying that and",
+      "start": 257.28,
+      "duration": 5.359
+    },
+    {
+      "text": "if you don't get chance to answer your",
+      "start": 260.239,
+      "duration": 4.721
+    },
+    {
+      "text": "question or you don't know about your",
+      "start": 262.639,
+      "duration": 6.241
+    },
+    {
+      "text": "what question you might uh have or what",
+      "start": 264.96,
+      "duration": 5.679
+    },
+    {
+      "text": "concern or problems you might come",
+      "start": 268.88,
+      "duration": 4.4
+    },
+    {
+      "text": "across. So we have Adobe coaches",
+      "start": 270.639,
+      "duration": 5.601
+    },
+    {
+      "text": "available that they can provide you all",
+      "start": 273.28,
+      "duration": 6.32
+    },
+    {
+      "text": "the advices in the drop in session. So I",
+      "start": 276.24,
+      "duration": 5.519
+    },
+    {
+      "text": "guess the main part of this session is",
+      "start": 279.6,
+      "duration": 6.159
+    },
+    {
+      "text": "the Adobe Rush training. Um so I guess",
+      "start": 281.759,
+      "duration": 7.44
+    },
+    {
+      "text": "there is a um so in the beginning I",
+      "start": 285.759,
+      "duration": 6.641
+    },
+    {
+      "text": "would like to invite you all to watch",
+      "start": 289.199,
+      "duration": 6.081
+    },
+    {
+      "text": "one minute video and after that I'm",
+      "start": 292.4,
+      "duration": 5.44
+    },
+    {
+      "text": "going to explain about what is the start",
+      "start": 295.28,
+      "duration": 6.72
+    },
+    {
+      "text": "topping competition is. So I'm u very",
+      "start": 297.84,
+      "duration": 6.56
+    },
+    {
+      "text": "honored to say that those students who",
+      "start": 302.0,
+      "duration": 4.96
+    },
+    {
+      "text": "are here today you might think that this",
+      "start": 304.4,
+      "duration": 4.96
+    },
+    {
+      "text": "is something that I don't know but the",
+      "start": 306.96,
+      "duration": 4.72
+    },
+    {
+      "text": "students who were in the second workshop",
+      "start": 309.36,
+      "duration": 4.32
+    },
+    {
+      "text": "by the way this is the third year that",
+      "start": 311.68,
+      "duration": 4.64
+    },
+    {
+      "text": "we are running this uh workshops and",
+      "start": 313.68,
+      "duration": 6.56
+    },
+    {
+      "text": "this competition. So we observe students",
+      "start": 316.32,
+      "duration": 7.2
+    },
+    {
+      "text": "progress and students success. So during",
+      "start": 320.24,
+      "duration": 6.32
+    },
+    {
+      "text": "all of these three years, so students",
+      "start": 323.52,
+      "duration": 5.36
+    },
+    {
+      "text": "started with a simple application or",
+      "start": 326.56,
+      "duration": 4.8
+    },
+    {
+      "text": "simple video production, they improve a",
+      "start": 328.88,
+      "duration": 5.759
+    },
+    {
+      "text": "lot and as a result of that this year in",
+      "start": 331.36,
+      "duration": 6.32
+    },
+    {
+      "text": "the state STEM public speaking which has",
+      "start": 334.639,
+      "duration": 6.4
+    },
+    {
+      "text": "a similar approach and criteria for the",
+      "start": 337.68,
+      "duration": 6.32
+    },
+    {
+      "text": "start talking competition all the three",
+      "start": 341.039,
+      "duration": 6.0
+    },
+    {
+      "text": "winners they actually the sunburn",
+      "start": 344.0,
+      "duration": 6.16
+    },
+    {
+      "text": "students so the the winner the runnerup",
+      "start": 347.039,
+      "duration": 4.961
+    },
+    {
+      "text": "and the people's choice they were all",
+      "start": 350.16,
+      "duration": 4.0
+    },
+    {
+      "text": "swimmer students. So don't think that",
+      "start": 352.0,
+      "duration": 5.12
+    },
+    {
+      "text": "you so I guess it's just if you passion",
+      "start": 354.16,
+      "duration": 5.44
+    },
+    {
+      "text": "about the science communication this is",
+      "start": 357.12,
+      "duration": 5.6
+    },
+    {
+      "text": "where you can uh use of the technology",
+      "start": 359.6,
+      "duration": 6.159
+    },
+    {
+      "text": "to share your um and communicate your",
+      "start": 362.72,
+      "duration": 5.84
+    },
+    {
+      "text": "science the way that a community can",
+      "start": 365.759,
+      "duration": 4.401
+    },
+    {
+      "text": "understand.",
+      "start": 368.56,
+      "duration": 3.6
+    },
+    {
+      "text": "So that is why we are here with this",
+      "start": 370.16,
+      "duration": 5.2
+    },
+    {
+      "text": "workshop to um do you know to make sure",
+      "start": 372.16,
+      "duration": 6.0
+    },
+    {
+      "text": "that you receive all of the training and",
+      "start": 375.36,
+      "duration": 4.959
+    },
+    {
+      "text": "then it's all about your creativity and",
+      "start": 378.16,
+      "duration": 4.24
+    },
+    {
+      "text": "of course your scientific knowledge that",
+      "start": 380.319,
+      "duration": 4.401
+    },
+    {
+      "text": "is going to be or even your passion even",
+      "start": 382.4,
+      "duration": 4.96
+    },
+    {
+      "text": "if you are not in science area you can",
+      "start": 384.72,
+      "duration": 5.919
+    },
+    {
+      "text": "always be passionate about STEM uh or",
+      "start": 387.36,
+      "duration": 6.16
+    },
+    {
+      "text": "science or technology or engineering and",
+      "start": 390.639,
+      "duration": 5.521
+    },
+    {
+      "text": "you would think that you want to uh do",
+      "start": 393.52,
+      "duration": 5.04
+    },
+    {
+      "text": "you know um share your science and I",
+      "start": 396.16,
+      "duration": 4.879
+    },
+    {
+      "text": "think everyone knows that the community",
+      "start": 398.56,
+      "duration": 4.8
+    },
+    {
+      "text": "knowledge is the very powerful source.",
+      "start": 401.039,
+      "duration": 4.961
+    },
+    {
+      "text": "People need to know and be aware of the",
+      "start": 403.36,
+      "duration": 5.92
+    },
+    {
+      "text": "science and we need to um showcase some",
+      "start": 406.0,
+      "duration": 6.08
+    },
+    {
+      "text": "of the technology that they might expect",
+      "start": 409.28,
+      "duration": 5.6
+    },
+    {
+      "text": "in future. So for purpose of that we are",
+      "start": 412.08,
+      "duration": 5.2
+    },
+    {
+      "text": "going to learn this Adobe rush but you",
+      "start": 414.88,
+      "duration": 4.96
+    },
+    {
+      "text": "know that this is video production is",
+      "start": 417.28,
+      "duration": 5.359
+    },
+    {
+      "text": "something that uh it can be used",
+      "start": 419.84,
+      "duration": 6.88
+    },
+    {
+      "text": "everywhere. So I invite you all to uh",
+      "start": 422.639,
+      "duration": 7.68
+    },
+    {
+      "text": "watch this um uh one minute of the start",
+      "start": 426.72,
+      "duration": 5.84
+    },
+    {
+      "text": "talking competition and if you think",
+      "start": 430.319,
+      "duration": 6.841
+    },
+    {
+      "text": "that you're interested to join us.",
+      "start": 432.56,
+      "duration": 4.6
+    },
+    {
+      "text": "So I don't think it's particularly",
+      "start": 438.24,
+      "duration": 3.84
+    },
+    {
+      "text": "controversial for me to say that science",
+      "start": 439.919,
+      "duration": 6.081
+    },
+    {
+      "text": "is amazing. From microorganisms to giant",
+      "start": 442.08,
+      "duration": 6.64
+    },
+    {
+      "text": "galaxies, it encompasses everything in",
+      "start": 446.0,
+      "duration": 4.96
+    },
+    {
+      "text": "between. And we want you to tell us",
+      "start": 448.72,
+      "duration": 4.8
+    },
+    {
+      "text": "about it. Open to all undergraduate",
+      "start": 450.96,
+      "duration": 4.16
+    },
+    {
+      "text": "students, start talking is a great",
+      "start": 453.52,
+      "duration": 2.799
+    },
+    {
+      "text": "opportunity to practice your",
+      "start": 455.12,
+      "duration": 2.799
+    },
+    {
+      "text": "communication of a STEM topic of your",
+      "start": 456.319,
+      "duration": 4.961
+    },
+    {
+      "text": "choice in three specific formats.",
+      "start": 457.919,
+      "duration": 4.72
+    },
+    {
+      "text": ">> Whether it's your about your own",
+      "start": 461.28,
+      "duration": 3.52
+    },
+    {
+      "text": "research or you might have an innovative",
+      "start": 462.639,
+      "duration": 3.601
+    },
+    {
+      "text": "STEM idea that you think might change",
+      "start": 464.8,
+      "duration": 3.76
+    },
+    {
+      "text": "the world or you are just passionate",
+      "start": 466.24,
+      "duration": 4.399
+    },
+    {
+      "text": "about science in general, start talking",
+      "start": 468.56,
+      "duration": 3.6
+    },
+    {
+      "text": "is the place for you.",
+      "start": 470.639,
+      "duration": 4.721
+    },
+    {
+      "text": ">> You have 4 minutes to present and if you",
+      "start": 472.16,
+      "duration": 6.56
+    },
+    {
+      "text": "win, you get 400 bucks. Now, if you want",
+      "start": 475.36,
+      "duration": 5.679
+    },
+    {
+      "text": "to apply, first you have to submit",
+      "start": 478.72,
+      "duration": 5.039
+    },
+    {
+      "text": "talking points. That's around 300 words",
+      "start": 481.039,
+      "duration": 4.961
+    },
+    {
+      "text": "you have to submit. And then if you get",
+      "start": 483.759,
+      "duration": 3.84
+    },
+    {
+      "text": "through from there, you'll get to go to",
+      "start": 486.0,
+      "duration": 2.8
+    },
+    {
+      "text": "the grand final.",
+      "start": 487.599,
+      "duration": 2.801
+    },
+    {
+      "text": ">> As one of your judges, I'll be looking",
+      "start": 488.8,
+      "duration": 4.399
+    },
+    {
+      "text": "for a science talk that has creativity,",
+      "start": 490.4,
+      "duration": 5.28
+    },
+    {
+      "text": "that has clarity, and one that connects",
+      "start": 493.199,
+      "duration": 5.361
+    },
+    {
+      "text": "to me. And now it's your turn to start",
+      "start": 495.68,
+      "duration": 4.92
+    },
+    {
+      "text": "talking.",
+      "start": 498.56,
+      "duration": 9.13
+    },
+    {
+      "text": "[Music]",
+      "start": 500.6,
+      "duration": 7.09
+    },
+    {
+      "text": "I know that we made this in 2019 in the",
+      "start": 509.36,
+      "duration": 6.0
+    },
+    {
+      "text": "campus and I think everyone needs to be",
+      "start": 512.479,
+      "duration": 5.761
+    },
+    {
+      "text": "uh missing being in a campus. So the",
+      "start": 515.36,
+      "duration": 4.96
+    },
+    {
+      "text": "first uh the second workshop that we",
+      "start": 518.24,
+      "duration": 4.56
+    },
+    {
+      "text": "have now and it's going to be started by",
+      "start": 520.32,
+      "duration": 6.079
+    },
+    {
+      "text": "Adobe Rush training. It's um um and then",
+      "start": 522.8,
+      "duration": 6.4
+    },
+    {
+      "text": "if you're interested to um be part of",
+      "start": 526.399,
+      "duration": 5.921
+    },
+    {
+      "text": "the audience so the showcase uh live",
+      "start": 529.2,
+      "duration": 7.12
+    },
+    {
+      "text": "showcase is on 14th of October but if",
+      "start": 532.32,
+      "duration": 6.639
+    },
+    {
+      "text": "you would like to compete so you are",
+      "start": 536.32,
+      "duration": 5.36
+    },
+    {
+      "text": "required to submit your talking point up",
+      "start": 538.959,
+      "duration": 6.56
+    },
+    {
+      "text": "to 300 words outline your STEM idea what",
+      "start": 541.68,
+      "duration": 7.44
+    },
+    {
+      "text": "references you use um and let's say",
+      "start": 545.519,
+      "duration": 6.801
+    },
+    {
+      "text": "during um you know um we are here and we",
+      "start": 549.12,
+      "duration": 5.839
+    },
+    {
+      "text": "are going to support you but it's",
+      "start": 552.32,
+      "duration": 5.199
+    },
+    {
+      "text": "ideally should be during the week seven",
+      "start": 554.959,
+      "duration": 4.801
+    },
+    {
+      "text": "and eight. So we have drop in session",
+      "start": 557.519,
+      "duration": 5.041
+    },
+    {
+      "text": "Adobe coaches helping you with the Adobe",
+      "start": 559.76,
+      "duration": 6.4
+    },
+    {
+      "text": "rush training um during week nine and of",
+      "start": 562.56,
+      "duration": 6.56
+    },
+    {
+      "text": "course the uh do you know the submission",
+      "start": 566.16,
+      "duration": 6.16
+    },
+    {
+      "text": "of 4minut video which is the entry to",
+      "start": 569.12,
+      "duration": 6.64
+    },
+    {
+      "text": "the competition it's by Monday 11th of",
+      "start": 572.32,
+      "duration": 6.48
+    },
+    {
+      "text": "October. So if you have anything that",
+      "start": 575.76,
+      "duration": 7.28
+    },
+    {
+      "text": "you can submit by Monday 11th of October",
+      "start": 578.8,
+      "duration": 7.76
+    },
+    {
+      "text": "by 5:00 p.m. to my email address you can",
+      "start": 583.04,
+      "duration": 6.4
+    },
+    {
+      "text": "see it's uh with a red um you know po",
+      "start": 586.56,
+      "duration": 7.12
+    },
+    {
+      "text": "point in the uh slide. So uh you are",
+      "start": 589.44,
+      "duration": 6.24
+    },
+    {
+      "text": "going to compete and if you're the",
+      "start": 593.68,
+      "duration": 4.4
+    },
+    {
+      "text": "winner the story of your success is",
+      "start": 595.68,
+      "duration": 4.88
+    },
+    {
+      "text": "going to be published and there are more",
+      "start": 598.08,
+      "duration": 7.36
+    },
+    {
+      "text": "than that so we can discuss um um later",
+      "start": 600.56,
+      "duration": 8.08
+    },
+    {
+      "text": "I think without any um delay I would",
+      "start": 605.44,
+      "duration": 8.24
+    },
+    {
+      "text": "like to invite patina to Tiana sorry I'm",
+      "start": 608.64,
+      "duration": 6.8
+    },
+    {
+      "text": "a bit",
+      "start": 613.68,
+      "duration": 5.76
+    },
+    {
+      "text": "difficult for me but I guess patiana to",
+      "start": 615.44,
+      "duration": 7.28
+    },
+    {
+      "text": "um teach us about the Adobe rush And we",
+      "start": 619.44,
+      "duration": 6.24
+    },
+    {
+      "text": "would like to know about you um Tatiana",
+      "start": 622.72,
+      "duration": 6.0
+    },
+    {
+      "text": "to see how you are um you know going to",
+      "start": 625.68,
+      "duration": 4.8
+    },
+    {
+      "text": "teach us about the Adobe Rush. If you",
+      "start": 628.72,
+      "duration": 3.44
+    },
+    {
+      "text": "can introduce yourself that would be",
+      "start": 630.48,
+      "duration": 3.44
+    },
+    {
+      "text": "nice. Thank you.",
+      "start": 632.16,
+      "duration": 4.0
+    },
+    {
+      "text": ">> Thank you so much Bita. Uh so yeah my",
+      "start": 633.92,
+      "duration": 4.72
+    },
+    {
+      "text": "name is Tatiana. I am a Swinbun graduate",
+      "start": 636.16,
+      "duration": 4.08
+    },
+    {
+      "text": "myself. I studied screen production at",
+      "start": 638.64,
+      "duration": 4.8
+    },
+    {
+      "text": "Swinburn and I graduated in July and I",
+      "start": 640.24,
+      "duration": 5.36
+    },
+    {
+      "text": "found a job as one of the Adobe coaches",
+      "start": 643.44,
+      "duration": 5.36
+    },
+    {
+      "text": "at Swinbon. So I know that beta will",
+      "start": 645.6,
+      "duration": 5.28
+    },
+    {
+      "text": "probably give you all the links you need",
+      "start": 648.8,
+      "duration": 5.279
+    },
+    {
+      "text": "if you need to get in touch with us. Um",
+      "start": 650.88,
+      "duration": 4.959
+    },
+    {
+      "text": "but I will also just copy them in the",
+      "start": 654.079,
+      "duration": 3.841
+    },
+    {
+      "text": "chat right now in case you know some",
+      "start": 655.839,
+      "duration": 3.44
+    },
+    {
+      "text": "people obviously don't check their",
+      "start": 657.92,
+      "duration": 3.68
+    },
+    {
+      "text": "emails very often. So if you need to get",
+      "start": 659.279,
+      "duration": 4.081
+    },
+    {
+      "text": "in touch with us those are our contact",
+      "start": 661.6,
+      "duration": 4.4
+    },
+    {
+      "text": "details.",
+      "start": 663.36,
+      "duration": 4.719
+    },
+    {
+      "text": "Uh so I'll probably start by just very",
+      "start": 666.0,
+      "duration": 3.839
+    },
+    {
+      "text": "quickly showing you how to download",
+      "start": 668.079,
+      "duration": 4.88
+    },
+    {
+      "text": "Adobage if you haven't uh yet and if you",
+      "start": 669.839,
+      "duration": 8.361
+    },
+    {
+      "text": "don't know how to do it. Um,",
+      "start": 672.959,
+      "duration": 5.241
+    },
+    {
+      "text": "so",
+      "start": 678.32,
+      "duration": 3.0
+    },
+    {
+      "text": "I hope you can see it. Um, so when you",
+      "start": 687.519,
+      "duration": 6.401
+    },
+    {
+      "text": "just open the Adobe uh website, you will",
+      "start": 690.88,
+      "duration": 5.44
+    },
+    {
+      "text": "be prompted to login. So I I'm already",
+      "start": 693.92,
+      "duration": 4.159
+    },
+    {
+      "text": "logged in, but you will be able to log",
+      "start": 696.32,
+      "duration": 5.84
+    },
+    {
+      "text": "in here. So login using your Swinbun um",
+      "start": 698.079,
+      "duration": 6.401
+    },
+    {
+      "text": "Swindon username and Swindon password",
+      "start": 702.16,
+      "duration": 4.4
+    },
+    {
+      "text": "and obviously as a Swinbun student you",
+      "start": 704.48,
+      "duration": 3.76
+    },
+    {
+      "text": "have access to all Adobe apps for free",
+      "start": 706.56,
+      "duration": 4.0
+    },
+    {
+      "text": "which is quite amazing.",
+      "start": 708.24,
+      "duration": 4.32
+    },
+    {
+      "text": "So if you're prompted to choose and that",
+      "start": 710.56,
+      "duration": 3.76
+    },
+    {
+      "text": "is very important if you're prompted to",
+      "start": 712.56,
+      "duration": 3.76
+    },
+    {
+      "text": "choose whether you want to log in in",
+      "start": 714.32,
+      "duration": 4.72
+    },
+    {
+      "text": "your studio in your personal account or",
+      "start": 716.32,
+      "duration": 5.519
+    },
+    {
+      "text": "in your school account choose school. So",
+      "start": 719.04,
+      "duration": 4.72
+    },
+    {
+      "text": "it might be kind of count intuitive. You",
+      "start": 721.839,
+      "duration": 3.12
+    },
+    {
+      "text": "might think that, you know, it's your",
+      "start": 723.76,
+      "duration": 3.04
+    },
+    {
+      "text": "personal account, but you have to choose",
+      "start": 724.959,
+      "duration": 4.081
+    },
+    {
+      "text": "school. Otherwise, you might not have",
+      "start": 726.8,
+      "duration": 4.56
+    },
+    {
+      "text": "access to all the apps and all the",
+      "start": 729.04,
+      "duration": 4.239
+    },
+    {
+      "text": "functions,",
+      "start": 731.36,
+      "duration": 3.599
+    },
+    {
+      "text": "but once you log in, if you click on",
+      "start": 733.279,
+      "duration": 4.0
+    },
+    {
+      "text": "those like little nine nine little",
+      "start": 734.959,
+      "duration": 3.921
+    },
+    {
+      "text": "squares,",
+      "start": 737.279,
+      "duration": 4.641
+    },
+    {
+      "text": "uh you can click on creative cloud here.",
+      "start": 738.88,
+      "duration": 5.68
+    },
+    {
+      "text": "And it might take a few seconds um for",
+      "start": 741.92,
+      "duration": 4.479
+    },
+    {
+      "text": "Adobe to redirect you to the next page,",
+      "start": 744.56,
+      "duration": 3.519
+    },
+    {
+      "text": "but I already have it open, so please",
+      "start": 746.399,
+      "duration": 3.201
+    },
+    {
+      "text": "let me know if you can't see the next",
+      "start": 748.079,
+      "duration": 5.681
+    },
+    {
+      "text": "page. Um and once you are redirected to",
+      "start": 749.6,
+      "duration": 7.039
+    },
+    {
+      "text": "the next page, you can download apps uh",
+      "start": 753.76,
+      "duration": 4.56
+    },
+    {
+      "text": "from here. But I would recommend",
+      "start": 756.639,
+      "duration": 3.921
+    },
+    {
+      "text": "installing Creative Cloud for desktop",
+      "start": 758.32,
+      "duration": 4.88
+    },
+    {
+      "text": "first because otherwise again you might",
+      "start": 760.56,
+      "duration": 4.399
+    },
+    {
+      "text": "not have access to all functions if you",
+      "start": 763.2,
+      "duration": 4.0
+    },
+    {
+      "text": "don't like Adobe Fonts and just you know",
+      "start": 764.959,
+      "duration": 5.201
+    },
+    {
+      "text": "those nice little perks you get. So if",
+      "start": 767.2,
+      "duration": 5.199
+    },
+    {
+      "text": "you install Creative Cloud from here and",
+      "start": 770.16,
+      "duration": 4.64
+    },
+    {
+      "text": "then you launch the app again logging in",
+      "start": 772.399,
+      "duration": 4.721
+    },
+    {
+      "text": "using this Window username and password,",
+      "start": 774.8,
+      "duration": 4.32
+    },
+    {
+      "text": "you will be able to install Adobe Rush",
+      "start": 777.12,
+      "duration": 4.24
+    },
+    {
+      "text": "from there.",
+      "start": 779.12,
+      "duration": 3.92
+    },
+    {
+      "text": "So again should be simple. If you have",
+      "start": 781.36,
+      "duration": 3.279
+    },
+    {
+      "text": "any issues or questions feel free to",
+      "start": 783.04,
+      "duration": 3.68
+    },
+    {
+      "text": "contact us. Uh but yes just please",
+      "start": 784.639,
+      "duration": 3.681
+    },
+    {
+      "text": "please please don't use a personal",
+      "start": 786.72,
+      "duration": 3.359
+    },
+    {
+      "text": "account.",
+      "start": 788.32,
+      "duration": 6.079
+    },
+    {
+      "text": "Um but once you install Brush um once",
+      "start": 790.079,
+      "duration": 6.481
+    },
+    {
+      "text": "you open Rush this is the window you",
+      "start": 794.399,
+      "duration": 6.401
+    },
+    {
+      "text": "will see. So just to let you know Adobe",
+      "start": 796.56,
+      "duration": 6.48
+    },
+    {
+      "text": "Rush is a software which is tailored to",
+      "start": 800.8,
+      "duration": 4.24
+    },
+    {
+      "text": "the needs of people who are not video",
+      "start": 803.04,
+      "duration": 4.32
+    },
+    {
+      "text": "editors. It is very simple. It is very",
+      "start": 805.04,
+      "duration": 4.64
+    },
+    {
+      "text": "intuitive as I'm sure you will see. uh",
+      "start": 807.36,
+      "duration": 4.159
+    },
+    {
+      "text": "unlike the flagship kind of video",
+      "start": 809.68,
+      "duration": 3.76
+    },
+    {
+      "text": "editing software Adobe provides which is",
+      "start": 811.519,
+      "duration": 5.521
+    },
+    {
+      "text": "Premiere Pro um Raj doesn't have perhaps",
+      "start": 813.44,
+      "duration": 5.92
+    },
+    {
+      "text": "that much functionality but it lets you",
+      "start": 817.04,
+      "duration": 4.16
+    },
+    {
+      "text": "do pretty much everything you need and",
+      "start": 819.36,
+      "duration": 4.64
+    },
+    {
+      "text": "again it should be quite simple.",
+      "start": 821.2,
+      "duration": 5.439
+    },
+    {
+      "text": "So click on this big blue button to",
+      "start": 824.0,
+      "duration": 5.44
+    },
+    {
+      "text": "create a new project and you will be",
+      "start": 826.639,
+      "duration": 5.44
+    },
+    {
+      "text": "able to uh choose a folder where your",
+      "start": 829.44,
+      "duration": 4.8
+    },
+    {
+      "text": "assets are located",
+      "start": 832.079,
+      "duration": 5.041
+    },
+    {
+      "text": "and once you see your video assets. So I",
+      "start": 834.24,
+      "duration": 4.64
+    },
+    {
+      "text": "imagine you will have for instance like",
+      "start": 837.12,
+      "duration": 5.2
+    },
+    {
+      "text": "a recording of yourself um talking about",
+      "start": 838.88,
+      "duration": 5.92
+    },
+    {
+      "text": "your chosen topic for this assignment or",
+      "start": 842.32,
+      "duration": 5.44
+    },
+    {
+      "text": "maybe some images some other video files",
+      "start": 844.8,
+      "duration": 4.719
+    },
+    {
+      "text": "you have downloaded and again Peter will",
+      "start": 847.76,
+      "duration": 4.0
+    },
+    {
+      "text": "provide you to leave some links to the",
+      "start": 849.519,
+      "duration": 4.961
+    },
+    {
+      "text": "website you can use for free images and",
+      "start": 851.76,
+      "duration": 4.72
+    },
+    {
+      "text": "stuff like that but just click on all",
+      "start": 854.48,
+      "duration": 4.24
+    },
+    {
+      "text": "the videos and images and media assets",
+      "start": 856.48,
+      "duration": 5.12
+    },
+    {
+      "text": "you want to import in your project and",
+      "start": 858.72,
+      "duration": 5.44
+    },
+    {
+      "text": "once you do um you will be able to",
+      "start": 861.6,
+      "duration": 4.16
+    },
+    {
+      "text": "select the order in which you want to",
+      "start": 864.16,
+      "duration": 3.679
+    },
+    {
+      "text": "organize them. So, you will be able to",
+      "start": 865.76,
+      "duration": 3.92
+    },
+    {
+      "text": "rearrange them later on, but you can",
+      "start": 867.839,
+      "duration": 3.36
+    },
+    {
+      "text": "already decide in which order you want",
+      "start": 869.68,
+      "duration": 4.399
+    },
+    {
+      "text": "to organize them.",
+      "start": 871.199,
+      "duration": 5.2
+    },
+    {
+      "text": "Uh, make sure that sync with Creative",
+      "start": 874.079,
+      "duration": 4.801
+    },
+    {
+      "text": "Cloud is ticked so you can continue",
+      "start": 876.399,
+      "duration": 4.161
+    },
+    {
+      "text": "editing your project on your mobile",
+      "start": 878.88,
+      "duration": 3.68
+    },
+    {
+      "text": "device and that it's automatically",
+      "start": 880.56,
+      "duration": 3.839
+    },
+    {
+      "text": "backed up.",
+      "start": 882.56,
+      "duration": 4.48
+    },
+    {
+      "text": "Um, obviously name your project. Don't",
+      "start": 884.399,
+      "duration": 4.161
+    },
+    {
+      "text": "have any untitled projects on your",
+      "start": 887.04,
+      "duration": 5.039
+    },
+    {
+      "text": "drive. We don't want that. Um,",
+      "start": 888.56,
+      "duration": 6.719
+    },
+    {
+      "text": "you can also make uh other changes to",
+      "start": 892.079,
+      "duration": 5.281
+    },
+    {
+      "text": "your project settings by clicking on",
+      "start": 895.279,
+      "duration": 4.8
+    },
+    {
+      "text": "this little uh settings button. Um, so",
+      "start": 897.36,
+      "duration": 5.279
+    },
+    {
+      "text": "you can change the aspect ratio of your",
+      "start": 900.079,
+      "duration": 4.081
+    },
+    {
+      "text": "project. Otherwise, it will be",
+      "start": 902.639,
+      "duration": 4.0
+    },
+    {
+      "text": "automatically kind of tailored to the um",
+      "start": 904.16,
+      "duration": 5.28
+    },
+    {
+      "text": "media assets you selected. Um, you can",
+      "start": 906.639,
+      "duration": 5.601
+    },
+    {
+      "text": "also add some other neat functions which",
+      "start": 909.44,
+      "duration": 6.32
+    },
+    {
+      "text": "I will talk a bit more about later, but",
+      "start": 912.24,
+      "duration": 6.24
+    },
+    {
+      "text": "for now I'll just leave them unticked.",
+      "start": 915.76,
+      "duration": 5.439
+    },
+    {
+      "text": "Click okay and click on this big blue",
+      "start": 918.48,
+      "duration": 5.599
+    },
+    {
+      "text": "create button.",
+      "start": 921.199,
+      "duration": 4.801
+    },
+    {
+      "text": "Um it will take probably a few seconds",
+      "start": 924.079,
+      "duration": 3.681
+    },
+    {
+      "text": "for your assets to load especially if",
+      "start": 926.0,
+      "duration": 3.839
+    },
+    {
+      "text": "you're sharing the screen. Um otherwise",
+      "start": 927.76,
+      "duration": 5.72
+    },
+    {
+      "text": "it should be a bit faster.",
+      "start": 929.839,
+      "duration": 3.641
+    },
+    {
+      "text": "Uh but um the project will be",
+      "start": 933.519,
+      "duration": 4.241
+    },
+    {
+      "text": "automatically saved and it will be",
+      "start": 935.76,
+      "duration": 4.24
+    },
+    {
+      "text": "automatically linked to Creative Cloud.",
+      "start": 937.76,
+      "duration": 3.92
+    },
+    {
+      "text": "So you don't have to worry about saving",
+      "start": 940.0,
+      "duration": 3.68
+    },
+    {
+      "text": "it yourself.",
+      "start": 941.68,
+      "duration": 6.36
+    },
+    {
+      "text": "Um and",
+      "start": 943.68,
+      "duration": 4.36
+    },
+    {
+      "text": ">> um meanwhile loading um is that possible",
+      "start": 948.079,
+      "duration": 6.88
+    },
+    {
+      "text": "for you like I I've noticed that all of",
+      "start": 951.839,
+      "duration": 5.521
+    },
+    {
+      "text": "the images that you've selected it was",
+      "start": 954.959,
+      "duration": 4.641
+    },
+    {
+      "text": "already in the Adobe Rush. So if a",
+      "start": 957.36,
+      "duration": 4.56
+    },
+    {
+      "text": "students create some of the slides or",
+      "start": 959.6,
+      "duration": 5.039
+    },
+    {
+      "text": "take some of the images let's say from",
+      "start": 961.92,
+      "duration": 6.32
+    },
+    {
+      "text": "the free images from Adobe Stock so or",
+      "start": 964.639,
+      "duration": 5.44
+    },
+    {
+      "text": "something that is relevant to their",
+      "start": 968.24,
+      "duration": 4.88
+    },
+    {
+      "text": "topic. Um so they they need to download",
+      "start": 970.079,
+      "duration": 5.601
+    },
+    {
+      "text": "it through the uh Adobe Rush. That is",
+      "start": 973.12,
+      "duration": 4.32
+    },
+    {
+      "text": "where they can select it the way that",
+      "start": 975.68,
+      "duration": 4.0
+    },
+    {
+      "text": "you selected.",
+      "start": 977.44,
+      "duration": 5.04
+    },
+    {
+      "text": ">> No sorry. So when I selected it uh I",
+      "start": 979.68,
+      "duration": 5.519
+    },
+    {
+      "text": "just kind of opened a media explorer. So",
+      "start": 982.48,
+      "duration": 4.56
+    },
+    {
+      "text": "I was already in the folder where all my",
+      "start": 985.199,
+      "duration": 5.521
+    },
+    {
+      "text": "assets were located. But um yeah um you",
+      "start": 987.04,
+      "duration": 5.52
+    },
+    {
+      "text": "can always",
+      "start": 990.72,
+      "duration": 4.88
+    },
+    {
+      "text": "select um",
+      "start": 992.56,
+      "duration": 4.399
+    },
+    {
+      "text": "you can always select a different",
+      "start": 995.6,
+      "duration": 5.44
+    },
+    {
+      "text": "folder. Uh so you can go to documents or",
+      "start": 996.959,
+      "duration": 5.841
+    },
+    {
+      "text": "to an external drive if you have an",
+      "start": 1001.04,
+      "duration": 3.919
+    },
+    {
+      "text": "external drive collected and just kind",
+      "start": 1002.8,
+      "duration": 5.44
+    },
+    {
+      "text": "of um select the folder where your files",
+      "start": 1004.959,
+      "duration": 6.24
+    },
+    {
+      "text": "are",
+      "start": 1008.24,
+      "duration": 6.159
+    },
+    {
+      "text": "and then just um",
+      "start": 1011.199,
+      "duration": 6.0
+    },
+    {
+      "text": "select them from there. So it's more",
+      "start": 1014.399,
+      "duration": 4.56
+    },
+    {
+      "text": "convenient if you have all assets in one",
+      "start": 1017.199,
+      "duration": 5.921
+    },
+    {
+      "text": "folder. Otherwise um you can always like",
+      "start": 1018.959,
+      "duration": 5.681
+    },
+    {
+      "text": "you can still export them from different",
+      "start": 1023.12,
+      "duration": 3.199
+    },
+    {
+      "text": "folders but it's more convenient this",
+      "start": 1024.64,
+      "duration": 3.919
+    },
+    {
+      "text": "way. So make sure to just like put all",
+      "start": 1026.319,
+      "duration": 5.52
+    },
+    {
+      "text": "of them in one folder",
+      "start": 1028.559,
+      "duration": 5.28
+    },
+    {
+      "text": "and again your project is automatically",
+      "start": 1031.839,
+      "duration": 4.561
+    },
+    {
+      "text": "saved. So um as you see I clicked on the",
+      "start": 1033.839,
+      "duration": 5.441
+    },
+    {
+      "text": "home button and u my project was already",
+      "start": 1036.4,
+      "duration": 6.399
+    },
+    {
+      "text": "there as one of the latest projects.",
+      "start": 1039.28,
+      "duration": 5.759
+    },
+    {
+      "text": "Uh but once you um download all your",
+      "start": 1042.799,
+      "duration": 4.561
+    },
+    {
+      "text": "assets in into rush this is the screen",
+      "start": 1045.039,
+      "duration": 3.841
+    },
+    {
+      "text": "you will be presented with and again",
+      "start": 1047.36,
+      "duration": 4.88
+    },
+    {
+      "text": "apologies for all those delays. Uh for",
+      "start": 1048.88,
+      "duration": 5.039
+    },
+    {
+      "text": "the record I'm using my work computer so",
+      "start": 1052.24,
+      "duration": 3.12
+    },
+    {
+      "text": "it shouldn't do that but it still does",
+      "start": 1053.919,
+      "duration": 3.441
+    },
+    {
+      "text": "it.",
+      "start": 1055.36,
+      "duration": 5.199
+    },
+    {
+      "text": "Um, so you will have all your tools on",
+      "start": 1057.36,
+      "duration": 6.0
+    },
+    {
+      "text": "the left hand side or rather like all",
+      "start": 1060.559,
+      "duration": 5.201
+    },
+    {
+      "text": "your tools for editing the clips. Then",
+      "start": 1063.36,
+      "duration": 4.08
+    },
+    {
+      "text": "you will have more advanced tools on the",
+      "start": 1065.76,
+      "duration": 5.279
+    },
+    {
+      "text": "right hand side and you will also have a",
+      "start": 1067.44,
+      "duration": 5.28
+    },
+    {
+      "text": "few",
+      "start": 1071.039,
+      "duration": 4.241
+    },
+    {
+      "text": "uh tools for importing and exporting in",
+      "start": 1072.72,
+      "duration": 5.199
+    },
+    {
+      "text": "the top leftand corner.",
+      "start": 1075.28,
+      "duration": 4.399
+    },
+    {
+      "text": "So again I already showed if you click",
+      "start": 1077.919,
+      "duration": 3.921
+    },
+    {
+      "text": "on the home button you are redirected to",
+      "start": 1079.679,
+      "duration": 5.921
+    },
+    {
+      "text": "the homepage. Um the share button is for",
+      "start": 1081.84,
+      "duration": 6.32
+    },
+    {
+      "text": "exporting and saving your video. Uh",
+      "start": 1085.6,
+      "duration": 6.0
+    },
+    {
+      "text": "which I will be talking about later",
+      "start": 1088.16,
+      "duration": 5.759
+    },
+    {
+      "text": "and uh editing panel is where we are",
+      "start": 1091.6,
+      "duration": 4.24
+    },
+    {
+      "text": "like now. So editing is obviously for",
+      "start": 1093.919,
+      "duration": 4.321
+    },
+    {
+      "text": "editing your project. If you want to",
+      "start": 1095.84,
+      "duration": 5.44
+    },
+    {
+      "text": "import more assets. So for instance you",
+      "start": 1098.24,
+      "duration": 4.319
+    },
+    {
+      "text": "you know you started editing your",
+      "start": 1101.28,
+      "duration": 3.12
+    },
+    {
+      "text": "project and you recorded another video",
+      "start": 1102.559,
+      "duration": 4.24
+    },
+    {
+      "text": "or you downloaded another photo and you",
+      "start": 1104.4,
+      "duration": 4.56
+    },
+    {
+      "text": "want to upload it to your project. Just",
+      "start": 1106.799,
+      "duration": 5.281
+    },
+    {
+      "text": "click on this big blue uh plus button",
+      "start": 1108.96,
+      "duration": 8.0
+    },
+    {
+      "text": "and change uh sorry um choose your media",
+      "start": 1112.08,
+      "duration": 8.08
+    },
+    {
+      "text": "and again you will be presented with um",
+      "start": 1116.96,
+      "duration": 5.92
+    },
+    {
+      "text": "this kind of um",
+      "start": 1120.16,
+      "duration": 6.16
+    },
+    {
+      "text": "media explorer",
+      "start": 1122.88,
+      "duration": 5.84
+    },
+    {
+      "text": "window. So again you can uh choose the",
+      "start": 1126.32,
+      "duration": 6.479
+    },
+    {
+      "text": "folder where your assets are located and",
+      "start": 1128.72,
+      "duration": 6.56
+    },
+    {
+      "text": "choose the uh file which you want to add",
+      "start": 1132.799,
+      "duration": 5.441
+    },
+    {
+      "text": "and just click add.",
+      "start": 1135.28,
+      "duration": 5.04
+    },
+    {
+      "text": "And once it's imported feel free to",
+      "start": 1138.24,
+      "duration": 5.28
+    },
+    {
+      "text": "close this window using um just like",
+      "start": 1140.32,
+      "duration": 6.64
+    },
+    {
+      "text": "that. Uh you can also click on this",
+      "start": 1143.52,
+      "duration": 6.159
+    },
+    {
+      "text": "button to preview all the files you have",
+      "start": 1146.96,
+      "duration": 4.719
+    },
+    {
+      "text": "um in your project at the moment. So",
+      "start": 1149.679,
+      "duration": 4.24
+    },
+    {
+      "text": "your project assets",
+      "start": 1151.679,
+      "duration": 4.161
+    },
+    {
+      "text": "um",
+      "start": 1153.919,
+      "duration": 3.921
+    },
+    {
+      "text": "this is also your sequence. So sequence",
+      "start": 1155.84,
+      "duration": 3.52
+    },
+    {
+      "text": "is actually like the timeline you're",
+      "start": 1157.84,
+      "duration": 3.839
+    },
+    {
+      "text": "editing in. Otherwise those are all your",
+      "start": 1159.36,
+      "duration": 8.52
+    },
+    {
+      "text": "files and you can um see them all here.",
+      "start": 1161.679,
+      "duration": 6.201
+    },
+    {
+      "text": "Also again while it's logging feel free",
+      "start": 1170.24,
+      "duration": 4.0
+    },
+    {
+      "text": "to drop any questions obviously in the",
+      "start": 1172.32,
+      "duration": 4.32
+    },
+    {
+      "text": "chat and um I will do my best to address",
+      "start": 1174.24,
+      "duration": 5.36
+    },
+    {
+      "text": "them when there is a pause.",
+      "start": 1176.64,
+      "duration": 5.279
+    },
+    {
+      "text": "Um but okay so this is your main",
+      "start": 1179.6,
+      "duration": 8.079
+    },
+    {
+      "text": "timeline you will be editing in. Um and",
+      "start": 1181.919,
+      "duration": 7.841
+    },
+    {
+      "text": "uh obviously pre uh obviously Raj",
+      "start": 1187.679,
+      "duration": 3.841
+    },
+    {
+      "text": "already arranges your files in the order",
+      "start": 1189.76,
+      "duration": 4.799
+    },
+    {
+      "text": "you imported them in. But um if you want",
+      "start": 1191.52,
+      "duration": 5.92
+    },
+    {
+      "text": "to rearrange um your files just feel",
+      "start": 1194.559,
+      "duration": 5.681
+    },
+    {
+      "text": "free to you can always click on any file",
+      "start": 1197.44,
+      "duration": 6.56
+    },
+    {
+      "text": "and just click and drag it and drop it",
+      "start": 1200.24,
+      "duration": 6.88
+    },
+    {
+      "text": "between the clips you want it located in",
+      "start": 1204.0,
+      "duration": 6.32
+    },
+    {
+      "text": "between. Um, so it will automatically",
+      "start": 1207.12,
+      "duration": 5.52
+    },
+    {
+      "text": "snap into place. There will not be any",
+      "start": 1210.32,
+      "duration": 4.719
+    },
+    {
+      "text": "gaps left in place. The garage will",
+      "start": 1212.64,
+      "duration": 4.159
+    },
+    {
+      "text": "automatically make sure that everything",
+      "start": 1215.039,
+      "duration": 4.88
+    },
+    {
+      "text": "is snapped together. Uh, so this blue",
+      "start": 1216.799,
+      "duration": 6.0
+    },
+    {
+      "text": "thing it's called playhead. And playhead",
+      "start": 1219.919,
+      "duration": 6.0
+    },
+    {
+      "text": "shows where you are, which frame you're",
+      "start": 1222.799,
+      "duration": 5.601
+    },
+    {
+      "text": "currently viewing.",
+      "start": 1225.919,
+      "duration": 4.801
+    },
+    {
+      "text": "You can move it like that to obviously",
+      "start": 1228.4,
+      "duration": 4.88
+    },
+    {
+      "text": "um, kind of preview your project. And if",
+      "start": 1230.72,
+      "duration": 4.48
+    },
+    {
+      "text": "you want to play a bad, you can",
+      "start": 1233.28,
+      "duration": 5.04
+    },
+    {
+      "text": "obviously click on this play button",
+      "start": 1235.2,
+      "duration": 5.599
+    },
+    {
+      "text": "or you can",
+      "start": 1238.32,
+      "duration": 4.8
+    },
+    {
+      "text": "or you can click on the space button on",
+      "start": 1240.799,
+      "duration": 4.481
+    },
+    {
+      "text": "your keyboard. Uh it's a very simple",
+      "start": 1243.12,
+      "duration": 4.16
+    },
+    {
+      "text": "shortcut. I would just recommend uh",
+      "start": 1245.28,
+      "duration": 5.12
+    },
+    {
+      "text": "using space.",
+      "start": 1247.28,
+      "duration": 9.04
+    },
+    {
+      "text": "Um so uh there little buttons uh next to",
+      "start": 1250.4,
+      "duration": 8.399
+    },
+    {
+      "text": "your timeline underneath your timeline.",
+      "start": 1256.32,
+      "duration": 4.8
+    },
+    {
+      "text": "They're called expand audio and control",
+      "start": 1258.799,
+      "duration": 4.401
+    },
+    {
+      "text": "tracks. So I would recommend enabling",
+      "start": 1261.12,
+      "duration": 3.76
+    },
+    {
+      "text": "them because that will just give you a",
+      "start": 1263.2,
+      "duration": 4.16
+    },
+    {
+      "text": "bit more functionality. So if you use",
+      "start": 1264.88,
+      "duration": 5.84
+    },
+    {
+      "text": "expand audio like I just did. Uh it will",
+      "start": 1267.36,
+      "duration": 6.0
+    },
+    {
+      "text": "show you um if a video has an audio",
+      "start": 1270.72,
+      "duration": 5.199
+    },
+    {
+      "text": "track attached to it, it will show that",
+      "start": 1273.36,
+      "duration": 4.96
+    },
+    {
+      "text": "audio track underneath",
+      "start": 1275.919,
+      "duration": 5.201
+    },
+    {
+      "text": "immediately. Uh otherwise you don't know",
+      "start": 1278.32,
+      "duration": 6.08
+    },
+    {
+      "text": "if video has audio or not. So I would",
+      "start": 1281.12,
+      "duration": 6.0
+    },
+    {
+      "text": "recommend keeping it on. And this is uh",
+      "start": 1284.4,
+      "duration": 5.12
+    },
+    {
+      "text": "this button is called control tracks.",
+      "start": 1287.12,
+      "duration": 4.64
+    },
+    {
+      "text": "And it just gives you a few functions",
+      "start": 1289.52,
+      "duration": 6.399
+    },
+    {
+      "text": "next to tracks. Uh so it allows you to",
+      "start": 1291.76,
+      "duration": 7.44
+    },
+    {
+      "text": "hide video or mute audio.",
+      "start": 1295.919,
+      "duration": 5.201
+    },
+    {
+      "text": "Just keep in mind that it's not just a",
+      "start": 1299.2,
+      "duration": 4.32
+    },
+    {
+      "text": "function for preview. If you export your",
+      "start": 1301.12,
+      "duration": 5.439
+    },
+    {
+      "text": "video while this is uh hidden or this is",
+      "start": 1303.52,
+      "duration": 4.88
+    },
+    {
+      "text": "muted.",
+      "start": 1306.559,
+      "duration": 4.841
+    },
+    {
+      "text": "Sorry.",
+      "start": 1308.4,
+      "duration": 3.0
+    },
+    {
+      "text": "Um this is muted. This is the one I",
+      "start": 1311.76,
+      "duration": 4.88
+    },
+    {
+      "text": "should say. Um it will actually import",
+      "start": 1314.08,
+      "duration": 5.2
+    },
+    {
+      "text": "with without you know without images or",
+      "start": 1316.64,
+      "duration": 5.279
+    },
+    {
+      "text": "without audio.",
+      "start": 1319.28,
+      "duration": 5.639
+    },
+    {
+      "text": "Um",
+      "start": 1321.919,
+      "duration": 3.0
+    },
+    {
+      "text": "you can also click and drag your clip",
+      "start": 1326.159,
+      "duration": 5.841
+    },
+    {
+      "text": "kind of upwards the video clip upwards",
+      "start": 1329.2,
+      "duration": 6.88
+    },
+    {
+      "text": "and it will create a next video track.",
+      "start": 1332.0,
+      "duration": 8.4
+    },
+    {
+      "text": "So what it um premiere oh sorry I keep",
+      "start": 1336.08,
+      "duration": 6.24
+    },
+    {
+      "text": "saying Premiere but Rush will",
+      "start": 1340.4,
+      "duration": 3.84
+    },
+    {
+      "text": "automatically play the clip which is",
+      "start": 1342.32,
+      "duration": 4.56
+    },
+    {
+      "text": "positioned on the top of all the other",
+      "start": 1344.24,
+      "duration": 5.04
+    },
+    {
+      "text": "clips. Um it will be the clip which is",
+      "start": 1346.88,
+      "duration": 4.159
+    },
+    {
+      "text": "automatically previewed and which is",
+      "start": 1349.28,
+      "duration": 3.92
+    },
+    {
+      "text": "automatically played. However, as I will",
+      "start": 1351.039,
+      "duration": 4.801
+    },
+    {
+      "text": "show you later, if you lower its opacity",
+      "start": 1353.2,
+      "duration": 5.28
+    },
+    {
+      "text": "or kind of move it around, it will",
+      "start": 1355.84,
+      "duration": 5.199
+    },
+    {
+      "text": "actually show both clips um which is on",
+      "start": 1358.48,
+      "duration": 6.079
+    },
+    {
+      "text": "top and which is underneath.",
+      "start": 1361.039,
+      "duration": 7.12
+    },
+    {
+      "text": "Um, and again the end refuses to preview",
+      "start": 1364.559,
+      "duration": 5.441
+    },
+    {
+      "text": "it because",
+      "start": 1368.159,
+      "duration": 3.841
+    },
+    {
+      "text": "it decided to lag today. So I do",
+      "start": 1370.0,
+      "duration": 4.24
+    },
+    {
+      "text": "apologize about that. But once you're",
+      "start": 1372.0,
+      "duration": 4.159
+    },
+    {
+      "text": "happy, for instance, if you're happy",
+      "start": 1374.24,
+      "duration": 3.36
+    },
+    {
+      "text": "with this particular track and you",
+      "start": 1376.159,
+      "duration": 2.801
+    },
+    {
+      "text": "really want to make sure that the clip",
+      "start": 1377.6,
+      "duration": 2.88
+    },
+    {
+      "text": "stays in place and you don't move it",
+      "start": 1378.96,
+      "duration": 3.52
+    },
+    {
+      "text": "around accidentally, you can use this",
+      "start": 1380.48,
+      "duration": 6.16
+    },
+    {
+      "text": "lock button next to the clip and you",
+      "start": 1382.48,
+      "duration": 6.319
+    },
+    {
+      "text": "will no longer be able to move it",
+      "start": 1386.64,
+      "duration": 4.08
+    },
+    {
+      "text": "around. If you want to move it around,",
+      "start": 1388.799,
+      "duration": 3.681
+    },
+    {
+      "text": "just click on the lock button again and",
+      "start": 1390.72,
+      "duration": 4.0
+    },
+    {
+      "text": "it will unlock it and you will be able",
+      "start": 1392.48,
+      "duration": 4.88
+    },
+    {
+      "text": "to move it.",
+      "start": 1394.72,
+      "duration": 5.68
+    },
+    {
+      "text": ">> Um, can I ask you one question and I see",
+      "start": 1397.36,
+      "duration": 5.28
+    },
+    {
+      "text": "there is one question from Metal in the",
+      "start": 1400.4,
+      "duration": 4.0
+    },
+    {
+      "text": "chat room. So now you're talking about",
+      "start": 1402.64,
+      "duration": 5.36
+    },
+    {
+      "text": "the different layers of the you know um",
+      "start": 1404.4,
+      "duration": 6.639
+    },
+    {
+      "text": "you know the sources. So let's say a",
+      "start": 1408.0,
+      "duration": 6.4
+    },
+    {
+      "text": "students wants to talk about the science",
+      "start": 1411.039,
+      "duration": 4.561
+    },
+    {
+      "text": "challenge",
+      "start": 1414.4,
+      "duration": 3.84
+    },
+    {
+      "text": ">> or any topic they want to talk and then",
+      "start": 1415.6,
+      "duration": 5.6
+    },
+    {
+      "text": "they want to present a different layer",
+      "start": 1418.24,
+      "duration": 6.64
+    },
+    {
+      "text": "of the video or image or a table or a",
+      "start": 1421.2,
+      "duration": 6.16
+    },
+    {
+      "text": "you know screenshot of the manuscript.",
+      "start": 1424.88,
+      "duration": 5.039
+    },
+    {
+      "text": "So and at the same time the audio is",
+      "start": 1427.36,
+      "duration": 4.64
+    },
+    {
+      "text": "actually they are talking as well. So is",
+      "start": 1429.919,
+      "duration": 5.521
+    },
+    {
+      "text": "that possible how the audio and the",
+      "start": 1432.0,
+      "duration": 6.559
+    },
+    {
+      "text": "student and like a presenter and the the",
+      "start": 1435.44,
+      "duration": 5.84
+    },
+    {
+      "text": "visual file is going to be matched",
+      "start": 1438.559,
+      "duration": 5.36
+    },
+    {
+      "text": "together in three layers.",
+      "start": 1441.28,
+      "duration": 5.84
+    },
+    {
+      "text": ">> So um let's say this is our main file.",
+      "start": 1443.919,
+      "duration": 5.441
+    },
+    {
+      "text": "So as you can see this file has audio.",
+      "start": 1447.12,
+      "duration": 5.28
+    },
+    {
+      "text": "Uh this is actually an empty audio. But",
+      "start": 1449.36,
+      "duration": 4.559
+    },
+    {
+      "text": "let's just imagine for a second that",
+      "start": 1452.4,
+      "duration": 3.68
+    },
+    {
+      "text": "this is a speaker. So obviously it's",
+      "start": 1453.919,
+      "duration": 3.921
+    },
+    {
+      "text": "it's not actually a speaker, but if it",
+      "start": 1456.08,
+      "duration": 4.88
+    },
+    {
+      "text": "was, just feel free to kind of drop your",
+      "start": 1457.84,
+      "duration": 6.0
+    },
+    {
+      "text": "main video file with yourself talking",
+      "start": 1460.96,
+      "duration": 4.959
+    },
+    {
+      "text": "about the topic on the main track on",
+      "start": 1463.84,
+      "duration": 4.56
+    },
+    {
+      "text": "track number one. And then if you have",
+      "start": 1465.919,
+      "duration": 4.64
+    },
+    {
+      "text": "anything you want to show while you're",
+      "start": 1468.4,
+      "duration": 6.32
+    },
+    {
+      "text": "talking, uh you can drag those clips to",
+      "start": 1470.559,
+      "duration": 6.161
+    },
+    {
+      "text": "track number two or track number three",
+      "start": 1474.72,
+      "duration": 4.319
+    },
+    {
+      "text": "and lay them on top of one another like",
+      "start": 1476.72,
+      "duration": 5.12
+    },
+    {
+      "text": "Peter said, like",
+      "start": 1479.039,
+      "duration": 6.561
+    },
+    {
+      "text": "and you can place them in place. So when",
+      "start": 1481.84,
+      "duration": 7.28
+    },
+    {
+      "text": "um the video comes to this point it will",
+      "start": 1485.6,
+      "duration": 6.48
+    },
+    {
+      "text": "show that video evidence like images or",
+      "start": 1489.12,
+      "duration": 5.439
+    },
+    {
+      "text": "other audio other video files you added",
+      "start": 1492.08,
+      "duration": 4.8
+    },
+    {
+      "text": "but the audio will keep playing so the",
+      "start": 1494.559,
+      "duration": 4.881
+    },
+    {
+      "text": "audio will not be interrupted.",
+      "start": 1496.88,
+      "duration": 4.56
+    },
+    {
+      "text": "Um",
+      "start": 1499.44,
+      "duration": 4.16
+    },
+    {
+      "text": "so video and audio they're kind of",
+      "start": 1501.44,
+      "duration": 4.479
+    },
+    {
+      "text": "independent of one another. So even",
+      "start": 1503.6,
+      "duration": 4.64
+    },
+    {
+      "text": "though the video will be hidden the",
+      "start": 1505.919,
+      "duration": 5.36
+    },
+    {
+      "text": "audio will continue playing.",
+      "start": 1508.24,
+      "duration": 4.96
+    },
+    {
+      "text": "So don't try to like cut yourself. Just",
+      "start": 1511.279,
+      "duration": 4.161
+    },
+    {
+      "text": "keep yourself on track number one and",
+      "start": 1513.2,
+      "duration": 4.4
+    },
+    {
+      "text": "then add any other videos uh separately",
+      "start": 1515.44,
+      "duration": 3.76
+    },
+    {
+      "text": "on top of yourself. It will be much",
+      "start": 1517.6,
+      "duration": 4.16
+    },
+    {
+      "text": "easier.",
+      "start": 1519.2,
+      "duration": 5.359
+    },
+    {
+      "text": "Um another thing is that um so you can",
+      "start": 1521.76,
+      "duration": 5.76
+    },
+    {
+      "text": "see that a few clips here have audio and",
+      "start": 1524.559,
+      "duration": 4.881
+    },
+    {
+      "text": "a few of those uh audio tracks are",
+      "start": 1527.52,
+      "duration": 4.399
+    },
+    {
+      "text": "actually empty and this audio track is",
+      "start": 1529.44,
+      "duration": 3.76
+    },
+    {
+      "text": "not empty as you can see by that",
+      "start": 1531.919,
+      "duration": 3.521
+    },
+    {
+      "text": "waveform waveform",
+      "start": 1533.2,
+      "duration": 4.4
+    },
+    {
+      "text": "underneath. So you can always zoom in",
+      "start": 1535.44,
+      "duration": 4.239
+    },
+    {
+      "text": "using plus and minus buttons on your",
+      "start": 1537.6,
+      "duration": 5.52
+    },
+    {
+      "text": "keyboard or you can just um drag your",
+      "start": 1539.679,
+      "duration": 6.641
+    },
+    {
+      "text": "mouse to this uh bar under the timeline",
+      "start": 1543.12,
+      "duration": 6.4
+    },
+    {
+      "text": "and zoom in and out",
+      "start": 1546.32,
+      "duration": 4.719
+    },
+    {
+      "text": "uh you know just clicking and dragging",
+      "start": 1549.52,
+      "duration": 3.2
+    },
+    {
+      "text": "here.",
+      "start": 1551.039,
+      "duration": 4.801
+    },
+    {
+      "text": "Um and then obviously you can uh scroll",
+      "start": 1552.72,
+      "duration": 6.24
+    },
+    {
+      "text": "use your mouse wheel to um scroll",
+      "start": 1555.84,
+      "duration": 7.04
+    },
+    {
+      "text": "through your timeline so to speak.",
+      "start": 1558.96,
+      "duration": 6.88
+    },
+    {
+      "text": "But if you want to",
+      "start": 1562.88,
+      "duration": 4.96
+    },
+    {
+      "text": "have this audio kind of previewed while",
+      "start": 1565.84,
+      "duration": 4.719
+    },
+    {
+      "text": "you're scrubbing through the um the",
+      "start": 1567.84,
+      "duration": 7.319
+    },
+    {
+      "text": "video, uh you can",
+      "start": 1570.559,
+      "duration": 4.6
+    },
+    {
+      "text": "uh you can go a sequence here and you",
+      "start": 1576.159,
+      "duration": 4.561
+    },
+    {
+      "text": "will have the setting play audio while",
+      "start": 1578.64,
+      "duration": 4.08
+    },
+    {
+      "text": "scrubbing which I think it's very",
+      "start": 1580.72,
+      "duration": 4.4
+    },
+    {
+      "text": "useful. Uh so while you're previewing",
+      "start": 1582.72,
+      "duration": 4.48
+    },
+    {
+      "text": "your track just by moving your playhead",
+      "start": 1585.12,
+      "duration": 4.159
+    },
+    {
+      "text": "like that, you will be actually able to",
+      "start": 1587.2,
+      "duration": 6.04
+    },
+    {
+      "text": "hear the audio like that.",
+      "start": 1589.279,
+      "duration": 3.961
+    },
+    {
+      "text": "Uh so it might be it be discarding maybe",
+      "start": 1593.36,
+      "duration": 4.559
+    },
+    {
+      "text": "for you then feel free to go back to",
+      "start": 1596.08,
+      "duration": 4.16
+    },
+    {
+      "text": "sequence and disable play audio while",
+      "start": 1597.919,
+      "duration": 5.321
+    },
+    {
+      "text": "scrubbing.",
+      "start": 1600.24,
+      "duration": 3.0
+    },
+    {
+      "text": "Um if you don't want the audio so for",
+      "start": 1603.6,
+      "duration": 4.8
+    },
+    {
+      "text": "instance you imported the video you want",
+      "start": 1605.76,
+      "duration": 4.799
+    },
+    {
+      "text": "to use as evidence for something you are",
+      "start": 1608.4,
+      "duration": 5.04
+    },
+    {
+      "text": "talking about",
+      "start": 1610.559,
+      "duration": 5.201
+    },
+    {
+      "text": "but this video comes with an audio clip",
+      "start": 1613.44,
+      "duration": 4.64
+    },
+    {
+      "text": "which you don't need.",
+      "start": 1615.76,
+      "duration": 3.919
+    },
+    {
+      "text": "uh you can right click on that video",
+      "start": 1618.08,
+      "duration": 4.32
+    },
+    {
+      "text": "file and you will see separate audio. So",
+      "start": 1619.679,
+      "duration": 4.721
+    },
+    {
+      "text": "expand audio just means show that it has",
+      "start": 1622.4,
+      "duration": 3.44
+    },
+    {
+      "text": "the audio but we already expanded the",
+      "start": 1624.4,
+      "duration": 4.0
+    },
+    {
+      "text": "audio for all tracks here. And separate",
+      "start": 1625.84,
+      "duration": 5.199
+    },
+    {
+      "text": "audio means that now you will be able to",
+      "start": 1628.4,
+      "duration": 5.36
+    },
+    {
+      "text": "move audio track independently. It",
+      "start": 1631.039,
+      "duration": 5.601
+    },
+    {
+      "text": "appears on the audio",
+      "start": 1633.76,
+      "duration": 4.56
+    },
+    {
+      "text": "track here and now you can move it",
+      "start": 1636.64,
+      "duration": 4.159
+    },
+    {
+      "text": "around or you can delete it. So to",
+      "start": 1638.32,
+      "duration": 5.04
+    },
+    {
+      "text": "delete a track you can click on the",
+      "start": 1640.799,
+      "duration": 5.281
+    },
+    {
+      "text": "delete button here or you can use",
+      "start": 1643.36,
+      "duration": 5.36
+    },
+    {
+      "text": "backspace or delete on the keyboard.",
+      "start": 1646.08,
+      "duration": 5.52
+    },
+    {
+      "text": "Both of them work. So it will still show",
+      "start": 1648.72,
+      "duration": 5.76
+    },
+    {
+      "text": "that the audio exists underneath the",
+      "start": 1651.6,
+      "duration": 4.88
+    },
+    {
+      "text": "clip but it will be now grayed out. So",
+      "start": 1654.48,
+      "duration": 4.799
+    },
+    {
+      "text": "it will not play.",
+      "start": 1656.48,
+      "duration": 5.199
+    },
+    {
+      "text": "Uh if the video you're using goss for",
+      "start": 1659.279,
+      "duration": 3.841
+    },
+    {
+      "text": "too long. So for instance you started",
+      "start": 1661.679,
+      "duration": 2.88
+    },
+    {
+      "text": "recording yourself. you know, you have",
+      "start": 1663.12,
+      "duration": 4.24
+    },
+    {
+      "text": "all that like um tapping on the screen",
+      "start": 1664.559,
+      "duration": 4.72
+    },
+    {
+      "text": "while um when you started recording",
+      "start": 1667.36,
+      "duration": 4.48
+    },
+    {
+      "text": "maybe on your phone uh or maybe you made",
+      "start": 1669.279,
+      "duration": 7.241
+    },
+    {
+      "text": "a mistake and you want to cut it out.",
+      "start": 1671.84,
+      "duration": 4.68
+    },
+    {
+      "text": "You can always move the playhead this",
+      "start": 1680.159,
+      "duration": 3.921
+    },
+    {
+      "text": "clip to play for it entire duration. So",
+      "start": 1682.559,
+      "duration": 3.84
+    },
+    {
+      "text": "just move playhead um where you want to",
+      "start": 1684.08,
+      "duration": 4.8
+    },
+    {
+      "text": "make a cut and you can use this scissors",
+      "start": 1686.399,
+      "duration": 5.921
+    },
+    {
+      "text": "tool to make a cut",
+      "start": 1688.88,
+      "duration": 5.279
+    },
+    {
+      "text": "uh and it will automatically cut it. So",
+      "start": 1692.32,
+      "duration": 3.68
+    },
+    {
+      "text": "you don't need to click anywhere just",
+      "start": 1694.159,
+      "duration": 3.441
+    },
+    {
+      "text": "click on scissors it will automatically",
+      "start": 1696.0,
+      "duration": 3.919
+    },
+    {
+      "text": "make a cut or you can use S on your",
+      "start": 1697.6,
+      "duration": 5.6
+    },
+    {
+      "text": "keyboard as a shortcut. And again um",
+      "start": 1699.919,
+      "duration": 5.681
+    },
+    {
+      "text": "click on the part of the clip you don't",
+      "start": 1703.2,
+      "duration": 5.04
+    },
+    {
+      "text": "need and click back space or delete and",
+      "start": 1705.6,
+      "duration": 6.16
+    },
+    {
+      "text": "everything will snap back into place.",
+      "start": 1708.24,
+      "duration": 5.439
+    },
+    {
+      "text": "Or you can also download the clip. So",
+      "start": 1711.76,
+      "duration": 4.0
+    },
+    {
+      "text": "for instance um maybe you want to create",
+      "start": 1713.679,
+      "duration": 5.841
+    },
+    {
+      "text": "a title sequence and every time the",
+      "start": 1715.76,
+      "duration": 6.08
+    },
+    {
+      "text": "title appears you want to do the same.",
+      "start": 1719.52,
+      "duration": 4.56
+    },
+    {
+      "text": "Um I will show you how to create titles",
+      "start": 1721.84,
+      "duration": 4.959
+    },
+    {
+      "text": "in a second but you can select any uh",
+      "start": 1724.08,
+      "duration": 6.4
+    },
+    {
+      "text": "clip video clip image um title and click",
+      "start": 1726.799,
+      "duration": 6.641
+    },
+    {
+      "text": "on this duplicate u button and it will",
+      "start": 1730.48,
+      "duration": 6.64
+    },
+    {
+      "text": "create a duplicate here. Um and you can",
+      "start": 1733.44,
+      "duration": 6.64
+    },
+    {
+      "text": "play with them uh separately. So maybe",
+      "start": 1737.12,
+      "duration": 4.96
+    },
+    {
+      "text": "you want this clip to go short for sure.",
+      "start": 1740.08,
+      "duration": 4.319
+    },
+    {
+      "text": "You can play with it separately. If you",
+      "start": 1742.08,
+      "duration": 4.88
+    },
+    {
+      "text": "move your but uh your mouse uh pointer",
+      "start": 1744.399,
+      "duration": 5.601
+    },
+    {
+      "text": "to one of the ends of the clip, uh your",
+      "start": 1746.96,
+      "duration": 4.719
+    },
+    {
+      "text": "mouse will become this kind of yellow",
+      "start": 1750.0,
+      "duration": 4.64
+    },
+    {
+      "text": "arrow. So you can also instead of just",
+      "start": 1751.679,
+      "duration": 6.081
+    },
+    {
+      "text": "cutting the clip, you can um change its",
+      "start": 1754.64,
+      "duration": 4.8
+    },
+    {
+      "text": "duration like that, clicking and",
+      "start": 1757.76,
+      "duration": 5.279
+    },
+    {
+      "text": "dragging and it will obviously kind of",
+      "start": 1759.44,
+      "duration": 6.959
+    },
+    {
+      "text": "still cut um but it's just a bit easier.",
+      "start": 1763.039,
+      "duration": 4.801
+    },
+    {
+      "text": "So, you know, it will cut the beginning",
+      "start": 1766.399,
+      "duration": 4.561
+    },
+    {
+      "text": "or the end of the clip. Um, and it's not",
+      "start": 1767.84,
+      "duration": 4.88
+    },
+    {
+      "text": "non-destructive. So, if you want to",
+      "start": 1770.96,
+      "duration": 4.4
+    },
+    {
+      "text": "bring back what you just cut out, you",
+      "start": 1772.72,
+      "duration": 5.36
+    },
+    {
+      "text": "can click on it again and drag the other",
+      "start": 1775.36,
+      "duration": 5.28
+    },
+    {
+      "text": "way and you will be able to bring back",
+      "start": 1778.08,
+      "duration": 5.44
+    },
+    {
+      "text": "the entire clip.",
+      "start": 1780.64,
+      "duration": 4.56
+    },
+    {
+      "text": "I will stop sharing the video just",
+      "start": 1783.52,
+      "duration": 3.92
+    },
+    {
+      "text": "because um, as you have probably",
+      "start": 1785.2,
+      "duration": 4.479
+    },
+    {
+      "text": "noticed, my computer is a bit uh, slow.",
+      "start": 1787.44,
+      "duration": 5.119
+    },
+    {
+      "text": "So, again, apologies about that.",
+      "start": 1789.679,
+      "duration": 4.801
+    },
+    {
+      "text": "Um",
+      "start": 1792.559,
+      "duration": 4.161
+    },
+    {
+      "text": "but this is kind of all the functions uh",
+      "start": 1794.48,
+      "duration": 4.559
+    },
+    {
+      "text": "you have on the left hand side. Just",
+      "start": 1796.72,
+      "duration": 4.079
+    },
+    {
+      "text": "before I jump into more advanced",
+      "start": 1799.039,
+      "duration": 3.681
+    },
+    {
+      "text": "functions, are there any questions about",
+      "start": 1800.799,
+      "duration": 3.6
+    },
+    {
+      "text": "that? Uh is there anything like that",
+      "start": 1802.72,
+      "duration": 4.679
+    },
+    {
+      "text": "clearly?",
+      "start": 1804.399,
+      "duration": 3.0
+    },
+    {
+      "text": "Is it just fancy and more in depth movie",
+      "start": 1807.6,
+      "duration": 6.0
+    },
+    {
+      "text": "maker? Well to to an extent it's more in",
+      "start": 1810.0,
+      "duration": 6.48
+    },
+    {
+      "text": "depth and it's more fancy. But yes,",
+      "start": 1813.6,
+      "duration": 5.52
+    },
+    {
+      "text": "again, if you're looking for like a much",
+      "start": 1816.48,
+      "duration": 4.72
+    },
+    {
+      "text": "more fancier and much more in-depth",
+      "start": 1819.12,
+      "duration": 3.919
+    },
+    {
+      "text": "software, then again, Premier Pro would",
+      "start": 1821.2,
+      "duration": 4.719
+    },
+    {
+      "text": "be the one for you. But I imagine that",
+      "start": 1823.039,
+      "duration": 5.041
+    },
+    {
+      "text": "um for this assignment, Adobe Rush is",
+      "start": 1825.919,
+      "duration": 3.841
+    },
+    {
+      "text": "much more suitable and much easier to",
+      "start": 1828.08,
+      "duration": 4.56
+    },
+    {
+      "text": "use.",
+      "start": 1829.76,
+      "duration": 5.279
+    },
+    {
+      "text": ">> And I have one more question. So can you",
+      "start": 1832.64,
+      "duration": 6.56
+    },
+    {
+      "text": "remind us how we can uh record our audio",
+      "start": 1835.039,
+      "duration": 7.681
+    },
+    {
+      "text": "from this page that you are showing us?",
+      "start": 1839.2,
+      "duration": 6.479
+    },
+    {
+      "text": ">> Yes. I will and just clarify my",
+      "start": 1842.72,
+      "duration": 5.36
+    },
+    {
+      "text": "question. Let's say I am going to record",
+      "start": 1845.679,
+      "duration": 6.0
+    },
+    {
+      "text": "a video when I'm working in the lab of a",
+      "start": 1848.08,
+      "duration": 6.079
+    },
+    {
+      "text": "setting or an experiment that is running",
+      "start": 1851.679,
+      "duration": 6.321
+    },
+    {
+      "text": "with a noise background. So the video 30",
+      "start": 1854.159,
+      "duration": 6.801
+    },
+    {
+      "text": "seconds has a noise. I want to remove",
+      "start": 1858.0,
+      "duration": 5.84
+    },
+    {
+      "text": "that noise and I want to talk in that 30",
+      "start": 1860.96,
+      "duration": 5.839
+    },
+    {
+      "text": "second what is this setup is?",
+      "start": 1863.84,
+      "duration": 7.439
+    },
+    {
+      "text": ">> Okay. So uh yes um that is something I",
+      "start": 1866.799,
+      "duration": 6.88
+    },
+    {
+      "text": "definitely don't cover right now. So you",
+      "start": 1871.279,
+      "duration": 5.681
+    },
+    {
+      "text": "can recreate audio in this software. So",
+      "start": 1873.679,
+      "duration": 5.201
+    },
+    {
+      "text": "for instance like Peter said if you need",
+      "start": 1876.96,
+      "duration": 4.319
+    },
+    {
+      "text": "to redo your voice over or if you need",
+      "start": 1878.88,
+      "duration": 5.279
+    },
+    {
+      "text": "to add additional voice over.",
+      "start": 1881.279,
+      "duration": 5.52
+    },
+    {
+      "text": "So there are two ways to do it. Um you",
+      "start": 1884.159,
+      "duration": 4.24
+    },
+    {
+      "text": "can click on this little microphone",
+      "start": 1886.799,
+      "duration": 4.961
+    },
+    {
+      "text": "button. Uh if you if you use this button",
+      "start": 1888.399,
+      "duration": 6.4
+    },
+    {
+      "text": "to control tracks",
+      "start": 1891.76,
+      "duration": 4.799
+    },
+    {
+      "text": "um then you will be able to see your",
+      "start": 1894.799,
+      "duration": 3.841
+    },
+    {
+      "text": "audio tracks and you can click on this",
+      "start": 1896.559,
+      "duration": 3.921
+    },
+    {
+      "text": "little microphone button or",
+      "start": 1898.64,
+      "duration": 3.759
+    },
+    {
+      "text": "alternatively you can click on this big",
+      "start": 1900.48,
+      "duration": 5.6
+    },
+    {
+      "text": "plus button here and say audio. Oh no",
+      "start": 1902.399,
+      "duration": 5.76
+    },
+    {
+      "text": "sorry voice over. I don't say audio say",
+      "start": 1906.08,
+      "duration": 5.599
+    },
+    {
+      "text": "voice over. Um it changed in the recent",
+      "start": 1908.159,
+      "duration": 6.64
+    },
+    {
+      "text": "update. Either way the microphone button",
+      "start": 1911.679,
+      "duration": 5.36
+    },
+    {
+      "text": "on one of the tracks will change to this",
+      "start": 1914.799,
+      "duration": 4.321
+    },
+    {
+      "text": "record button.",
+      "start": 1917.039,
+      "duration": 4.0
+    },
+    {
+      "text": "So once you click on it the countdown",
+      "start": 1919.12,
+      "duration": 5.159
+    },
+    {
+      "text": "will start",
+      "start": 1921.039,
+      "duration": 3.24
+    },
+    {
+      "text": "and uh after that you can make your",
+      "start": 1926.64,
+      "duration": 4.639
+    },
+    {
+      "text": "recording of the your voice over and",
+      "start": 1928.799,
+      "duration": 4.801
+    },
+    {
+      "text": "pretty much say anything you need to say",
+      "start": 1931.279,
+      "duration": 4.24
+    },
+    {
+      "text": "and once you finished click on the stop",
+      "start": 1933.6,
+      "duration": 5.12
+    },
+    {
+      "text": "button here.",
+      "start": 1935.519,
+      "duration": 5.841
+    },
+    {
+      "text": "Uh so it will create this audio track.",
+      "start": 1938.72,
+      "duration": 4.88
+    },
+    {
+      "text": "It will not be tied to any video clips.",
+      "start": 1941.36,
+      "duration": 4.96
+    },
+    {
+      "text": "You will be able to move it around how",
+      "start": 1943.6,
+      "duration": 5.6
+    },
+    {
+      "text": "however you want. Again, you can zoom in",
+      "start": 1946.32,
+      "duration": 6.0
+    },
+    {
+      "text": "to see it better. Um,",
+      "start": 1949.2,
+      "duration": 5.92
+    },
+    {
+      "text": "you can kind of move it like that for",
+      "start": 1952.32,
+      "duration": 5.28
+    },
+    {
+      "text": "instance. Again,",
+      "start": 1955.12,
+      "duration": 5.039
+    },
+    {
+      "text": "if you know um if you have any mouse",
+      "start": 1957.6,
+      "duration": 4.88
+    },
+    {
+      "text": "clicks in the recording or anything like",
+      "start": 1960.159,
+      "duration": 4.4
+    },
+    {
+      "text": "that, just like a video clip, you can um",
+      "start": 1962.48,
+      "duration": 4.48
+    },
+    {
+      "text": "use those arrows to change it duration.",
+      "start": 1964.559,
+      "duration": 4.72
+    },
+    {
+      "text": "You can use scissors to cut it. Uh you",
+      "start": 1966.96,
+      "duration": 7.04
+    },
+    {
+      "text": "can duplicate it. The same um applies",
+      "start": 1969.279,
+      "duration": 6.561
+    },
+    {
+      "text": "if you want to go into more advanced",
+      "start": 1974.0,
+      "duration": 4.24
+    },
+    {
+      "text": "settings. Uh some more advanced settings",
+      "start": 1975.84,
+      "duration": 4.8
+    },
+    {
+      "text": "are on the right hand side. Uh this",
+      "start": 1978.24,
+      "duration": 4.319
+    },
+    {
+      "text": "button is to give feedback to Adobe. So",
+      "start": 1980.64,
+      "duration": 4.159
+    },
+    {
+      "text": "you probably don't need that. But let's",
+      "start": 1982.559,
+      "duration": 3.921
+    },
+    {
+      "text": "start with audio and then I'll show you",
+      "start": 1984.799,
+      "duration": 3.201
+    },
+    {
+      "text": "some advanced settings for video as",
+      "start": 1986.48,
+      "duration": 4.079
+    },
+    {
+      "text": "well.",
+      "start": 1988.0,
+      "duration": 4.559
+    },
+    {
+      "text": "Can we add small Sorry, I'll just I'm",
+      "start": 1990.559,
+      "duration": 5.521
+    },
+    {
+      "text": "just looking at the chat.",
+      "start": 1992.559,
+      "duration": 5.6
+    },
+    {
+      "text": "Yes, absolutely. So you can drop an",
+      "start": 1996.08,
+      "duration": 4.88
+    },
+    {
+      "text": "image on top of your video and as I will",
+      "start": 1998.159,
+      "duration": 4.24
+    },
+    {
+      "text": "show you in a second, you can move it",
+      "start": 2000.96,
+      "duration": 4.959
+    },
+    {
+      "text": "around. Um, so you can just drop your",
+      "start": 2002.399,
+      "duration": 6.961
+    },
+    {
+      "text": "image on the second track and then, you",
+      "start": 2005.919,
+      "duration": 5.681
+    },
+    {
+      "text": "know, move it to where you want it uh to",
+      "start": 2009.36,
+      "duration": 4.4
+    },
+    {
+      "text": "start. Maybe you want it to start here.",
+      "start": 2011.6,
+      "duration": 4.319
+    },
+    {
+      "text": "Also, a nice thing is that if you have a",
+      "start": 2013.76,
+      "duration": 4.56
+    },
+    {
+      "text": "play head on the frame where you want it",
+      "start": 2015.919,
+      "duration": 5.841
+    },
+    {
+      "text": "to start and then you move the clip, it",
+      "start": 2018.32,
+      "duration": 5.92
+    },
+    {
+      "text": "will snap to your play frame uh play",
+      "start": 2021.76,
+      "duration": 5.12
+    },
+    {
+      "text": "head kind of.",
+      "start": 2024.24,
+      "duration": 4.24
+    },
+    {
+      "text": "So, just make sure that you know you",
+      "start": 2026.88,
+      "duration": 2.96
+    },
+    {
+      "text": "select the frame where you want it to",
+      "start": 2028.48,
+      "duration": 3.199
+    },
+    {
+      "text": "start and then you can easily snap the",
+      "start": 2029.84,
+      "duration": 4.319
+    },
+    {
+      "text": "image there.",
+      "start": 2031.679,
+      "duration": 4.961
+    },
+    {
+      "text": "Um, so hopefully it helps. Just make",
+      "start": 2034.159,
+      "duration": 4.4
+    },
+    {
+      "text": "sure that it has a transparent",
+      "start": 2036.64,
+      "duration": 3.6
+    },
+    {
+      "text": "transparent background if it's something",
+      "start": 2038.559,
+      "duration": 3.761
+    },
+    {
+      "text": "like a circle because otherwise it will",
+      "start": 2040.24,
+      "duration": 4.4
+    },
+    {
+      "text": "come with like a white thing in between.",
+      "start": 2042.32,
+      "duration": 4.32
+    },
+    {
+      "text": "Um, which you pro which is probably not",
+      "start": 2044.64,
+      "duration": 4.719
+    },
+    {
+      "text": "something you want.",
+      "start": 2046.64,
+      "duration": 4.32
+    },
+    {
+      "text": "Uh, but yeah, we go to advanced",
+      "start": 2049.359,
+      "duration": 5.28
+    },
+    {
+      "text": "settings. So here um you can change kind",
+      "start": 2050.96,
+      "duration": 6.56
+    },
+    {
+      "text": "of make more",
+      "start": 2054.639,
+      "duration": 7.681
+    },
+    {
+      "text": "um advanced changes to your media. So,",
+      "start": 2057.52,
+      "duration": 7.04
+    },
+    {
+      "text": "you have a few settings here, five to be",
+      "start": 2062.32,
+      "duration": 6.24
+    },
+    {
+      "text": "precise. And this little waveform is for",
+      "start": 2064.56,
+      "duration": 6.0
+    },
+    {
+      "text": "audio, but also if you just hover your",
+      "start": 2068.56,
+      "duration": 4.319
+    },
+    {
+      "text": "mouse pointer above any of those um",
+      "start": 2070.56,
+      "duration": 4.4
+    },
+    {
+      "text": "buttons, it will show you what it does.",
+      "start": 2072.879,
+      "duration": 4.081
+    },
+    {
+      "text": "So, you don't have to like memorize it.",
+      "start": 2074.96,
+      "duration": 3.919
+    },
+    {
+      "text": "But this one is for audio. So, you can",
+      "start": 2076.96,
+      "duration": 4.399
+    },
+    {
+      "text": "click on it, select the audio clip you",
+      "start": 2078.879,
+      "duration": 4.72
+    },
+    {
+      "text": "want to make changes to.",
+      "start": 2081.359,
+      "duration": 4.32
+    },
+    {
+      "text": "Advanced functions, it will probably",
+      "start": 2083.599,
+      "duration": 4.641
+    },
+    {
+      "text": "look like that by default. So you can",
+      "start": 2085.679,
+      "duration": 5.841
+    },
+    {
+      "text": "change the audio uh the clip volume. Um",
+      "start": 2088.24,
+      "duration": 5.28
+    },
+    {
+      "text": "by default I think it will be at 50. But",
+      "start": 2091.52,
+      "duration": 3.44
+    },
+    {
+      "text": "maybe you know maybe you don't want it",
+      "start": 2093.52,
+      "duration": 3.359
+    },
+    {
+      "text": "to be that loud. Maybe it's actually too",
+      "start": 2094.96,
+      "duration": 4.639
+    },
+    {
+      "text": "loud, too quiet. You can make changes.",
+      "start": 2096.879,
+      "duration": 4.561
+    },
+    {
+      "text": "It doesn't have to be the voice over. It",
+      "start": 2099.599,
+      "duration": 3.841
+    },
+    {
+      "text": "can be any clip.",
+      "start": 2101.44,
+      "duration": 3.84
+    },
+    {
+      "text": "It can be a clip which uh you know comes",
+      "start": 2103.44,
+      "duration": 3.52
+    },
+    {
+      "text": "with your video. You can still make",
+      "start": 2105.28,
+      "duration": 4.64
+    },
+    {
+      "text": "changes to your audio. You can mute it",
+      "start": 2106.96,
+      "duration": 4.879
+    },
+    {
+      "text": "if you want.",
+      "start": 2109.92,
+      "duration": 3.919
+    },
+    {
+      "text": "Um you know for instance if you just",
+      "start": 2111.839,
+      "duration": 3.841
+    },
+    {
+      "text": "want to mute one clip but you don't want",
+      "start": 2113.839,
+      "duration": 3.601
+    },
+    {
+      "text": "to delete it. uh you don't want to mute",
+      "start": 2115.68,
+      "duration": 3.76
+    },
+    {
+      "text": "the entire track.",
+      "start": 2117.44,
+      "duration": 3.679
+    },
+    {
+      "text": "Maybe you know you just want to mute it",
+      "start": 2119.44,
+      "duration": 4.88
+    },
+    {
+      "text": "for now. Advanced settings allow you to",
+      "start": 2121.119,
+      "duration": 6.641
+    },
+    {
+      "text": "make more precise changes. So uh rush",
+      "start": 2124.32,
+      "duration": 5.759
+    },
+    {
+      "text": "kind of tries its best to understand",
+      "start": 2127.76,
+      "duration": 4.64
+    },
+    {
+      "text": "what type of audio it is. So for",
+      "start": 2130.079,
+      "duration": 3.921
+    },
+    {
+      "text": "instance it understood that this was",
+      "start": 2132.4,
+      "duration": 5.28
+    },
+    {
+      "text": "actually voice over. Um but if it's not",
+      "start": 2134.0,
+      "duration": 5.359
+    },
+    {
+      "text": "sometimes it's not very good in",
+      "start": 2137.68,
+      "duration": 5.36
+    },
+    {
+      "text": "understanding it. So for instance,",
+      "start": 2139.359,
+      "duration": 7.201
+    },
+    {
+      "text": "uh this music under the clip",
+      "start": 2143.04,
+      "duration": 5.6
+    },
+    {
+      "text": "with piece, uh it actually thinks it's",
+      "start": 2146.56,
+      "duration": 5.039
+    },
+    {
+      "text": "voice over, but it's music. Um so you",
+      "start": 2148.64,
+      "duration": 6.24
+    },
+    {
+      "text": "can always change it here. Change type",
+      "start": 2151.599,
+      "duration": 6.801
+    },
+    {
+      "text": "music or other. And depending on the",
+      "start": 2154.88,
+      "duration": 5.12
+    },
+    {
+      "text": "type of the audio you are using, you",
+      "start": 2158.4,
+      "duration": 3.679
+    },
+    {
+      "text": "will have different kind of settings. So",
+      "start": 2160.0,
+      "duration": 4.16
+    },
+    {
+      "text": "music for instance you can use auto out",
+      "start": 2162.079,
+      "duration": 4.241
+    },
+    {
+      "text": "of dark function which just kind of",
+      "start": 2164.16,
+      "duration": 4.64
+    },
+    {
+      "text": "means that music gets quieter when there",
+      "start": 2166.32,
+      "duration": 5.759
+    },
+    {
+      "text": "is another track audio track overlaid on",
+      "start": 2168.8,
+      "duration": 6.24
+    },
+    {
+      "text": "top of it like um voice over which is",
+      "start": 2172.079,
+      "duration": 5.121
+    },
+    {
+      "text": "very nice and very easy but I will not",
+      "start": 2175.04,
+      "duration": 3.92
+    },
+    {
+      "text": "go into detail with music because I know",
+      "start": 2177.2,
+      "duration": 3.12
+    },
+    {
+      "text": "that you don't need to add music for",
+      "start": 2178.96,
+      "duration": 3.44
+    },
+    {
+      "text": "this assignment.",
+      "start": 2180.32,
+      "duration": 5.2
+    },
+    {
+      "text": "So with audio um auto volume on just",
+      "start": 2182.4,
+      "duration": 7.12
+    },
+    {
+      "text": "kind of means that um Raj is trying to",
+      "start": 2185.52,
+      "duration": 7.36
+    },
+    {
+      "text": "make your volume perfect so that it's",
+      "start": 2189.52,
+      "duration": 6.24
+    },
+    {
+      "text": "not too loud, it's not too quiet.",
+      "start": 2192.88,
+      "duration": 6.08
+    },
+    {
+      "text": "Balance sound",
+      "start": 2195.76,
+      "duration": 5.28
+    },
+    {
+      "text": "just you know again it's trying to kind",
+      "start": 2198.96,
+      "duration": 5.2
+    },
+    {
+      "text": "of balance it um",
+      "start": 2201.04,
+      "duration": 4.96
+    },
+    {
+      "text": "so that there are no peeps anywhere like",
+      "start": 2204.16,
+      "duration": 4.88
+    },
+    {
+      "text": "in between. uh you can try to reduce",
+      "start": 2206.0,
+      "duration": 5.04
+    },
+    {
+      "text": "background noise if you have it. Reduce",
+      "start": 2209.04,
+      "duration": 4.72
+    },
+    {
+      "text": "echo or enhance pitch depending on",
+      "start": 2211.04,
+      "duration": 4.96
+    },
+    {
+      "text": "whether it's high pitch or lower pitch",
+      "start": 2213.76,
+      "duration": 4.24
+    },
+    {
+      "text": "and reduce acro and reduce background",
+      "start": 2216.0,
+      "duration": 4.72
+    },
+    {
+      "text": "noise uh allows you to control the",
+      "start": 2218.0,
+      "duration": 5.359
+    },
+    {
+      "text": "intensity of the effect.",
+      "start": 2220.72,
+      "duration": 5.68
+    },
+    {
+      "text": "So it can be it can sound very",
+      "start": 2223.359,
+      "duration": 7.561
+    },
+    {
+      "text": "artificial if you apply those effects.",
+      "start": 2226.4,
+      "duration": 4.52
+    },
+    {
+      "text": "It actually it actually did a nice job",
+      "start": 2234.96,
+      "duration": 3.92
+    },
+    {
+      "text": "to reduce uh background noise for this",
+      "start": 2237.04,
+      "duration": 4.0
+    },
+    {
+      "text": "one. Sometimes if there is too much",
+      "start": 2238.88,
+      "duration": 4.0
+    },
+    {
+      "text": "noise and you're trying to get rid of",
+      "start": 2241.04,
+      "duration": 4.559
+    },
+    {
+      "text": "it, it might begin to sound artificial",
+      "start": 2242.88,
+      "duration": 4.56
+    },
+    {
+      "text": "to just kind of always play it back",
+      "start": 2245.599,
+      "duration": 3.201
+    },
+    {
+      "text": "first and make sure that it doesn't",
+      "start": 2247.44,
+      "duration": 4.76
+    },
+    {
+      "text": "sound too bad.",
+      "start": 2248.8,
+      "duration": 3.4
+    },
+    {
+      "text": "Again, it doesn't sound too bad. It's a",
+      "start": 2254.88,
+      "duration": 4.239
+    },
+    {
+      "text": "nice job. So, I'm very happy with it.",
+      "start": 2256.56,
+      "duration": 3.92
+    },
+    {
+      "text": "But yes, if you just need to kind of",
+      "start": 2259.119,
+      "duration": 3.121
+    },
+    {
+      "text": "improve your audio, this is where you",
+      "start": 2260.48,
+      "duration": 4.16
+    },
+    {
+      "text": "can give it a go. Again, it's not very",
+      "start": 2262.24,
+      "duration": 5.52
+    },
+    {
+      "text": "advanced, but it will give it, you know,",
+      "start": 2264.64,
+      "duration": 5.76
+    },
+    {
+      "text": "it will do its job. Channels just allows",
+      "start": 2267.76,
+      "duration": 4.4
+    },
+    {
+      "text": "you to mute either the left channel or",
+      "start": 2270.4,
+      "duration": 3.36
+    },
+    {
+      "text": "the right channel of the audio. It will",
+      "start": 2272.16,
+      "duration": 4.16
+    },
+    {
+      "text": "means that the audio is only coming from",
+      "start": 2273.76,
+      "duration": 5.359
+    },
+    {
+      "text": "um either the left or right channel, you",
+      "start": 2276.32,
+      "duration": 5.2
+    },
+    {
+      "text": "know, if you're using your headphones or",
+      "start": 2279.119,
+      "duration": 4.081
+    },
+    {
+      "text": "like earbuds.",
+      "start": 2281.52,
+      "duration": 4.4
+    },
+    {
+      "text": "Don't mute them most likely. But if you",
+      "start": 2283.2,
+      "duration": 6.56
+    },
+    {
+      "text": "want to, that's where you can mute them.",
+      "start": 2285.92,
+      "duration": 7.6
+    },
+    {
+      "text": "So that's um",
+      "start": 2289.76,
+      "duration": 6.319
+    },
+    {
+      "text": "yes absolutely you can add different",
+      "start": 2293.52,
+      "duration": 6.079
+    },
+    {
+      "text": "voice over files. So if you click on",
+      "start": 2296.079,
+      "duration": 6.881
+    },
+    {
+      "text": "this button again",
+      "start": 2299.599,
+      "duration": 5.841
+    },
+    {
+      "text": "again it will start uh countdown and you",
+      "start": 2302.96,
+      "duration": 4.639
+    },
+    {
+      "text": "can record next audio files. So",
+      "start": 2305.44,
+      "duration": 4.0
+    },
+    {
+      "text": "obviously it started recording while I",
+      "start": 2307.599,
+      "duration": 3.841
+    },
+    {
+      "text": "was still introducing what it does. But",
+      "start": 2309.44,
+      "duration": 5.04
+    },
+    {
+      "text": "again you're happy with it. Click stop",
+      "start": 2311.44,
+      "duration": 5.44
+    },
+    {
+      "text": "and here you go. There are two files. Uh",
+      "start": 2314.48,
+      "duration": 3.92
+    },
+    {
+      "text": "you can change the order in which they",
+      "start": 2316.88,
+      "duration": 3.68
+    },
+    {
+      "text": "organized.",
+      "start": 2318.4,
+      "duration": 4.88
+    },
+    {
+      "text": "You can move it to the next uh audio",
+      "start": 2320.56,
+      "duration": 4.72
+    },
+    {
+      "text": "track. So just underneath unlike the",
+      "start": 2323.28,
+      "duration": 4.24
+    },
+    {
+      "text": "video it will drop kind of down. Uh you",
+      "start": 2325.28,
+      "duration": 4.079
+    },
+    {
+      "text": "can have them play them at the same",
+      "start": 2327.52,
+      "duration": 4.079
+    },
+    {
+      "text": "time. Maybe",
+      "start": 2329.359,
+      "duration": 4.321
+    },
+    {
+      "text": "it will become a bit chaotic but it will",
+      "start": 2331.599,
+      "duration": 5.081
+    },
+    {
+      "text": "work.",
+      "start": 2333.68,
+      "duration": 3.0
+    },
+    {
+      "text": "Here we go. So yes absolutely you can do",
+      "start": 2338.48,
+      "duration": 4.72
+    },
+    {
+      "text": "that. Uh and again feel free like you",
+      "start": 2340.48,
+      "duration": 7.48
+    },
+    {
+      "text": "can always cut bits out with",
+      "start": 2343.2,
+      "duration": 4.76
+    },
+    {
+      "text": "scissors. You can always like you know",
+      "start": 2349.68,
+      "duration": 4.24
+    },
+    {
+      "text": "maybe you want you're not happy with the",
+      "start": 2351.359,
+      "duration": 3.76
+    },
+    {
+      "text": "you know with the middle of the clip.",
+      "start": 2353.92,
+      "duration": 3.04
+    },
+    {
+      "text": "Maybe you stop there. So just cut it",
+      "start": 2355.119,
+      "duration": 5.441
+    },
+    {
+      "text": "out. Oh sorry I was just make sure that",
+      "start": 2356.96,
+      "duration": 5.36
+    },
+    {
+      "text": "you select your audio clip uh because",
+      "start": 2360.56,
+      "duration": 3.36
+    },
+    {
+      "text": "automatically it will select the video",
+      "start": 2362.32,
+      "duration": 3.68
+    },
+    {
+      "text": "clip. But, you know, if you need to undo",
+      "start": 2363.92,
+      "duration": 4.48
+    },
+    {
+      "text": "any changes, uh, control or command, uh,",
+      "start": 2366.0,
+      "duration": 4.96
+    },
+    {
+      "text": "that obviously works like in any other",
+      "start": 2368.4,
+      "duration": 4.48
+    },
+    {
+      "text": "software. Um, but here we go. We can",
+      "start": 2370.96,
+      "duration": 4.639
+    },
+    {
+      "text": "just kind of cut it. Um, move those",
+      "start": 2372.88,
+      "duration": 5.36
+    },
+    {
+      "text": "clips back together. Um, so yeah, don't",
+      "start": 2375.599,
+      "duration": 4.0
+    },
+    {
+      "text": "feel like you have to do everything in",
+      "start": 2378.24,
+      "duration": 4.879
+    },
+    {
+      "text": "one take or anything like that.",
+      "start": 2379.599,
+      "duration": 7.76
+    },
+    {
+      "text": "Uh when it comes to videos, um",
+      "start": 2383.119,
+      "duration": 7.441
+    },
+    {
+      "text": "you can click on this little button or",
+      "start": 2387.359,
+      "duration": 4.801
+    },
+    {
+      "text": "you can just double click on the video",
+      "start": 2390.56,
+      "duration": 5.12
+    },
+    {
+      "text": "and it will also um it it will also open",
+      "start": 2392.16,
+      "duration": 5.199
+    },
+    {
+      "text": "the same panel which is called",
+      "start": 2395.68,
+      "duration": 3.2
+    },
+    {
+      "text": "transform.",
+      "start": 2397.359,
+      "duration": 3.681
+    },
+    {
+      "text": "Uh so again it gives you kind of mostly",
+      "start": 2398.88,
+      "duration": 5.28
+    },
+    {
+      "text": "basic functions but um it gives you what",
+      "start": 2401.04,
+      "duration": 6.72
+    },
+    {
+      "text": "you need basically. Uh so you can move",
+      "start": 2404.16,
+      "duration": 5.679
+    },
+    {
+      "text": "its position on the screen, vertical",
+      "start": 2407.76,
+      "duration": 4.56
+    },
+    {
+      "text": "position, horizontal position. Uh you",
+      "start": 2409.839,
+      "duration": 3.921
+    },
+    {
+      "text": "can rotate it. So for instance, if you",
+      "start": 2412.32,
+      "duration": 3.759
+    },
+    {
+      "text": "have an image, um like someone asked in",
+      "start": 2413.76,
+      "duration": 5.04
+    },
+    {
+      "text": "the chat before, um you want this image",
+      "start": 2416.079,
+      "duration": 5.681
+    },
+    {
+      "text": "to maybe highlight something in",
+      "start": 2418.8,
+      "duration": 5.6
+    },
+    {
+      "text": "in the v video. Uh you can, you know,",
+      "start": 2421.76,
+      "duration": 4.24
+    },
+    {
+      "text": "you can scale your image, you can move",
+      "start": 2424.4,
+      "duration": 3.199
+    },
+    {
+      "text": "your image, you can change the opacity",
+      "start": 2426.0,
+      "duration": 4.48
+    },
+    {
+      "text": "of your image, or you can just double",
+      "start": 2427.599,
+      "duration": 5.201
+    },
+    {
+      "text": "click on it as well here, and you can",
+      "start": 2430.48,
+      "duration": 4.08
+    },
+    {
+      "text": "move it here like that. you don't",
+      "start": 2432.8,
+      "duration": 5.6
+    },
+    {
+      "text": "actually have to do it in the panel.",
+      "start": 2434.56,
+      "duration": 7.279
+    },
+    {
+      "text": "Um, and if you want to undo any changes",
+      "start": 2438.4,
+      "duration": 6.88
+    },
+    {
+      "text": "to its position after, you know, when",
+      "start": 2441.839,
+      "duration": 5.041
+    },
+    {
+      "text": "you already made something like some",
+      "start": 2445.28,
+      "duration": 3.12
+    },
+    {
+      "text": "other changes and you don't want to just",
+      "start": 2446.88,
+      "duration": 4.239
+    },
+    {
+      "text": "use control Z, just double click on any",
+      "start": 2448.4,
+      "duration": 5.76
+    },
+    {
+      "text": "of those um kind of bars and it will",
+      "start": 2451.119,
+      "duration": 6.441
+    },
+    {
+      "text": "reset everything.",
+      "start": 2454.16,
+      "duration": 3.4
+    },
+    {
+      "text": "image pops up.",
+      "start": 2464.8,
+      "duration": 4.48
+    },
+    {
+      "text": "Yes. So, you can have it uh you can have",
+      "start": 2467.359,
+      "duration": 3.601
+    },
+    {
+      "text": "it move over time and change it time. I",
+      "start": 2469.28,
+      "duration": 3.36
+    },
+    {
+      "text": "will just show you how to do it in a",
+      "start": 2470.96,
+      "duration": 6.8
+    },
+    {
+      "text": "second. Um so, you can also crop it",
+      "start": 2472.64,
+      "duration": 8.24
+    },
+    {
+      "text": "um using those form",
+      "start": 2477.76,
+      "duration": 6.0
+    },
+    {
+      "text": "kind of bars here in advanced transform",
+      "start": 2480.88,
+      "duration": 4.56
+    },
+    {
+      "text": "advanced",
+      "start": 2483.76,
+      "duration": 5.12
+    },
+    {
+      "text": "or you can do this edge f. it's kind of",
+      "start": 2485.44,
+      "duration": 5.36
+    },
+    {
+      "text": "useless, but it will, you know, make",
+      "start": 2488.88,
+      "duration": 4.719
+    },
+    {
+      "text": "this kind of like um a faded film",
+      "start": 2490.8,
+      "duration": 6.799
+    },
+    {
+      "text": "effect. But sorry, when you mean um",
+      "start": 2493.599,
+      "duration": 6.24
+    },
+    {
+      "text": "when you say appear side by side with",
+      "start": 2497.599,
+      "duration": 6.081
+    },
+    {
+      "text": "the presenter, so if you have it on the",
+      "start": 2499.839,
+      "duration": 6.721
+    },
+    {
+      "text": "layer above and you just crop it or",
+      "start": 2503.68,
+      "duration": 4.72
+    },
+    {
+      "text": "scale it or just kind of make sure that",
+      "start": 2506.56,
+      "duration": 6.32
+    },
+    {
+      "text": "it doesn't fill the entire screen",
+      "start": 2508.4,
+      "duration": 6.32
+    },
+    {
+      "text": "and you know, you move it basically",
+      "start": 2512.88,
+      "duration": 4.08
+    },
+    {
+      "text": "where you want it to be. Right now it's",
+      "start": 2514.72,
+      "duration": 4.0
+    },
+    {
+      "text": "a video but it can be image, it can be",
+      "start": 2516.96,
+      "duration": 4.56
+    },
+    {
+      "text": "anything. So it will appear side by",
+      "start": 2518.72,
+      "duration": 5.76
+    },
+    {
+      "text": "side. Uh so maybe you know don't scale",
+      "start": 2521.52,
+      "duration": 6.799
+    },
+    {
+      "text": "it. Just keep it kind of bigger",
+      "start": 2524.48,
+      "duration": 5.839
+    },
+    {
+      "text": "and move it to the side where you want",
+      "start": 2528.319,
+      "duration": 3.601
+    },
+    {
+      "text": "it to be. Maybe crop it instead of",
+      "start": 2530.319,
+      "duration": 4.641
+    },
+    {
+      "text": "scaling it and it will be plain at the",
+      "start": 2531.92,
+      "duration": 6.199
+    },
+    {
+      "text": "same time.",
+      "start": 2534.96,
+      "duration": 3.159
+    },
+    {
+      "text": "in terms of moving the image",
+      "start": 2542.56,
+      "duration": 4.759
+    },
+    {
+      "text": "while um",
+      "start": 2547.52,
+      "duration": 5.36
+    },
+    {
+      "text": "kind of adding animation to the image.",
+      "start": 2551.2,
+      "duration": 2.879
+    },
+    {
+      "text": "So, it's actually something that was",
+      "start": 2552.88,
+      "duration": 3.52
+    },
+    {
+      "text": "added in the latest update, not the",
+      "start": 2554.079,
+      "duration": 4.081
+    },
+    {
+      "text": "latest update, but one of the updates.",
+      "start": 2556.4,
+      "duration": 4.56
+    },
+    {
+      "text": "Um maybe it was added last year. Um so,",
+      "start": 2558.16,
+      "duration": 4.4
+    },
+    {
+      "text": "you can actually add animation to",
+      "start": 2560.96,
+      "duration": 3.52
+    },
+    {
+      "text": "images. You can't add animation to",
+      "start": 2562.56,
+      "duration": 3.759
+    },
+    {
+      "text": "videos as far as I know in this",
+      "start": 2564.48,
+      "duration": 4.16
+    },
+    {
+      "text": "software, but you can add animation to",
+      "start": 2566.319,
+      "duration": 4.8
+    },
+    {
+      "text": "images.",
+      "start": 2568.64,
+      "duration": 4.88
+    },
+    {
+      "text": "So for instance uh we have this image",
+      "start": 2571.119,
+      "duration": 7.2
+    },
+    {
+      "text": "here which is um very small. Uh with",
+      "start": 2573.52,
+      "duration": 7.599
+    },
+    {
+      "text": "images there is no limit to how long",
+      "start": 2578.319,
+      "duration": 4.961
+    },
+    {
+      "text": "this image is shown for unlike videos",
+      "start": 2581.119,
+      "duration": 4.161
+    },
+    {
+      "text": "because obviously the image never ends",
+      "start": 2583.28,
+      "duration": 4.4
+    },
+    {
+      "text": "so to speak. Uh so you can always change",
+      "start": 2585.28,
+      "duration": 6.24
+    },
+    {
+      "text": "its duration as much as you want.",
+      "start": 2587.68,
+      "duration": 6.0
+    },
+    {
+      "text": "Again like maybe you want to move it to",
+      "start": 2591.52,
+      "duration": 4.88
+    },
+    {
+      "text": "another position. Just click and drag to",
+      "start": 2593.68,
+      "duration": 4.48
+    },
+    {
+      "text": "where you want it to be. Maybe you want",
+      "start": 2596.4,
+      "duration": 5.52
+    },
+    {
+      "text": "it to be on the next level. um",
+      "start": 2598.16,
+      "duration": 8.52
+    },
+    {
+      "text": "kind of next layer. Um",
+      "start": 2601.92,
+      "duration": 4.76
+    },
+    {
+      "text": "again, sorry for the delays, but um yes,",
+      "start": 2607.04,
+      "duration": 4.559
+    },
+    {
+      "text": "if you click on this arrow, you can",
+      "start": 2610.079,
+      "duration": 4.0
+    },
+    {
+      "text": "change its duration easily. Uh you can",
+      "start": 2611.599,
+      "duration": 4.321
+    },
+    {
+      "text": "change that maybe, you know, maybe you",
+      "start": 2614.079,
+      "duration": 3.201
+    },
+    {
+      "text": "want it to be presented at the same",
+      "start": 2615.92,
+      "duration": 4.32
+    },
+    {
+      "text": "time.",
+      "start": 2617.28,
+      "duration": 6.319
+    },
+    {
+      "text": "And if you click on the speed button,",
+      "start": 2620.24,
+      "duration": 6.64
+    },
+    {
+      "text": "you can always um",
+      "start": 2623.599,
+      "duration": 4.881
+    },
+    {
+      "text": "button",
+      "start": 2626.88,
+      "duration": 3.68
+    },
+    {
+      "text": "just give me one second. Oh, if you",
+      "start": 2628.48,
+      "duration": 3.839
+    },
+    {
+      "text": "click on the effects button, apologies.",
+      "start": 2630.56,
+      "duration": 3.759
+    },
+    {
+      "text": "So, if you click on the effects button,",
+      "start": 2632.319,
+      "duration": 3.841
+    },
+    {
+      "text": "uh you will have this pan and zoom. So,",
+      "start": 2634.319,
+      "duration": 3.52
+    },
+    {
+      "text": "if you remember when we were adding",
+      "start": 2636.16,
+      "duration": 4.48
+    },
+    {
+      "text": "clips to uh important clips to the",
+      "start": 2637.839,
+      "duration": 5.441
+    },
+    {
+      "text": "software, we actually disabled pan and",
+      "start": 2640.64,
+      "duration": 5.36
+    },
+    {
+      "text": "zoom. Um by default you can always uh",
+      "start": 2643.28,
+      "duration": 5.76
+    },
+    {
+      "text": "enable it but um otherwise you can just",
+      "start": 2646.0,
+      "duration": 5.599
+    },
+    {
+      "text": "enable pen and zoom and basically what",
+      "start": 2649.04,
+      "duration": 4.4
+    },
+    {
+      "text": "it will do it will add animation for",
+      "start": 2651.599,
+      "duration": 4.321
+    },
+    {
+      "text": "you.",
+      "start": 2653.44,
+      "duration": 7.6
+    },
+    {
+      "text": "Um so you will have this kind of",
+      "start": 2655.92,
+      "duration": 8.159
+    },
+    {
+      "text": "well you you will have pan and zoom",
+      "start": 2661.04,
+      "duration": 7.12
+    },
+    {
+      "text": "uh you know like it says",
+      "start": 2664.079,
+      "duration": 7.081
+    },
+    {
+      "text": "sorry",
+      "start": 2668.16,
+      "duration": 3.0
+    },
+    {
+      "text": "like that and obviously it will go much",
+      "start": 2673.119,
+      "duration": 6.401
+    },
+    {
+      "text": "smoother uh probably on your uh computer",
+      "start": 2675.92,
+      "duration": 6.0
+    },
+    {
+      "text": "and you can also change where like you",
+      "start": 2679.52,
+      "duration": 4.16
+    },
+    {
+      "text": "know what image you see in the beginning",
+      "start": 2681.92,
+      "duration": 3.76
+    },
+    {
+      "text": "and what image you see at the",
+      "start": 2683.68,
+      "duration": 3.919
+    },
+    {
+      "text": "So if you click go to end or go to",
+      "start": 2685.68,
+      "duration": 4.08
+    },
+    {
+      "text": "start, you will see those two frames.",
+      "start": 2687.599,
+      "duration": 4.081
+    },
+    {
+      "text": "And you can, you know, just use this",
+      "start": 2689.76,
+      "duration": 4.64
+    },
+    {
+      "text": "arrow to change its size or just click",
+      "start": 2691.68,
+      "duration": 5.2
+    },
+    {
+      "text": "and drag to where you want this frame to",
+      "start": 2694.4,
+      "duration": 4.56
+    },
+    {
+      "text": "be.",
+      "start": 2696.88,
+      "duration": 4.16
+    },
+    {
+      "text": "And depending on, you know, on what you",
+      "start": 2698.96,
+      "duration": 4.639
+    },
+    {
+      "text": "choose, uh, it will calculate animation",
+      "start": 2701.04,
+      "duration": 5.039
+    },
+    {
+      "text": "in between the beginning and the end and",
+      "start": 2703.599,
+      "duration": 6.921
+    },
+    {
+      "text": "just cut it to your image.",
+      "start": 2706.079,
+      "duration": 4.441
+    },
+    {
+      "text": "It's quite nice.",
+      "start": 2710.96,
+      "duration": 6.0
+    },
+    {
+      "text": "Also, if you I will just kind of",
+      "start": 2713.359,
+      "duration": 8.24
+    },
+    {
+      "text": "um make um a little uh tangent here, but",
+      "start": 2716.96,
+      "duration": 6.879
+    },
+    {
+      "text": "if you go to view preview quality, you",
+      "start": 2721.599,
+      "duration": 4.24
+    },
+    {
+      "text": "can always lower the quality of the",
+      "start": 2723.839,
+      "duration": 4.881
+    },
+    {
+      "text": "preview of your video. So, it will not",
+      "start": 2725.839,
+      "duration": 4.801
+    },
+    {
+      "text": "lower the quality of your actual video,",
+      "start": 2728.72,
+      "duration": 3.68
+    },
+    {
+      "text": "but it will lower the quality of the",
+      "start": 2730.64,
+      "duration": 4.24
+    },
+    {
+      "text": "preview. Um, if your computer is kind of",
+      "start": 2732.4,
+      "duration": 5.48
+    },
+    {
+      "text": "struggling,",
+      "start": 2734.88,
+      "duration": 3.0
+    },
+    {
+      "text": "is it possible to transform a frame in",
+      "start": 2742.0,
+      "duration": 3.599
+    },
+    {
+      "text": "the video into an image? I don't think",
+      "start": 2743.68,
+      "duration": 4.72
+    },
+    {
+      "text": "it's possible in Premier Rush in in",
+      "start": 2745.599,
+      "duration": 6.641
+    },
+    {
+      "text": "Adobe Rush. Um, you can always just use",
+      "start": 2748.4,
+      "duration": 6.16
+    },
+    {
+      "text": "any kind of video software, video",
+      "start": 2752.24,
+      "duration": 4.56
+    },
+    {
+      "text": "playing software, you know, to stop the",
+      "start": 2754.56,
+      "duration": 3.92
+    },
+    {
+      "text": "image and take a screenshot and save the",
+      "start": 2756.8,
+      "duration": 4.559
+    },
+    {
+      "text": "screenshot as an PNG or JPEG file and",
+      "start": 2758.48,
+      "duration": 5.52
+    },
+    {
+      "text": "then just import it as an image. But as",
+      "start": 2761.359,
+      "duration": 4.401
+    },
+    {
+      "text": "far as I know, there is no way to do it",
+      "start": 2764.0,
+      "duration": 5.24
+    },
+    {
+      "text": "in Russ unfortunately.",
+      "start": 2765.76,
+      "duration": 3.48
+    },
+    {
+      "text": "But yeah, you can add animation to your",
+      "start": 2770.48,
+      "duration": 3.44
+    },
+    {
+      "text": "images. Again, you can't add animation",
+      "start": 2772.0,
+      "duration": 4.96
+    },
+    {
+      "text": "to uh videos unfortunately at this point",
+      "start": 2773.92,
+      "duration": 5.439
+    },
+    {
+      "text": "again as far as I know.",
+      "start": 2776.96,
+      "duration": 4.399
+    },
+    {
+      "text": "So",
+      "start": 2779.359,
+      "duration": 4.401
+    },
+    {
+      "text": "you can change speed of your video. So",
+      "start": 2781.359,
+      "duration": 3.921
+    },
+    {
+      "text": "that's kind of a nice thing. So for",
+      "start": 2783.76,
+      "duration": 3.28
+    },
+    {
+      "text": "instance, maybe you want to show the",
+      "start": 2785.28,
+      "duration": 3.68
+    },
+    {
+      "text": "entire video. You don't want to crop it,",
+      "start": 2787.04,
+      "duration": 4.24
+    },
+    {
+      "text": "but you want it to be a bit faster. You",
+      "start": 2788.96,
+      "duration": 3.84
+    },
+    {
+      "text": "can change the speed. So maybe you want",
+      "start": 2791.28,
+      "duration": 4.64
+    },
+    {
+      "text": "it to go for like twice as fast. And you",
+      "start": 2792.8,
+      "duration": 4.799
+    },
+    {
+      "text": "can also change the speed of an",
+      "start": 2795.92,
+      "duration": 3.28
+    },
+    {
+      "text": "individual part of the video. So you",
+      "start": 2797.599,
+      "duration": 3.041
+    },
+    {
+      "text": "don't have to change the speed of the",
+      "start": 2799.2,
+      "duration": 3.6
+    },
+    {
+      "text": "entire video.",
+      "start": 2800.64,
+      "duration": 4.8
+    },
+    {
+      "text": "Just by dragging this little blue kind",
+      "start": 2802.8,
+      "duration": 5.6
+    },
+    {
+      "text": "of header headers or just by dragging",
+      "start": 2805.44,
+      "duration": 5.36
+    },
+    {
+      "text": "them here, you can change which part of",
+      "start": 2808.4,
+      "duration": 5.36
+    },
+    {
+      "text": "the clip is sped up or slowed down. And",
+      "start": 2810.8,
+      "duration": 4.72
+    },
+    {
+      "text": "if you click on ram here, it will also",
+      "start": 2813.76,
+      "duration": 4.96
+    },
+    {
+      "text": "kind of make sure that um the transition",
+      "start": 2815.52,
+      "duration": 5.92
+    },
+    {
+      "text": "between the slow and fast parts is not",
+      "start": 2818.72,
+      "duration": 6.24
+    },
+    {
+      "text": "as you know sudden, is not as abrupt,",
+      "start": 2821.44,
+      "duration": 7.159
+    },
+    {
+      "text": "it's actually smooth.",
+      "start": 2824.96,
+      "duration": 3.639
+    },
+    {
+      "text": "Um, regarding referencing, so most stock",
+      "start": 2829.839,
+      "duration": 6.081
+    },
+    {
+      "text": "images do not need to be referenced, but",
+      "start": 2833.44,
+      "duration": 4.8
+    },
+    {
+      "text": "when you download an image, uh, there is",
+      "start": 2835.92,
+      "duration": 4.88
+    },
+    {
+      "text": "always a license type next to it. So,",
+      "start": 2838.24,
+      "duration": 5.28
+    },
+    {
+      "text": "make sure to check which uh, license",
+      "start": 2840.8,
+      "duration": 4.64
+    },
+    {
+      "text": "type it is. If you're using standard or",
+      "start": 2843.52,
+      "duration": 4.319
+    },
+    {
+      "text": "extended licenses, you don't need to",
+      "start": 2845.44,
+      "duration": 4.399
+    },
+    {
+      "text": "reference them. If you use a license",
+      "start": 2847.839,
+      "duration": 3.121
+    },
+    {
+      "text": "which is called something like for",
+      "start": 2849.839,
+      "duration": 2.881
+    },
+    {
+      "text": "editorial, you actually do need to",
+      "start": 2850.96,
+      "duration": 4.08
+    },
+    {
+      "text": "reference. Also make sure that you use",
+      "start": 2852.72,
+      "duration": 4.96
+    },
+    {
+      "text": "images from license history using your",
+      "start": 2855.04,
+      "duration": 4.4
+    },
+    {
+      "text": "um using your Swindon account because",
+      "start": 2857.68,
+      "duration": 3.52
+    },
+    {
+      "text": "otherwise you will have to pay for them",
+      "start": 2859.44,
+      "duration": 5.04
+    },
+    {
+      "text": "which is probably not ideal.",
+      "start": 2861.2,
+      "duration": 5.919
+    },
+    {
+      "text": "Um but yes so I will just um finish",
+      "start": 2864.48,
+      "duration": 5.76
+    },
+    {
+      "text": "showing with other functions you have.",
+      "start": 2867.119,
+      "duration": 6.321
+    },
+    {
+      "text": "So this is like I showed before crop and",
+      "start": 2870.24,
+      "duration": 6.56
+    },
+    {
+      "text": "rotate to transform the videos.",
+      "start": 2873.44,
+      "duration": 5.44
+    },
+    {
+      "text": "This is audio to transform to make",
+      "start": 2876.8,
+      "duration": 4.559
+    },
+    {
+      "text": "changes to your audio files. This is",
+      "start": 2878.88,
+      "duration": 4.479
+    },
+    {
+      "text": "speed to make changes to the speed of",
+      "start": 2881.359,
+      "duration": 4.561
+    },
+    {
+      "text": "your video clips. This one is colors.",
+      "start": 2883.359,
+      "duration": 5.201
+    },
+    {
+      "text": "You can calibrate your clips. Uh you can",
+      "start": 2885.92,
+      "duration": 4.48
+    },
+    {
+      "text": "choose one of the presets or you can go",
+      "start": 2888.56,
+      "duration": 4.96
+    },
+    {
+      "text": "into more advanced edits in here.",
+      "start": 2890.4,
+      "duration": 5.52
+    },
+    {
+      "text": "Uh to change the exposure, contrast and",
+      "start": 2893.52,
+      "duration": 4.4
+    },
+    {
+      "text": "you know all the similar settings. I",
+      "start": 2895.92,
+      "duration": 3.84
+    },
+    {
+      "text": "will not go into detail on that because",
+      "start": 2897.92,
+      "duration": 3.679
+    },
+    {
+      "text": "we don't have time unfortunately to",
+      "start": 2899.76,
+      "duration": 3.52
+    },
+    {
+      "text": "cover that. But if that is something",
+      "start": 2901.599,
+      "duration": 3.361
+    },
+    {
+      "text": "you're interested in, there are lots of",
+      "start": 2903.28,
+      "duration": 3.36
+    },
+    {
+      "text": "tutorials online or again feel free to",
+      "start": 2904.96,
+      "duration": 5.359
+    },
+    {
+      "text": "book a session with us. Um there's a",
+      "start": 2906.64,
+      "duration": 6.479
+    },
+    {
+      "text": "this is the effects panel. So you can um",
+      "start": 2910.319,
+      "duration": 4.561
+    },
+    {
+      "text": "here you can add pen and zoom to your",
+      "start": 2913.119,
+      "duration": 4.96
+    },
+    {
+      "text": "photos. You can also add auto frame if",
+      "start": 2914.88,
+      "duration": 6.719
+    },
+    {
+      "text": "your clip is bigger um",
+      "start": 2918.079,
+      "duration": 6.721
+    },
+    {
+      "text": "than um",
+      "start": 2921.599,
+      "duration": 6.72
+    },
+    {
+      "text": "the kind of how do I say the frame uh",
+      "start": 2924.8,
+      "duration": 6.4
+    },
+    {
+      "text": "the frame of your video. So you can",
+      "start": 2928.319,
+      "duration": 6.321
+    },
+    {
+      "text": "enable it and then you can uh change how",
+      "start": 2931.2,
+      "duration": 5.68
+    },
+    {
+      "text": "do you actually want it um to be",
+      "start": 2934.64,
+      "duration": 4.64
+    },
+    {
+      "text": "reframed. However, I would be a bit",
+      "start": 2936.88,
+      "duration": 4.16
+    },
+    {
+      "text": "careful with this one because it also",
+      "start": 2939.28,
+      "duration": 5.039
+    },
+    {
+      "text": "adds animation often and this animation",
+      "start": 2941.04,
+      "duration": 5.2
+    },
+    {
+      "text": "might not be ideal. So, even though I",
+      "start": 2944.319,
+      "duration": 3.601
+    },
+    {
+      "text": "said you can't add animation to your",
+      "start": 2946.24,
+      "duration": 3.52
+    },
+    {
+      "text": "video, you can add it if your video is",
+      "start": 2947.92,
+      "duration": 4.96
+    },
+    {
+      "text": "bigger than your original frame, but it",
+      "start": 2949.76,
+      "duration": 5.68
+    },
+    {
+      "text": "will be a bit unpredictable. Uh, so I",
+      "start": 2952.88,
+      "duration": 5.12
+    },
+    {
+      "text": "wouldn't I wouldn't use it unless you",
+      "start": 2955.44,
+      "duration": 4.56
+    },
+    {
+      "text": "kind of just test it and it really looks",
+      "start": 2958.0,
+      "duration": 4.72
+    },
+    {
+      "text": "nice. Otherwise just use you know",
+      "start": 2960.0,
+      "duration": 6.0
+    },
+    {
+      "text": "transform function to make sure that uh",
+      "start": 2962.72,
+      "duration": 5.359
+    },
+    {
+      "text": "you show the part of your video that you",
+      "start": 2966.0,
+      "duration": 4.319
+    },
+    {
+      "text": "actually want to show. And finally you",
+      "start": 2968.079,
+      "duration": 5.921
+    },
+    {
+      "text": "have transitions here. Uh so transitions",
+      "start": 2970.319,
+      "duration": 6.961
+    },
+    {
+      "text": "you know just like in movie maker um you",
+      "start": 2974.0,
+      "duration": 5.28
+    },
+    {
+      "text": "can add transitions between the clips.",
+      "start": 2977.28,
+      "duration": 3.92
+    },
+    {
+      "text": "So if you want to add a transition just",
+      "start": 2979.28,
+      "duration": 4.16
+    },
+    {
+      "text": "click and drag between uh this",
+      "start": 2981.2,
+      "duration": 3.84
+    },
+    {
+      "text": "transition between clips and it will be",
+      "start": 2983.44,
+      "duration": 3.919
+    },
+    {
+      "text": "automatically applied. You can also add",
+      "start": 2985.04,
+      "duration": 4.24
+    },
+    {
+      "text": "a condition on the one side of the clip",
+      "start": 2987.359,
+      "duration": 5.521
+    },
+    {
+      "text": "if there is no um clip next to it. And",
+      "start": 2989.28,
+      "duration": 6.0
+    },
+    {
+      "text": "if you zoom in, you can change the",
+      "start": 2992.88,
+      "duration": 4.479
+    },
+    {
+      "text": "duration of a condition just like uh",
+      "start": 2995.28,
+      "duration": 3.76
+    },
+    {
+      "text": "duration of the clip just by clicking on",
+      "start": 2997.359,
+      "duration": 3.76
+    },
+    {
+      "text": "the condition",
+      "start": 2999.04,
+      "duration": 4.799
+    },
+    {
+      "text": "zooming a bit more and using this arrows",
+      "start": 3001.119,
+      "duration": 5.921
+    },
+    {
+      "text": "to expand it. Uh or alternatively you",
+      "start": 3003.839,
+      "duration": 5.201
+    },
+    {
+      "text": "can change the duration here. You can",
+      "start": 3007.04,
+      "duration": 5.44
+    },
+    {
+      "text": "also always just click on any number and",
+      "start": 3009.04,
+      "duration": 6.16
+    },
+    {
+      "text": "just manually enter it.",
+      "start": 3012.48,
+      "duration": 4.8
+    },
+    {
+      "text": "Uh so you have a few transitions like",
+      "start": 3015.2,
+      "duration": 4.639
+    },
+    {
+      "text": "wipe up, wipe down, dissolve, deep to",
+      "start": 3017.28,
+      "duration": 4.88
+    },
+    {
+      "text": "black, deep to white. Uh I wouldn't",
+      "start": 3019.839,
+      "duration": 3.841
+    },
+    {
+      "text": "recommend using something like you know",
+      "start": 3022.16,
+      "duration": 3.12
+    },
+    {
+      "text": "slide right just because it's very",
+      "start": 3023.68,
+      "duration": 5.2
+    },
+    {
+      "text": "poweroint 1990 or like 2000 would be",
+      "start": 3025.28,
+      "duration": 6.559
+    },
+    {
+      "text": "more correct way to put it. Uh but",
+      "start": 3028.88,
+      "duration": 4.56
+    },
+    {
+      "text": "something like a dissolve can be a very",
+      "start": 3031.839,
+      "duration": 3.921
+    },
+    {
+      "text": "nice transition especially if you have",
+      "start": 3033.44,
+      "duration": 4.639
+    },
+    {
+      "text": "um two clips which are maybe like kind",
+      "start": 3035.76,
+      "duration": 4.0
+    },
+    {
+      "text": "of similar or maybe you want one image",
+      "start": 3038.079,
+      "duration": 3.841
+    },
+    {
+      "text": "to dissolve into another. Again, you can",
+      "start": 3039.76,
+      "duration": 4.0
+    },
+    {
+      "text": "absolutely add the same transitions to",
+      "start": 3041.92,
+      "duration": 3.679
+    },
+    {
+      "text": "images, you can add those transitions to",
+      "start": 3043.76,
+      "duration": 4.72
+    },
+    {
+      "text": "audio files, anything, you know,",
+      "start": 3045.599,
+      "duration": 5.121
+    },
+    {
+      "text": "anything you can think of. Uh texts like",
+      "start": 3048.48,
+      "duration": 4.16
+    },
+    {
+      "text": "we will show in a second. You can add",
+      "start": 3050.72,
+      "duration": 6.0
+    },
+    {
+      "text": "those um transitions.",
+      "start": 3052.64,
+      "duration": 5.84
+    },
+    {
+      "text": "Um but yes, those are the transitions.",
+      "start": 3056.72,
+      "duration": 4.24
+    },
+    {
+      "text": "Uh you have not too many, but again, you",
+      "start": 3058.48,
+      "duration": 4.48
+    },
+    {
+      "text": "probably don't need something like a",
+      "start": 3060.96,
+      "duration": 6.24
+    },
+    {
+      "text": "book um book page turning uh I imagine.",
+      "start": 3062.96,
+      "duration": 6.399
+    },
+    {
+      "text": "And then the final one is graphics. So",
+      "start": 3067.2,
+      "duration": 4.72
+    },
+    {
+      "text": "if you want to add any graphics like",
+      "start": 3069.359,
+      "duration": 4.96
+    },
+    {
+      "text": "titles",
+      "start": 3071.92,
+      "duration": 5.679
+    },
+    {
+      "text": "or actually graphics, uh this is where",
+      "start": 3074.319,
+      "duration": 6.401
+    },
+    {
+      "text": "you can go and click add graphics or",
+      "start": 3077.599,
+      "duration": 5.121
+    },
+    {
+      "text": "again you can click on this plus button",
+      "start": 3080.72,
+      "duration": 5.96
+    },
+    {
+      "text": "and say add graphics",
+      "start": 3082.72,
+      "duration": 3.96
+    },
+    {
+      "text": "and it will open this panel here where",
+      "start": 3087.359,
+      "duration": 5.921
+    },
+    {
+      "text": "you can check um where you can choose",
+      "start": 3090.4,
+      "duration": 5.679
+    },
+    {
+      "text": "what graph you're looking for. So you",
+      "start": 3093.28,
+      "duration": 5.36
+    },
+    {
+      "text": "maybe you're looking for overlays. So it",
+      "start": 3096.079,
+      "duration": 4.321
+    },
+    {
+      "text": "has some nice overlays like a computer",
+      "start": 3098.64,
+      "duration": 3.76
+    },
+    {
+      "text": "screen",
+      "start": 3100.4,
+      "duration": 4.32
+    },
+    {
+      "text": "or maybe you're looking for which you",
+      "start": 3102.4,
+      "duration": 5.76
+    },
+    {
+      "text": "know you can drop um drag and drop uh on",
+      "start": 3104.72,
+      "duration": 6.96
+    },
+    {
+      "text": "top of your images and it will you know",
+      "start": 3108.16,
+      "duration": 7.04
+    },
+    {
+      "text": "um obviously appear there and then maybe",
+      "start": 3111.68,
+      "duration": 5.2
+    },
+    {
+      "text": "you might want to scroll like your",
+      "start": 3115.2,
+      "duration": 3.919
+    },
+    {
+      "text": "images or your videos uh so that it",
+      "start": 3116.88,
+      "duration": 4.479
+    },
+    {
+      "text": "appears underneath your overlay.",
+      "start": 3119.119,
+      "duration": 3.681
+    },
+    {
+      "text": "Probably not something you will be using",
+      "start": 3121.359,
+      "duration": 3.441
+    },
+    {
+      "text": "for this assignment. You have transition",
+      "start": 3122.8,
+      "duration": 4.96
+    },
+    {
+      "text": "graphics",
+      "start": 3124.8,
+      "duration": 5.12
+    },
+    {
+      "text": "um which again are just kind of fancy",
+      "start": 3127.76,
+      "duration": 4.16
+    },
+    {
+      "text": "titles and fancy graphics that you can",
+      "start": 3129.92,
+      "duration": 5.04
+    },
+    {
+      "text": "draw drag and drop. Um so they will be",
+      "start": 3131.92,
+      "duration": 4.399
+    },
+    {
+      "text": "kind of like overlays but with",
+      "start": 3134.96,
+      "duration": 3.04
+    },
+    {
+      "text": "animation. Again something you're",
+      "start": 3136.319,
+      "duration": 3.681
+    },
+    {
+      "text": "probably not looking to use for this",
+      "start": 3138.0,
+      "duration": 3.76
+    },
+    {
+      "text": "assignment but you can obviously just",
+      "start": 3140.0,
+      "duration": 4.24
+    },
+    {
+      "text": "kind of browse what they have. Um I",
+      "start": 3141.76,
+      "duration": 3.92
+    },
+    {
+      "text": "believe this is also where they have",
+      "start": 3144.24,
+      "duration": 4.8
+    },
+    {
+      "text": "background if so if you uh just search",
+      "start": 3145.68,
+      "duration": 6.0
+    },
+    {
+      "text": "for background in transition graphics.",
+      "start": 3149.04,
+      "duration": 5.2
+    },
+    {
+      "text": "This is where you can ch um choose a",
+      "start": 3151.68,
+      "duration": 4.96
+    },
+    {
+      "text": "basic solid background. So basically, if",
+      "start": 3154.24,
+      "duration": 4.0
+    },
+    {
+      "text": "you're just looking for your text or",
+      "start": 3156.64,
+      "duration": 4.08
+    },
+    {
+      "text": "anything like an image to appear on top",
+      "start": 3158.24,
+      "duration": 5.44
+    },
+    {
+      "text": "of a background, go to go to plus",
+      "start": 3160.72,
+      "duration": 4.96
+    },
+    {
+      "text": "graphics transition graphics and search",
+      "start": 3163.68,
+      "duration": 4.24
+    },
+    {
+      "text": "for background.",
+      "start": 3165.68,
+      "duration": 3.84
+    },
+    {
+      "text": "And then again, you can just drag and",
+      "start": 3167.92,
+      "duration": 4.08
+    },
+    {
+      "text": "drop it to your project. And if you",
+      "start": 3169.52,
+      "duration": 4.559
+    },
+    {
+      "text": "double click on it or if you click on it",
+      "start": 3172.0,
+      "duration": 4.88
+    },
+    {
+      "text": "once and just go to graphics here, you",
+      "start": 3174.079,
+      "duration": 5.441
+    },
+    {
+      "text": "can change its color. So right now it's",
+      "start": 3176.88,
+      "duration": 5.28
+    },
+    {
+      "text": "white. Uh for the sake of time I will",
+      "start": 3179.52,
+      "duration": 4.4
+    },
+    {
+      "text": "not change it color but you know",
+      "start": 3182.16,
+      "duration": 3.76
+    },
+    {
+      "text": "actually okay I will change it color. Uh",
+      "start": 3183.92,
+      "duration": 4.08
+    },
+    {
+      "text": "you can just double click and change um",
+      "start": 3185.92,
+      "duration": 4.399
+    },
+    {
+      "text": "choose any color you want. Now it's",
+      "start": 3188.0,
+      "duration": 5.2
+    },
+    {
+      "text": "going to be black. Um",
+      "start": 3190.319,
+      "duration": 5.681
+    },
+    {
+      "text": "so yes very simple add in background and",
+      "start": 3193.2,
+      "duration": 4.399
+    },
+    {
+      "text": "obviously titles is something you",
+      "start": 3196.0,
+      "duration": 3.76
+    },
+    {
+      "text": "actually want to might want to use. So",
+      "start": 3197.599,
+      "duration": 4.161
+    },
+    {
+      "text": "there are many many many presets with",
+      "start": 3199.76,
+      "duration": 4.559
+    },
+    {
+      "text": "animation and just you know nice uh nice",
+      "start": 3201.76,
+      "duration": 4.559
+    },
+    {
+      "text": "fancy fonts.",
+      "start": 3204.319,
+      "duration": 4.401
+    },
+    {
+      "text": "Um maybe you know you want to try",
+      "start": 3206.319,
+      "duration": 5.52
+    },
+    {
+      "text": "something like wipe. Uh again you know",
+      "start": 3208.72,
+      "duration": 4.56
+    },
+    {
+      "text": "feel free to utilize the search",
+      "start": 3211.839,
+      "duration": 4.801
+    },
+    {
+      "text": "function. You'll have quite a few um",
+      "start": 3213.28,
+      "duration": 5.52
+    },
+    {
+      "text": "graphics uh to choose like text to",
+      "start": 3216.64,
+      "duration": 5.36
+    },
+    {
+      "text": "choose from. Again drag and drop. Uh you",
+      "start": 3218.8,
+      "duration": 5.6
+    },
+    {
+      "text": "can change the duration of your text. Uh",
+      "start": 3222.0,
+      "duration": 4.0
+    },
+    {
+      "text": "it will snap toward the beginning of the",
+      "start": 3224.4,
+      "duration": 3.439
+    },
+    {
+      "text": "clip if that's what if that's is where",
+      "start": 3226.0,
+      "duration": 5.2
+    },
+    {
+      "text": "you want it to start. And then",
+      "start": 3227.839,
+      "duration": 5.52
+    },
+    {
+      "text": "if you double click on your text or you",
+      "start": 3231.2,
+      "duration": 4.96
+    },
+    {
+      "text": "click on it once and click on this",
+      "start": 3233.359,
+      "duration": 5.281
+    },
+    {
+      "text": "little T button, you can make changes to",
+      "start": 3236.16,
+      "duration": 4.72
+    },
+    {
+      "text": "its color. You can change any font you",
+      "start": 3238.64,
+      "duration": 6.959
+    },
+    {
+      "text": "like. Um and on like in the video",
+      "start": 3240.88,
+      "duration": 6.719
+    },
+    {
+      "text": "itself, you can actually make changes to",
+      "start": 3245.599,
+      "duration": 5.161
+    },
+    {
+      "text": "the text.",
+      "start": 3247.599,
+      "duration": 3.161
+    },
+    {
+      "text": ">> Yes. again because this is important. uh",
+      "start": 3251.44,
+      "duration": 5.919
+    },
+    {
+      "text": "I guess um can you just uh brief us",
+      "start": 3254.4,
+      "duration": 6.719
+    },
+    {
+      "text": "about if I'm going to present so I want",
+      "start": 3257.359,
+      "duration": 7.121
+    },
+    {
+      "text": "to come and introduce my topic and then",
+      "start": 3261.119,
+      "duration": 6.081
+    },
+    {
+      "text": "I have some images or maybe short video",
+      "start": 3264.48,
+      "duration": 5.68
+    },
+    {
+      "text": "I can over I can add the audio I can",
+      "start": 3267.2,
+      "duration": 5.919
+    },
+    {
+      "text": "bring all of these effects but if there",
+      "start": 3270.16,
+      "duration": 6.399
+    },
+    {
+      "text": "are some slide or the text in between",
+      "start": 3273.119,
+      "duration": 6.321
+    },
+    {
+      "text": "that it's going to break down my session",
+      "start": 3276.559,
+      "duration": 5.28
+    },
+    {
+      "text": "like I introduced to the science",
+      "start": 3279.44,
+      "duration": 5.44
+    },
+    {
+      "text": "challenge then I bring some fact or",
+      "start": 3281.839,
+      "duration": 5.52
+    },
+    {
+      "text": "images to explain my science challenge.",
+      "start": 3284.88,
+      "duration": 5.679
+    },
+    {
+      "text": "Then I want to talk about solution. So",
+      "start": 3287.359,
+      "duration": 5.2
+    },
+    {
+      "text": "something that it's going to be in",
+      "start": 3290.559,
+      "duration": 4.241
+    },
+    {
+      "text": "different sections. So if I want to add",
+      "start": 3292.559,
+      "duration": 4.961
+    },
+    {
+      "text": "in something like a slide but with the",
+      "start": 3294.8,
+      "duration": 4.559
+    },
+    {
+      "text": "text",
+      "start": 3297.52,
+      "duration": 4.4
+    },
+    {
+      "text": ">> how that can be selected is that from",
+      "start": 3299.359,
+      "duration": 4.401
+    },
+    {
+      "text": "the backgrounds that you mentioned with",
+      "start": 3301.92,
+      "duration": 2.88
+    },
+    {
+      "text": "the",
+      "start": 3303.76,
+      "duration": 3.28
+    },
+    {
+      "text": ">> So what we can do is either you can look",
+      "start": 3304.8,
+      "duration": 4.48
+    },
+    {
+      "text": "for some presets of text which have a",
+      "start": 3307.04,
+      "duration": 5.2
+    },
+    {
+      "text": "background like this one very um very",
+      "start": 3309.28,
+      "duration": 4.88
+    },
+    {
+      "text": "relevant for our pride week. It already",
+      "start": 3312.24,
+      "duration": 4.8
+    },
+    {
+      "text": "comes with a background. Alternatively,",
+      "start": 3314.16,
+      "duration": 5.439
+    },
+    {
+      "text": "you can either add a solid background",
+      "start": 3317.04,
+      "duration": 5.039
+    },
+    {
+      "text": "and obviously drag and drop it where you",
+      "start": 3319.599,
+      "duration": 5.201
+    },
+    {
+      "text": "need it and add text on top of the",
+      "start": 3322.079,
+      "duration": 4.401
+    },
+    {
+      "text": "background, you know, change the",
+      "start": 3324.8,
+      "duration": 4.16
+    },
+    {
+      "text": "duration for however long you need, um,",
+      "start": 3326.48,
+      "duration": 4.879
+    },
+    {
+      "text": "etc. Or you can import an image. So",
+      "start": 3328.96,
+      "duration": 4.0
+    },
+    {
+      "text": "maybe you created an image yourself or",
+      "start": 3331.359,
+      "duration": 3.2
+    },
+    {
+      "text": "you downloaded an image which is",
+      "start": 3332.96,
+      "duration": 4.159
+    },
+    {
+      "text": "royalty-ree uh, and creative comments",
+      "start": 3334.559,
+      "duration": 4.641
+    },
+    {
+      "text": "preferably which is royaltyree means",
+      "start": 3337.119,
+      "duration": 3.841
+    },
+    {
+      "text": "that you still have to pay for advance.",
+      "start": 3339.2,
+      "duration": 3.28
+    },
+    {
+      "text": "Uh, creative comments means that it's",
+      "start": 3340.96,
+      "duration": 5.04
+    },
+    {
+      "text": "free. And then again just uh download it",
+      "start": 3342.48,
+      "duration": 5.92
+    },
+    {
+      "text": "in the project like any other image and",
+      "start": 3346.0,
+      "duration": 5.119
+    },
+    {
+      "text": "just add text on top of it.",
+      "start": 3348.4,
+      "duration": 4.88
+    },
+    {
+      "text": "But um also this text so for instance",
+      "start": 3351.119,
+      "duration": 3.601
+    },
+    {
+      "text": "this text already comes with this kind",
+      "start": 3353.28,
+      "duration": 3.519
+    },
+    {
+      "text": "of animation. And again there are many",
+      "start": 3354.72,
+      "duration": 3.76
+    },
+    {
+      "text": "many many presets. So maybe you find",
+      "start": 3356.799,
+      "duration": 3.76
+    },
+    {
+      "text": "something you like. But if you don't",
+      "start": 3358.48,
+      "duration": 4.24
+    },
+    {
+      "text": "find anything you like what you can do",
+      "start": 3360.559,
+      "duration": 5.841
+    },
+    {
+      "text": "just uh t um type in basic",
+      "start": 3362.72,
+      "duration": 5.839
+    },
+    {
+      "text": "and we'll just uh come with this basic",
+      "start": 3366.4,
+      "duration": 4.08
+    },
+    {
+      "text": "default title or basic title on",
+      "start": 3368.559,
+      "duration": 3.601
+    },
+    {
+      "text": "background. So I already have my",
+      "start": 3370.48,
+      "duration": 3.28
+    },
+    {
+      "text": "background. solo just go with basic",
+      "start": 3372.16,
+      "duration": 5.679
+    },
+    {
+      "text": "default title. It has uh no animation.",
+      "start": 3373.76,
+      "duration": 7.44
+    },
+    {
+      "text": "It has um like no fancy effects. But for",
+      "start": 3377.839,
+      "duration": 5.76
+    },
+    {
+      "text": "instance, what you can do is you can",
+      "start": 3381.2,
+      "duration": 6.08
+    },
+    {
+      "text": "actually animate it yourself. Um so",
+      "start": 3383.599,
+      "duration": 7.321
+    },
+    {
+      "text": "again, let's say",
+      "start": 3387.28,
+      "duration": 3.64
+    },
+    {
+      "text": "we have our title, we choose the font we",
+      "start": 3391.04,
+      "duration": 5.519
+    },
+    {
+      "text": "like and again as students you can",
+      "start": 3394.079,
+      "duration": 4.081
+    },
+    {
+      "text": "actually add Adobe fonts for free. There",
+      "start": 3396.559,
+      "duration": 3.681
+    },
+    {
+      "text": "are many many fonts. You might have to",
+      "start": 3398.16,
+      "duration": 3.84
+    },
+    {
+      "text": "like input them in the creative cloud",
+      "start": 3400.24,
+      "duration": 4.079
+    },
+    {
+      "text": "software first, but you can choose the",
+      "start": 3402.0,
+      "duration": 4.559
+    },
+    {
+      "text": "font uh you can choose the font style",
+      "start": 3404.319,
+      "duration": 4.321
+    },
+    {
+      "text": "where you will have uh stuff like bold",
+      "start": 3406.559,
+      "duration": 5.28
+    },
+    {
+      "text": "or light obviously",
+      "start": 3408.64,
+      "duration": 5.6
+    },
+    {
+      "text": "you know all that you don't have you",
+      "start": 3411.839,
+      "duration": 4.161
+    },
+    {
+      "text": "don't have underlined here for some",
+      "start": 3414.24,
+      "duration": 3.76
+    },
+    {
+      "text": "reason but there are some underlined",
+      "start": 3416.0,
+      "duration": 3.68
+    },
+    {
+      "text": "texts and presets you can change the",
+      "start": 3418.0,
+      "duration": 3.44
+    },
+    {
+      "text": "color you can change the outline you can",
+      "start": 3419.68,
+      "duration": 4.32
+    },
+    {
+      "text": "add drop shadow and change opacity of",
+      "start": 3421.44,
+      "duration": 6.32
+    },
+    {
+      "text": "drop shadow um you can make multiple",
+      "start": 3424.0,
+      "duration": 5.44
+    },
+    {
+      "text": "changes to how you want your text to",
+      "start": 3427.76,
+      "duration": 3.92
+    },
+    {
+      "text": "look. But once you do all that, you can",
+      "start": 3429.44,
+      "duration": 4.48
+    },
+    {
+      "text": "also go to effects",
+      "start": 3431.68,
+      "duration": 3.84
+    },
+    {
+      "text": "transitions.",
+      "start": 3433.92,
+      "duration": 4.08
+    },
+    {
+      "text": "And for instance,",
+      "start": 3435.52,
+      "duration": 6.24
+    },
+    {
+      "text": "let's say we add wipe, right? So there",
+      "start": 3438.0,
+      "duration": 6.079
+    },
+    {
+      "text": "are some obviously wipes in the presets,",
+      "start": 3441.76,
+      "duration": 3.76
+    },
+    {
+      "text": "but maybe you're not happy with any",
+      "start": 3444.079,
+      "duration": 3.601
+    },
+    {
+      "text": "presets you have. So you just add the",
+      "start": 3445.52,
+      "duration": 4.559
+    },
+    {
+      "text": "wipe up transition. You change its",
+      "start": 3447.68,
+      "duration": 4.48
+    },
+    {
+      "text": "duration, maybe",
+      "start": 3450.079,
+      "duration": 6.321
+    },
+    {
+      "text": "something like that, and it will add the",
+      "start": 3452.16,
+      "duration": 7.28
+    },
+    {
+      "text": "animation. So for some reason when it",
+      "start": 3456.4,
+      "duration": 7.04
+    },
+    {
+      "text": "starts as animation the beginning",
+      "start": 3459.44,
+      "duration": 6.159
+    },
+    {
+      "text": "is just empty. So there is nothing here.",
+      "start": 3463.44,
+      "duration": 4.56
+    },
+    {
+      "text": "It takes a few seconds to appear. So you",
+      "start": 3465.599,
+      "duration": 5.52
+    },
+    {
+      "text": "might um want to kind of move your text",
+      "start": 3468.0,
+      "duration": 4.799
+    },
+    {
+      "text": "so that it actually appears when you",
+      "start": 3471.119,
+      "duration": 4.161
+    },
+    {
+      "text": "want it to appear or you can use the uh",
+      "start": 3472.799,
+      "duration": 6.081
+    },
+    {
+      "text": "scissors to t um to cut the beginning",
+      "start": 3475.28,
+      "duration": 5.76
+    },
+    {
+      "text": "off.",
+      "start": 3478.88,
+      "duration": 3.84
+    },
+    {
+      "text": "But then no you can't do it",
+      "start": 3481.04,
+      "duration": 3.44
+    },
+    {
+      "text": "unfortunately in rush. Sorry about that.",
+      "start": 3482.72,
+      "duration": 3.2
+    },
+    {
+      "text": "You can do it in Premiere, but you can't",
+      "start": 3484.48,
+      "duration": 2.879
+    },
+    {
+      "text": "do it in Rush because then it just",
+      "start": 3485.92,
+      "duration": 4.08
+    },
+    {
+      "text": "deletes the entire effect. Um, but yes,",
+      "start": 3487.359,
+      "duration": 4.641
+    },
+    {
+      "text": "then you can just kind of move it around",
+      "start": 3490.0,
+      "duration": 4.64
+    },
+    {
+      "text": "so that the text appears",
+      "start": 3492.0,
+      "duration": 5.599
+    },
+    {
+      "text": "when it's supposed to. But here you go.",
+      "start": 3494.64,
+      "duration": 5.199
+    },
+    {
+      "text": "You just added the animation yourself.",
+      "start": 3497.599,
+      "duration": 5.121
+    },
+    {
+      "text": ">> There is no limitation on the number uh",
+      "start": 3499.839,
+      "duration": 4.96
+    },
+    {
+      "text": "for the number of the words that we can",
+      "start": 3502.72,
+      "duration": 5.359
+    },
+    {
+      "text": "add to this white to this background.",
+      "start": 3504.799,
+      "duration": 5.52
+    },
+    {
+      "text": ">> No limitation. Uh, obviously, you know,",
+      "start": 3508.079,
+      "duration": 4.24
+    },
+    {
+      "text": "if if you have too many words, make sure",
+      "start": 3510.319,
+      "duration": 3.601
+    },
+    {
+      "text": "that your font is small enough to",
+      "start": 3512.319,
+      "duration": 3.841
+    },
+    {
+      "text": "actually fit it on the screen. And keep",
+      "start": 3513.92,
+      "duration": 4.08
+    },
+    {
+      "text": "in mind that the more words you have",
+      "start": 3516.16,
+      "duration": 3.84
+    },
+    {
+      "text": "also the longer you want to keep them on",
+      "start": 3518.0,
+      "duration": 4.4
+    },
+    {
+      "text": "screen because if you know the text,",
+      "start": 3520.0,
+      "duration": 4.559
+    },
+    {
+      "text": "it's faster for you to read it. If the",
+      "start": 3522.4,
+      "duration": 3.84
+    },
+    {
+      "text": "viewer doesn't know the text, it will",
+      "start": 3524.559,
+      "duration": 3.28
+    },
+    {
+      "text": "take longer for them to read it. So,",
+      "start": 3526.24,
+      "duration": 3.599
+    },
+    {
+      "text": "just keep that in mind. And can you",
+      "start": 3527.839,
+      "duration": 5.601
+    },
+    {
+      "text": "please uh uh one more time show us where",
+      "start": 3529.839,
+      "duration": 7.681
+    },
+    {
+      "text": "you did you use the font for adding um",
+      "start": 3533.44,
+      "duration": 6.8
+    },
+    {
+      "text": "you know what was the font that you use",
+      "start": 3537.52,
+      "duration": 3.599
+    },
+    {
+      "text": "um",
+      "start": 3540.24,
+      "duration": 4.16
+    },
+    {
+      "text": ">> to choose for adding the",
+      "start": 3541.119,
+      "duration": 6.801
+    },
+    {
+      "text": "text. No worries. Uh so you can either",
+      "start": 3544.4,
+      "duration": 5.439
+    },
+    {
+      "text": "click on this button just uh you know",
+      "start": 3547.92,
+      "duration": 3.84
+    },
+    {
+      "text": "and select everything uh click on this",
+      "start": 3549.839,
+      "duration": 5.121
+    },
+    {
+      "text": "button and then go to add graphics add",
+      "start": 3551.76,
+      "duration": 6.319
+    },
+    {
+      "text": "graphic or you can click on this bit",
+      "start": 3554.96,
+      "duration": 6.24
+    },
+    {
+      "text": "plus button and say add the graphics uh",
+      "start": 3558.079,
+      "duration": 5.52
+    },
+    {
+      "text": "and here it says graphics several figure",
+      "start": 3561.2,
+      "duration": 4.48
+    },
+    {
+      "text": "and then you will be presented with this",
+      "start": 3563.599,
+      "duration": 5.601
+    },
+    {
+      "text": "screen and you can change uh browse all",
+      "start": 3565.68,
+      "duration": 5.76
+    },
+    {
+      "text": "the titles transition graphics or",
+      "start": 3569.2,
+      "duration": 5.04
+    },
+    {
+      "text": "overlays or saved if you saved something",
+      "start": 3571.44,
+      "duration": 4.8
+    },
+    {
+      "text": "uh I haven't saved saved anything But,",
+      "start": 3574.24,
+      "duration": 3.28
+    },
+    {
+      "text": "you know, if you like something, you can",
+      "start": 3576.24,
+      "duration": 3.599
+    },
+    {
+      "text": "add it to",
+      "start": 3577.52,
+      "duration": 6.24
+    },
+    {
+      "text": "your favorites. Um, and then you will be",
+      "start": 3579.839,
+      "duration": 6.161
+    },
+    {
+      "text": "able to just kind of browse everything",
+      "start": 3583.76,
+      "duration": 4.4
+    },
+    {
+      "text": "uh all the presets they have. Or you can",
+      "start": 3586.0,
+      "duration": 4.079
+    },
+    {
+      "text": "always uh type in what you're looking",
+      "start": 3588.16,
+      "duration": 4.159
+    },
+    {
+      "text": "for and just hope that it comes with",
+      "start": 3590.079,
+      "duration": 6.321
+    },
+    {
+      "text": "comes up comes up with something.",
+      "start": 3592.319,
+      "duration": 6.24
+    },
+    {
+      "text": "And again, once you like something, uh,",
+      "start": 3596.4,
+      "duration": 5.56
+    },
+    {
+      "text": "click and drag",
+      "start": 3598.559,
+      "duration": 3.401
+    },
+    {
+      "text": "or click once and say add. And if you",
+      "start": 3602.88,
+      "duration": 7.36
+    },
+    {
+      "text": "just click once and say add um",
+      "start": 3605.04,
+      "duration": 7.84
+    },
+    {
+      "text": "let me say basic again. So for instance",
+      "start": 3610.24,
+      "duration": 5.04
+    },
+    {
+      "text": "I want to add basic title. Uh so I can",
+      "start": 3612.88,
+      "duration": 4.0
+    },
+    {
+      "text": "just position the playhead where I want",
+      "start": 3615.28,
+      "duration": 4.4
+    },
+    {
+      "text": "the text to appear. Click once click add",
+      "start": 3616.88,
+      "duration": 5.199
+    },
+    {
+      "text": "and it will add um the text where my",
+      "start": 3619.68,
+      "duration": 4.639
+    },
+    {
+      "text": "playhead is.",
+      "start": 3622.079,
+      "duration": 3.841
+    },
+    {
+      "text": "And once you're done just click on the",
+      "start": 3624.319,
+      "duration": 4.841
+    },
+    {
+      "text": "close button.",
+      "start": 3625.92,
+      "duration": 3.24
+    },
+    {
+      "text": "And again uh I guess uh we need to know",
+      "start": 3629.76,
+      "duration": 6.24
+    },
+    {
+      "text": "when we assemble all of these audio,",
+      "start": 3633.359,
+      "duration": 5.361
+    },
+    {
+      "text": "video, images, text how they are going",
+      "start": 3636.0,
+      "duration": 6.48
+    },
+    {
+      "text": "to be um you know come to a let's say 4m",
+      "start": 3638.72,
+      "duration": 6.879
+    },
+    {
+      "text": "minute video and how they are going how",
+      "start": 3642.48,
+      "duration": 5.44
+    },
+    {
+      "text": "we are going to share those.",
+      "start": 3645.599,
+      "duration": 4.561
+    },
+    {
+      "text": ">> Uh so okay uh let me just quickly uh",
+      "start": 3647.92,
+      "duration": 4.48
+    },
+    {
+      "text": "answer the question from chat first. So",
+      "start": 3650.16,
+      "duration": 4.48
+    },
+    {
+      "text": "the text works just like any other video",
+      "start": 3652.4,
+      "duration": 4.24
+    },
+    {
+      "text": "clip. can just double click on it and",
+      "start": 3654.64,
+      "duration": 4.88
+    },
+    {
+      "text": "drag it around to whenever you want.",
+      "start": 3656.64,
+      "duration": 4.719
+    },
+    {
+      "text": "Just make sure that sometimes some",
+      "start": 3659.52,
+      "duration": 3.76
+    },
+    {
+      "text": "screens might just crop the video a",
+      "start": 3661.359,
+      "duration": 3.44
+    },
+    {
+      "text": "little bit. So don't, you know, don't",
+      "start": 3663.28,
+      "duration": 4.72
+    },
+    {
+      "text": "drag it to like the very uh side of your",
+      "start": 3664.799,
+      "duration": 5.441
+    },
+    {
+      "text": "video because it might get cropped. Um",
+      "start": 3668.0,
+      "duration": 4.4
+    },
+    {
+      "text": "or otherwise you don't also use the crop",
+      "start": 3670.24,
+      "duration": 3.839
+    },
+    {
+      "text": "and rotate button again just like",
+      "start": 3672.4,
+      "duration": 6.64
+    },
+    {
+      "text": "anything else. um all all clips whether",
+      "start": 3674.079,
+      "duration": 7.681
+    },
+    {
+      "text": "it's again text video images uh they",
+      "start": 3679.04,
+      "duration": 4.72
+    },
+    {
+      "text": "behave in the exact same way and even",
+      "start": 3681.76,
+      "duration": 4.24
+    },
+    {
+      "text": "audio behaves in a very similar way",
+      "start": 3683.76,
+      "duration": 4.16
+    },
+    {
+      "text": "apart from the fact that it's obviously",
+      "start": 3686.0,
+      "duration": 4.16
+    },
+    {
+      "text": "audio",
+      "start": 3687.92,
+      "duration": 3.52
+    },
+    {
+      "text": "but yeah once you're happy with your",
+      "start": 3690.16,
+      "duration": 3.76
+    },
+    {
+      "text": "video probably not this but uh once",
+      "start": 3691.44,
+      "duration": 4.56
+    },
+    {
+      "text": "you're happy with your video uh click on",
+      "start": 3693.92,
+      "duration": 4.56
+    },
+    {
+      "text": "the share button and this is where you",
+      "start": 3696.0,
+      "duration": 6.48
+    },
+    {
+      "text": "can actually save it um",
+      "start": 3698.48,
+      "duration": 6.24
+    },
+    {
+      "text": "so you can directly import it to",
+      "start": 3702.48,
+      "duration": 4.16
+    },
+    {
+      "text": "YouTube, Facebook, Instagram or Behance.",
+      "start": 3704.72,
+      "duration": 3.44
+    },
+    {
+      "text": "But that is probably not something you",
+      "start": 3706.64,
+      "duration": 2.959
+    },
+    {
+      "text": "want to do. Even if you want to upload",
+      "start": 3708.16,
+      "duration": 2.959
+    },
+    {
+      "text": "it to YouTube, I would recommend saving",
+      "start": 3709.599,
+      "duration": 5.121
+    },
+    {
+      "text": "it first. Um, so",
+      "start": 3711.119,
+      "duration": 6.48
+    },
+    {
+      "text": "save to local. Again, by default, it",
+      "start": 3714.72,
+      "duration": 5.839
+    },
+    {
+      "text": "will be the destination chosen. Uh, name",
+      "start": 3717.599,
+      "duration": 5.281
+    },
+    {
+      "text": "your clip.",
+      "start": 3720.559,
+      "duration": 5.601
+    },
+    {
+      "text": "It will save as MP4 as an MP4 file. Uh,",
+      "start": 3722.88,
+      "duration": 5.439
+    },
+    {
+      "text": "you can go to advanced settings. So, by",
+      "start": 3726.16,
+      "duration": 3.12
+    },
+    {
+      "text": "default, everything will be",
+      "start": 3728.319,
+      "duration": 3.841
+    },
+    {
+      "text": "automatically linked to the clips you",
+      "start": 3729.28,
+      "duration": 5.519
+    },
+    {
+      "text": "imported. So it will keep all the",
+      "start": 3732.16,
+      "duration": 4.56
+    },
+    {
+      "text": "settings from the clips. But you can",
+      "start": 3734.799,
+      "duration": 4.0
+    },
+    {
+      "text": "also use one of the presets. So for",
+      "start": 3736.72,
+      "duration": 5.28
+    },
+    {
+      "text": "instance, YouTube uh 1080p",
+      "start": 3738.799,
+      "duration": 5.04
+    },
+    {
+      "text": "which is probably like a very popular",
+      "start": 3742.0,
+      "duration": 3.92
+    },
+    {
+      "text": "preset which is something you will see",
+      "start": 3743.839,
+      "duration": 4.881
+    },
+    {
+      "text": "on YouTube a lot. And it will give you",
+      "start": 3745.92,
+      "duration": 5.28
+    },
+    {
+      "text": "uh the resolution for that although you",
+      "start": 3748.72,
+      "duration": 4.72
+    },
+    {
+      "text": "can make further changes. The frame rate",
+      "start": 3751.2,
+      "duration": 4.159
+    },
+    {
+      "text": "so frame rate in Australia is actually",
+      "start": 3753.44,
+      "duration": 4.32
+    },
+    {
+      "text": "25 frames per second but for YouTube it",
+      "start": 3755.359,
+      "duration": 3.601
+    },
+    {
+      "text": "doesn't really matter. It can be 30",
+      "start": 3757.76,
+      "duration": 3.68
+    },
+    {
+      "text": "frames per second. Audio channels you",
+      "start": 3758.96,
+      "duration": 4.56
+    },
+    {
+      "text": "can change stereo to mono. Probably keep",
+      "start": 3761.44,
+      "duration": 5.44
+    },
+    {
+      "text": "it stereo. And quality. So u by default",
+      "start": 3763.52,
+      "duration": 5.039
+    },
+    {
+      "text": "it will be either high, medium or low.",
+      "start": 3766.88,
+      "duration": 3.84
+    },
+    {
+      "text": "If you don't choose any presets go with",
+      "start": 3768.559,
+      "duration": 4.24
+    },
+    {
+      "text": "high if you have enough space. Uh but if",
+      "start": 3770.72,
+      "duration": 4.0
+    },
+    {
+      "text": "you do need a small file maybe you can",
+      "start": 3772.799,
+      "duration": 4.881
+    },
+    {
+      "text": "try medium. I wouldn't recommend low. It",
+      "start": 3774.72,
+      "duration": 4.8
+    },
+    {
+      "text": "will show you the estimated file size as",
+      "start": 3777.68,
+      "duration": 5.52
+    },
+    {
+      "text": "well. It's not 100% accurate but it's",
+      "start": 3779.52,
+      "duration": 5.599
+    },
+    {
+      "text": "kind of accurate. Most likely it will",
+      "start": 3783.2,
+      "duration": 5.119
+    },
+    {
+      "text": "not be bigger than that.",
+      "start": 3785.119,
+      "duration": 5.601
+    },
+    {
+      "text": "And then again once you're happy with um",
+      "start": 3788.319,
+      "duration": 4.48
+    },
+    {
+      "text": "your settings",
+      "start": 3790.72,
+      "duration": 3.839
+    },
+    {
+      "text": "again feel free to go with automatic or",
+      "start": 3792.799,
+      "duration": 3.361
+    },
+    {
+      "text": "one of the presets. You don't have to",
+      "start": 3794.559,
+      "duration": 5.28
+    },
+    {
+      "text": "worry about all of that really. Um",
+      "start": 3796.16,
+      "duration": 6.72
+    },
+    {
+      "text": "again presets are good. Um just click on",
+      "start": 3799.839,
+      "duration": 5.041
+    },
+    {
+      "text": "the export button. It will take a few",
+      "start": 3802.88,
+      "duration": 3.84
+    },
+    {
+      "text": "minutes to export depending on how",
+      "start": 3804.88,
+      "duration": 3.84
+    },
+    {
+      "text": "complicated your project is and how many",
+      "start": 3806.72,
+      "duration": 4.639
+    },
+    {
+      "text": "transitions and effects you have and it",
+      "start": 3808.72,
+      "duration": 5.04
+    },
+    {
+      "text": "will export to basically um yes you can",
+      "start": 3811.359,
+      "duration": 4.24
+    },
+    {
+      "text": "also change the destination here of",
+      "start": 3813.76,
+      "duration": 3.76
+    },
+    {
+      "text": "course and it will export to that",
+      "start": 3815.599,
+      "duration": 4.161
+    },
+    {
+      "text": "destination. So maybe you know grab a",
+      "start": 3817.52,
+      "duration": 4.24
+    },
+    {
+      "text": "lunch while it's exporting and then you",
+      "start": 3819.76,
+      "duration": 4.88
+    },
+    {
+      "text": "will have your video file and also make",
+      "start": 3821.76,
+      "duration": 5.039
+    },
+    {
+      "text": "sure that you actually view the video",
+      "start": 3824.64,
+      "duration": 4.32
+    },
+    {
+      "text": "file before uploading it. just may you",
+      "start": 3826.799,
+      "duration": 3.76
+    },
+    {
+      "text": "know sometimes you can export and then",
+      "start": 3828.96,
+      "duration": 3.599
+    },
+    {
+      "text": "you will realize there was maybe uh one",
+      "start": 3830.559,
+      "duration": 4.081
+    },
+    {
+      "text": "of the audio tracks muted or one of the",
+      "start": 3832.559,
+      "duration": 4.961
+    },
+    {
+      "text": "video tracks are healing. Uh so you just",
+      "start": 3834.64,
+      "duration": 6.479
+    },
+    {
+      "text": "want to make sure that nothing happens",
+      "start": 3837.52,
+      "duration": 5.519
+    },
+    {
+      "text": "and you can always click on edit to go",
+      "start": 3841.119,
+      "duration": 4.641
+    },
+    {
+      "text": "back to the editor.",
+      "start": 3843.039,
+      "duration": 5.441
+    },
+    {
+      "text": "Uh the project is itself is saved in the",
+      "start": 3845.76,
+      "duration": 6.079
+    },
+    {
+      "text": "rush rushes file rash's folder sorry I",
+      "start": 3848.48,
+      "duration": 4.879
+    },
+    {
+      "text": "don't know what I'm saying in the rush's",
+      "start": 3851.839,
+      "duration": 4.641
+    },
+    {
+      "text": "folder on your uh hard drive but it's",
+      "start": 3853.359,
+      "duration": 6.801
+    },
+    {
+      "text": "also saved in the creative cloud so you",
+      "start": 3856.48,
+      "duration": 5.599
+    },
+    {
+      "text": "will not be able to find this project",
+      "start": 3860.16,
+      "duration": 4.32
+    },
+    {
+      "text": "because unfortunately this software it",
+      "start": 3862.079,
+      "duration": 4.48
+    },
+    {
+      "text": "really hides its projects uh it's kind",
+      "start": 3864.48,
+      "duration": 4.72
+    },
+    {
+      "text": "of inaccessible but again if you make",
+      "start": 3866.559,
+      "duration": 4.721
+    },
+    {
+      "text": "sure that it's linked to creative cloud",
+      "start": 3869.2,
+      "duration": 5.04
+    },
+    {
+      "text": "it will be backed up and if you need to",
+      "start": 3871.28,
+      "duration": 4.16
+    },
+    {
+      "text": "you know if something happens to your",
+      "start": 3874.24,
+      "duration": 4.72
+    },
+    {
+      "text": "computer will not be lost.",
+      "start": 3875.44,
+      "duration": 5.28
+    },
+    {
+      "text": "Yeah. Are there any other questions uh",
+      "start": 3878.96,
+      "duration": 3.119
+    },
+    {
+      "text": "at this point? I know that we're already",
+      "start": 3880.72,
+      "duration": 3.92
+    },
+    {
+      "text": "over time, so apologies about that. Um",
+      "start": 3882.079,
+      "duration": 4.24
+    },
+    {
+      "text": "but like anything else you'd like me to",
+      "start": 3884.64,
+      "duration": 4.84
+    },
+    {
+      "text": "go over?",
+      "start": 3886.319,
+      "duration": 3.161
+    },
+    {
+      "text": "Thank you very much Tiana.",
+      "start": 3892.799,
+      "duration": 6.401
+    },
+    {
+      "text": "So if you can just let us know that if a",
+      "start": 3895.44,
+      "duration": 6.48
+    },
+    {
+      "text": "students they need to um do you know",
+      "start": 3899.2,
+      "duration": 5.119
+    },
+    {
+      "text": "practice of course there are a lot of",
+      "start": 3901.92,
+      "duration": 4.879
+    },
+    {
+      "text": "the features that you try to touch base",
+      "start": 3904.319,
+      "duration": 4.8
+    },
+    {
+      "text": "and thank you very much for introducing",
+      "start": 3906.799,
+      "duration": 5.121
+    },
+    {
+      "text": "all of these option but depend on what",
+      "start": 3909.119,
+      "duration": 5.121
+    },
+    {
+      "text": "is the present what is the presentation",
+      "start": 3911.92,
+      "duration": 4.8
+    },
+    {
+      "text": "and how we are going to collect the data",
+      "start": 3914.24,
+      "duration": 5.839
+    },
+    {
+      "text": "you know data images audio and all of",
+      "start": 3916.72,
+      "duration": 6.72
+    },
+    {
+      "text": "those um I think the script of talking",
+      "start": 3920.079,
+      "duration": 6.401
+    },
+    {
+      "text": "so I think all of So we need to practice",
+      "start": 3923.44,
+      "duration": 6.48
+    },
+    {
+      "text": "and if we need to um do you know ask a",
+      "start": 3926.48,
+      "duration": 7.52
+    },
+    {
+      "text": "question um when is the drop in session",
+      "start": 3929.92,
+      "duration": 6.159
+    },
+    {
+      "text": "for Adobe coaches?",
+      "start": 3934.0,
+      "duration": 5.76
+    },
+    {
+      "text": ">> Yes we run them 12:30 to 2:30 Monday to",
+      "start": 3936.079,
+      "duration": 6.96
+    },
+    {
+      "text": "Friday. Um if you could just maybe book",
+      "start": 3939.76,
+      "duration": 4.64
+    },
+    {
+      "text": "a session like you know at least a day",
+      "start": 3943.039,
+      "duration": 2.8
+    },
+    {
+      "text": "in advance for instance Monday for",
+      "start": 3944.4,
+      "duration": 3.12
+    },
+    {
+      "text": "Tuesday or Tuesday for Wednesday that",
+      "start": 3945.839,
+      "duration": 3.121
+    },
+    {
+      "text": "would be ideal because for instance if",
+      "start": 3947.52,
+      "duration": 3.36
+    },
+    {
+      "text": "you book it like 10 minutes in advance",
+      "start": 3948.96,
+      "duration": 4.56
+    },
+    {
+      "text": "sometimes we might miss an email. So, I",
+      "start": 3950.88,
+      "duration": 5.04
+    },
+    {
+      "text": "mean, we're obviously trying not to,",
+      "start": 3953.52,
+      "duration": 5.279
+    },
+    {
+      "text": ">> but just a fair warning, it's best to",
+      "start": 3955.92,
+      "duration": 6.0
+    },
+    {
+      "text": "give us some time to catch up, but yes,",
+      "start": 3958.799,
+      "duration": 7.76
+    },
+    {
+      "text": "12:30 to 2:30, no, 12:30 to 2, but um so",
+      "start": 3961.92,
+      "duration": 6.56
+    },
+    {
+      "text": "we have four sessions per day and each",
+      "start": 3966.559,
+      "duration": 4.641
+    },
+    {
+      "text": "session is 30 minutes long. Uh so, you",
+      "start": 3968.48,
+      "duration": 4.16
+    },
+    {
+      "text": "know, there is plenty of time to kind of",
+      "start": 3971.2,
+      "duration": 3.28
+    },
+    {
+      "text": "go over anything you need to go over.",
+      "start": 3972.64,
+      "duration": 4.159
+    },
+    {
+      "text": ">> Thank you. I guess this provide an",
+      "start": 3974.48,
+      "duration": 4.559
+    },
+    {
+      "text": "opportunity for any students in",
+      "start": 3976.799,
+      "duration": 5.361
+    },
+    {
+      "text": "communication for scientists unit or",
+      "start": 3979.039,
+      "duration": 6.32
+    },
+    {
+      "text": "anywhere you are located at Swimburn in",
+      "start": 3982.16,
+      "duration": 7.6
+    },
+    {
+      "text": "Australia in Malaysia. So if you have a",
+      "start": 3985.359,
+      "duration": 6.561
+    },
+    {
+      "text": "assessment if you are interested in a",
+      "start": 3989.76,
+      "duration": 4.4
+    },
+    {
+      "text": "start talking we are inviting you all to",
+      "start": 3991.92,
+      "duration": 5.04
+    },
+    {
+      "text": "come with a start talking and share your",
+      "start": 3994.16,
+      "duration": 5.84
+    },
+    {
+      "text": "STEM passion or STEM uh you know idea or",
+      "start": 3996.96,
+      "duration": 5.839
+    },
+    {
+      "text": "solution with the social impact.",
+      "start": 4000.0,
+      "duration": 5.599
+    },
+    {
+      "text": "Remember we need to act as a science",
+      "start": 4002.799,
+      "duration": 6.401
+    },
+    {
+      "text": "communicator. So this is COVID 19 was a",
+      "start": 4005.599,
+      "duration": 6.321
+    },
+    {
+      "text": "great example of what community needs",
+      "start": 4009.2,
+      "duration": 5.76
+    },
+    {
+      "text": "the right information for the action. So",
+      "start": 4011.92,
+      "duration": 5.52
+    },
+    {
+      "text": "I guess um we are in contact with Adobe",
+      "start": 4014.96,
+      "duration": 5.28
+    },
+    {
+      "text": "coaches. So we are going to send you an",
+      "start": 4017.44,
+      "duration": 6.08
+    },
+    {
+      "text": "email with the evaluation of uh today's",
+      "start": 4020.24,
+      "duration": 6.319
+    },
+    {
+      "text": "workshop and that is always help us to",
+      "start": 4023.52,
+      "duration": 5.279
+    },
+    {
+      "text": "set up the next workshop hopefully next",
+      "start": 4026.559,
+      "duration": 4.081
+    },
+    {
+      "text": "year coming back with this workshop",
+      "start": 4028.799,
+      "duration": 5.921
+    },
+    {
+      "text": "again. And of course we are uh hoping if",
+      "start": 4030.64,
+      "duration": 6.24
+    },
+    {
+      "text": "you are interested in a start talking",
+      "start": 4034.72,
+      "duration": 4.879
+    },
+    {
+      "text": "please share your talking point with us.",
+      "start": 4036.88,
+      "duration": 5.919
+    },
+    {
+      "text": "I am here to provide you the feedback.",
+      "start": 4039.599,
+      "duration": 6.0
+    },
+    {
+      "text": "We had our students in past that now",
+      "start": 4042.799,
+      "duration": 5.201
+    },
+    {
+      "text": "they're improve and they actually come",
+      "start": 4045.599,
+      "duration": 6.161
+    },
+    {
+      "text": "to be confident to use of Adobe rush and",
+      "start": 4048.0,
+      "duration": 6.24
+    },
+    {
+      "text": "I'm amazed with the inspiring video that",
+      "start": 4051.76,
+      "duration": 5.839
+    },
+    {
+      "text": "they created. So remember the due date.",
+      "start": 4054.24,
+      "duration": 6.079
+    },
+    {
+      "text": "So we are talking about the anything",
+      "start": 4057.599,
+      "duration": 6.161
+    },
+    {
+      "text": "that you can create a 4minut video for",
+      "start": 4060.319,
+      "duration": 8.0
+    },
+    {
+      "text": "400 bucks and uh story of success and an",
+      "start": 4063.76,
+      "duration": 7.76
+    },
+    {
+      "text": "um recognizing by emerging leaders",
+      "start": 4068.319,
+      "duration": 6.561
+    },
+    {
+      "text": "program and of course uh the showcase is",
+      "start": 4071.52,
+      "duration": 7.12
+    },
+    {
+      "text": "on 14th of October at 4:30 p.m. You're",
+      "start": 4074.88,
+      "duration": 7.439
+    },
+    {
+      "text": "all invited. It is open to the public",
+      "start": 4078.64,
+      "duration": 6.399
+    },
+    {
+      "text": "and uh students who are going to choose",
+      "start": 4082.319,
+      "duration": 6.72
+    },
+    {
+      "text": "to complete. Um you need to submit four",
+      "start": 4085.039,
+      "duration": 8.881
+    },
+    {
+      "text": "minute video by 11 Monday 11th of um",
+      "start": 4089.039,
+      "duration": 8.561
+    },
+    {
+      "text": "October. And the Adobe coaches I'm make",
+      "start": 4093.92,
+      "duration": 7.359
+    },
+    {
+      "text": "sure with the uh Tatiana and Judia from",
+      "start": 4097.6,
+      "duration": 7.759
+    },
+    {
+      "text": "the Adobe coaches. So they are um they",
+      "start": 4101.279,
+      "duration": 6.56
+    },
+    {
+      "text": "are amazing. They help us a lot. I mean",
+      "start": 4105.359,
+      "duration": 5.121
+    },
+    {
+      "text": "help us. I think they are here to help",
+      "start": 4107.839,
+      "duration": 6.32
+    },
+    {
+      "text": "you. So uh and I'm sure that during week",
+      "start": 4110.48,
+      "duration": 6.48
+    },
+    {
+      "text": "nine we might have more students uh",
+      "start": 4114.159,
+      "duration": 5.12
+    },
+    {
+      "text": "Tatiana that they need your help and",
+      "start": 4116.96,
+      "duration": 4.96
+    },
+    {
+      "text": "your support because they come across",
+      "start": 4119.279,
+      "duration": 5.601
+    },
+    {
+      "text": "this kind of practice and they done this",
+      "start": 4121.92,
+      "duration": 5.52
+    },
+    {
+      "text": "so they might come with more questions.",
+      "start": 4124.88,
+      "duration": 4.479
+    },
+    {
+      "text": "So don't forget that you have this",
+      "start": 4127.44,
+      "duration": 4.0
+    },
+    {
+      "text": "option and this opportunity to ask the",
+      "start": 4129.359,
+      "duration": 4.241
+    },
+    {
+      "text": "Adobe coaches. They are fantastic and",
+      "start": 4131.44,
+      "duration": 4.96
+    },
+    {
+      "text": "thank you so much Tatiana again.",
+      "start": 4133.6,
+      "duration": 4.88
+    },
+    {
+      "text": "Thank you and again apologies for some",
+      "start": 4136.4,
+      "duration": 4.72
+    },
+    {
+      "text": "lags that caused some delays. Uh that",
+      "start": 4138.48,
+      "duration": 5.12
+    },
+    {
+      "text": "was very much unexpected. So sorry about",
+      "start": 4141.12,
+      "duration": 4.0
+    },
+    {
+      "text": "that.",
+      "start": 4143.6,
+      "duration": 3.199
+    },
+    {
+      "text": ">> Thank you very much. I think we all",
+      "start": 4145.12,
+      "duration": 3.679
+    },
+    {
+      "text": "experience working in the digital",
+      "start": 4146.799,
+      "duration": 4.321
+    },
+    {
+      "text": "environment and the speed of internet is",
+      "start": 4148.799,
+      "duration": 4.641
+    },
+    {
+      "text": "not something that we can decide. So you",
+      "start": 4151.12,
+      "duration": 4.639
+    },
+    {
+      "text": "did very well. So we learn about all of",
+      "start": 4153.44,
+      "duration": 5.04
+    },
+    {
+      "text": "these features and the audio the all of",
+      "start": 4155.759,
+      "duration": 4.48
+    },
+    {
+      "text": "the effects and everything that we can",
+      "start": 4158.48,
+      "duration": 4.4
+    },
+    {
+      "text": "use. So I'm hoping that everyone can",
+      "start": 4160.239,
+      "duration": 4.881
+    },
+    {
+      "text": "practice before you forget. Thank you",
+      "start": 4162.88,
+      "duration": 5.12
+    },
+    {
+      "text": "very much.",
+      "start": 4165.12,
+      "duration": 2.88
+    }
+  ]
+}

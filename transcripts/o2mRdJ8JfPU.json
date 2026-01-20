@@ -1,0 +1,4958 @@
+{
+  "video_id": "o2mRdJ8JfPU",
+  "title": "Workshop 4: Effective Storytelling with Data Visualisation 2025",
+  "channel": "Shaping STEMS Futures ",
+  "published": "2025-10-15T22:27:01Z",
+  "transcript": [
+    {
+      "text": "Um, and I'd like to acknowledge the",
+      "start": 0.64,
+      "duration": 3.76
+    },
+    {
+      "text": "traditional owners of the land upon",
+      "start": 2.8,
+      "duration": 4.32
+    },
+    {
+      "text": "which Swinburn's main campus stands on",
+      "start": 4.4,
+      "duration": 4.64
+    },
+    {
+      "text": "the land of the Waranderie people and",
+      "start": 7.12,
+      "duration": 3.439
+    },
+    {
+      "text": "acknowledge the land that you're on",
+      "start": 9.04,
+      "duration": 3.679
+    },
+    {
+      "text": "today and acknowledge that it was never",
+      "start": 10.559,
+      "duration": 4.16
+    },
+    {
+      "text": "seated. And I'd also like to acknowledge",
+      "start": 12.719,
+      "duration": 4.4
+    },
+    {
+      "text": "the traditional knowledges and stories",
+      "start": 14.719,
+      "duration": 4.961
+    },
+    {
+      "text": "that our First Nations people so kindly",
+      "start": 17.119,
+      "duration": 4.721
+    },
+    {
+      "text": "share with us in their role as",
+      "start": 19.68,
+      "duration": 4.8
+    },
+    {
+      "text": "traditional custodians of the land and",
+      "start": 21.84,
+      "duration": 4.8
+    },
+    {
+      "text": "in their role as our land's first",
+      "start": 24.48,
+      "duration": 5.52
+    },
+    {
+      "text": "storytellers. Um so I'd like to hand it",
+      "start": 26.64,
+      "duration": 7.04
+    },
+    {
+      "text": "over to Dr. Beta Zepharanolu who is the",
+      "start": 30.0,
+      "duration": 5.76
+    },
+    {
+      "text": "manager of this amazing set of",
+      "start": 33.68,
+      "duration": 4.879
+    },
+    {
+      "text": "initiatives to um talk about the session",
+      "start": 35.76,
+      "duration": 5.28
+    },
+    {
+      "text": "today. Thank you beta.",
+      "start": 38.559,
+      "duration": 5.761
+    },
+    {
+      "text": ">> Thank you s so much Carolene. Um I would",
+      "start": 41.04,
+      "duration": 7.519
+    },
+    {
+      "text": "like to um um you know welcome you all",
+      "start": 44.32,
+      "duration": 6.8
+    },
+    {
+      "text": "uh especially if you're uh coming from",
+      "start": 48.559,
+      "duration": 5.601
+    },
+    {
+      "text": "uh Sarowak. Uh we have our amazing guest",
+      "start": 51.12,
+      "duration": 5.84
+    },
+    {
+      "text": "speaker from Sarowak today. So this",
+      "start": 54.16,
+      "duration": 5.36
+    },
+    {
+      "text": "session for the following one hour is",
+      "start": 56.96,
+      "duration": 4.399
+    },
+    {
+      "text": "going to cover the effective",
+      "start": 59.52,
+      "duration": 3.359
+    },
+    {
+      "text": "storytelling",
+      "start": 61.359,
+      "duration": 4.561
+    },
+    {
+      "text": "um with data visualization.",
+      "start": 62.879,
+      "duration": 5.6
+    },
+    {
+      "text": "Why do we care about this? So you hear",
+      "start": 65.92,
+      "duration": 4.64
+    },
+    {
+      "text": "that storytelling we talk about the",
+      "start": 68.479,
+      "duration": 5.921
+    },
+    {
+      "text": "indigenous uh community how the amazing",
+      "start": 70.56,
+      "duration": 7.199
+    },
+    {
+      "text": "stories still are um you know inspiring",
+      "start": 74.4,
+      "duration": 7.28
+    },
+    {
+      "text": "us. So if we are um in science or any",
+      "start": 77.759,
+      "duration": 7.201
+    },
+    {
+      "text": "different disciplines at university I",
+      "start": 81.68,
+      "duration": 5.68
+    },
+    {
+      "text": "guess um part of your passion part of",
+      "start": 84.96,
+      "duration": 4.88
+    },
+    {
+      "text": "your research might be about how you",
+      "start": 87.36,
+      "duration": 4.799
+    },
+    {
+      "text": "communicate the outcome of that with the",
+      "start": 89.84,
+      "duration": 5.279
+    },
+    {
+      "text": "community um and this storytelling is",
+      "start": 92.159,
+      "duration": 5.841
+    },
+    {
+      "text": "approach that we would love to offer and",
+      "start": 95.119,
+      "duration": 4.561
+    },
+    {
+      "text": "of course because we are coming I'm",
+      "start": 98.0,
+      "duration": 4.0
+    },
+    {
+      "text": "coming from the science backgrounds we",
+      "start": 99.68,
+      "duration": 5.28
+    },
+    {
+      "text": "would love to bring that science um you",
+      "start": 102.0,
+      "duration": 5.52
+    },
+    {
+      "text": "know scientific data and that visualize",
+      "start": 104.96,
+      "duration": 4.72
+    },
+    {
+      "text": "mixed with the visualization part of",
+      "start": 107.52,
+      "duration": 5.52
+    },
+    {
+      "text": "this storytelling narrative. Um so for",
+      "start": 109.68,
+      "duration": 6.079
+    },
+    {
+      "text": "that we have a competition start talking",
+      "start": 113.04,
+      "duration": 4.8
+    },
+    {
+      "text": "which is coming in November. We have a",
+      "start": 115.759,
+      "duration": 4.96
+    },
+    {
+      "text": "live showcase on 6th of November. If you",
+      "start": 117.84,
+      "duration": 6.4
+    },
+    {
+      "text": "are um um you know um if you would like",
+      "start": 120.719,
+      "duration": 6.961
+    },
+    {
+      "text": "to participate please uh reach out to us",
+      "start": 124.24,
+      "duration": 6.079
+    },
+    {
+      "text": "and we would love to um receive your",
+      "start": 127.68,
+      "duration": 6.32
+    },
+    {
+      "text": "4minut video on um any innovative idea",
+      "start": 130.319,
+      "duration": 6.56
+    },
+    {
+      "text": "that you have which is um you know",
+      "start": 134.0,
+      "duration": 5.12
+    },
+    {
+      "text": "coming with a social impact sustainable",
+      "start": 136.879,
+      "duration": 4.481
+    },
+    {
+      "text": "impact and especially part of this",
+      "start": 139.12,
+      "duration": 4.479
+    },
+    {
+      "text": "visualization can be applied part of",
+      "start": 141.36,
+      "duration": 5.36
+    },
+    {
+      "text": "that narrative um by Monday 3rd of",
+      "start": 143.599,
+      "duration": 5.441
+    },
+    {
+      "text": "November and with this introduction",
+      "start": 146.72,
+      "duration": 3.68
+    },
+    {
+      "text": "introducing",
+      "start": 149.04,
+      "duration": 4.96
+    },
+    {
+      "text": "um um what we offer as part of shaping",
+      "start": 150.4,
+      "duration": 6.32
+    },
+    {
+      "text": "STEM futures program um and start",
+      "start": 154.0,
+      "duration": 5.04
+    },
+    {
+      "text": "talking. I would love to introduce u",
+      "start": 156.72,
+      "duration": 5.68
+    },
+    {
+      "text": "Michael uh who is going to uh get us um",
+      "start": 159.04,
+      "duration": 6.4
+    },
+    {
+      "text": "to this uh one hour um informative",
+      "start": 162.4,
+      "duration": 7.96
+    },
+    {
+      "text": "session. Michael, it's all yours now.",
+      "start": 165.44,
+      "duration": 4.92
+    },
+    {
+      "text": ">> All right. Can I share my screen?",
+      "start": 171.519,
+      "duration": 4.121
+    },
+    {
+      "text": ">> Of course you can. So thank you so much",
+      "start": 176.16,
+      "duration": 5.2
+    },
+    {
+      "text": "Carolene and beta for the great and",
+      "start": 179.28,
+      "duration": 5.679
+    },
+    {
+      "text": "informative introduction.",
+      "start": 181.36,
+      "duration": 6.4
+    },
+    {
+      "text": "I'm very honored to be invited to share",
+      "start": 184.959,
+      "duration": 4.961
+    },
+    {
+      "text": "uh my experience about this topic",
+      "start": 187.76,
+      "duration": 3.92
+    },
+    {
+      "text": "effective storytelling with data",
+      "start": 189.92,
+      "duration": 4.48
+    },
+    {
+      "text": "visualization. So I Miko I'm currently",
+      "start": 191.68,
+      "duration": 5.04
+    },
+    {
+      "text": "the senior lecturer uh with the school",
+      "start": 194.4,
+      "duration": 5.36
+    },
+    {
+      "text": "of ICT from Zimban Sarawa. Before",
+      "start": 196.72,
+      "duration": 5.12
+    },
+    {
+      "text": "working as a lecturer I'm a professional",
+      "start": 199.76,
+      "duration": 4.32
+    },
+    {
+      "text": "data scientist. So I really appreciate",
+      "start": 201.84,
+      "duration": 4.24
+    },
+    {
+      "text": "the importance of a good data",
+      "start": 204.08,
+      "duration": 5.519
+    },
+    {
+      "text": "visualization in telling the story and",
+      "start": 206.08,
+      "duration": 6.4
+    },
+    {
+      "text": "subsequently persuade our decision maker",
+      "start": 209.599,
+      "duration": 5.761
+    },
+    {
+      "text": "like the management on the findings and",
+      "start": 212.48,
+      "duration": 5.92
+    },
+    {
+      "text": "recommendation from our data analysis.",
+      "start": 215.36,
+      "duration": 6.239
+    },
+    {
+      "text": "So in this uh sessions I will actually",
+      "start": 218.4,
+      "duration": 6.08
+    },
+    {
+      "text": "present four subtopics as part of the",
+      "start": 221.599,
+      "duration": 5.2
+    },
+    {
+      "text": "effective storytelling for data visual",
+      "start": 224.48,
+      "duration": 4.479
+    },
+    {
+      "text": "through data visualization. We will",
+      "start": 226.799,
+      "duration": 4.561
+    },
+    {
+      "text": "start with the",
+      "start": 228.959,
+      "duration": 4.64
+    },
+    {
+      "text": "fundamental topic like what is a",
+      "start": 231.36,
+      "duration": 4.799
+    },
+    {
+      "text": "visualization an overview of it a brief",
+      "start": 233.599,
+      "duration": 5.84
+    },
+    {
+      "text": "history what why and why is it important",
+      "start": 236.159,
+      "duration": 6.0
+    },
+    {
+      "text": "how can we design it followed by a mini",
+      "start": 239.439,
+      "duration": 4.961
+    },
+    {
+      "text": "activity and then we will continue on",
+      "start": 242.159,
+      "duration": 4.16
+    },
+    {
+      "text": "with design principle. So this is a",
+      "start": 244.4,
+      "duration": 4.24
+    },
+    {
+      "text": "technical stuff that outline some of the",
+      "start": 246.319,
+      "duration": 5.12
+    },
+    {
+      "text": "best practices researched by the",
+      "start": 248.64,
+      "duration": 5.599
+    },
+    {
+      "text": "researcher in this design field for many",
+      "start": 251.439,
+      "duration": 5.121
+    },
+    {
+      "text": "decades already. They have established a",
+      "start": 254.239,
+      "duration": 4.321
+    },
+    {
+      "text": "set of design guidelines such as",
+      "start": 256.56,
+      "duration": 4.639
+    },
+    {
+      "text": "graphical integrity which we can just",
+      "start": 258.56,
+      "duration": 5.04
+    },
+    {
+      "text": "apply directly while designing our own",
+      "start": 261.199,
+      "duration": 4.161
+    },
+    {
+      "text": "visualization.",
+      "start": 263.6,
+      "duration": 3.76
+    },
+    {
+      "text": "Thirdly, I will actually share some of",
+      "start": 265.36,
+      "duration": 4.24
+    },
+    {
+      "text": "the technique that you can use while",
+      "start": 267.36,
+      "duration": 4.88
+    },
+    {
+      "text": "trying to tell a story using your",
+      "start": 269.6,
+      "duration": 5.039
+    },
+    {
+      "text": "visualizations and depending on the",
+      "start": 272.24,
+      "duration": 5.6
+    },
+    {
+      "text": "purpose exploratory or explanatory there",
+      "start": 274.639,
+      "duration": 4.881
+    },
+    {
+      "text": "are different strategies that you can",
+      "start": 277.84,
+      "duration": 4.32
+    },
+    {
+      "text": "adopt. Okay. And lastly, I would like to",
+      "start": 279.52,
+      "duration": 4.959
+    },
+    {
+      "text": "share some tools that I personally use",
+      "start": 282.16,
+      "duration": 4.72
+    },
+    {
+      "text": "to create data visualization and share",
+      "start": 284.479,
+      "duration": 4.321
+    },
+    {
+      "text": "with you the example project that I have",
+      "start": 286.88,
+      "duration": 5.36
+    },
+    {
+      "text": "worked on using these two. So why do we",
+      "start": 288.8,
+      "duration": 5.6
+    },
+    {
+      "text": "need visualizations?",
+      "start": 292.24,
+      "duration": 4.32
+    },
+    {
+      "text": "Okay, I believe most of us here we are",
+      "start": 294.4,
+      "duration": 4.0
+    },
+    {
+      "text": "from science background. Personally I'm",
+      "start": 296.56,
+      "duration": 3.04
+    },
+    {
+      "text": "from engineering and computing",
+      "start": 298.4,
+      "duration": 3.12
+    },
+    {
+      "text": "background. I would consider myself a",
+      "start": 299.6,
+      "duration": 3.92
+    },
+    {
+      "text": "scientist because I'm a researcher.",
+      "start": 301.52,
+      "duration": 4.0
+    },
+    {
+      "text": "Okay, as a scientist we do have the",
+      "start": 303.52,
+      "duration": 4.72
+    },
+    {
+      "text": "responsible uh to conduct research that",
+      "start": 305.52,
+      "duration": 4.88
+    },
+    {
+      "text": "can benefit the broader society. But",
+      "start": 308.24,
+      "duration": 5.679
+    },
+    {
+      "text": "we're also responsible in disseminating",
+      "start": 310.4,
+      "duration": 5.76
+    },
+    {
+      "text": "the findings from our research and",
+      "start": 313.919,
+      "duration": 5.361
+    },
+    {
+      "text": "communicated to the public in a clear,",
+      "start": 316.16,
+      "duration": 5.92
+    },
+    {
+      "text": "honest and transparent manner. And data",
+      "start": 319.28,
+      "duration": 4.72
+    },
+    {
+      "text": "visualizations actually play an",
+      "start": 322.08,
+      "duration": 4.0
+    },
+    {
+      "text": "important part of it because a lot of",
+      "start": 324.0,
+      "duration": 3.6
+    },
+    {
+      "text": "the scientific data that we are",
+      "start": 326.08,
+      "duration": 4.48
+    },
+    {
+      "text": "generated may not be comprehendable by",
+      "start": 327.6,
+      "duration": 4.96
+    },
+    {
+      "text": "the general public. But if we can",
+      "start": 330.56,
+      "duration": 5.04
+    },
+    {
+      "text": "convert them into a effective dig data",
+      "start": 332.56,
+      "duration": 5.28
+    },
+    {
+      "text": "visualization, it will help us in the",
+      "start": 335.6,
+      "duration": 4.879
+    },
+    {
+      "text": "communication process.",
+      "start": 337.84,
+      "duration": 5.199
+    },
+    {
+      "text": "Formally data visualization is defined",
+      "start": 340.479,
+      "duration": 5.041
+    },
+    {
+      "text": "as the formation of a mental image in",
+      "start": 343.039,
+      "duration": 4.801
+    },
+    {
+      "text": "our internal brain or it could be a",
+      "start": 345.52,
+      "duration": 4.959
+    },
+    {
+      "text": "representation of a set of information",
+      "start": 347.84,
+      "duration": 5.68
+    },
+    {
+      "text": "externally. So what do we really mean by",
+      "start": 350.479,
+      "duration": 6.241
+    },
+    {
+      "text": "this? Okay. So we are trying to",
+      "start": 353.52,
+      "duration": 6.08
+    },
+    {
+      "text": "transform extract information or data",
+      "start": 356.72,
+      "duration": 6.0
+    },
+    {
+      "text": "into an interactive visual graphical",
+      "start": 359.6,
+      "duration": 5.68
+    },
+    {
+      "text": "representation for the purpose of",
+      "start": 362.72,
+      "duration": 5.919
+    },
+    {
+      "text": "exploring, communicating, confirming and",
+      "start": 365.28,
+      "duration": 5.52
+    },
+    {
+      "text": "presentation",
+      "start": 368.639,
+      "duration": 4.56
+    },
+    {
+      "text": "and it is important to have an effective",
+      "start": 370.8,
+      "duration": 4.72
+    },
+    {
+      "text": "data visualization that can help us",
+      "start": 373.199,
+      "duration": 5.041
+    },
+    {
+      "text": "instead of hinder us from understanding",
+      "start": 375.52,
+      "duration": 4.799
+    },
+    {
+      "text": "the information. So what do I mean by",
+      "start": 378.24,
+      "duration": 5.6
+    },
+    {
+      "text": "this? Humans have limited memory and",
+      "start": 380.319,
+      "duration": 6.32
+    },
+    {
+      "text": "attentional resources. Okay. And data",
+      "start": 383.84,
+      "duration": 5.199
+    },
+    {
+      "text": "visualizations should be designed in a",
+      "start": 386.639,
+      "duration": 5.68
+    },
+    {
+      "text": "way that it can help us to reduce the",
+      "start": 389.039,
+      "duration": 5.921
+    },
+    {
+      "text": "burden on our connection.",
+      "start": 392.319,
+      "duration": 4.961
+    },
+    {
+      "text": "If you look at the slide here, okay,",
+      "start": 394.96,
+      "duration": 4.88
+    },
+    {
+      "text": "there's a mathematical multiplication",
+      "start": 397.28,
+      "duration": 7.44
+    },
+    {
+      "text": "question. If I ask you what is 264",
+      "start": 399.84,
+      "duration": 9.44
+    },
+    {
+      "text": "* 72 can you give me the answer without",
+      "start": 404.72,
+      "duration": 7.199
+    },
+    {
+      "text": "using any external tool meaning you have",
+      "start": 409.28,
+      "duration": 6.24
+    },
+    {
+      "text": "to use your bread. Okay. Okay. Another",
+      "start": 411.919,
+      "duration": 5.761
+    },
+    {
+      "text": "scenario would be if I allowed you to",
+      "start": 415.52,
+      "duration": 4.959
+    },
+    {
+      "text": "use a pen and a paper a piece of paper",
+      "start": 417.68,
+      "duration": 5.6
+    },
+    {
+      "text": "to write it down and do the calculation",
+      "start": 420.479,
+      "duration": 5.681
+    },
+    {
+      "text": "will you find it easier",
+      "start": 423.28,
+      "duration": 6.479
+    },
+    {
+      "text": "as compared to no external to at all? I",
+      "start": 426.16,
+      "duration": 5.039
+    },
+    {
+      "text": "think you will find it easier. Of",
+      "start": 429.759,
+      "duration": 3.201
+    },
+    {
+      "text": "course, the easiest will be calculator.",
+      "start": 431.199,
+      "duration": 4.0
+    },
+    {
+      "text": "But let's not go to that scenario. Let's",
+      "start": 432.96,
+      "duration": 4.32
+    },
+    {
+      "text": "just compare you know scenario A without",
+      "start": 435.199,
+      "duration": 3.84
+    },
+    {
+      "text": "any external tool. You have to do it",
+      "start": 437.28,
+      "duration": 5.199
+    },
+    {
+      "text": "purely inside your brain or with pencil",
+      "start": 439.039,
+      "duration": 5.44
+    },
+    {
+      "text": "and paper for you to write down and",
+      "start": 442.479,
+      "duration": 4.081
+    },
+    {
+      "text": "calculate. Okay. So this is what we mean",
+      "start": 444.479,
+      "duration": 6.16
+    },
+    {
+      "text": "by an external to data visualization as",
+      "start": 446.56,
+      "duration": 6.72
+    },
+    {
+      "text": "a tool for reducing our connective",
+      "start": 450.639,
+      "duration": 5.601
+    },
+    {
+      "text": "burden as external condition using the",
+      "start": 453.28,
+      "duration": 5.12
+    },
+    {
+      "text": "elements outside of our head to things",
+      "start": 456.24,
+      "duration": 4.239
+    },
+    {
+      "text": "and reduce the condition lock or burden",
+      "start": 458.4,
+      "duration": 5.28
+    },
+    {
+      "text": "on our brain. So if I have so much",
+      "start": 460.479,
+      "duration": 5.361
+    },
+    {
+      "text": "informations and 10 years of climate",
+      "start": 463.68,
+      "duration": 4.72
+    },
+    {
+      "text": "change data and I try to explain to you",
+      "start": 465.84,
+      "duration": 4.4
+    },
+    {
+      "text": "just verbally and you have to imagine it",
+      "start": 468.4,
+      "duration": 4.56
+    },
+    {
+      "text": "in your brain versus showing you a graph",
+      "start": 470.24,
+      "duration": 4.48
+    },
+    {
+      "text": "that is well designed you can",
+      "start": 472.96,
+      "duration": 3.919
+    },
+    {
+      "text": "immediately feel the differences okay",
+      "start": 474.72,
+      "duration": 5.039
+    },
+    {
+      "text": "and that's why we want to have a good",
+      "start": 476.879,
+      "duration": 5.121
+    },
+    {
+      "text": "visualizations because it's really about",
+      "start": 479.759,
+      "duration": 4.801
+    },
+    {
+      "text": "external connection how the resources",
+      "start": 482.0,
+      "duration": 5.039
+    },
+    {
+      "text": "the visual outside your mind can be used",
+      "start": 484.56,
+      "duration": 4.8
+    },
+    {
+      "text": "to boost the cognitive capabilities of",
+      "start": 487.039,
+      "duration": 4.961
+    },
+    {
+      "text": "the brain. Okay. So let's look at some",
+      "start": 489.36,
+      "duration": 4.64
+    },
+    {
+      "text": "of the example. Okay. The earlier",
+      "start": 492.0,
+      "duration": 4.479
+    },
+    {
+      "text": "visualization the very first pie chart",
+      "start": 494.0,
+      "duration": 5.039
+    },
+    {
+      "text": "here as you can see that can show the",
+      "start": 496.479,
+      "duration": 5.921
+    },
+    {
+      "text": "composition. Okay. Like African European",
+      "start": 499.039,
+      "duration": 5.201
+    },
+    {
+      "text": "and then this one also the very first",
+      "start": 502.4,
+      "duration": 5.04
+    },
+    {
+      "text": "bar chart. Okay. That shows the export",
+      "start": 504.24,
+      "duration": 6.32
+    },
+    {
+      "text": "and imports of Scotland to and from",
+      "start": 507.44,
+      "duration": 5.2
+    },
+    {
+      "text": "different parts. Okay. It's quite clear,",
+      "start": 510.56,
+      "duration": 4.32
+    },
+    {
+      "text": "right? Instead of instead of just using",
+      "start": 512.64,
+      "duration": 5.36
+    },
+    {
+      "text": "texture. So this is a very famous uh",
+      "start": 514.88,
+      "duration": 5.599
+    },
+    {
+      "text": "visualizations that we always show in",
+      "start": 518.0,
+      "duration": 5.919
+    },
+    {
+      "text": "our class related to data visualization.",
+      "start": 520.479,
+      "duration": 7.441
+    },
+    {
+      "text": "It is a simple 2D graph but it can",
+      "start": 523.919,
+      "duration": 7.521
+    },
+    {
+      "text": "capture a lot of informations inside it.",
+      "start": 527.92,
+      "duration": 5.44
+    },
+    {
+      "text": "Okay, this is probably the best",
+      "start": 531.44,
+      "duration": 4.64
+    },
+    {
+      "text": "statistical graphic ever drawn by",
+      "start": 533.36,
+      "duration": 5.599
+    },
+    {
+      "text": "Charles Joseph Aminard. It actually",
+      "start": 536.08,
+      "duration": 5.28
+    },
+    {
+      "text": "portrays the losses suffered by the",
+      "start": 538.959,
+      "duration": 4.721
+    },
+    {
+      "text": "Napoleon armies during the Russian",
+      "start": 541.36,
+      "duration": 6.0
+    },
+    {
+      "text": "campaign in 1812. So you can see this is",
+      "start": 543.68,
+      "duration": 9.36
+    },
+    {
+      "text": "a timeline. Okay. And the size of the",
+      "start": 547.36,
+      "duration": 8.4
+    },
+    {
+      "text": "colored graph here actually shows the",
+      "start": 553.04,
+      "duration": 5.68
+    },
+    {
+      "text": "populations of the army. So beginning at",
+      "start": 555.76,
+      "duration": 5.6
+    },
+    {
+      "text": "the police or Russian border, the tip",
+      "start": 558.72,
+      "duration": 6.16
+    },
+    {
+      "text": "band here, okay, shows that the army is",
+      "start": 561.36,
+      "duration": 5.84
+    },
+    {
+      "text": "quite big in the beginning. And then as",
+      "start": 564.88,
+      "duration": 5.92
+    },
+    {
+      "text": "they try to march forward okay and then",
+      "start": 567.2,
+      "duration": 6.24
+    },
+    {
+      "text": "they retreat you can see that the size",
+      "start": 570.8,
+      "duration": 5.2
+    },
+    {
+      "text": "of the army actually uh shrink down",
+      "start": 573.44,
+      "duration": 5.44
+    },
+    {
+      "text": "because of the losses of life uh due to",
+      "start": 576.0,
+      "duration": 8.16
+    },
+    {
+      "text": "the uh army due to the weather. Okay. So",
+      "start": 578.88,
+      "duration": 6.72
+    },
+    {
+      "text": "you can see that there are many",
+      "start": 584.16,
+      "duration": 3.92
+    },
+    {
+      "text": "dimensions that are being represented in",
+      "start": 585.6,
+      "duration": 4.08
+    },
+    {
+      "text": "just one graphic. First of all, the",
+      "start": 588.08,
+      "duration": 4.0
+    },
+    {
+      "text": "title tell us what is this event about.",
+      "start": 589.68,
+      "duration": 6.159
+    },
+    {
+      "text": "And then the timeline 1812 to 1813, one",
+      "start": 592.08,
+      "duration": 6.0
+    },
+    {
+      "text": "year. And then in the beginning, this is",
+      "start": 595.839,
+      "duration": 4.161
+    },
+    {
+      "text": "the size of the army. As they move",
+      "start": 598.08,
+      "duration": 4.4
+    },
+    {
+      "text": "forward, the army get reduced to Moscow.",
+      "start": 600.0,
+      "duration": 4.56
+    },
+    {
+      "text": "And then they try to retreat from Moscow",
+      "start": 602.48,
+      "duration": 4.799
+    },
+    {
+      "text": "back to their origin. You can see in the",
+      "start": 604.56,
+      "duration": 5.279
+    },
+    {
+      "text": "end you can compare the original size of",
+      "start": 607.279,
+      "duration": 4.721
+    },
+    {
+      "text": "the army and the eventual survival.",
+      "start": 609.839,
+      "duration": 4.401
+    },
+    {
+      "text": "Okay. on this band and then at the",
+      "start": 612.0,
+      "duration": 4.0
+    },
+    {
+      "text": "bottom you can see it include the",
+      "start": 614.24,
+      "duration": 4.08
+    },
+    {
+      "text": "weather information which can tells you",
+      "start": 616.0,
+      "duration": 4.24
+    },
+    {
+      "text": "that uh this weather a very harsh",
+      "start": 618.32,
+      "duration": 3.92
+    },
+    {
+      "text": "weather here which might be the reason",
+      "start": 620.24,
+      "duration": 4.159
+    },
+    {
+      "text": "why suddenly there's a huge decrease in",
+      "start": 622.24,
+      "duration": 4.56
+    },
+    {
+      "text": "the size. Okay. So this is what we mean",
+      "start": 624.399,
+      "duration": 4.641
+    },
+    {
+      "text": "by a effective visualization. It's not",
+      "start": 626.8,
+      "duration": 4.479
+    },
+    {
+      "text": "only a simple graph with just X and Y",
+      "start": 629.04,
+      "duration": 4.799
+    },
+    {
+      "text": "two dimension. A good visualization will",
+      "start": 631.279,
+      "duration": 4.56
+    },
+    {
+      "text": "be able to represent more than two",
+      "start": 633.839,
+      "duration": 4.401
+    },
+    {
+      "text": "dimension. Okay. This is another",
+      "start": 635.839,
+      "duration": 4.321
+    },
+    {
+      "text": "visualization that is quite famous and",
+      "start": 638.24,
+      "duration": 5.279
+    },
+    {
+      "text": "that saves um thousands of life. It is",
+      "start": 640.16,
+      "duration": 5.04
+    },
+    {
+      "text": "drawn by Jon Snow who is an",
+      "start": 643.519,
+      "duration": 3.281
+    },
+    {
+      "text": "epidemiologist.",
+      "start": 645.2,
+      "duration": 4.24
+    },
+    {
+      "text": "He created this map to visualize the",
+      "start": 646.8,
+      "duration": 5.599
+    },
+    {
+      "text": "location of the water pump and the",
+      "start": 649.44,
+      "duration": 6.399
+    },
+    {
+      "text": "households in London due to the collera",
+      "start": 652.399,
+      "duration": 5.921
+    },
+    {
+      "text": "cases. Okay, I think this happened in",
+      "start": 655.839,
+      "duration": 6.161
+    },
+    {
+      "text": "the 18th centuries where suddenly there",
+      "start": 658.32,
+      "duration": 5.199
+    },
+    {
+      "text": "are people who are suffering from",
+      "start": 662.0,
+      "duration": 3.12
+    },
+    {
+      "text": "collera cases and we don't know what's",
+      "start": 663.519,
+      "duration": 4.0
+    },
+    {
+      "text": "the reason. So this epidemologist try to",
+      "start": 665.12,
+      "duration": 5.68
+    },
+    {
+      "text": "visualize it is it related to the water",
+      "start": 667.519,
+      "duration": 5.201
+    },
+    {
+      "text": "and then they try to visualize the",
+      "start": 670.8,
+      "duration": 3.2
+    },
+    {
+      "text": "location of the pal and then the house",
+      "start": 672.72,
+      "duration": 3.84
+    },
+    {
+      "text": "of the cora crisis. By interviewing the",
+      "start": 674.0,
+      "duration": 4.64
+    },
+    {
+      "text": "household with death cases they",
+      "start": 676.56,
+      "duration": 4.88
+    },
+    {
+      "text": "discovered that a particular water pond",
+      "start": 678.64,
+      "duration": 5.12
+    },
+    {
+      "text": "on the broad street is the culprit. It",
+      "start": 681.44,
+      "duration": 4.399
+    },
+    {
+      "text": "was contaminated by the bacteria that",
+      "start": 683.76,
+      "duration": 4.4
+    },
+    {
+      "text": "cause choleera. So this is an early",
+      "start": 685.839,
+      "duration": 5.201
+    },
+    {
+      "text": "example of how we can use visualization",
+      "start": 688.16,
+      "duration": 5.52
+    },
+    {
+      "text": "to first record down the data. Then we",
+      "start": 691.04,
+      "duration": 5.28
+    },
+    {
+      "text": "analyze and eventually discover",
+      "start": 693.68,
+      "duration": 5.12
+    },
+    {
+      "text": "important insight that is hidden. Okay.",
+      "start": 696.32,
+      "duration": 4.72
+    },
+    {
+      "text": "Using visualization.",
+      "start": 698.8,
+      "duration": 4.08
+    },
+    {
+      "text": "Nowadays is even more important because",
+      "start": 701.04,
+      "duration": 3.84
+    },
+    {
+      "text": "we know we are living in the era of big",
+      "start": 702.88,
+      "duration": 4.56
+    },
+    {
+      "text": "data. A lot of data that is beyond our",
+      "start": 704.88,
+      "duration": 6.48
+    },
+    {
+      "text": "human uh ability to comprehend. Right?",
+      "start": 707.44,
+      "duration": 5.92
+    },
+    {
+      "text": "That's why we need to somehow use",
+      "start": 711.36,
+      "duration": 4.32
+    },
+    {
+      "text": "visualizations to summarize data so that",
+      "start": 713.36,
+      "duration": 5.36
+    },
+    {
+      "text": "we can look at the trend. So the ability",
+      "start": 715.68,
+      "duration": 5.68
+    },
+    {
+      "text": "to take data uh to understand it to",
+      "start": 718.72,
+      "duration": 5.76
+    },
+    {
+      "text": "process it and extract value from it",
+      "start": 721.36,
+      "duration": 5.76
+    },
+    {
+      "text": "gives a very important skill in the next",
+      "start": 724.48,
+      "duration": 4.96
+    },
+    {
+      "text": "deca.",
+      "start": 727.12,
+      "duration": 4.48
+    },
+    {
+      "text": "Okay. Because now we have a lot of data.",
+      "start": 729.44,
+      "duration": 4.72
+    },
+    {
+      "text": "How do we harness value from the data is",
+      "start": 731.6,
+      "duration": 5.12
+    },
+    {
+      "text": "the key skill which is also the",
+      "start": 734.16,
+      "duration": 5.44
+    },
+    {
+      "text": "objective of our workshop today.",
+      "start": 736.72,
+      "duration": 5.28
+    },
+    {
+      "text": "So I would like to start end the first",
+      "start": 739.6,
+      "duration": 5.44
+    },
+    {
+      "text": "um subtopic with this uh activity. Have",
+      "start": 742.0,
+      "duration": 5.76
+    },
+    {
+      "text": "any of you read this book uh by Hans",
+      "start": 745.04,
+      "duration": 4.239
+    },
+    {
+      "text": "Rossling",
+      "start": 747.76,
+      "duration": 3.759
+    },
+    {
+      "text": "which is on the visualizations very",
+      "start": 749.279,
+      "duration": 4.961
+    },
+    {
+      "text": "famous book on visualization.",
+      "start": 751.519,
+      "duration": 4.801
+    },
+    {
+      "text": "So you can see that Hans Rosling is a",
+      "start": 754.24,
+      "duration": 4.56
+    },
+    {
+      "text": "statistician. He actually created a",
+      "start": 756.32,
+      "duration": 6.079
+    },
+    {
+      "text": "graph to relate income with life",
+      "start": 758.8,
+      "duration": 6.479
+    },
+    {
+      "text": "expectancy. So together we can watch a",
+      "start": 762.399,
+      "duration": 5.12
+    },
+    {
+      "text": "video and while watching the video I",
+      "start": 765.279,
+      "duration": 5.601
+    },
+    {
+      "text": "will need your help to tell me how many",
+      "start": 767.519,
+      "duration": 5.601
+    },
+    {
+      "text": "dimensions are there in one",
+      "start": 770.88,
+      "duration": 4.48
+    },
+    {
+      "text": "visualization. What do I mean by",
+      "start": 773.12,
+      "duration": 5.279
+    },
+    {
+      "text": "dimension? It is really the the",
+      "start": 775.36,
+      "duration": 5.039
+    },
+    {
+      "text": "variable. For example, in the time",
+      "start": 778.399,
+      "duration": 4.401
+    },
+    {
+      "text": "series graph, we will have X as the",
+      "start": 780.399,
+      "duration": 4.961
+    },
+    {
+      "text": "time, Y as the target, right? So, we",
+      "start": 782.8,
+      "duration": 4.56
+    },
+    {
+      "text": "have two variable. So, while watching",
+      "start": 785.36,
+      "duration": 4.4
+    },
+    {
+      "text": "this video, you try to record down how",
+      "start": 787.36,
+      "duration": 4.479
+    },
+    {
+      "text": "many variables are there. Of course,",
+      "start": 789.76,
+      "duration": 4.48
+    },
+    {
+      "text": "from the title, you can tell me income",
+      "start": 791.839,
+      "duration": 5.44
+    },
+    {
+      "text": "is one variable, life expectancy is one",
+      "start": 794.24,
+      "duration": 5.839
+    },
+    {
+      "text": "variable, but are there more variables",
+      "start": 797.279,
+      "duration": 5.281
+    },
+    {
+      "text": "in the video? Let's watch it together.",
+      "start": 800.079,
+      "duration": 4.961
+    },
+    {
+      "text": "So let me know if you can uh hear it.",
+      "start": 802.56,
+      "duration": 6.64
+    },
+    {
+      "text": "Okay, I play it now.",
+      "start": 805.04,
+      "duration": 6.64
+    },
+    {
+      "text": ">> This shows income and lifespan in the",
+      "start": 809.2,
+      "duration": 6.4
+    },
+    {
+      "text": "world today. Each bubble is a country.",
+      "start": 811.68,
+      "duration": 7.44
+    },
+    {
+      "text": "Color shows region, the Americas,",
+      "start": 815.6,
+      "duration": 8.239
+    },
+    {
+      "text": "Europe, Africa, and Asia. And size is",
+      "start": 819.12,
+      "duration": 8.959
+    },
+    {
+      "text": "population. The big ones are China and",
+      "start": 823.839,
+      "duration": 8.0
+    },
+    {
+      "text": "India. And this is income, GDP per",
+      "start": 828.079,
+      "duration": 9.2
+    },
+    {
+      "text": "capita, from $500 all the way to $50,000",
+      "start": 831.839,
+      "duration": 8.481
+    },
+    {
+      "text": "per person and year.",
+      "start": 837.279,
+      "duration": 6.641
+    },
+    {
+      "text": "And this is lifespan, life expectancy in",
+      "start": 840.32,
+      "duration": 6.72
+    },
+    {
+      "text": "years. These countries have the lowest",
+      "start": 843.92,
+      "duration": 5.44
+    },
+    {
+      "text": "income and the shortest life. And from",
+      "start": 847.04,
+      "duration": 4.96
+    },
+    {
+      "text": "this corner down here, there are",
+      "start": 849.36,
+      "duration": 7.2
+    },
+    {
+      "text": "countries at all levels all the way up",
+      "start": 852.0,
+      "duration": 8.16
+    },
+    {
+      "text": "to this corner up here with the highest",
+      "start": 856.56,
+      "duration": 6.8
+    },
+    {
+      "text": "income and the longest life expectancy.",
+      "start": 860.16,
+      "duration": 6.72
+    },
+    {
+      "text": "There are no countries here on this high",
+      "start": 863.36,
+      "duration": 5.839
+    },
+    {
+      "text": "income. There is no country with life",
+      "start": 866.88,
+      "duration": 6.24
+    },
+    {
+      "text": "expectancy below 74.",
+      "start": 869.199,
+      "duration": 6.08
+    },
+    {
+      "text": "And",
+      "start": 873.12,
+      "duration": 5.519
+    },
+    {
+      "text": "there is no country here on this low",
+      "start": 875.279,
+      "duration": 5.92
+    },
+    {
+      "text": "income. There is no country with life",
+      "start": 878.639,
+      "duration": 7.2
+    },
+    {
+      "text": "expectancy above 64. But look at the big",
+      "start": 881.199,
+      "duration": 6.721
+    },
+    {
+      "text": "picture. Most people live in middle",
+      "start": 885.839,
+      "duration": 4.56
+    },
+    {
+      "text": "inome countries. And on the same income",
+      "start": 887.92,
+      "duration": 5.359
+    },
+    {
+      "text": "level, there are huge differences in",
+      "start": 890.399,
+      "duration": 7.921
+    },
+    {
+      "text": "lifespan from 50 all the way to 75 years",
+      "start": 893.279,
+      "duration": 7.12
+    },
+    {
+      "text": "depending on how the money is",
+      "start": 898.32,
+      "duration": 6.759
+    },
+    {
+      "text": "distributed and how it's used.",
+      "start": 900.399,
+      "duration": 4.68
+    },
+    {
+      "text": ">> All right. So I know that I believe that",
+      "start": 905.199,
+      "duration": 5.121
+    },
+    {
+      "text": "from this video you can see that there",
+      "start": 908.48,
+      "duration": 3.599
+    },
+    {
+      "text": "are more than two dimensions that are",
+      "start": 910.32,
+      "duration": 4.4
+    },
+    {
+      "text": "represented. And how does income relate",
+      "start": 912.079,
+      "duration": 5.12
+    },
+    {
+      "text": "to life's expectancy? It is not as",
+      "start": 914.72,
+      "duration": 4.96
+    },
+    {
+      "text": "simple as the richer you are the longer",
+      "start": 917.199,
+      "duration": 4.08
+    },
+    {
+      "text": "you live but there are other factors",
+      "start": 919.68,
+      "duration": 3.76
+    },
+    {
+      "text": "like the region that you are with how",
+      "start": 921.279,
+      "duration": 3.841
+    },
+    {
+      "text": "the income are distributed in a",
+      "start": 923.44,
+      "duration": 4.48
+    },
+    {
+      "text": "particular countries but I would like to",
+      "start": 925.12,
+      "duration": 6.48
+    },
+    {
+      "text": "ask you apart from the income and the",
+      "start": 927.92,
+      "duration": 6.479
+    },
+    {
+      "text": "lifespan what are the other dimensions",
+      "start": 931.6,
+      "duration": 7.12
+    },
+    {
+      "text": "or variables that you can um understand",
+      "start": 934.399,
+      "duration": 6.8
+    },
+    {
+      "text": "for this visualization",
+      "start": 938.72,
+      "duration": 6.08
+    },
+    {
+      "text": "I'll just show you here",
+      "start": 941.199,
+      "duration": 5.841
+    },
+    {
+      "text": "the next slide So this is the snapshot",
+      "start": 944.8,
+      "duration": 2.96
+    },
+    {
+      "text": "of the in",
+      "start": 947.04,
+      "duration": 5.08
+    },
+    {
+      "text": ">> there are no countries here.",
+      "start": 947.76,
+      "duration": 4.36
+    },
+    {
+      "text": "Okay. So this is actually in the book uh",
+      "start": 953.279,
+      "duration": 5.841
+    },
+    {
+      "text": "by Hans Roling. So this is the actual",
+      "start": 956.48,
+      "duration": 5.12
+    },
+    {
+      "text": "visualizations that is in the book. So",
+      "start": 959.12,
+      "duration": 4.959
+    },
+    {
+      "text": "how many dimension are they in one",
+      "start": 961.6,
+      "duration": 4.64
+    },
+    {
+      "text": "visualization?",
+      "start": 964.079,
+      "duration": 5.2
+    },
+    {
+      "text": "X is",
+      "start": 966.24,
+      "duration": 6.64
+    },
+    {
+      "text": "income, Y is life expectancy. But what",
+      "start": 969.279,
+      "duration": 6.24
+    },
+    {
+      "text": "are the other dimension? Any student",
+      "start": 972.88,
+      "duration": 5.28
+    },
+    {
+      "text": "would like to try you know what does the",
+      "start": 975.519,
+      "duration": 4.801
+    },
+    {
+      "text": "color mean? What does the size of the",
+      "start": 978.16,
+      "duration": 5.56
+    },
+    {
+      "text": "bubble means?",
+      "start": 980.32,
+      "duration": 3.4
+    },
+    {
+      "text": "Okay. So maybe I will just uh give you",
+      "start": 985.519,
+      "duration": 5.361
+    },
+    {
+      "text": "the answer. Population is represented by",
+      "start": 987.68,
+      "duration": 5.12
+    },
+    {
+      "text": "the size of the bubble. Right? The",
+      "start": 990.88,
+      "duration": 3.759
+    },
+    {
+      "text": "bigger this bubble, the bigger the",
+      "start": 992.8,
+      "duration": 3.76
+    },
+    {
+      "text": "country. China and India. That's the",
+      "start": 994.639,
+      "duration": 4.721
+    },
+    {
+      "text": "third dimension. Then the color actually",
+      "start": 996.56,
+      "duration": 4.959
+    },
+    {
+      "text": "shows the region which is a geographical",
+      "start": 999.36,
+      "duration": 4.8
+    },
+    {
+      "text": "information. For example, Asia Pacific",
+      "start": 1001.519,
+      "duration": 5.76
+    },
+    {
+      "text": "represented by this uh pink. Okay. And",
+      "start": 1004.16,
+      "duration": 6.16
+    },
+    {
+      "text": "then we have the USA and Canada",
+      "start": 1007.279,
+      "duration": 6.24
+    },
+    {
+      "text": "represented by green and so on. Okay. So",
+      "start": 1010.32,
+      "duration": 6.24
+    },
+    {
+      "text": "one 2D chart but capture more than two",
+      "start": 1013.519,
+      "duration": 5.76
+    },
+    {
+      "text": "dimension. Okay. With you can design it",
+      "start": 1016.56,
+      "duration": 4.24
+    },
+    {
+      "text": "cleverly.",
+      "start": 1019.279,
+      "duration": 3.521
+    },
+    {
+      "text": "So that's all for the first subm module",
+      "start": 1020.8,
+      "duration": 4.159
+    },
+    {
+      "text": "on data visualization overview. What is",
+      "start": 1022.8,
+      "duration": 5.279
+    },
+    {
+      "text": "it about? Why and how? Now let's move on",
+      "start": 1024.959,
+      "duration": 5.36
+    },
+    {
+      "text": "to the more technical maybe the boring",
+      "start": 1028.079,
+      "duration": 3.921
+    },
+    {
+      "text": "one which is some of the design",
+      "start": 1030.319,
+      "duration": 3.36
+    },
+    {
+      "text": "principle that we should bear in mind",
+      "start": 1032.0,
+      "duration": 4.959
+    },
+    {
+      "text": "while designing uh the visualization.",
+      "start": 1033.679,
+      "duration": 6.28
+    },
+    {
+      "text": "Okay,",
+      "start": 1036.959,
+      "duration": 3.0
+    },
+    {
+      "text": "have you heard of graphical integrity?",
+      "start": 1040.079,
+      "duration": 6.88
+    },
+    {
+      "text": "Okay, we know that as a human being we",
+      "start": 1045.12,
+      "duration": 3.679
+    },
+    {
+      "text": "need to have integrity, right? But when",
+      "start": 1046.959,
+      "duration": 3.681
+    },
+    {
+      "text": "you design graph you need to design with",
+      "start": 1048.799,
+      "duration": 4.721
+    },
+    {
+      "text": "integrity too. Okay. So what do we mean",
+      "start": 1050.64,
+      "duration": 6.159
+    },
+    {
+      "text": "by uh integrity principle when it comes",
+      "start": 1053.52,
+      "duration": 5.68
+    },
+    {
+      "text": "to design and visualizations? It means",
+      "start": 1056.799,
+      "duration": 3.921
+    },
+    {
+      "text": "that when you are designing your",
+      "start": 1059.2,
+      "duration": 3.92
+    },
+    {
+      "text": "visualization, you should have clear",
+      "start": 1060.72,
+      "duration": 4.959
+    },
+    {
+      "text": "detailed labeling to prevent any",
+      "start": 1063.12,
+      "duration": 4.96
+    },
+    {
+      "text": "distortion or ambiguity.",
+      "start": 1065.679,
+      "duration": 4.561
+    },
+    {
+      "text": "One example could be the size of the",
+      "start": 1068.08,
+      "duration": 4.4
+    },
+    {
+      "text": "physically measured graphic should be",
+      "start": 1070.24,
+      "duration": 4.4
+    },
+    {
+      "text": "proportional to numerical quantities.",
+      "start": 1072.48,
+      "duration": 5.439
+    },
+    {
+      "text": "Right? If there is a uh numerical sense",
+      "start": 1074.64,
+      "duration": 6.0
+    },
+    {
+      "text": "to the value, you should show the data",
+      "start": 1077.919,
+      "duration": 5.76
+    },
+    {
+      "text": "variation in your data visualization and",
+      "start": 1080.64,
+      "duration": 5.6
+    },
+    {
+      "text": "not design variation using a concept",
+      "start": 1083.679,
+      "duration": 5.281
+    },
+    {
+      "text": "called data in ratio. And the graphics",
+      "start": 1086.24,
+      "duration": 5.84
+    },
+    {
+      "text": "must not quote the data out of context.",
+      "start": 1088.96,
+      "duration": 5.12
+    },
+    {
+      "text": "We will use a real life example to show",
+      "start": 1092.08,
+      "duration": 4.24
+    },
+    {
+      "text": "this. So this is actually a screenshot",
+      "start": 1094.08,
+      "duration": 5.52
+    },
+    {
+      "text": "of the Fox News that shows that uh what",
+      "start": 1096.32,
+      "duration": 6.4
+    },
+    {
+      "text": "are the differences? Okay, if the bush",
+      "start": 1099.6,
+      "duration": 6.8
+    },
+    {
+      "text": "tax cut expired, can you tell me what is",
+      "start": 1102.72,
+      "duration": 7.04
+    },
+    {
+      "text": "the issue with this bar chart here?",
+      "start": 1106.4,
+      "duration": 5.519
+    },
+    {
+      "text": "At the first glance, it seems like wow,",
+      "start": 1109.76,
+      "duration": 4.799
+    },
+    {
+      "text": "there is a big difference right between",
+      "start": 1111.919,
+      "duration": 7.281
+    },
+    {
+      "text": "this graph here January 1st 2013 and now",
+      "start": 1114.559,
+      "duration": 7.36
+    },
+    {
+      "text": "it seems like the tax cut expired then",
+      "start": 1119.2,
+      "duration": 5.44
+    },
+    {
+      "text": "it really affect the tax rate. But is",
+      "start": 1121.919,
+      "duration": 5.281
+    },
+    {
+      "text": "that true? Okay, I think you are all",
+      "start": 1124.64,
+      "duration": 4.24
+    },
+    {
+      "text": "science or engineering or computing",
+      "start": 1127.2,
+      "duration": 3.599
+    },
+    {
+      "text": "student. If you look at the y-axis, you",
+      "start": 1128.88,
+      "duration": 4.88
+    },
+    {
+      "text": "will notice something weird because the",
+      "start": 1130.799,
+      "duration": 5.841
+    },
+    {
+      "text": "axis does not start from zero. What if",
+      "start": 1133.76,
+      "duration": 6.32
+    },
+    {
+      "text": "we start from zero? Ah, do you feel",
+      "start": 1136.64,
+      "duration": 5.2
+    },
+    {
+      "text": "different looking at this graph compared",
+      "start": 1140.08,
+      "duration": 4.16
+    },
+    {
+      "text": "to the previous one? Now the difference",
+      "start": 1141.84,
+      "duration": 5.839
+    },
+    {
+      "text": "is not as huge as it appears right in",
+      "start": 1144.24,
+      "duration": 6.24
+    },
+    {
+      "text": "the first graph here. So this is what we",
+      "start": 1147.679,
+      "duration": 5.201
+    },
+    {
+      "text": "mean by graphical distortion. If you",
+      "start": 1150.48,
+      "duration": 4.319
+    },
+    {
+      "text": "didn't start at the proper commons raw",
+      "start": 1152.88,
+      "duration": 4.0
+    },
+    {
+      "text": "baseline, you are actually trying to",
+      "start": 1154.799,
+      "duration": 4.88
+    },
+    {
+      "text": "distort the data by showing the",
+      "start": 1156.88,
+      "duration": 5.12
+    },
+    {
+      "text": "differences actually are appear to be",
+      "start": 1159.679,
+      "duration": 4.481
+    },
+    {
+      "text": "very big but in actual fact it is not",
+      "start": 1162.0,
+      "duration": 5.12
+    },
+    {
+      "text": "that big. Okay. So the difference in",
+      "start": 1164.16,
+      "duration": 6.16
+    },
+    {
+      "text": "your data okay should be reflected",
+      "start": 1167.12,
+      "duration": 5.84
+    },
+    {
+      "text": "correctly by the size of effect in your",
+      "start": 1170.32,
+      "duration": 5.44
+    },
+    {
+      "text": "graph. Okay. So the relative size uh the",
+      "start": 1172.96,
+      "duration": 4.32
+    },
+    {
+      "text": "axis of the bar chart should always",
+      "start": 1175.76,
+      "duration": 5.2
+    },
+    {
+      "text": "start at zero. Okay. to ensure you have",
+      "start": 1177.28,
+      "duration": 6.08
+    },
+    {
+      "text": "a fair comparison.",
+      "start": 1180.96,
+      "duration": 4.56
+    },
+    {
+      "text": "Another example of scale distortion",
+      "start": 1183.36,
+      "duration": 5.12
+    },
+    {
+      "text": "using pie chart. If you look at this pie",
+      "start": 1185.52,
+      "duration": 5.84
+    },
+    {
+      "text": "chart which represent the market share",
+      "start": 1188.48,
+      "duration": 5.76
+    },
+    {
+      "text": "for the smartphone by the US, right? You",
+      "start": 1191.36,
+      "duration": 6.72
+    },
+    {
+      "text": "can see that the leading one uh we have",
+      "start": 1194.24,
+      "duration": 7.6
+    },
+    {
+      "text": "uh I think 39% is RIM and then we have",
+      "start": 1198.08,
+      "duration": 9.52
+    },
+    {
+      "text": "uh 21.2% other and then 19.5% is Apple.",
+      "start": 1201.84,
+      "duration": 8.4
+    },
+    {
+      "text": "uh then Motorola then Palm and then",
+      "start": 1207.6,
+      "duration": 5.76
+    },
+    {
+      "text": "Nokia. If we look at the value we know",
+      "start": 1210.24,
+      "duration": 6.799
+    },
+    {
+      "text": "that Apple is the third highest right",
+      "start": 1213.36,
+      "duration": 6.48
+    },
+    {
+      "text": "but because of the 3D illusion it seems",
+      "start": 1217.039,
+      "duration": 6.081
+    },
+    {
+      "text": "that Apple is the second highest. Why?",
+      "start": 1219.84,
+      "duration": 5.839
+    },
+    {
+      "text": "Because Apple is positioned in front and",
+      "start": 1223.12,
+      "duration": 4.559
+    },
+    {
+      "text": "this ring the purple color is at the",
+      "start": 1225.679,
+      "duration": 4.801
+    },
+    {
+      "text": "back. Even though it's 21% it appears",
+      "start": 1227.679,
+      "duration": 5.441
+    },
+    {
+      "text": "smaller than 19.5%.",
+      "start": 1230.48,
+      "duration": 4.72
+    },
+    {
+      "text": "If we remove this 3D pie chart, we",
+      "start": 1233.12,
+      "duration": 3.52
+    },
+    {
+      "text": "convert it to a 2D, then the",
+      "start": 1235.2,
+      "duration": 4.56
+    },
+    {
+      "text": "differences, you look at it, uh it",
+      "start": 1236.64,
+      "duration": 7.12
+    },
+    {
+      "text": "should be uh rimmed and then um",
+      "start": 1239.76,
+      "duration": 7.919
+    },
+    {
+      "text": "other and then uh apple, right? So the",
+      "start": 1243.76,
+      "duration": 6.64
+    },
+    {
+      "text": "issue with 3D pie chart is because slice",
+      "start": 1247.679,
+      "duration": 4.88
+    },
+    {
+      "text": "at the front of the pie appears larger",
+      "start": 1250.4,
+      "duration": 4.399
+    },
+    {
+      "text": "than it is and the slice and the back",
+      "start": 1252.559,
+      "duration": 4.24
+    },
+    {
+      "text": "appear smaller. And this is another",
+      "start": 1254.799,
+      "duration": 4.561
+    },
+    {
+      "text": "example of scale distortion when you try",
+      "start": 1256.799,
+      "duration": 5.201
+    },
+    {
+      "text": "to use 3D uh in your data",
+      "start": 1259.36,
+      "duration": 6.64
+    },
+    {
+      "text": "visualizations. So with ascientist we",
+      "start": 1262.0,
+      "duration": 5.76
+    },
+    {
+      "text": "want to communicate our data and",
+      "start": 1266.0,
+      "duration": 4.08
+    },
+    {
+      "text": "findings honestly. So we try to avoid",
+      "start": 1267.76,
+      "duration": 4.56
+    },
+    {
+      "text": "this kind of issue when designing our",
+      "start": 1270.08,
+      "duration": 4.0
+    },
+    {
+      "text": "visualization.",
+      "start": 1272.32,
+      "duration": 4.4
+    },
+    {
+      "text": "Another best practice would be the chart",
+      "start": 1274.08,
+      "duration": 5.36
+    },
+    {
+      "text": "data to ratio. I know we like beautiful",
+      "start": 1276.72,
+      "duration": 5.28
+    },
+    {
+      "text": "fancy graph but when you are trying to",
+      "start": 1279.44,
+      "duration": 5.04
+    },
+    {
+      "text": "create an effective visualization we",
+      "start": 1282.0,
+      "duration": 5.36
+    },
+    {
+      "text": "want to make sure that design the effect",
+      "start": 1284.48,
+      "duration": 6.16
+    },
+    {
+      "text": "can show us the data variation and not",
+      "start": 1287.36,
+      "duration": 6.48
+    },
+    {
+      "text": "design variation. Okay for example this",
+      "start": 1290.64,
+      "duration": 6.56
+    },
+    {
+      "text": "is a very fancy graph but the next one",
+      "start": 1293.84,
+      "duration": 6.16
+    },
+    {
+      "text": "here is better okay it's clearer for us",
+      "start": 1297.2,
+      "duration": 5.2
+    },
+    {
+      "text": "to understand in a scientific",
+      "start": 1300.0,
+      "duration": 5.4
+    },
+    {
+      "text": "communication.",
+      "start": 1302.4,
+      "duration": 3.0
+    },
+    {
+      "text": "So one example uh what do we mean by",
+      "start": 1305.52,
+      "duration": 4.96
+    },
+    {
+      "text": "data in ratio? Okay, if you look at this",
+      "start": 1308.08,
+      "duration": 5.2
+    },
+    {
+      "text": "simple chart here that shows January to",
+      "start": 1310.48,
+      "duration": 5.439
+    },
+    {
+      "text": "September what is the percentage right",
+      "start": 1313.28,
+      "duration": 5.44
+    },
+    {
+      "text": "you can see we can actually simplify",
+      "start": 1315.919,
+      "duration": 5.041
+    },
+    {
+      "text": "this chart so that it's easier for the",
+      "start": 1318.72,
+      "duration": 4.56
+    },
+    {
+      "text": "user to know which one is the highest",
+      "start": 1320.96,
+      "duration": 4.48
+    },
+    {
+      "text": "month which one is the lowest month and",
+      "start": 1323.28,
+      "duration": 3.68
+    },
+    {
+      "text": "what is the difference between the",
+      "start": 1325.44,
+      "duration": 4.16
+    },
+    {
+      "text": "highest and the lowest. How do we do it?",
+      "start": 1326.96,
+      "duration": 4.8
+    },
+    {
+      "text": "We have to remove the chart junk one by",
+      "start": 1329.6,
+      "duration": 5.36
+    },
+    {
+      "text": "one. First of all,",
+      "start": 1331.76,
+      "duration": 6.0
+    },
+    {
+      "text": "you can remove the unnecessary grid.",
+      "start": 1334.96,
+      "duration": 5.28
+    },
+    {
+      "text": "Okay. Okay. And then you can remove the",
+      "start": 1337.76,
+      "duration": 4.56
+    },
+    {
+      "text": "background color",
+      "start": 1340.24,
+      "duration": 4.0
+    },
+    {
+      "text": "and next you can even remove the",
+      "start": 1342.32,
+      "duration": 4.239
+    },
+    {
+      "text": "bounding box and keep only the x and y",
+      "start": 1344.24,
+      "duration": 6.72
+    },
+    {
+      "text": "axis. So this version now you can help",
+      "start": 1346.559,
+      "duration": 6.081
+    },
+    {
+      "text": "to",
+      "start": 1350.96,
+      "duration": 4.079
+    },
+    {
+      "text": "uh enhance it by making a horizontal",
+      "start": 1352.64,
+      "duration": 6.159
+    },
+    {
+      "text": "scale to your x y value here using this",
+      "start": 1355.039,
+      "duration": 7.201
+    },
+    {
+      "text": "fine white line. Okay. make it easier to",
+      "start": 1358.799,
+      "duration": 6.481
+    },
+    {
+      "text": "interpret across different months. And",
+      "start": 1362.24,
+      "duration": 4.96
+    },
+    {
+      "text": "this is the resulting chart. You can see",
+      "start": 1365.28,
+      "duration": 4.08
+    },
+    {
+      "text": "it's very clear now. Highest is June,",
+      "start": 1367.2,
+      "duration": 4.16
+    },
+    {
+      "text": "lowest is May. Why is the difference",
+      "start": 1369.36,
+      "duration": 5.28
+    },
+    {
+      "text": "between June and May is about 20%.",
+      "start": 1371.36,
+      "duration": 6.559
+    },
+    {
+      "text": "Right? Because this is 5%, this is 5%.",
+      "start": 1374.64,
+      "duration": 5.68
+    },
+    {
+      "text": "As compared to the earlier version",
+      "start": 1377.919,
+      "duration": 4.24
+    },
+    {
+      "text": "fancy, but I think a lot of them are",
+      "start": 1380.32,
+      "duration": 4.479
+    },
+    {
+      "text": "just noise. Okay? So these are some",
+      "start": 1382.159,
+      "duration": 4.721
+    },
+    {
+      "text": "guidelines that you can consider in",
+      "start": 1384.799,
+      "duration": 4.561
+    },
+    {
+      "text": "designing effective visualization.",
+      "start": 1386.88,
+      "duration": 5.279
+    },
+    {
+      "text": "Last principle, your graphics must not",
+      "start": 1389.36,
+      "duration": 5.36
+    },
+    {
+      "text": "quote data out of context. For example,",
+      "start": 1392.159,
+      "duration": 4.241
+    },
+    {
+      "text": "you are trying to convince your friend,",
+      "start": 1394.72,
+      "duration": 3.76
+    },
+    {
+      "text": "oh no, there's climate change, but they",
+      "start": 1396.4,
+      "duration": 4.08
+    },
+    {
+      "text": "are showing you this graph. Hey, no,",
+      "start": 1398.48,
+      "duration": 4.64
+    },
+    {
+      "text": "climate change is a lie. Look at this",
+      "start": 1400.48,
+      "duration": 6.319
+    },
+    {
+      "text": "world average temperature from 97 1997",
+      "start": 1403.12,
+      "duration": 6.72
+    },
+    {
+      "text": "to 2012. There is no trend at all. Don't",
+      "start": 1406.799,
+      "duration": 5.601
+    },
+    {
+      "text": "scare us. There's no global warming.",
+      "start": 1409.84,
+      "duration": 4.88
+    },
+    {
+      "text": "What is happening here? You are quoting",
+      "start": 1412.4,
+      "duration": 4.32
+    },
+    {
+      "text": "data out of context. If you look at a",
+      "start": 1414.72,
+      "duration": 4.8
+    },
+    {
+      "text": "longer timeline, okay, okay, we don't",
+      "start": 1416.72,
+      "duration": 5.92
+    },
+    {
+      "text": "start from 1997. We start earlier, okay?",
+      "start": 1419.52,
+      "duration": 6.32
+    },
+    {
+      "text": "Instead of 15 years, we look into 50",
+      "start": 1422.64,
+      "duration": 5.919
+    },
+    {
+      "text": "years. And can you see the trend? Okay.",
+      "start": 1425.84,
+      "duration": 4.719
+    },
+    {
+      "text": "So, this is what we mean by we try not",
+      "start": 1428.559,
+      "duration": 6.0
+    },
+    {
+      "text": "to leave the data out of context. If you",
+      "start": 1430.559,
+      "duration": 6.321
+    },
+    {
+      "text": "have a full history of data, you include",
+      "start": 1434.559,
+      "duration": 4.161
+    },
+    {
+      "text": "it first. Okay? To make sure you don't",
+      "start": 1436.88,
+      "duration": 5.36
+    },
+    {
+      "text": "have any uh incorrect interpretation due",
+      "start": 1438.72,
+      "duration": 6.959
+    },
+    {
+      "text": "to quoting data out of context. So as",
+      "start": 1442.24,
+      "duration": 5.439
+    },
+    {
+      "text": "much data as you can collect you have to",
+      "start": 1445.679,
+      "duration": 4.401
+    },
+    {
+      "text": "visualize them consider the large data",
+      "start": 1447.679,
+      "duration": 4.641
+    },
+    {
+      "text": "set so that you can deliver the right",
+      "start": 1450.08,
+      "duration": 4.56
+    },
+    {
+      "text": "informations to the readers and avoid",
+      "start": 1452.32,
+      "duration": 5.04
+    },
+    {
+      "text": "producing graph that are out of context.",
+      "start": 1454.64,
+      "duration": 5.279
+    },
+    {
+      "text": "Okay. So that's uh the integrity",
+      "start": 1457.36,
+      "duration": 4.88
+    },
+    {
+      "text": "principle that I would like to share.",
+      "start": 1459.919,
+      "duration": 5.601
+    },
+    {
+      "text": "Now let's move on to a more technical uh",
+      "start": 1462.24,
+      "duration": 5.2
+    },
+    {
+      "text": "part of it when designing our",
+      "start": 1465.52,
+      "duration": 3.44
+    },
+    {
+      "text": "visualization.",
+      "start": 1467.44,
+      "duration": 4.239
+    },
+    {
+      "text": "uh from the computing background",
+      "start": 1468.96,
+      "duration": 5.12
+    },
+    {
+      "text": "actually chart is not as simple as a",
+      "start": 1471.679,
+      "duration": 4.88
+    },
+    {
+      "text": "chart. We do have different naming for",
+      "start": 1474.08,
+      "duration": 4.959
+    },
+    {
+      "text": "different ingredient of the chart. For",
+      "start": 1476.559,
+      "duration": 5.041
+    },
+    {
+      "text": "example, the visual element we do have",
+      "start": 1479.039,
+      "duration": 5.681
+    },
+    {
+      "text": "mark and channel. M are actually",
+      "start": 1481.6,
+      "duration": 6.4
+    },
+    {
+      "text": "elements that can represent the items.",
+      "start": 1484.72,
+      "duration": 5.199
+    },
+    {
+      "text": "Channel are actually the visual elements",
+      "start": 1488.0,
+      "duration": 4.0
+    },
+    {
+      "text": "that can control the appearance of the",
+      "start": 1489.919,
+      "duration": 5.36
+    },
+    {
+      "text": "map. Okay. So let me put it simple. For",
+      "start": 1492.0,
+      "duration": 5.44
+    },
+    {
+      "text": "example, there are two type of channel.",
+      "start": 1495.279,
+      "duration": 4.961
+    },
+    {
+      "text": "One is identity channel which is usually",
+      "start": 1497.44,
+      "duration": 5.44
+    },
+    {
+      "text": "used for categorical variable such as",
+      "start": 1500.24,
+      "duration": 5.52
+    },
+    {
+      "text": "the shape and the color. Another channel",
+      "start": 1502.88,
+      "duration": 5.6
+    },
+    {
+      "text": "is magnitude channel which are normally",
+      "start": 1505.76,
+      "duration": 5.68
+    },
+    {
+      "text": "used for quantitative variable for",
+      "start": 1508.48,
+      "duration": 5.6
+    },
+    {
+      "text": "example the length and the shape of the",
+      "start": 1511.44,
+      "duration": 6.16
+    },
+    {
+      "text": "color. Darker means higher, higher means",
+      "start": 1514.08,
+      "duration": 7.199
+    },
+    {
+      "text": "um more. Okay. So two type of channel",
+      "start": 1517.6,
+      "duration": 6.48
+    },
+    {
+      "text": "identity which is categorical magnitude",
+      "start": 1521.279,
+      "duration": 5.601
+    },
+    {
+      "text": "which is quantitative",
+      "start": 1524.08,
+      "duration": 5.52
+    },
+    {
+      "text": "and because of the way our human brain",
+      "start": 1526.88,
+      "duration": 5.279
+    },
+    {
+      "text": "and visual perception system is designed",
+      "start": 1529.6,
+      "duration": 4.8
+    },
+    {
+      "text": "there are different",
+      "start": 1532.159,
+      "duration": 5.361
+    },
+    {
+      "text": "effectiveness depending on the channel",
+      "start": 1534.4,
+      "duration": 6.0
+    },
+    {
+      "text": "types that you use. Okay. As a human",
+      "start": 1537.52,
+      "duration": 5.519
+    },
+    {
+      "text": "right actually we are more sensitive to",
+      "start": 1540.4,
+      "duration": 6.159
+    },
+    {
+      "text": "a position on common scale followed by",
+      "start": 1543.039,
+      "duration": 6.481
+    },
+    {
+      "text": "the length followed by the area followed",
+      "start": 1546.559,
+      "duration": 6.48
+    },
+    {
+      "text": "by color and lastly 3D. Okay for",
+      "start": 1549.52,
+      "duration": 5.519
+    },
+    {
+      "text": "identity channel we are very sensitive",
+      "start": 1553.039,
+      "duration": 4.321
+    },
+    {
+      "text": "to the differences in the space region",
+      "start": 1555.039,
+      "duration": 4.481
+    },
+    {
+      "text": "special region followed by different",
+      "start": 1557.36,
+      "duration": 5.28
+    },
+    {
+      "text": "color and lastly the shape. So what do I",
+      "start": 1559.52,
+      "duration": 5.279
+    },
+    {
+      "text": "mean by channel effectiveness? I think",
+      "start": 1562.64,
+      "duration": 4.159
+    },
+    {
+      "text": "we can only illustrate this through",
+      "start": 1564.799,
+      "duration": 5.281
+    },
+    {
+      "text": "exercises. Okay,",
+      "start": 1566.799,
+      "duration": 5.76
+    },
+    {
+      "text": "if you look at this",
+      "start": 1570.08,
+      "duration": 6.0
+    },
+    {
+      "text": "chart here, A and B, it is actually",
+      "start": 1572.559,
+      "duration": 5.921
+    },
+    {
+      "text": "represented using",
+      "start": 1576.08,
+      "duration": 4.719
+    },
+    {
+      "text": "position on the common scale because we",
+      "start": 1578.48,
+      "duration": 4.319
+    },
+    {
+      "text": "start from the common scale here, A and",
+      "start": 1580.799,
+      "duration": 5.36
+    },
+    {
+      "text": "B. And I ask you how much longer do you",
+      "start": 1582.799,
+      "duration": 6.641
+    },
+    {
+      "text": "think B is compared to A? How much",
+      "start": 1586.159,
+      "duration": 7.52
+    },
+    {
+      "text": "longer is it? Anyone would like to try?",
+      "start": 1589.44,
+      "duration": 8.16
+    },
+    {
+      "text": "Is it one time longer, two times longer?",
+      "start": 1593.679,
+      "duration": 7.801
+    },
+    {
+      "text": "or same length.",
+      "start": 1597.6,
+      "duration": 3.88
+    },
+    {
+      "text": ">> I just want to say if you don't have",
+      "start": 1602.0,
+      "duration": 4.0
+    },
+    {
+      "text": "access to the audio, you can use off the",
+      "start": 1604.0,
+      "duration": 4.159
+    },
+    {
+      "text": "chat and type it in the chat.",
+      "start": 1606.0,
+      "duration": 6.52
+    },
+    {
+      "text": ">> Oh yeah, for the student.",
+      "start": 1608.159,
+      "duration": 4.361
+    },
+    {
+      "text": "So I think you can compare A and B.",
+      "start": 1612.88,
+      "duration": 6.399
+    },
+    {
+      "text": "Actually B is two times longer, right? I",
+      "start": 1615.36,
+      "duration": 6.0
+    },
+    {
+      "text": "hope everyone agree.",
+      "start": 1619.279,
+      "duration": 6.801
+    },
+    {
+      "text": "Now if I use another question now, is it",
+      "start": 1621.36,
+      "duration": 6.88
+    },
+    {
+      "text": "the same? Is it two times longer or",
+      "start": 1626.08,
+      "duration": 6.88
+    },
+    {
+      "text": "more? How about this one? A and B. Is it",
+      "start": 1628.24,
+      "duration": 6.799
+    },
+    {
+      "text": "two times longer or is it three times?",
+      "start": 1632.96,
+      "duration": 5.199
+    },
+    {
+      "text": "Is it four times?",
+      "start": 1635.039,
+      "duration": 6.081
+    },
+    {
+      "text": "Flora said three times. Okay.",
+      "start": 1638.159,
+      "duration": 4.481
+    },
+    {
+      "text": "All right. I think you know that is more",
+      "start": 1641.12,
+      "duration": 3.12
+    },
+    {
+      "text": "than two times, right? Because this is",
+      "start": 1642.64,
+      "duration": 4.48
+    },
+    {
+      "text": "two times. This should be three or four.",
+      "start": 1644.24,
+      "duration": 4.88
+    },
+    {
+      "text": "Okay. So the correct answer is four",
+      "start": 1647.12,
+      "duration": 4.32
+    },
+    {
+      "text": "times. It's quite easy. At least we can",
+      "start": 1649.12,
+      "duration": 3.919
+    },
+    {
+      "text": "know that this is still more right than",
+      "start": 1651.44,
+      "duration": 3.839
+    },
+    {
+      "text": "the previous example. But now if we use",
+      "start": 1653.039,
+      "duration": 5.681
+    },
+    {
+      "text": "another channel which is the angle.",
+      "start": 1655.279,
+      "duration": 7.76
+    },
+    {
+      "text": "How much deeper is B compared to A?",
+      "start": 1658.72,
+      "duration": 6.079
+    },
+    {
+      "text": "This is quite difficult. You need to use",
+      "start": 1663.039,
+      "duration": 4.0
+    },
+    {
+      "text": "the instrument to measure. Now so this",
+      "start": 1664.799,
+      "duration": 5.841
+    },
+    {
+      "text": "is about four times deeper. Okay. Now I",
+      "start": 1667.039,
+      "duration": 7.12
+    },
+    {
+      "text": "use area as the channel. How much larger",
+      "start": 1670.64,
+      "duration": 7.12
+    },
+    {
+      "text": "is B compared to A?",
+      "start": 1674.159,
+      "duration": 5.281
+    },
+    {
+      "text": "You can see it's getting more and more",
+      "start": 1677.76,
+      "duration": 3.6
+    },
+    {
+      "text": "difficult right when we use different",
+      "start": 1679.44,
+      "duration": 6.0
+    },
+    {
+      "text": "type of mark and channel. Okay.",
+      "start": 1681.36,
+      "duration": 7.36
+    },
+    {
+      "text": "So actually B is five times larger than",
+      "start": 1685.44,
+      "duration": 4.8
+    },
+    {
+      "text": "A.",
+      "start": 1688.72,
+      "duration": 5.12
+    },
+    {
+      "text": "Okay. How much darker is B compared to",
+      "start": 1690.24,
+      "duration": 6.6
+    },
+    {
+      "text": "A?",
+      "start": 1693.84,
+      "duration": 3.0
+    },
+    {
+      "text": "It's two times darker. So you can see",
+      "start": 1698.08,
+      "duration": 5.28
+    },
+    {
+      "text": "that the channel effectiveness is really",
+      "start": 1700.96,
+      "duration": 5.92
+    },
+    {
+      "text": "uh different. uh we are the most",
+      "start": 1703.36,
+      "duration": 7.679
+    },
+    {
+      "text": "sensitive to the length differences at",
+      "start": 1706.88,
+      "duration": 7.12
+    },
+    {
+      "text": "the common scale. Okay. And we are not",
+      "start": 1711.039,
+      "duration": 6.24
+    },
+    {
+      "text": "that sensitive to the brightness, you",
+      "start": 1714.0,
+      "duration": 6.24
+    },
+    {
+      "text": "know, angle. Okay. So when you need to",
+      "start": 1717.279,
+      "duration": 5.441
+    },
+    {
+      "text": "show the differences in the numerical",
+      "start": 1720.24,
+      "duration": 4.319
+    },
+    {
+      "text": "variables,",
+      "start": 1722.72,
+      "duration": 4.4
+    },
+    {
+      "text": "should you use a bar chart with",
+      "start": 1724.559,
+      "duration": 6.401
+    },
+    {
+      "text": "different length or color to shows that",
+      "start": 1727.12,
+      "duration": 6.0
+    },
+    {
+      "text": "darker means higher, lighter means",
+      "start": 1730.96,
+      "duration": 5.04
+    },
+    {
+      "text": "lower? I think you can answer now right",
+      "start": 1733.12,
+      "duration": 4.72
+    },
+    {
+      "text": "that if you want it to be very effective",
+      "start": 1736.0,
+      "duration": 4.0
+    },
+    {
+      "text": "you should use a bar chart. If you",
+      "start": 1737.84,
+      "duration": 3.76
+    },
+    {
+      "text": "already use a bar chart for another",
+      "start": 1740.0,
+      "duration": 3.919
+    },
+    {
+      "text": "variable for the less important variable",
+      "start": 1741.6,
+      "duration": 3.76
+    },
+    {
+      "text": "you have no choice but you can use",
+      "start": 1743.919,
+      "duration": 3.601
+    },
+    {
+      "text": "brightness or saturation to represent",
+      "start": 1745.36,
+      "duration": 5.76
+    },
+    {
+      "text": "it. Okay. So this is what we mean by",
+      "start": 1747.52,
+      "duration": 5.519
+    },
+    {
+      "text": "channel effectiveness.",
+      "start": 1751.12,
+      "duration": 4.24
+    },
+    {
+      "text": "Uh with this we are ending our second",
+      "start": 1753.039,
+      "duration": 5.201
+    },
+    {
+      "text": "mini topic. Now I would like to continue",
+      "start": 1755.36,
+      "duration": 5.36
+    },
+    {
+      "text": "on with the most important part which is",
+      "start": 1758.24,
+      "duration": 4.88
+    },
+    {
+      "text": "storytelling. You already learned the",
+      "start": 1760.72,
+      "duration": 4.8
+    },
+    {
+      "text": "important of data visualizations. You",
+      "start": 1763.12,
+      "duration": 3.6
+    },
+    {
+      "text": "know that there are some design",
+      "start": 1765.52,
+      "duration": 3.039
+    },
+    {
+      "text": "guideline that you should follow. For",
+      "start": 1766.72,
+      "duration": 5.12
+    },
+    {
+      "text": "example, you should not distort your",
+      "start": 1768.559,
+      "duration": 6.321
+    },
+    {
+      "text": "graphic uh due to scale or graphical",
+      "start": 1771.84,
+      "duration": 5.439
+    },
+    {
+      "text": "distortion that can lead to in uh",
+      "start": 1774.88,
+      "duration": 5.039
+    },
+    {
+      "text": "integrity issue and also should not",
+      "start": 1777.279,
+      "duration": 4.241
+    },
+    {
+      "text": "quote data out of context. Try to",
+      "start": 1779.919,
+      "duration": 3.281
+    },
+    {
+      "text": "visualize all the data that you have",
+      "start": 1781.52,
+      "duration": 3.6
+    },
+    {
+      "text": "first so that you will not arrive at the",
+      "start": 1783.2,
+      "duration": 4.56
+    },
+    {
+      "text": "wrong conclusion and understand that for",
+      "start": 1785.12,
+      "duration": 4.08
+    },
+    {
+      "text": "different type of variable there are",
+      "start": 1787.76,
+      "duration": 3.84
+    },
+    {
+      "text": "different uh channel that you can use.",
+      "start": 1789.2,
+      "duration": 4.959
+    },
+    {
+      "text": "Okay. For example, categorical you can",
+      "start": 1791.6,
+      "duration": 5.199
+    },
+    {
+      "text": "use shape or color, numerical you can",
+      "start": 1794.159,
+      "duration": 5.601
+    },
+    {
+      "text": "use length, uh brightness, saturation.",
+      "start": 1796.799,
+      "duration": 5.12
+    },
+    {
+      "text": "Okay. Now let's move on to the",
+      "start": 1799.76,
+      "duration": 3.68
+    },
+    {
+      "text": "storytelling.",
+      "start": 1801.919,
+      "duration": 4.081
+    },
+    {
+      "text": "So there are two types of uh objective",
+      "start": 1803.44,
+      "duration": 4.959
+    },
+    {
+      "text": "when you want to use data visualization",
+      "start": 1806.0,
+      "duration": 5.44
+    },
+    {
+      "text": "to tell story. First mainly I think it's",
+      "start": 1808.399,
+      "duration": 4.961
+    },
+    {
+      "text": "internal like as a data scientist data",
+      "start": 1811.44,
+      "duration": 5.599
+    },
+    {
+      "text": "analyst together with our team member we",
+      "start": 1813.36,
+      "duration": 6.64
+    },
+    {
+      "text": "may use the visualization to explore if",
+      "start": 1817.039,
+      "duration": 5.12
+    },
+    {
+      "text": "there are any interesting patterns.",
+      "start": 1820.0,
+      "duration": 4.88
+    },
+    {
+      "text": "Okay, exploratory. We might generate a",
+      "start": 1822.159,
+      "duration": 4.24
+    },
+    {
+      "text": "lot of graphs and see if there are any",
+      "start": 1824.88,
+      "duration": 4.0
+    },
+    {
+      "text": "patterns. But once we realize there are",
+      "start": 1826.399,
+      "duration": 5.28
+    },
+    {
+      "text": "some important patterns inside and we",
+      "start": 1828.88,
+      "duration": 5.679
+    },
+    {
+      "text": "need to tell our decision maker, our",
+      "start": 1831.679,
+      "duration": 6.321
+    },
+    {
+      "text": "manager that it would be explanatory",
+      "start": 1834.559,
+      "duration": 6.561
+    },
+    {
+      "text": "ah storytelling where we want to",
+      "start": 1838.0,
+      "duration": 4.799
+    },
+    {
+      "text": "communicate the findings from the",
+      "start": 1841.12,
+      "duration": 5.36
+    },
+    {
+      "text": "exploratory phase and tell a story with",
+      "start": 1842.799,
+      "duration": 6.321
+    },
+    {
+      "text": "the goal of informing and convincing our",
+      "start": 1846.48,
+      "duration": 5.52
+    },
+    {
+      "text": "audience. And be careful. There is a",
+      "start": 1849.12,
+      "duration": 5.52
+    },
+    {
+      "text": "fine line between showing the important",
+      "start": 1852.0,
+      "duration": 7.2
+    },
+    {
+      "text": "data in the explanatory storytelling or",
+      "start": 1854.64,
+      "duration": 6.96
+    },
+    {
+      "text": "manipulating presentation to fit our",
+      "start": 1859.2,
+      "duration": 5.359
+    },
+    {
+      "text": "subjective opinions. As a scientist, we",
+      "start": 1861.6,
+      "duration": 5.199
+    },
+    {
+      "text": "want to be objective. So we want to show",
+      "start": 1864.559,
+      "duration": 3.761
+    },
+    {
+      "text": "the important data and communicate",
+      "start": 1866.799,
+      "duration": 3.681
+    },
+    {
+      "text": "honestly. We shouldn't manipulate the",
+      "start": 1868.32,
+      "duration": 4.0
+    },
+    {
+      "text": "presentation to fit our own personal",
+      "start": 1870.48,
+      "duration": 4.0
+    },
+    {
+      "text": "opinion. Okay.",
+      "start": 1872.32,
+      "duration": 3.76
+    },
+    {
+      "text": "So what are the some of the strategy",
+      "start": 1874.48,
+      "duration": 3.84
+    },
+    {
+      "text": "that you can follow uh while doing",
+      "start": 1876.08,
+      "duration": 4.719
+    },
+    {
+      "text": "storytelling? First of all, you need to",
+      "start": 1878.32,
+      "duration": 4.959
+    },
+    {
+      "text": "know who are your audience, what you",
+      "start": 1880.799,
+      "duration": 5.281
+    },
+    {
+      "text": "want them to know. Then with the who and",
+      "start": 1883.279,
+      "duration": 5.28
+    },
+    {
+      "text": "what in mind, you can then decide how",
+      "start": 1886.08,
+      "duration": 4.479
+    },
+    {
+      "text": "should you present it. Should it be done",
+      "start": 1888.559,
+      "duration": 3.921
+    },
+    {
+      "text": "through live presentation like I was",
+      "start": 1890.559,
+      "duration": 3.921
+    },
+    {
+      "text": "sharing today? Should it be done through",
+      "start": 1892.48,
+      "duration": 4.64
+    },
+    {
+      "text": "a documentation like a booklet, a report",
+      "start": 1894.48,
+      "duration": 4.48
+    },
+    {
+      "text": "which I will share with you at the end",
+      "start": 1897.12,
+      "duration": 4.399
+    },
+    {
+      "text": "or can it be just a simple video like",
+      "start": 1898.96,
+      "duration": 4.4
+    },
+    {
+      "text": "the one that we have from the first",
+      "start": 1901.519,
+      "duration": 3.441
+    },
+    {
+      "text": "topic.",
+      "start": 1903.36,
+      "duration": 3.6
+    },
+    {
+      "text": "Once you have decided, you will need to",
+      "start": 1904.96,
+      "duration": 4.24
+    },
+    {
+      "text": "design a story board. Okay. to",
+      "start": 1906.96,
+      "duration": 4.24
+    },
+    {
+      "text": "communicate the findings. Okay, for",
+      "start": 1909.2,
+      "duration": 3.92
+    },
+    {
+      "text": "example, what are the questions that you",
+      "start": 1911.2,
+      "duration": 3.599
+    },
+    {
+      "text": "would like to address? What are the",
+      "start": 1913.12,
+      "duration": 4.159
+    },
+    {
+      "text": "approaches you describe? Show the before",
+      "start": 1914.799,
+      "duration": 3.841
+    },
+    {
+      "text": "and after. And lastly, the",
+      "start": 1917.279,
+      "duration": 2.961
+    },
+    {
+      "text": "recommendation.",
+      "start": 1918.64,
+      "duration": 5.2
+    },
+    {
+      "text": "So, this is what you can see here.",
+      "start": 1920.24,
+      "duration": 6.319
+    },
+    {
+      "text": "The",
+      "start": 1923.84,
+      "duration": 5.199
+    },
+    {
+      "text": "data scientist would like to show the",
+      "start": 1926.559,
+      "duration": 4.561
+    },
+    {
+      "text": "data to shows that after a pilot",
+      "start": 1929.039,
+      "duration": 4.88
+    },
+    {
+      "text": "program, we do see increased interest of",
+      "start": 1931.12,
+      "duration": 5.439
+    },
+    {
+      "text": "the children towards science. So there",
+      "start": 1933.919,
+      "duration": 4.64
+    },
+    {
+      "text": "are many ways for them to communicate",
+      "start": 1936.559,
+      "duration": 4.561
+    },
+    {
+      "text": "this finding. First one they want to",
+      "start": 1938.559,
+      "duration": 6.401
+    },
+    {
+      "text": "show after the pilot program 68% express",
+      "start": 1941.12,
+      "duration": 6.24
+    },
+    {
+      "text": "interest as simple as that just a number",
+      "start": 1944.96,
+      "duration": 5.36
+    },
+    {
+      "text": "so that we know that okay 68% compared",
+      "start": 1947.36,
+      "duration": 6.319
+    },
+    {
+      "text": "to 44 so it's a success or they can",
+      "start": 1950.32,
+      "duration": 6.88
+    },
+    {
+      "text": "decide to use a pre and post chart that",
+      "start": 1953.679,
+      "duration": 5.521
+    },
+    {
+      "text": "shows what is the original interest",
+      "start": 1957.2,
+      "duration": 4.64
+    },
+    {
+      "text": "before the pilot what is the interest",
+      "start": 1959.2,
+      "duration": 5.199
+    },
+    {
+      "text": "after the pilot and when we see there's",
+      "start": 1961.84,
+      "duration": 4.8
+    },
+    {
+      "text": "a increase in after compared to the",
+      "start": 1964.399,
+      "duration": 4.4
+    },
+    {
+      "text": "before then we say that the pilot",
+      "start": 1966.64,
+      "duration": 4.32
+    },
+    {
+      "text": "program was the process. So you can see",
+      "start": 1968.799,
+      "duration": 4.48
+    },
+    {
+      "text": "that the version here is more detailed",
+      "start": 1970.96,
+      "duration": 4.64
+    },
+    {
+      "text": "than the first version. But maybe",
+      "start": 1973.279,
+      "duration": 4.081
+    },
+    {
+      "text": "depending on the audience, if you are",
+      "start": 1975.6,
+      "duration": 3.84
+    },
+    {
+      "text": "talking to the CEO, maybe he's only",
+      "start": 1977.36,
+      "duration": 4.0
+    },
+    {
+      "text": "interested in the actual number, how",
+      "start": 1979.44,
+      "duration": 3.76
+    },
+    {
+      "text": "many increase, how many percentage",
+      "start": 1981.36,
+      "duration": 3.76
+    },
+    {
+      "text": "increase. But if you are talking to the",
+      "start": 1983.2,
+      "duration": 4.079
+    },
+    {
+      "text": "manager, they want to know in detail",
+      "start": 1985.12,
+      "duration": 4.159
+    },
+    {
+      "text": "what are the increases across different",
+      "start": 1987.279,
+      "duration": 5.041
+    },
+    {
+      "text": "category, then you can show this. Okay.",
+      "start": 1989.279,
+      "duration": 5.12
+    },
+    {
+      "text": "So this is what we mean by depending on",
+      "start": 1992.32,
+      "duration": 5.44
+    },
+    {
+      "text": "the type of the audience. Okay. the the",
+      "start": 1994.399,
+      "duration": 8.16
+    },
+    {
+      "text": "questions and the decision uh making",
+      "start": 1997.76,
+      "duration": 7.519
+    },
+    {
+      "text": "framework you can choose what kind of",
+      "start": 2002.559,
+      "duration": 5.36
+    },
+    {
+      "text": "visualizations that you want to use to",
+      "start": 2005.279,
+      "duration": 5.201
+    },
+    {
+      "text": "convey the same message. Okay. So these",
+      "start": 2007.919,
+      "duration": 4.801
+    },
+    {
+      "text": "are some example that shows different",
+      "start": 2010.48,
+      "duration": 4.64
+    },
+    {
+      "text": "type of visualization to present the",
+      "start": 2012.72,
+      "duration": 4.72
+    },
+    {
+      "text": "same message which is pilot program was",
+      "start": 2015.12,
+      "duration": 4.96
+    },
+    {
+      "text": "a success. So this one is after pilot",
+      "start": 2017.44,
+      "duration": 6.16
+    },
+    {
+      "text": "program 68% expressed interest. This is",
+      "start": 2020.08,
+      "duration": 6.16
+    },
+    {
+      "text": "actually showing that after the program",
+      "start": 2023.6,
+      "duration": 6.079
+    },
+    {
+      "text": "originally only 19% are assited in size",
+      "start": 2026.24,
+      "duration": 6.64
+    },
+    {
+      "text": "but after the program 38% are assited.",
+      "start": 2029.679,
+      "duration": 5.441
+    },
+    {
+      "text": "Okay, for this one it shows before and",
+      "start": 2032.88,
+      "duration": 4.08
+    },
+    {
+      "text": "after just that you use a state bar",
+      "start": 2035.12,
+      "duration": 4.399
+    },
+    {
+      "text": "chart. You can see that excited and kind",
+      "start": 2036.96,
+      "duration": 4.559
+    },
+    {
+      "text": "of interested are the positive one,",
+      "start": 2039.519,
+      "duration": 3.841
+    },
+    {
+      "text": "right? And we can see that after the",
+      "start": 2041.519,
+      "duration": 4.801
+    },
+    {
+      "text": "program we have more composition for",
+      "start": 2043.36,
+      "duration": 5.68
+    },
+    {
+      "text": "excited and kind of interested. Another",
+      "start": 2046.32,
+      "duration": 5.44
+    },
+    {
+      "text": "way to represent the same piece of data.",
+      "start": 2049.04,
+      "duration": 4.48
+    },
+    {
+      "text": "How do you feel about science? We can",
+      "start": 2051.76,
+      "duration": 6.56
+    },
+    {
+      "text": "use this slope graph. Before uh about 25",
+      "start": 2053.52,
+      "duration": 7.52
+    },
+    {
+      "text": "and 19% the blue one shows that they are",
+      "start": 2058.32,
+      "duration": 6.4
+    },
+    {
+      "text": "a cited of interested but after we see",
+      "start": 2061.04,
+      "duration": 6.16
+    },
+    {
+      "text": "more of a cited of interested but you",
+      "start": 2064.72,
+      "duration": 4.639
+    },
+    {
+      "text": "also see a very interesting observation",
+      "start": 2067.2,
+      "duration": 5.84
+    },
+    {
+      "text": "here is that student who are bored or",
+      "start": 2069.359,
+      "duration": 6.0
+    },
+    {
+      "text": "not great before and after actually",
+      "start": 2073.04,
+      "duration": 4.879
+    },
+    {
+      "text": "there are not much difference. But what",
+      "start": 2075.359,
+      "duration": 4.641
+    },
+    {
+      "text": "is really effective about this pilot",
+      "start": 2077.919,
+      "duration": 5.121
+    },
+    {
+      "text": "program is that we manage to convert",
+      "start": 2080.0,
+      "duration": 5.919
+    },
+    {
+      "text": "student that says okay before the",
+      "start": 2083.04,
+      "duration": 6.96
+    },
+    {
+      "text": "program to be excited and interested.",
+      "start": 2085.919,
+      "duration": 6.321
+    },
+    {
+      "text": "Okay. So this is what we can see from",
+      "start": 2090.0,
+      "duration": 5.44
+    },
+    {
+      "text": "this log graph. A lot of the kids in the",
+      "start": 2092.24,
+      "duration": 4.879
+    },
+    {
+      "text": "middle in the neutral in the okay",
+      "start": 2095.44,
+      "duration": 4.32
+    },
+    {
+      "text": "category after the pilot they are",
+      "start": 2097.119,
+      "duration": 5.281
+    },
+    {
+      "text": "motivated to be excited and interested",
+      "start": 2099.76,
+      "duration": 4.48
+    },
+    {
+      "text": "and that's why the program was a",
+      "start": 2102.4,
+      "duration": 4.32
+    },
+    {
+      "text": "success. Okay.",
+      "start": 2104.24,
+      "duration": 4.24
+    },
+    {
+      "text": "So this is how you can decide how you",
+      "start": 2106.72,
+      "duration": 4.24
+    },
+    {
+      "text": "want to present the same piece of data.",
+      "start": 2108.48,
+      "duration": 4.96
+    },
+    {
+      "text": "So now let's look at an example of uh",
+      "start": 2110.96,
+      "duration": 6.0
+    },
+    {
+      "text": "the data again uh how we can actually",
+      "start": 2113.44,
+      "duration": 5.679
+    },
+    {
+      "text": "apply what we have learned so far to",
+      "start": 2116.96,
+      "duration": 4.48
+    },
+    {
+      "text": "improve a visualization.",
+      "start": 2119.119,
+      "duration": 4.801
+    },
+    {
+      "text": "So this is actually a data that shows",
+      "start": 2121.44,
+      "duration": 5.12
+    },
+    {
+      "text": "the frequency of Y chromosonal hel",
+      "start": 2123.92,
+      "duration": 8.84
+    },
+    {
+      "text": "groups among the populations thing is in",
+      "start": 2126.56,
+      "duration": 6.2
+    },
+    {
+      "text": "India. Okay. So the",
+      "start": 2133.04,
+      "duration": 5.68
+    },
+    {
+      "text": "first impression of this chart is very",
+      "start": 2136.72,
+      "duration": 4.08
+    },
+    {
+      "text": "complicated, right? Different region and",
+      "start": 2138.72,
+      "duration": 4.32
+    },
+    {
+      "text": "different uh maybe we like to see this",
+      "start": 2140.8,
+      "duration": 4.08
+    },
+    {
+      "text": "as a sites. But if you want to use it to",
+      "start": 2143.04,
+      "duration": 3.6
+    },
+    {
+      "text": "communicate to the general public, maybe",
+      "start": 2144.88,
+      "duration": 4.08
+    },
+    {
+      "text": "this is too complicated. So how can we",
+      "start": 2146.64,
+      "duration": 5.12
+    },
+    {
+      "text": "improve it? First of all, instead of",
+      "start": 2148.96,
+      "duration": 5.04
+    },
+    {
+      "text": "this kind of design, you just pinpoint",
+      "start": 2151.76,
+      "duration": 6.0
+    },
+    {
+      "text": "the cities. Okay, the location.",
+      "start": 2154.0,
+      "duration": 5.599
+    },
+    {
+      "text": "And then",
+      "start": 2157.76,
+      "duration": 4.48
+    },
+    {
+      "text": "you remove the unnecessary bounding box",
+      "start": 2159.599,
+      "duration": 5.441
+    },
+    {
+      "text": "just to show the composition here.",
+      "start": 2162.24,
+      "duration": 4.879
+    },
+    {
+      "text": "Okay. And then the border here we change",
+      "start": 2165.04,
+      "duration": 4.48
+    },
+    {
+      "text": "to a background shaded gray shaded so",
+      "start": 2167.119,
+      "duration": 4.72
+    },
+    {
+      "text": "that it will not be too constra and",
+      "start": 2169.52,
+      "duration": 4.16
+    },
+    {
+      "text": "affect our ability to perceive the",
+      "start": 2171.839,
+      "duration": 4.161
+    },
+    {
+      "text": "composition. So you can see before and",
+      "start": 2173.68,
+      "duration": 5.76
+    },
+    {
+      "text": "after. I think the right one is cleaner",
+      "start": 2176.0,
+      "duration": 5.52
+    },
+    {
+      "text": "and easier for us to focus on the",
+      "start": 2179.44,
+      "duration": 4.399
+    },
+    {
+      "text": "important one which is the location and",
+      "start": 2181.52,
+      "duration": 4.559
+    },
+    {
+      "text": "the composition. Whereas the first one",
+      "start": 2183.839,
+      "duration": 4.0
+    },
+    {
+      "text": "you can see we have a lot of unnecessary",
+      "start": 2186.079,
+      "duration": 4.561
+    },
+    {
+      "text": "boxes boundary that may hinder the",
+      "start": 2187.839,
+      "duration": 5.28
+    },
+    {
+      "text": "information and understanding.",
+      "start": 2190.64,
+      "duration": 5.68
+    },
+    {
+      "text": "Okay. Similarly for this also thing when",
+      "start": 2193.119,
+      "duration": 6.881
+    },
+    {
+      "text": "we want to use color in our chart we try",
+      "start": 2196.32,
+      "duration": 7.039
+    },
+    {
+      "text": "not to use color where one color",
+      "start": 2200.0,
+      "duration": 5.44
+    },
+    {
+      "text": "dominate the others because it will",
+      "start": 2203.359,
+      "duration": 4.24
+    },
+    {
+      "text": "affect the audience. They might focus on",
+      "start": 2205.44,
+      "duration": 4.32
+    },
+    {
+      "text": "the yellow and they cannot focus on the",
+      "start": 2207.599,
+      "duration": 4.401
+    },
+    {
+      "text": "rest. So one best practice is that you",
+      "start": 2209.76,
+      "duration": 4.8
+    },
+    {
+      "text": "can use color brewer to select colors",
+      "start": 2212.0,
+      "duration": 4.56
+    },
+    {
+      "text": "that looks good together so that it's",
+      "start": 2214.56,
+      "duration": 4.4
+    },
+    {
+      "text": "easier for us to understand each",
+      "start": 2216.56,
+      "duration": 6.08
+    },
+    {
+      "text": "category. So last activity for our third",
+      "start": 2218.96,
+      "duration": 6.399
+    },
+    {
+      "text": "part of today's session is that what are",
+      "start": 2222.64,
+      "duration": 5.199
+    },
+    {
+      "text": "the issues you think okay with these",
+      "start": 2225.359,
+      "duration": 5.441
+    },
+    {
+      "text": "three graph here I think you can see the",
+      "start": 2227.839,
+      "duration": 5.201
+    },
+    {
+      "text": "first one here yellow dominates the",
+      "start": 2230.8,
+      "duration": 5.039
+    },
+    {
+      "text": "other color the second the pie chart I",
+      "start": 2233.04,
+      "duration": 4.88
+    },
+    {
+      "text": "think is quite difficult to distinguish",
+      "start": 2235.839,
+      "duration": 4.641
+    },
+    {
+      "text": "especially for this pink red and this",
+      "start": 2237.92,
+      "duration": 6.88
+    },
+    {
+      "text": "maybe is like uh bit red pink okay and",
+      "start": 2240.48,
+      "duration": 6.72
+    },
+    {
+      "text": "this one also is very difficult so what",
+      "start": 2244.8,
+      "duration": 4.08
+    },
+    {
+      "text": "we can do is we can use the online",
+      "start": 2247.2,
+      "duration": 5.36
+    },
+    {
+      "text": "available tool like color B to choose a",
+      "start": 2248.88,
+      "duration": 6.16
+    },
+    {
+      "text": "better color. Okay, we recolor it. Then",
+      "start": 2252.56,
+      "duration": 5.279
+    },
+    {
+      "text": "now it's easier for us to distinguish.",
+      "start": 2255.04,
+      "duration": 5.44
+    },
+    {
+      "text": "Okay, so this is another advice for",
+      "start": 2257.839,
+      "duration": 5.201
+    },
+    {
+      "text": "designing effective visualization.",
+      "start": 2260.48,
+      "duration": 4.879
+    },
+    {
+      "text": "And lastly, I would like to end with a",
+      "start": 2263.04,
+      "duration": 4.16
+    },
+    {
+      "text": "hands-on but it's not hands-on just me",
+      "start": 2265.359,
+      "duration": 4.641
+    },
+    {
+      "text": "sharing how we are applying these design",
+      "start": 2267.2,
+      "duration": 4.96
+    },
+    {
+      "text": "guidelines and best practices in our",
+      "start": 2270.0,
+      "duration": 6.32
+    },
+    {
+      "text": "day-to-day work. So normally uh we are",
+      "start": 2272.16,
+      "duration": 8.56
+    },
+    {
+      "text": "using these three um software to design",
+      "start": 2276.32,
+      "duration": 6.96
+    },
+    {
+      "text": "visualizations and present them using a",
+      "start": 2280.72,
+      "duration": 5.52
+    },
+    {
+      "text": "dashboard okay in a storytelling manner.",
+      "start": 2283.28,
+      "duration": 4.4
+    },
+    {
+      "text": "So these are the three tools that are",
+      "start": 2286.24,
+      "duration": 3.359
+    },
+    {
+      "text": "available. PowerBI is part of your",
+      "start": 2287.68,
+      "duration": 4.96
+    },
+    {
+      "text": "Microsoft product, Tableau and Lucal",
+      "start": 2289.599,
+      "duration": 4.801
+    },
+    {
+      "text": "Studio which is a Google product which",
+      "start": 2292.64,
+      "duration": 5.04
+    },
+    {
+      "text": "is free. So there are all BI tools,",
+      "start": 2294.4,
+      "duration": 5.52
+    },
+    {
+      "text": "business intelligent tools where you can",
+      "start": 2297.68,
+      "duration": 4.24
+    },
+    {
+      "text": "import your data inside, create",
+      "start": 2299.92,
+      "duration": 4.56
+    },
+    {
+      "text": "visualizations and then uh design a",
+      "start": 2301.92,
+      "duration": 6.72
+    },
+    {
+      "text": "dashboard that can tell story.",
+      "start": 2304.48,
+      "duration": 6.72
+    },
+    {
+      "text": "So it's very important that uh when",
+      "start": 2308.64,
+      "duration": 4.719
+    },
+    {
+      "text": "using this VI tool, you are picking the",
+      "start": 2311.2,
+      "duration": 4.08
+    },
+    {
+      "text": "right visual. For example, if you want",
+      "start": 2313.359,
+      "duration": 4.48
+    },
+    {
+      "text": "to compare dimension, we can use a bar",
+      "start": 2315.28,
+      "duration": 5.2
+    },
+    {
+      "text": "chart. If you want to track changes or",
+      "start": 2317.839,
+      "duration": 4.641
+    },
+    {
+      "text": "trend, you should use a time series, a",
+      "start": 2320.48,
+      "duration": 4.16
+    },
+    {
+      "text": "line chart. If you want to highlight a",
+      "start": 2322.48,
+      "duration": 5.119
+    },
+    {
+      "text": "single critical metric or KPI, you can",
+      "start": 2324.64,
+      "duration": 5.199
+    },
+    {
+      "text": "use a score card. If you want to",
+      "start": 2327.599,
+      "duration": 4.321
+    },
+    {
+      "text": "understand the composition of a whole",
+      "start": 2329.839,
+      "duration": 6.081
+    },
+    {
+      "text": "set of data like a need group, okay, or",
+      "start": 2331.92,
+      "duration": 6.24
+    },
+    {
+      "text": "uh the products of the phone, you can",
+      "start": 2335.92,
+      "duration": 4.4
+    },
+    {
+      "text": "use a pie chart. If you want to",
+      "start": 2338.16,
+      "duration": 3.84
+    },
+    {
+      "text": "visualize data in the real world with",
+      "start": 2340.32,
+      "duration": 4.32
+    },
+    {
+      "text": "geographical information, please try to",
+      "start": 2342.0,
+      "duration": 4.72
+    },
+    {
+      "text": "use a world map. It's intuitive for the",
+      "start": 2344.64,
+      "duration": 4.959
+    },
+    {
+      "text": "user to know the location, relationship",
+      "start": 2346.72,
+      "duration": 5.52
+    },
+    {
+      "text": "between variable, a scatter plot. And",
+      "start": 2349.599,
+      "duration": 5.201
+    },
+    {
+      "text": "lastly, measure how well the data",
+      "start": 2352.24,
+      "duration": 4.72
+    },
+    {
+      "text": "performs against a target. You can use a",
+      "start": 2354.8,
+      "duration": 5.52
+    },
+    {
+      "text": "bullet chart. Okay, so this uh there are",
+      "start": 2356.96,
+      "duration": 5.76
+    },
+    {
+      "text": "a lot of um resources online like",
+      "start": 2360.32,
+      "duration": 4.96
+    },
+    {
+      "text": "picking the right visual based on the",
+      "start": 2362.72,
+      "duration": 4.96
+    },
+    {
+      "text": "purpose of your visualization.",
+      "start": 2365.28,
+      "duration": 5.04
+    },
+    {
+      "text": "For example, if the viewer wants to see",
+      "start": 2367.68,
+      "duration": 5.04
+    },
+    {
+      "text": "how the revenue change over time, what",
+      "start": 2370.32,
+      "duration": 4.72
+    },
+    {
+      "text": "should you use?",
+      "start": 2372.72,
+      "duration": 5.2
+    },
+    {
+      "text": "A time series, a line chart. Okay. If",
+      "start": 2375.04,
+      "duration": 4.96
+    },
+    {
+      "text": "you want to compare sales of different",
+      "start": 2377.92,
+      "duration": 4.56
+    },
+    {
+      "text": "product, a bar chart could be the best",
+      "start": 2380.0,
+      "duration": 5.52
+    },
+    {
+      "text": "one. Identify the cities. So the",
+      "start": 2382.48,
+      "duration": 6.48
+    },
+    {
+      "text": "location where our visitor live then",
+      "start": 2385.52,
+      "duration": 6.319
+    },
+    {
+      "text": "just a map. Okay, as simple as that. So",
+      "start": 2388.96,
+      "duration": 4.72
+    },
+    {
+      "text": "picking the right visual before",
+      "start": 2391.839,
+      "duration": 4.801
+    },
+    {
+      "text": "designing is also very important.",
+      "start": 2393.68,
+      "duration": 4.8
+    },
+    {
+      "text": "So with this I would like to show you uh",
+      "start": 2396.64,
+      "duration": 4.959
+    },
+    {
+      "text": "this is one of the tool that I like to",
+      "start": 2398.48,
+      "duration": 5.92
+    },
+    {
+      "text": "use recently and it's actually a",
+      "start": 2401.599,
+      "duration": 5.201
+    },
+    {
+      "text": "Australian product. I'm not sure if you",
+      "start": 2404.4,
+      "duration": 5.439
+    },
+    {
+      "text": "used this before. Canva originally it",
+      "start": 2406.8,
+      "duration": 5.76
+    },
+    {
+      "text": "started off as a tool for non-designer",
+      "start": 2409.839,
+      "duration": 4.561
+    },
+    {
+      "text": "to create their own design. It's",
+      "start": 2412.56,
+      "duration": 3.279
+    },
+    {
+      "text": "actually a yearbook project. The",
+      "start": 2414.4,
+      "duration": 2.88
+    },
+    {
+      "text": "founders want to use it to create their",
+      "start": 2415.839,
+      "duration": 3.921
+    },
+    {
+      "text": "yearbook. Then they actually realized",
+      "start": 2417.28,
+      "duration": 4.799
+    },
+    {
+      "text": "that this tool is getting very um",
+      "start": 2419.76,
+      "duration": 4.079
+    },
+    {
+      "text": "popular. A lot of people are using it.",
+      "start": 2422.079,
+      "duration": 3.601
+    },
+    {
+      "text": "Even people from non-design background",
+      "start": 2423.839,
+      "duration": 4.641
+    },
+    {
+      "text": "are using it. And now it's used by",
+      "start": 2425.68,
+      "duration": 4.32
+    },
+    {
+      "text": "millions globally for visual",
+      "start": 2428.48,
+      "duration": 4.24
+    },
+    {
+      "text": "communication. that allow you to import",
+      "start": 2430.0,
+      "duration": 6.64
+    },
+    {
+      "text": "data also and create chart on canva now.",
+      "start": 2432.72,
+      "duration": 6.16
+    },
+    {
+      "text": "So this is an example of a project that",
+      "start": 2436.64,
+      "duration": 5.12
+    },
+    {
+      "text": "I have worked on in Sawa where we try to",
+      "start": 2438.88,
+      "duration": 4.8
+    },
+    {
+      "text": "understand the demographic of the",
+      "start": 2441.76,
+      "duration": 4.24
+    },
+    {
+      "text": "elderly in the state. We look at the",
+      "start": 2443.68,
+      "duration": 5.36
+    },
+    {
+      "text": "household income. We look at the the",
+      "start": 2446.0,
+      "duration": 4.64
+    },
+    {
+      "text": "household group you know how many are",
+      "start": 2449.04,
+      "duration": 5.12
+    },
+    {
+      "text": "actually at the B the bottom 40 how many",
+      "start": 2450.64,
+      "duration": 5.52
+    },
+    {
+      "text": "are the top high income earners and then",
+      "start": 2454.16,
+      "duration": 4.159
+    },
+    {
+      "text": "we review it and then we see the",
+      "start": 2456.16,
+      "duration": 5.919
+    },
+    {
+      "text": "spending category how many uh% spent on",
+      "start": 2458.319,
+      "duration": 6.241
+    },
+    {
+      "text": "food how many% spent on transportation",
+      "start": 2462.079,
+      "duration": 5.121
+    },
+    {
+      "text": "so we can see the top category is food",
+      "start": 2464.56,
+      "duration": 5.2
+    },
+    {
+      "text": "and the least is the transportation so",
+      "start": 2467.2,
+      "duration": 5.2
+    },
+    {
+      "text": "this is actually designed using KBA so",
+      "start": 2469.76,
+      "duration": 4.88
+    },
+    {
+      "text": "if you are not from technical background",
+      "start": 2472.4,
+      "duration": 4.48
+    },
+    {
+      "text": "you find it difficult to use the BI tool",
+      "start": 2474.64,
+      "duration": 5.92
+    },
+    {
+      "text": "like Tableau, PowerBI or local studio,",
+      "start": 2476.88,
+      "duration": 6.4
+    },
+    {
+      "text": "you can use Canva already. And the best",
+      "start": 2480.56,
+      "duration": 4.64
+    },
+    {
+      "text": "thing that I realized is that Canva also",
+      "start": 2483.28,
+      "duration": 4.799
+    },
+    {
+      "text": "integrated some artificial intelligence",
+      "start": 2485.2,
+      "duration": 4.879
+    },
+    {
+      "text": "where they allowed you to upload your",
+      "start": 2488.079,
+      "duration": 4.24
+    },
+    {
+      "text": "data, your visualizations and you type",
+      "start": 2490.079,
+      "duration": 4.081
+    },
+    {
+      "text": "the script and you can use it to",
+      "start": 2492.319,
+      "duration": 5.441
+    },
+    {
+      "text": "generate a video with a AI voice over",
+      "start": 2494.16,
+      "duration": 5.679
+    },
+    {
+      "text": "which I think you can use it for the",
+      "start": 2497.76,
+      "duration": 5.359
+    },
+    {
+      "text": "start talking competition. So just come",
+      "start": 2499.839,
+      "duration": 5.441
+    },
+    {
+      "text": "up with an idea and use it for the",
+      "start": 2503.119,
+      "duration": 4.48
+    },
+    {
+      "text": "competition. Okay? and I hope you I wish",
+      "start": 2505.28,
+      "duration": 4.24
+    },
+    {
+      "text": "you all the best for the competition.",
+      "start": 2507.599,
+      "duration": 3.76
+    },
+    {
+      "text": "That's all for my sharing today. Thank",
+      "start": 2509.52,
+      "duration": 4.839
+    },
+    {
+      "text": "you.",
+      "start": 2511.359,
+      "duration": 3.0
+    },
+    {
+      "text": ">> Thank you so much Michael that encourage",
+      "start": 2514.56,
+      "duration": 6.799
+    },
+    {
+      "text": "us to come up with a new workshop and um",
+      "start": 2517.119,
+      "duration": 6.801
+    },
+    {
+      "text": "you know come up with the AI version of",
+      "start": 2521.359,
+      "duration": 4.561
+    },
+    {
+      "text": "the Canva.",
+      "start": 2523.92,
+      "duration": 5.52
+    },
+    {
+      "text": "So that's very good. So it was very um",
+      "start": 2525.92,
+      "duration": 6.8
+    },
+    {
+      "text": "as usual very informative and coming",
+      "start": 2529.44,
+      "duration": 5.919
+    },
+    {
+      "text": "with some example of the good um",
+      "start": 2532.72,
+      "duration": 4.32
+    },
+    {
+      "text": "visualization",
+      "start": 2535.359,
+      "duration": 4.0
+    },
+    {
+      "text": "what are the proper choices we make",
+      "start": 2537.04,
+      "duration": 5.92
+    },
+    {
+      "text": "during our data visualization especially",
+      "start": 2539.359,
+      "duration": 6.321
+    },
+    {
+      "text": "acting at someone if this is you coming",
+      "start": 2542.96,
+      "duration": 5.84
+    },
+    {
+      "text": "from STEM area or because this is now",
+      "start": 2545.68,
+      "duration": 5.04
+    },
+    {
+      "text": "open to all the discipline you're coming",
+      "start": 2548.8,
+      "duration": 4.799
+    },
+    {
+      "text": "from different discipline um I think our",
+      "start": 2550.72,
+      "duration": 6.879
+    },
+    {
+      "text": "role and responsibility is to choose is",
+      "start": 2553.599,
+      "duration": 8.081
+    },
+    {
+      "text": "um that tool that can um um share the",
+      "start": 2557.599,
+      "duration": 6.801
+    },
+    {
+      "text": "message and that message is coming based",
+      "start": 2561.68,
+      "duration": 4.72
+    },
+    {
+      "text": "on the fact and evidence and the",
+      "start": 2564.4,
+      "duration": 4.959
+    },
+    {
+      "text": "science. So um I think and it's coming",
+      "start": 2566.4,
+      "duration": 6.0
+    },
+    {
+      "text": "with my kind of an engaging I like the",
+      "start": 2569.359,
+      "duration": 6.161
+    },
+    {
+      "text": "idea of that video that um Michael uh",
+      "start": 2572.4,
+      "duration": 5.84
+    },
+    {
+      "text": "shared in the beginning of this uh you",
+      "start": 2575.52,
+      "duration": 4.96
+    },
+    {
+      "text": "know data visualization workshop. You",
+      "start": 2578.24,
+      "duration": 6.079
+    },
+    {
+      "text": "can see how um the speaker um join to",
+      "start": 2580.48,
+      "duration": 6.16
+    },
+    {
+      "text": "the graph and take us to the different",
+      "start": 2584.319,
+      "duration": 5.601
+    },
+    {
+      "text": "section the and remind us uh about",
+      "start": 2586.64,
+      "duration": 5.76
+    },
+    {
+      "text": "something. I think that active message",
+      "start": 2589.92,
+      "duration": 4.72
+    },
+    {
+      "text": "and that um you know engaging with the",
+      "start": 2592.4,
+      "duration": 7.16
+    },
+    {
+      "text": "data was very um amazing",
+      "start": 2594.64,
+      "duration": 4.92
+    },
+    {
+      "text": "and we would hope to see you and 4",
+      "start": 2602.48,
+      "duration": 7.119
+    },
+    {
+      "text": "minute videos by Monday 3rd of November",
+      "start": 2605.92,
+      "duration": 7.36
+    },
+    {
+      "text": "uh for uh us to review and you become uh",
+      "start": 2609.599,
+      "duration": 6.801
+    },
+    {
+      "text": "you invited to the uh live showcase on",
+      "start": 2613.28,
+      "duration": 5.28
+    },
+    {
+      "text": "Thursday 6th of November. Thank you so",
+      "start": 2616.4,
+      "duration": 5.12
+    },
+    {
+      "text": "much.",
+      "start": 2618.56,
+      "duration": 2.96
+    }
+  ]
+}

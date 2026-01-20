@@ -1,0 +1,7623 @@
+{
+  "video_id": "bBRBt84nOp8",
+  "title": "Workshop 1  : Adobe Illustrator (2022)",
+  "channel": "Shaping STEMS Futures ",
+  "published": "2025-09-15T11:36:15Z",
+  "transcript": [
+    {
+      "text": "for just a moment. So, welcome everyone.",
+      "start": 0.08,
+      "duration": 3.68
+    },
+    {
+      "text": "It's so great to be here. So great to",
+      "start": 2.24,
+      "duration": 3.36
+    },
+    {
+      "text": "have you all here at today's illustrator",
+      "start": 3.76,
+      "duration": 4.879
+    },
+    {
+      "text": "workshop. Um my name is Julia. I will be",
+      "start": 5.6,
+      "duration": 6.159
+    },
+    {
+      "text": "moderating today's workshop. Uh beta in",
+      "start": 8.639,
+      "duration": 4.96
+    },
+    {
+      "text": "just a moment will be introducing the",
+      "start": 11.759,
+      "duration": 4.481
+    },
+    {
+      "text": "competition and Elliot will be the",
+      "start": 13.599,
+      "duration": 5.68
+    },
+    {
+      "text": "presenter for today. So I'd just like to",
+      "start": 16.24,
+      "duration": 4.32
+    },
+    {
+      "text": "begin with an acknowledgement of",
+      "start": 19.279,
+      "duration": 4.16
+    },
+    {
+      "text": "country. Uh we respectfully acknowledge",
+      "start": 20.56,
+      "duration": 5.36
+    },
+    {
+      "text": "the Warandre people of the Koulin nation",
+      "start": 23.439,
+      "duration": 4.241
+    },
+    {
+      "text": "who are the traditional owners of the",
+      "start": 25.92,
+      "duration": 3.519
+    },
+    {
+      "text": "land on which Swimburn's Australian",
+      "start": 27.68,
+      "duration": 3.999
+    },
+    {
+      "text": "campuses are located in Melbourne's east",
+      "start": 29.439,
+      "duration": 5.441
+    },
+    {
+      "text": "and outer east. Uh we would like to pay",
+      "start": 31.679,
+      "duration": 4.88
+    },
+    {
+      "text": "our respects to their elders past,",
+      "start": 34.88,
+      "duration": 4.4
+    },
+    {
+      "text": "present and emerging. We would also like",
+      "start": 36.559,
+      "duration": 4.16
+    },
+    {
+      "text": "to acknowledge and respect the",
+      "start": 39.28,
+      "duration": 3.279
+    },
+    {
+      "text": "traditional owners of lands all across",
+      "start": 40.719,
+      "duration": 4.401
+    },
+    {
+      "text": "Australia, their elders, ancestors,",
+      "start": 42.559,
+      "duration": 5.441
+    },
+    {
+      "text": "cultures and heritage.",
+      "start": 45.12,
+      "duration": 4.72
+    },
+    {
+      "text": "Uh, I'd just like to talk a minute about",
+      "start": 48.0,
+      "duration": 4.399
+    },
+    {
+      "text": "the Swimburn Creative Campus. Uh, you",
+      "start": 49.84,
+      "duration": 4.559
+    },
+    {
+      "text": "might have heard that last year Swimburn",
+      "start": 52.399,
+      "duration": 4.241
+    },
+    {
+      "text": "became Australia's first and only Adobe",
+      "start": 54.399,
+      "duration": 4.241
+    },
+    {
+      "text": "creative campus, which means that all",
+      "start": 56.64,
+      "duration": 3.919
+    },
+    {
+      "text": "staff and students get access to the",
+      "start": 58.64,
+      "duration": 4.32
+    },
+    {
+      "text": "entire creative suite all for free. Uh,",
+      "start": 60.559,
+      "duration": 3.92
+    },
+    {
+      "text": "you just have to log in with your",
+      "start": 62.96,
+      "duration": 4.56
+    },
+    {
+      "text": "Swimburn email address. Uh, you also",
+      "start": 64.479,
+      "duration": 5.841
+    },
+    {
+      "text": "have access to the digital coaches. I'm",
+      "start": 67.52,
+      "duration": 4.959
+    },
+    {
+      "text": "one of them. Uh, and you can drop in to",
+      "start": 70.32,
+      "duration": 5.76
+    },
+    {
+      "text": "see us at any time in the library.",
+      "start": 72.479,
+      "duration": 5.28
+    },
+    {
+      "text": "So, for today's workshop, we're going to",
+      "start": 76.08,
+      "duration": 3.359
+    },
+    {
+      "text": "be running through the basics of",
+      "start": 77.759,
+      "duration": 4.081
+    },
+    {
+      "text": "Illustrator. Uh, and we're also going to",
+      "start": 79.439,
+      "duration": 4.32
+    },
+    {
+      "text": "look at setting that all up for laser",
+      "start": 81.84,
+      "duration": 3.599
+    },
+    {
+      "text": "cutting, which is very exciting. So,",
+      "start": 83.759,
+      "duration": 4.241
+    },
+    {
+      "text": "we'll be running through that today. Uh,",
+      "start": 85.439,
+      "duration": 4.161
+    },
+    {
+      "text": "before we start, if everybody could",
+      "start": 88.0,
+      "duration": 3.84
+    },
+    {
+      "text": "please sign in to the Adobe Creative",
+      "start": 89.6,
+      "duration": 4.32
+    },
+    {
+      "text": "Cloud using your Swimburn email address",
+      "start": 91.84,
+      "duration": 4.239
+    },
+    {
+      "text": "and password. Uh, make sure you've got",
+      "start": 93.92,
+      "duration": 3.839
+    },
+    {
+      "text": "Illustrator downloaded and up and",
+      "start": 96.079,
+      "duration": 3.521
+    },
+    {
+      "text": "running. Uh, and if everyone could",
+      "start": 97.759,
+      "duration": 3.761
+    },
+    {
+      "text": "please ensure that their microphones and",
+      "start": 99.6,
+      "duration": 4.32
+    },
+    {
+      "text": "cameras are turned off. can get pretty",
+      "start": 101.52,
+      "duration": 3.84
+    },
+    {
+      "text": "noisy and if everyone's got their",
+      "start": 103.92,
+      "duration": 2.64
+    },
+    {
+      "text": "cameras on that takes a lot of",
+      "start": 105.36,
+      "duration": 2.56
+    },
+    {
+      "text": "bandwidth. So if everyone could please",
+      "start": 106.56,
+      "duration": 3.199
+    },
+    {
+      "text": "ensure those are both off that would be",
+      "start": 107.92,
+      "duration": 4.32
+    },
+    {
+      "text": "lovely. Uh this session is being",
+      "start": 109.759,
+      "duration": 4.32
+    },
+    {
+      "text": "recorded so we'll be sending out the",
+      "start": 112.24,
+      "duration": 5.68
+    },
+    {
+      "text": "recording uh once we are finished today.",
+      "start": 114.079,
+      "duration": 5.841
+    },
+    {
+      "text": "Um if you have any questions please do",
+      "start": 117.92,
+      "duration": 3.6
+    },
+    {
+      "text": "drop those in the chat. I'll be",
+      "start": 119.92,
+      "duration": 3.76
+    },
+    {
+      "text": "answering questions about uh any",
+      "start": 121.52,
+      "duration": 3.76
+    },
+    {
+      "text": "questions there are with using",
+      "start": 123.68,
+      "duration": 3.68
+    },
+    {
+      "text": "Illustrator and Peter will be answering",
+      "start": 125.28,
+      "duration": 4.88
+    },
+    {
+      "text": "any questions about the competition. Um",
+      "start": 127.36,
+      "duration": 4.959
+    },
+    {
+      "text": "and please follow along today. Learning",
+      "start": 130.16,
+      "duration": 4.32
+    },
+    {
+      "text": "by making is more fun than sitting and",
+      "start": 132.319,
+      "duration": 4.0
+    },
+    {
+      "text": "being talked to for two hours. So please",
+      "start": 134.48,
+      "duration": 3.92
+    },
+    {
+      "text": "follow along. Uh we really hope you",
+      "start": 136.319,
+      "duration": 5.601
+    },
+    {
+      "text": "enjoy today. Um I will hand over to beta",
+      "start": 138.4,
+      "duration": 6.52
+    },
+    {
+      "text": "now.",
+      "start": 141.92,
+      "duration": 3.0
+    },
+    {
+      "text": ">> Thank you very much Julia and thank you",
+      "start": 145.84,
+      "duration": 5.68
+    },
+    {
+      "text": "uh appreciate uh everyone's time to be",
+      "start": 148.72,
+      "duration": 5.68
+    },
+    {
+      "text": "here. So we are very excited to",
+      "start": 151.52,
+      "duration": 5.92
+    },
+    {
+      "text": "introduce another initiative uh idea",
+      "start": 154.4,
+      "duration": 8.72
+    },
+    {
+      "text": "about how we can um help to shape the",
+      "start": 157.44,
+      "duration": 9.04
+    },
+    {
+      "text": "STEM futures. So we are very excited. So",
+      "start": 163.12,
+      "duration": 7.199
+    },
+    {
+      "text": "I go and I introduce design for change",
+      "start": 166.48,
+      "duration": 5.759
+    },
+    {
+      "text": "2021.",
+      "start": 170.319,
+      "duration": 4.64
+    },
+    {
+      "text": "Remember uh this might be part of your",
+      "start": 172.239,
+      "duration": 5.121
+    },
+    {
+      "text": "assessment. You are here because this is",
+      "start": 174.959,
+      "duration": 5.121
+    },
+    {
+      "text": "uh part of the assessment in the unit.",
+      "start": 177.36,
+      "duration": 5.04
+    },
+    {
+      "text": "But we want we are going to tell you",
+      "start": 180.08,
+      "duration": 4.96
+    },
+    {
+      "text": "with just one step further. Maybe you",
+      "start": 182.4,
+      "duration": 5.52
+    },
+    {
+      "text": "want to uh enter to the competition.",
+      "start": 185.04,
+      "duration": 6.08
+    },
+    {
+      "text": "You're welcome to just you know be here",
+      "start": 187.92,
+      "duration": 6.0
+    },
+    {
+      "text": "uh participate in the three free",
+      "start": 191.12,
+      "duration": 4.96
+    },
+    {
+      "text": "workshops that we are going to offer",
+      "start": 193.92,
+      "duration": 5.2
+    },
+    {
+      "text": "which I explain it shortly. And of",
+      "start": 196.08,
+      "duration": 6.799
+    },
+    {
+      "text": "course um um I also want uh following",
+      "start": 199.12,
+      "duration": 6.56
+    },
+    {
+      "text": "what Julia suggested. I appreciate if",
+      "start": 202.879,
+      "duration": 6.0
+    },
+    {
+      "text": "everyone use of the you um the uh",
+      "start": 205.68,
+      "duration": 7.919
+    },
+    {
+      "text": "student ID um to nominate yourself here",
+      "start": 208.879,
+      "duration": 7.28
+    },
+    {
+      "text": "uh as an participants. We are going to",
+      "start": 213.599,
+      "duration": 5.28
+    },
+    {
+      "text": "communicate with you. We are going to",
+      "start": 216.159,
+      "duration": 5.281
+    },
+    {
+      "text": "send you this recording and all the",
+      "start": 218.879,
+      "duration": 4.561
+    },
+    {
+      "text": "information that might be useful",
+      "start": 221.44,
+      "duration": 4.799
+    },
+    {
+      "text": "relevant to the Adobe Illustrator today.",
+      "start": 223.44,
+      "duration": 6.32
+    },
+    {
+      "text": "And more important this is one of the uh",
+      "start": 226.239,
+      "duration": 6.481
+    },
+    {
+      "text": "uh three free workshop that is aligned",
+      "start": 229.76,
+      "duration": 6.479
+    },
+    {
+      "text": "with the art competition. All right. So",
+      "start": 232.72,
+      "duration": 6.64
+    },
+    {
+      "text": "design for change is what we are going",
+      "start": 236.239,
+      "duration": 6.401
+    },
+    {
+      "text": "to offer here. So if you would like to",
+      "start": 239.36,
+      "duration": 6.64
+    },
+    {
+      "text": "be involved in shaping the STEM future",
+      "start": 242.64,
+      "duration": 7.519
+    },
+    {
+      "text": "by just uh designing your prototype,",
+      "start": 246.0,
+      "duration": 7.28
+    },
+    {
+      "text": "this is the place to be. And I encourage",
+      "start": 250.159,
+      "duration": 5.681
+    },
+    {
+      "text": "you to invite your friends and surn",
+      "start": 253.28,
+      "duration": 6.0
+    },
+    {
+      "text": "students located here in Australia,",
+      "start": 255.84,
+      "duration": 6.639
+    },
+    {
+      "text": "located uh in Malaysia. Sarak students,",
+      "start": 259.28,
+      "duration": 7.28
+    },
+    {
+      "text": "you're all welcome. And so the aim is to",
+      "start": 262.479,
+      "duration": 6.881
+    },
+    {
+      "text": "develop swimburn students communication",
+      "start": 266.56,
+      "duration": 6.4
+    },
+    {
+      "text": "and technical skills utilizing a",
+      "start": 269.36,
+      "duration": 5.6
+    },
+    {
+      "text": "multidisiplinary",
+      "start": 272.96,
+      "duration": 5.519
+    },
+    {
+      "text": "collaboration. So uh students as Julia",
+      "start": 274.96,
+      "duration": 7.36
+    },
+    {
+      "text": "mentioned can play risk and act as an",
+      "start": 278.479,
+      "duration": 6.561
+    },
+    {
+      "text": "entrepreneur. So if you're in a science",
+      "start": 282.32,
+      "duration": 5.439
+    },
+    {
+      "text": "and this is the multidisiplinary area.",
+      "start": 285.04,
+      "duration": 5.68
+    },
+    {
+      "text": "So if you are in a science or it or",
+      "start": 287.759,
+      "duration": 7.761
+    },
+    {
+      "text": "design or um any uh discipline um you",
+      "start": 290.72,
+      "duration": 8.8
+    },
+    {
+      "text": "know in any uh units any uh department.",
+      "start": 295.52,
+      "duration": 6.399
+    },
+    {
+      "text": "So this is a good area. So you come",
+      "start": 299.52,
+      "duration": 4.399
+    },
+    {
+      "text": "together and we can discuss about this",
+      "start": 301.919,
+      "duration": 5.601
+    },
+    {
+      "text": "design. The aim of the second aim of",
+      "start": 303.919,
+      "duration": 6.0
+    },
+    {
+      "text": "this uh competition is foster the",
+      "start": 307.52,
+      "duration": 5.119
+    },
+    {
+      "text": "building of digital literacy that will",
+      "start": 309.919,
+      "duration": 6.081
+    },
+    {
+      "text": "empower you that you can use this skills",
+      "start": 312.639,
+      "duration": 5.521
+    },
+    {
+      "text": "these professional skills for your",
+      "start": 316.0,
+      "duration": 5.28
+    },
+    {
+      "text": "future career. So this is very important",
+      "start": 318.16,
+      "duration": 6.08
+    },
+    {
+      "text": "and that is how you this is um important",
+      "start": 321.28,
+      "duration": 6.479
+    },
+    {
+      "text": "because you're going to um either",
+      "start": 324.24,
+      "duration": 6.799
+    },
+    {
+      "text": "inspire the community or contribute to",
+      "start": 327.759,
+      "duration": 6.88
+    },
+    {
+      "text": "industry. Again these two are critical",
+      "start": 331.039,
+      "duration": 7.121
+    },
+    {
+      "text": "for uh every one of us. So what is the",
+      "start": 334.639,
+      "duration": 5.761
+    },
+    {
+      "text": "product what we are going to expect you",
+      "start": 338.16,
+      "duration": 5.44
+    },
+    {
+      "text": "for this competition. So a group of",
+      "start": 340.4,
+      "duration": 5.68
+    },
+    {
+      "text": "students sim students with any",
+      "start": 343.6,
+      "duration": 4.879
+    },
+    {
+      "text": "discipline it means that if you're in",
+      "start": 346.08,
+      "duration": 5.839
+    },
+    {
+      "text": "science, IT, design, I don't know",
+      "start": 348.479,
+      "duration": 7.841
+    },
+    {
+      "text": "psychology, business, um law any area",
+      "start": 351.919,
+      "duration": 7.28
+    },
+    {
+      "text": "but you are passionate about STEM. This",
+      "start": 356.32,
+      "duration": 5.04
+    },
+    {
+      "text": "is again the competition that do you",
+      "start": 359.199,
+      "duration": 5.84
+    },
+    {
+      "text": "would like to um attend and participate.",
+      "start": 361.36,
+      "duration": 6.32
+    },
+    {
+      "text": "So a group of three to five students",
+      "start": 365.039,
+      "duration": 5.361
+    },
+    {
+      "text": "they are going to design and also they",
+      "start": 367.68,
+      "duration": 6.799
+    },
+    {
+      "text": "are going to pitch a startup uh concept",
+      "start": 370.4,
+      "duration": 7.28
+    },
+    {
+      "text": "to introduce their design and this",
+      "start": 374.479,
+      "duration": 6.081
+    },
+    {
+      "text": "design is a STEM prototype which is",
+      "start": 377.68,
+      "duration": 5.359
+    },
+    {
+      "text": "aligned with two direction and two",
+      "start": 380.56,
+      "duration": 5.6
+    },
+    {
+      "text": "vision. Either you are going to choose",
+      "start": 383.039,
+      "duration": 7.201
+    },
+    {
+      "text": "to inspire the school age students in a",
+      "start": 386.16,
+      "duration": 8.64
+    },
+    {
+      "text": "STEM so you using the Adobe Illustrator",
+      "start": 390.24,
+      "duration": 7.12
+    },
+    {
+      "text": "laser cutting that is the workshop",
+      "start": 394.8,
+      "duration": 6.959
+    },
+    {
+      "text": "today. So to be aligned with the um the",
+      "start": 397.36,
+      "duration": 9.279
+    },
+    {
+      "text": "invari uh foundation vision so we want",
+      "start": 401.759,
+      "duration": 7.44
+    },
+    {
+      "text": "to inspire the girls and women's in",
+      "start": 406.639,
+      "duration": 5.521
+    },
+    {
+      "text": "STEM. So that is the aim you might want",
+      "start": 409.199,
+      "duration": 6.081
+    },
+    {
+      "text": "to choose to do this. And the second",
+      "start": 412.16,
+      "duration": 6.64
+    },
+    {
+      "text": "vision is your STEM prototype design is",
+      "start": 415.28,
+      "duration": 5.68
+    },
+    {
+      "text": "going to be aligned with the industry",
+      "start": 418.8,
+      "duration": 4.32
+    },
+    {
+      "text": "partners. So you are going to support",
+      "start": 420.96,
+      "duration": 5.12
+    },
+    {
+      "text": "their vision. The insurance Australia",
+      "start": 423.12,
+      "duration": 7.199
+    },
+    {
+      "text": "group which is called A from now on. So",
+      "start": 426.08,
+      "duration": 7.04
+    },
+    {
+      "text": "you're going to use the second workshop.",
+      "start": 430.319,
+      "duration": 5.841
+    },
+    {
+      "text": "Adobe XD is going to help you and",
+      "start": 433.12,
+      "duration": 5.6
+    },
+    {
+      "text": "support you improve your skills to use",
+      "start": 436.16,
+      "duration": 6.159
+    },
+    {
+      "text": "of Adobe XD and uh come up with your",
+      "start": 438.72,
+      "duration": 6.879
+    },
+    {
+      "text": "STEM prototype design which is the",
+      "start": 442.319,
+      "duration": 6.561
+    },
+    {
+      "text": "digital design which support these uh",
+      "start": 445.599,
+      "duration": 6.32
+    },
+    {
+      "text": "industry partner.",
+      "start": 448.88,
+      "duration": 6.159
+    },
+    {
+      "text": "Next slide please.",
+      "start": 451.919,
+      "duration": 6.641
+    },
+    {
+      "text": "Yes. Who is in this initiative? So again",
+      "start": 455.039,
+      "duration": 8.16
+    },
+    {
+      "text": "uh at three of us uh crossunit teams so",
+      "start": 458.56,
+      "duration": 9.52
+    },
+    {
+      "text": "including myself um and then um did I",
+      "start": 463.199,
+      "duration": 7.201
+    },
+    {
+      "text": "introduce myself? Of course my name is",
+      "start": 468.08,
+      "duration": 6.08
+    },
+    {
+      "text": "beta and I that is the right time. So",
+      "start": 470.4,
+      "duration": 7.199
+    },
+    {
+      "text": "and I'm a um a convenor of science",
+      "start": 474.16,
+      "duration": 5.759
+    },
+    {
+      "text": "communication in the department of",
+      "start": 477.599,
+      "duration": 4.32
+    },
+    {
+      "text": "chemistry and biotechnology in the",
+      "start": 479.919,
+      "duration": 5.12
+    },
+    {
+      "text": "school of science. So Kaslan I don't",
+      "start": 481.919,
+      "duration": 6.481
+    },
+    {
+      "text": "know if he's here or or not he he is a",
+      "start": 485.039,
+      "duration": 6.641
+    },
+    {
+      "text": "department uh chair of the computer",
+      "start": 488.4,
+      "duration": 5.919
+    },
+    {
+      "text": "science and soften engineering and of",
+      "start": 491.68,
+      "duration": 5.6
+    },
+    {
+      "text": "course Elliot our representative here is",
+      "start": 494.319,
+      "duration": 6.081
+    },
+    {
+      "text": "a champion of Adobe Illustrator from the",
+      "start": 497.28,
+      "duration": 5.84
+    },
+    {
+      "text": "simburn design factory so that is where",
+      "start": 500.4,
+      "duration": 4.799
+    },
+    {
+      "text": "all of us we are going to learn about",
+      "start": 503.12,
+      "duration": 5.68
+    },
+    {
+      "text": "this Adobe Illustrator and of course our",
+      "start": 505.199,
+      "duration": 7.041
+    },
+    {
+      "text": "great project collaborators so insurance",
+      "start": 508.8,
+      "duration": 5.84
+    },
+    {
+      "text": "Australia group, I AG our industry",
+      "start": 512.24,
+      "duration": 7.359
+    },
+    {
+      "text": "partner and um Janet uh who is going to",
+      "start": 514.64,
+      "duration": 7.839
+    },
+    {
+      "text": "um help us a great supporter all the",
+      "start": 519.599,
+      "duration": 7.041
+    },
+    {
+      "text": "time emerging leaders program and she's",
+      "start": 522.479,
+      "duration": 7.36
+    },
+    {
+      "text": "the coordinator of this program and of",
+      "start": 526.64,
+      "duration": 6.8
+    },
+    {
+      "text": "course Dr. Irene from uh Sorowak. So she",
+      "start": 529.839,
+      "duration": 6.161
+    },
+    {
+      "text": "is a school of she's in a school of",
+      "start": 533.44,
+      "duration": 4.8
+    },
+    {
+      "text": "chemical engineering",
+      "start": 536.0,
+      "duration": 6.0
+    },
+    {
+      "text": "science uh from uh Malaysia.",
+      "start": 538.24,
+      "duration": 8.24
+    },
+    {
+      "text": "So now we have an idea about this um",
+      "start": 542.0,
+      "duration": 7.279
+    },
+    {
+      "text": "design for change. I just want to",
+      "start": 546.48,
+      "duration": 6.08
+    },
+    {
+      "text": "emphasize what are the vision for this",
+      "start": 549.279,
+      "duration": 6.641
+    },
+    {
+      "text": "industry. So Australia um uh insurance",
+      "start": 552.56,
+      "duration": 6.8
+    },
+    {
+      "text": "Australia group I AG vision is to make",
+      "start": 555.92,
+      "duration": 6.8
+    },
+    {
+      "text": "our world a safer and a better place to",
+      "start": 559.36,
+      "duration": 6.32
+    },
+    {
+      "text": "live. Maybe this is the very big picture",
+      "start": 562.72,
+      "duration": 5.6
+    },
+    {
+      "text": "for you. Maybe when you want to design",
+      "start": 565.68,
+      "duration": 5.12
+    },
+    {
+      "text": "your prototype STEM prototype you don't",
+      "start": 568.32,
+      "duration": 4.959
+    },
+    {
+      "text": "know from where we should start. That's",
+      "start": 570.8,
+      "duration": 4.56
+    },
+    {
+      "text": "why we would like to suggest you more",
+      "start": 573.279,
+      "duration": 4.481
+    },
+    {
+      "text": "details and more things that you might",
+      "start": 575.36,
+      "duration": 4.56
+    },
+    {
+      "text": "want to consider which is coming in the",
+      "start": 577.76,
+      "duration": 5.56
+    },
+    {
+      "text": "next slide.",
+      "start": 579.92,
+      "duration": 3.4
+    },
+    {
+      "text": "Aligned with the IG vision to make the",
+      "start": 583.839,
+      "duration": 5.601
+    },
+    {
+      "text": "world a better place to live. We are",
+      "start": 587.12,
+      "duration": 4.32
+    },
+    {
+      "text": "offering and suggesting these four",
+      "start": 589.44,
+      "duration": 5.76
+    },
+    {
+      "text": "teams. So there are plenty idea along",
+      "start": 591.44,
+      "duration": 5.68
+    },
+    {
+      "text": "with these four teams. Whether you want",
+      "start": 595.2,
+      "duration": 4.24
+    },
+    {
+      "text": "to think of the diversity, inclusion,",
+      "start": 597.12,
+      "duration": 5.52
+    },
+    {
+      "text": "belonging or whether you want your you",
+      "start": 599.44,
+      "duration": 7.12
+    },
+    {
+      "text": "know digital or your STEM prototype is",
+      "start": 602.64,
+      "duration": 5.28
+    },
+    {
+      "text": "going to be aligned with the",
+      "start": 606.56,
+      "duration": 4.24
+    },
+    {
+      "text": "worldleading customer experience or you",
+      "start": 607.92,
+      "duration": 6.0
+    },
+    {
+      "text": "want to consider your STEM prototype",
+      "start": 610.8,
+      "duration": 5.2
+    },
+    {
+      "text": "design to be aligned with the climate",
+      "start": 613.92,
+      "duration": 5.68
+    },
+    {
+      "text": "change or you want to improving everyday",
+      "start": 616.0,
+      "duration": 6.399
+    },
+    {
+      "text": "life of people. So think about all of",
+      "start": 619.6,
+      "duration": 6.08
+    },
+    {
+      "text": "these themes. These are all align with",
+      "start": 622.399,
+      "duration": 6.0
+    },
+    {
+      "text": "the I A vision which is our industry",
+      "start": 625.68,
+      "duration": 6.32
+    },
+    {
+      "text": "partner. The second vision it's about",
+      "start": 628.399,
+      "duration": 7.921
+    },
+    {
+      "text": "how this inbeor vision this foundation",
+      "start": 632.0,
+      "duration": 7.519
+    },
+    {
+      "text": "and this group and this organization are",
+      "start": 636.32,
+      "duration": 6.48
+    },
+    {
+      "text": "supporting any great initiative idea or",
+      "start": 639.519,
+      "duration": 6.721
+    },
+    {
+      "text": "any design which can be a educational",
+      "start": 642.8,
+      "duration": 6.88
+    },
+    {
+      "text": "design who inspire which inspire the",
+      "start": 646.24,
+      "duration": 6.48
+    },
+    {
+      "text": "girls and women's in a STEM. So think",
+      "start": 649.68,
+      "duration": 5.12
+    },
+    {
+      "text": "about the regional area and think about",
+      "start": 652.72,
+      "duration": 4.559
+    },
+    {
+      "text": "how we can inspire girls and women's in",
+      "start": 654.8,
+      "duration": 4.8
+    },
+    {
+      "text": "STEM coming to the science engineering",
+      "start": 657.279,
+      "duration": 5.521
+    },
+    {
+      "text": "it. So maybe your prototype it can help",
+      "start": 659.6,
+      "duration": 6.76
+    },
+    {
+      "text": "us to do that.",
+      "start": 662.8,
+      "duration": 3.56
+    },
+    {
+      "text": "Again part of the workshop that we are",
+      "start": 667.36,
+      "duration": 4.479
+    },
+    {
+      "text": "going to offer this is the first one.",
+      "start": 670.0,
+      "duration": 5.04
+    },
+    {
+      "text": "The second one I already mentioned Adobe",
+      "start": 671.839,
+      "duration": 7.521
+    },
+    {
+      "text": "um XD which is going to be uh April um I",
+      "start": 675.04,
+      "duration": 8.16
+    },
+    {
+      "text": "think 15th of April and the third uh um",
+      "start": 679.36,
+      "duration": 7.12
+    },
+    {
+      "text": "workshop is going to be Adobe rush where",
+      "start": 683.2,
+      "duration": 6.0
+    },
+    {
+      "text": "you are going to uh learn about how you",
+      "start": 686.48,
+      "duration": 5.2
+    },
+    {
+      "text": "create the video because whatever you",
+      "start": 689.2,
+      "duration": 4.24
+    },
+    {
+      "text": "are going to do with your design you",
+      "start": 691.68,
+      "duration": 5.2
+    },
+    {
+      "text": "need to come up with four minutes video",
+      "start": 693.44,
+      "duration": 7.28
+    },
+    {
+      "text": "startup video so you can see the um the",
+      "start": 696.88,
+      "duration": 7.44
+    },
+    {
+      "text": "judging video creation. So your design",
+      "start": 700.72,
+      "duration": 7.04
+    },
+    {
+      "text": "is important. Of course your startup",
+      "start": 704.32,
+      "duration": 5.92
+    },
+    {
+      "text": "component uh which is aligned with one",
+      "start": 707.76,
+      "duration": 5.199
+    },
+    {
+      "text": "of these real world challenges is also",
+      "start": 710.24,
+      "duration": 4.88
+    },
+    {
+      "text": "important. So there is a problem you",
+      "start": 712.959,
+      "duration": 4.961
+    },
+    {
+      "text": "find a solution and your prototype is",
+      "start": 715.12,
+      "duration": 6.24
+    },
+    {
+      "text": "going to support. So please consider the",
+      "start": 717.92,
+      "duration": 6.72
+    },
+    {
+      "text": "um the judging video creation. The Adobe",
+      "start": 721.36,
+      "duration": 7.44
+    },
+    {
+      "text": "workshop uh three uh three is uh sorry",
+      "start": 724.64,
+      "duration": 6.16
+    },
+    {
+      "text": "the workshop three is about the Adobe",
+      "start": 728.8,
+      "duration": 4.56
+    },
+    {
+      "text": "rush which you are going to learn how",
+      "start": 730.8,
+      "duration": 6.32
+    },
+    {
+      "text": "you create the video and also um there",
+      "start": 733.36,
+      "duration": 6.4
+    },
+    {
+      "text": "is one hour uh startup pitch",
+      "start": 737.12,
+      "duration": 4.56
+    },
+    {
+      "text": "presentation",
+      "start": 739.76,
+      "duration": 4.72
+    },
+    {
+      "text": "which we train uh you are going to be uh",
+      "start": 741.68,
+      "duration": 7.44
+    },
+    {
+      "text": "learn how we um we can um create the",
+      "start": 744.48,
+      "duration": 8.159
+    },
+    {
+      "text": "startup pitch presentation. So again um",
+      "start": 749.12,
+      "duration": 5.2
+    },
+    {
+      "text": "please consider this is the first",
+      "start": 752.639,
+      "duration": 4.241
+    },
+    {
+      "text": "workshop. You have three free workshop.",
+      "start": 754.32,
+      "duration": 5.6
+    },
+    {
+      "text": "The registration is going to be the uh",
+      "start": 756.88,
+      "duration": 5.759
+    },
+    {
+      "text": "300 words atline your stem STEM",
+      "start": 759.92,
+      "duration": 6.08
+    },
+    {
+      "text": "prototype emailing to myself and then",
+      "start": 762.639,
+      "duration": 7.121
+    },
+    {
+      "text": "that is going to be due date by um 16th",
+      "start": 766.0,
+      "duration": 6.32
+    },
+    {
+      "text": "of May 2021.",
+      "start": 769.76,
+      "duration": 5.92
+    },
+    {
+      "text": "the all the um you know the 4minut",
+      "start": 772.32,
+      "duration": 5.84
+    },
+    {
+      "text": "videos are going to be collected and we",
+      "start": 775.68,
+      "duration": 5.599
+    },
+    {
+      "text": "are going to have a live showcase on",
+      "start": 778.16,
+      "duration": 6.56
+    },
+    {
+      "text": "27th of May where we are going to",
+      "start": 781.279,
+      "duration": 6.481
+    },
+    {
+      "text": "introduce the judges are are going to",
+      "start": 784.72,
+      "duration": 6.16
+    },
+    {
+      "text": "decide on the winner and h as a winner",
+      "start": 787.76,
+      "duration": 5.92
+    },
+    {
+      "text": "you are going to receive 1,000 bucks and",
+      "start": 790.88,
+      "duration": 4.72
+    },
+    {
+      "text": "you're going to get a professional",
+      "start": 793.68,
+      "duration": 5.04
+    },
+    {
+      "text": "experience supported by IG and you're",
+      "start": 795.6,
+      "duration": 6.479
+    },
+    {
+      "text": "going to be recogn the recognition",
+      "start": 798.72,
+      "duration": 6.08
+    },
+    {
+      "text": "one credit with the Swimburn emerging",
+      "start": 802.079,
+      "duration": 5.601
+    },
+    {
+      "text": "leaders program depend on the prototype",
+      "start": 804.8,
+      "duration": 4.96
+    },
+    {
+      "text": "that you design. The story of your",
+      "start": 807.68,
+      "duration": 4.32
+    },
+    {
+      "text": "success is going to be published in a",
+      "start": 809.76,
+      "duration": 7.04
+    },
+    {
+      "text": "swimb newsletter. So please be uh stay",
+      "start": 812.0,
+      "duration": 9.279
+    },
+    {
+      "text": "with us and uh I guess um you already uh",
+      "start": 816.8,
+      "duration": 7.2
+    },
+    {
+      "text": "know Julia already informed you about",
+      "start": 821.279,
+      "duration": 8.24
+    },
+    {
+      "text": "the Adobe team, one of our great um um",
+      "start": 824.0,
+      "duration": 8.72
+    },
+    {
+      "text": "collaborator and we have employability",
+      "start": 829.519,
+      "duration": 6.32
+    },
+    {
+      "text": "as this um um another uh great",
+      "start": 832.72,
+      "duration": 5.44
+    },
+    {
+      "text": "collaborator. This is the workshop one.",
+      "start": 835.839,
+      "duration": 5.201
+    },
+    {
+      "text": "we are going to contribute to the uh",
+      "start": 838.16,
+      "duration": 6.479
+    },
+    {
+      "text": "sustainable future and uh thinking about",
+      "start": 841.04,
+      "duration": 6.32
+    },
+    {
+      "text": "the circular economy and think about the",
+      "start": 844.639,
+      "duration": 7.121
+    },
+    {
+      "text": "shape of STEM in the future. So and",
+      "start": 847.36,
+      "duration": 6.719
+    },
+    {
+      "text": "please make sure you are in contact with",
+      "start": 851.76,
+      "duration": 5.6
+    },
+    {
+      "text": "us and we are going to make sure you are",
+      "start": 854.079,
+      "duration": 6.32
+    },
+    {
+      "text": "um in contact with employability. I",
+      "start": 857.36,
+      "duration": 5.68
+    },
+    {
+      "text": "think that's the last slide about the",
+      "start": 860.399,
+      "duration": 5.361
+    },
+    {
+      "text": "career and employability team and",
+      "start": 863.04,
+      "duration": 6.479
+    },
+    {
+      "text": "emerging leaders. So I guess that is all",
+      "start": 865.76,
+      "duration": 6.879
+    },
+    {
+      "text": "I wanted to say. If you never uh access",
+      "start": 869.519,
+      "duration": 6.161
+    },
+    {
+      "text": "to the career hub that is the place that",
+      "start": 872.639,
+      "duration": 5.2
+    },
+    {
+      "text": "you can improve your employability",
+      "start": 875.68,
+      "duration": 4.719
+    },
+    {
+      "text": "skills. Now I would like to hand to",
+      "start": 877.839,
+      "duration": 5.041
+    },
+    {
+      "text": "Elliot. Sorry that it takes a big time",
+      "start": 880.399,
+      "duration": 4.481
+    },
+    {
+      "text": "but I just wanted to cover everything.",
+      "start": 882.88,
+      "duration": 5.8
+    },
+    {
+      "text": "Thank you very much everyone.",
+      "start": 884.88,
+      "duration": 3.8
+    },
+    {
+      "text": ">> Thank you Peter. Um I'll start uh just a",
+      "start": 890.72,
+      "duration": 7.44
+    },
+    {
+      "text": "little talking a little bit. I had a uh",
+      "start": 894.959,
+      "duration": 5.041
+    },
+    {
+      "text": "technical meltdown before and I'm not",
+      "start": 898.16,
+      "duration": 3.6
+    },
+    {
+      "text": "currently on my own laptop. I'm on a",
+      "start": 900.0,
+      "duration": 3.839
+    },
+    {
+      "text": "borrowed laptop because my laptop died",
+      "start": 901.76,
+      "duration": 3.439
+    },
+    {
+      "text": "and I didn't have my charger. So,",
+      "start": 903.839,
+      "duration": 5.36
+    },
+    {
+      "text": "apologies for any tech problems. Um",
+      "start": 905.199,
+      "duration": 9.44
+    },
+    {
+      "text": "so, for the uh design of a prototype, I",
+      "start": 909.199,
+      "duration": 7.681
+    },
+    {
+      "text": "went with um laser cutting using",
+      "start": 914.639,
+      "duration": 7.921
+    },
+    {
+      "text": "Illustrator and my design is a trebuche,",
+      "start": 916.88,
+      "duration": 8.959
+    },
+    {
+      "text": "which was laser cut. Um I won't be able",
+      "start": 922.56,
+      "duration": 5.12
+    },
+    {
+      "text": "to uh show it just because I can't",
+      "start": 925.839,
+      "duration": 4.161
+    },
+    {
+      "text": "really get it on screen and use",
+      "start": 927.68,
+      "duration": 5.68
+    },
+    {
+      "text": "operator. Uh but so this is what I've",
+      "start": 930.0,
+      "duration": 6.56
+    },
+    {
+      "text": "designed. They um this is designed to",
+      "start": 933.36,
+      "duration": 7.279
+    },
+    {
+      "text": "educate um like primary school age",
+      "start": 936.56,
+      "duration": 8.32
+    },
+    {
+      "text": "children on uh mechanics and things like",
+      "start": 940.639,
+      "duration": 6.0
+    },
+    {
+      "text": "that. um they can experiment a bit with",
+      "start": 944.88,
+      "duration": 5.199
+    },
+    {
+      "text": "weight and different um sizes and",
+      "start": 946.639,
+      "duration": 5.76
+    },
+    {
+      "text": "positions of of where you put the pins",
+      "start": 950.079,
+      "duration": 4.88
+    },
+    {
+      "text": "and stuff like that and it will alter",
+      "start": 952.399,
+      "duration": 7.12
+    },
+    {
+      "text": "how far the uh trebuche throws. So that",
+      "start": 954.959,
+      "duration": 6.8
+    },
+    {
+      "text": "was the design I went with. Um I'll",
+      "start": 959.519,
+      "duration": 6.041
+    },
+    {
+      "text": "start sharing my screen",
+      "start": 961.759,
+      "duration": 3.801
+    },
+    {
+      "text": "and I'll show you how I got to where",
+      "start": 967.68,
+      "duration": 6.399
+    },
+    {
+      "text": "I've where I've gotten to. So, uh, the",
+      "start": 970.56,
+      "duration": 6.0
+    },
+    {
+      "text": "Adobe suite of products, it used to be",
+      "start": 974.079,
+      "duration": 3.841
+    },
+    {
+      "text": "called the Adobe suite, it's now the",
+      "start": 976.56,
+      "duration": 3.92
+    },
+    {
+      "text": "Creative Cloud. Um,",
+      "start": 977.92,
+      "duration": 5.44
+    },
+    {
+      "text": "are an amazing group of products. I",
+      "start": 980.48,
+      "duration": 4.56
+    },
+    {
+      "text": "think Illustrator might be my favorite",
+      "start": 983.36,
+      "duration": 4.479
+    },
+    {
+      "text": "one. Um, Illustrator, in design, and",
+      "start": 985.04,
+      "duration": 5.52
+    },
+    {
+      "text": "Photoshop seem to be my favorites. Um,",
+      "start": 987.839,
+      "duration": 4.24
+    },
+    {
+      "text": "but there's a lot of good new ones",
+      "start": 990.56,
+      "duration": 4.079
+    },
+    {
+      "text": "coming out. Spark is great to get really",
+      "start": 992.079,
+      "duration": 4.801
+    },
+    {
+      "text": "quick uh, web pages and things like",
+      "start": 994.639,
+      "duration": 7.281
+    },
+    {
+      "text": "that. Um, Adobe Rush is a more easy sort",
+      "start": 996.88,
+      "duration": 7.12
+    },
+    {
+      "text": "of video editing software and it's it's",
+      "start": 1001.92,
+      "duration": 6.4
+    },
+    {
+      "text": "great to use. So, um, yeah, I think any",
+      "start": 1004.0,
+      "duration": 6.24
+    },
+    {
+      "text": "of these products that you will learn,",
+      "start": 1008.32,
+      "duration": 3.6
+    },
+    {
+      "text": "um, will be a really good addition to",
+      "start": 1010.24,
+      "duration": 3.599
+    },
+    {
+      "text": "your skill set, um, and help you with",
+      "start": 1011.92,
+      "duration": 6.08
+    },
+    {
+      "text": "your employability in the future. Um,",
+      "start": 1013.839,
+      "duration": 7.68
+    },
+    {
+      "text": "being said, uh, so hopefully all of you",
+      "start": 1018.0,
+      "duration": 5.6
+    },
+    {
+      "text": "have, um, had the chance to download",
+      "start": 1021.519,
+      "duration": 4.081
+    },
+    {
+      "text": "Illustrator through the creative cloud.",
+      "start": 1023.6,
+      "duration": 5.04
+    },
+    {
+      "text": "Um, and I'll start by opening a new",
+      "start": 1025.6,
+      "duration": 8.56
+    },
+    {
+      "text": "file. So, um, you'll go new.",
+      "start": 1028.64,
+      "duration": 6.48
+    },
+    {
+      "text": "Might be a little bit different if",
+      "start": 1034.16,
+      "duration": 3.84
+    },
+    {
+      "text": "you're on a Mac or PC. Um, for this",
+      "start": 1035.12,
+      "duration": 4.799
+    },
+    {
+      "text": "instance, I'm going to work in",
+      "start": 1038.0,
+      "duration": 3.6
+    },
+    {
+      "text": "millimeters because I'm using",
+      "start": 1039.919,
+      "duration": 4.081
+    },
+    {
+      "text": "measurements. Um, depending on what",
+      "start": 1041.6,
+      "duration": 5.12
+    },
+    {
+      "text": "you're using, um, you can use a bunch of",
+      "start": 1044.0,
+      "duration": 4.72
+    },
+    {
+      "text": "different things. I seem to work in",
+      "start": 1046.72,
+      "duration": 4.8
+    },
+    {
+      "text": "millimeters. I know Julia might work in",
+      "start": 1048.72,
+      "duration": 6.0
+    },
+    {
+      "text": "other things depending on the situation.",
+      "start": 1051.52,
+      "duration": 6.64
+    },
+    {
+      "text": "Um so if you look in there are a bunch",
+      "start": 1054.72,
+      "duration": 9.36
+    },
+    {
+      "text": "of presets. Um so here we have print uh",
+      "start": 1058.16,
+      "duration": 8.24
+    },
+    {
+      "text": "and the standard ones A4 letter print",
+      "start": 1064.08,
+      "duration": 5.28
+    },
+    {
+      "text": "large. Uh you can view all presets. I'm",
+      "start": 1066.4,
+      "duration": 6.639
+    },
+    {
+      "text": "going to select a A3 sheet. It's",
+      "start": 1069.36,
+      "duration": 5.12
+    },
+    {
+      "text": "automatically changed it to points. So",
+      "start": 1073.039,
+      "duration": 4.081
+    },
+    {
+      "text": "I'll go back to millimeters and I want",
+      "start": 1074.48,
+      "duration": 5.6
+    },
+    {
+      "text": "to work in",
+      "start": 1077.12,
+      "duration": 6.64
+    },
+    {
+      "text": "uh landscape.",
+      "start": 1080.08,
+      "duration": 6.32
+    },
+    {
+      "text": "So that will create a new page. Um and",
+      "start": 1083.76,
+      "duration": 6.0
+    },
+    {
+      "text": "if I hold control and minus I will be",
+      "start": 1086.4,
+      "duration": 6.8
+    },
+    {
+      "text": "able to zoom in and out. Um so the",
+      "start": 1089.76,
+      "duration": 6.96
+    },
+    {
+      "text": "basics of Illustrator um will probably",
+      "start": 1093.2,
+      "duration": 5.68
+    },
+    {
+      "text": "be where you start will be using the",
+      "start": 1096.72,
+      "duration": 4.88
+    },
+    {
+      "text": "shape tools. So we have rectangle,",
+      "start": 1098.88,
+      "duration": 5.36
+    },
+    {
+      "text": "ellipse, polygon, star tool and the line",
+      "start": 1101.6,
+      "duration": 6.959
+    },
+    {
+      "text": "segment. Um Illustrator uses vector so",
+      "start": 1104.24,
+      "duration": 9.12
+    },
+    {
+      "text": "vector artwork. So vectors are based on",
+      "start": 1108.559,
+      "duration": 8.881
+    },
+    {
+      "text": "uh sort of a dimensioned uh drawing or",
+      "start": 1113.36,
+      "duration": 7.52
+    },
+    {
+      "text": "shape on the screen. So when you draw a",
+      "start": 1117.44,
+      "duration": 7.04
+    },
+    {
+      "text": "square for instance or a rectangle,",
+      "start": 1120.88,
+      "duration": 6.32
+    },
+    {
+      "text": "uh you can scale that up to sort of any",
+      "start": 1124.48,
+      "duration": 4.48
+    },
+    {
+      "text": "size and it will retain all its",
+      "start": 1127.2,
+      "duration": 3.599
+    },
+    {
+      "text": "information. Um whereas if you did that",
+      "start": 1128.96,
+      "duration": 4.4
+    },
+    {
+      "text": "with a pixelbased image, it would",
+      "start": 1130.799,
+      "duration": 4.961
+    },
+    {
+      "text": "distort the image slightly because it",
+      "start": 1133.36,
+      "duration": 4.16
+    },
+    {
+      "text": "only has a certain amount of p pixels.",
+      "start": 1135.76,
+      "duration": 4.08
+    },
+    {
+      "text": "whereas a vector will be able to scale",
+      "start": 1137.52,
+      "duration": 5.36
+    },
+    {
+      "text": "and not lose any of that detail. So, um",
+      "start": 1139.84,
+      "duration": 5.68
+    },
+    {
+      "text": "that's one uh area where Illustrator is",
+      "start": 1142.88,
+      "duration": 5.6
+    },
+    {
+      "text": "really useful. Uh you could blow things",
+      "start": 1145.52,
+      "duration": 5.6
+    },
+    {
+      "text": "up sort of to billboard size and they",
+      "start": 1148.48,
+      "duration": 4.319
+    },
+    {
+      "text": "still wouldn't would retain all their",
+      "start": 1151.12,
+      "duration": 4.559
+    },
+    {
+      "text": "information. Um",
+      "start": 1152.799,
+      "duration": 4.721
+    },
+    {
+      "text": "so",
+      "start": 1155.679,
+      "duration": 4.641
+    },
+    {
+      "text": "that's sort of how you can use the",
+      "start": 1157.52,
+      "duration": 6.399
+    },
+    {
+      "text": "rectangle tool basically. Um",
+      "start": 1160.32,
+      "duration": 9.2
+    },
+    {
+      "text": "the sorry the uh zoom screen thing is in",
+      "start": 1163.919,
+      "duration": 7.601
+    },
+    {
+      "text": "my way a bit here. I'll move it down the",
+      "start": 1169.52,
+      "duration": 6.56
+    },
+    {
+      "text": "bottom. Um so a really handy place to",
+      "start": 1171.52,
+      "duration": 7.68
+    },
+    {
+      "text": "remember to look in Illustrator is uh",
+      "start": 1176.08,
+      "duration": 7.44
+    },
+    {
+      "text": "the window uh tab up the top. Um, some",
+      "start": 1179.2,
+      "duration": 6.64
+    },
+    {
+      "text": "really handy tools that I seem to use a",
+      "start": 1183.52,
+      "duration": 5.6
+    },
+    {
+      "text": "lot are align,",
+      "start": 1185.84,
+      "duration": 7.04
+    },
+    {
+      "text": "uh, stroke,",
+      "start": 1189.12,
+      "duration": 6.32
+    },
+    {
+      "text": "uh, transform,",
+      "start": 1192.88,
+      "duration": 5.36
+    },
+    {
+      "text": "and pathfinder. Um, but as you go",
+      "start": 1195.44,
+      "duration": 4.4
+    },
+    {
+      "text": "further along with Illustrator, you'll",
+      "start": 1198.24,
+      "duration": 3.84
+    },
+    {
+      "text": "seem to use a bunch of different ones.",
+      "start": 1199.84,
+      "duration": 4.64
+    },
+    {
+      "text": "For today's purpose, th those ones will",
+      "start": 1202.08,
+      "duration": 5.12
+    },
+    {
+      "text": "probably be our main ones.",
+      "start": 1204.48,
+      "duration": 5.12
+    },
+    {
+      "text": "And you'll see they sort of group",
+      "start": 1207.2,
+      "duration": 4.96
+    },
+    {
+      "text": "together.",
+      "start": 1209.6,
+      "duration": 5.12
+    },
+    {
+      "text": "One other thing I will mention is that",
+      "start": 1212.16,
+      "duration": 4.48
+    },
+    {
+      "text": "uh",
+      "start": 1214.72,
+      "duration": 4.16
+    },
+    {
+      "text": "for laser cutting we will want to use",
+      "start": 1216.64,
+      "duration": 4.96
+    },
+    {
+      "text": "RGB color. That's just specifically for",
+      "start": 1218.88,
+      "duration": 5.12
+    },
+    {
+      "text": "the laser cutter process we use. So",
+      "start": 1221.6,
+      "duration": 4.319
+    },
+    {
+      "text": "there will be different um ways of doing",
+      "start": 1224.0,
+      "duration": 3.679
+    },
+    {
+      "text": "that but for today's purpose that's what",
+      "start": 1225.919,
+      "duration": 6.321
+    },
+    {
+      "text": "we're going to do. Um there's also",
+      "start": 1227.679,
+      "duration": 7.201
+    },
+    {
+      "text": "another handy one which is just here",
+      "start": 1232.24,
+      "duration": 5.439
+    },
+    {
+      "text": "already is the transform one. So",
+      "start": 1234.88,
+      "duration": 6.08
+    },
+    {
+      "text": "transform will show the position which",
+      "start": 1237.679,
+      "duration": 7.041
+    },
+    {
+      "text": "is here the X and Y coordinates of where",
+      "start": 1240.96,
+      "duration": 6.32
+    },
+    {
+      "text": "your shape is on your screen and it will",
+      "start": 1244.72,
+      "duration": 4.4
+    },
+    {
+      "text": "show the size.",
+      "start": 1247.28,
+      "duration": 6.24
+    },
+    {
+      "text": "So I want to make a 90 mil square. I can",
+      "start": 1249.12,
+      "duration": 7.439
+    },
+    {
+      "text": "do that. And if you also want to scale",
+      "start": 1253.52,
+      "duration": 6.159
+    },
+    {
+      "text": "things together, you can click the chain",
+      "start": 1256.559,
+      "duration": 8.441
+    },
+    {
+      "text": "and that will change both dimensions.",
+      "start": 1259.679,
+      "duration": 5.321
+    },
+    {
+      "text": "Uh",
+      "start": 1270.48,
+      "duration": 3.0
+    },
+    {
+      "text": "so as you can guess the the sort of",
+      "start": 1274.32,
+      "duration": 9.12
+    },
+    {
+      "text": "tools will work um as you sort of",
+      "start": 1278.88,
+      "duration": 7.6
+    },
+    {
+      "text": "they're pretty intuitive. Um if you want",
+      "start": 1283.44,
+      "duration": 5.2
+    },
+    {
+      "text": "to create a circle or a square you can",
+      "start": 1286.48,
+      "duration": 3.76
+    },
+    {
+      "text": "hold the shift key and it will keep",
+      "start": 1288.64,
+      "duration": 6.039
+    },
+    {
+      "text": "those dimensions locked in.",
+      "start": 1290.24,
+      "duration": 4.439
+    },
+    {
+      "text": "Uh probably one of the strongest parts",
+      "start": 1296.0,
+      "duration": 6.24
+    },
+    {
+      "text": "of Illustrator also is the pen tool. Um",
+      "start": 1298.88,
+      "duration": 6.32
+    },
+    {
+      "text": "so I'll quickly show just how you can",
+      "start": 1302.24,
+      "duration": 6.52
+    },
+    {
+      "text": "use the pen tool.",
+      "start": 1305.2,
+      "duration": 3.56
+    },
+    {
+      "text": "And was there any questions or anything",
+      "start": 1309.52,
+      "duration": 8.519
+    },
+    {
+      "text": "so far on I can't see the chat but uh",
+      "start": 1311.6,
+      "duration": 6.439
+    },
+    {
+      "text": "all good. Okay. So, um the pen tool is",
+      "start": 1319.28,
+      "duration": 5.44
+    },
+    {
+      "text": "really great for doing curves and things",
+      "start": 1322.08,
+      "duration": 4.479
+    },
+    {
+      "text": "like that. So, if you click and then",
+      "start": 1324.72,
+      "duration": 5.199
+    },
+    {
+      "text": "hold your mouse button down, um you can",
+      "start": 1326.559,
+      "duration": 6.681
+    },
+    {
+      "text": "create curves",
+      "start": 1329.919,
+      "duration": 3.321
+    },
+    {
+      "text": "and you're sort of limited with this to",
+      "start": 1340.4,
+      "duration": 4.56
+    },
+    {
+      "text": "your imagination. Uh this tool is really",
+      "start": 1342.48,
+      "duration": 6.8
+    },
+    {
+      "text": "handy for um for tracing things if uh",
+      "start": 1344.96,
+      "duration": 7.44
+    },
+    {
+      "text": "like live trace doesn't work. Um and",
+      "start": 1349.28,
+      "duration": 5.279
+    },
+    {
+      "text": "then I will show you as well. So there's",
+      "start": 1352.4,
+      "duration": 5.44
+    },
+    {
+      "text": "the two different uh selection tools. So",
+      "start": 1354.559,
+      "duration": 6.0
+    },
+    {
+      "text": "you have the the black arrow or the",
+      "start": 1357.84,
+      "duration": 5.52
+    },
+    {
+      "text": "darkened arrow uh that is sort of used",
+      "start": 1360.559,
+      "duration": 5.281
+    },
+    {
+      "text": "just to move things around",
+      "start": 1363.36,
+      "duration": 5.679
+    },
+    {
+      "text": "um and select things.",
+      "start": 1365.84,
+      "duration": 5.44
+    },
+    {
+      "text": "Uh but the direct selection tool, which",
+      "start": 1369.039,
+      "duration": 4.721
+    },
+    {
+      "text": "is the A key, um the select normal",
+      "start": 1371.28,
+      "duration": 6.08
+    },
+    {
+      "text": "selection tool is V. Um you can modify",
+      "start": 1373.76,
+      "duration": 5.68
+    },
+    {
+      "text": "your curves and things like that. So if",
+      "start": 1377.36,
+      "duration": 4.96
+    },
+    {
+      "text": "I wanted to move my points, I can drag",
+      "start": 1379.44,
+      "duration": 6.08
+    },
+    {
+      "text": "them around.",
+      "start": 1382.32,
+      "duration": 8.88
+    },
+    {
+      "text": "Um and I can also alter these uh",
+      "start": 1385.52,
+      "duration": 8.56
+    },
+    {
+      "text": "forgotten the name of these. Uh sorry.",
+      "start": 1391.2,
+      "duration": 6.32
+    },
+    {
+      "text": "Uh these uh you can grab and you can",
+      "start": 1394.08,
+      "duration": 7.2
+    },
+    {
+      "text": "move them around. Um if you hold the alt",
+      "start": 1397.52,
+      "duration": 7.6
+    },
+    {
+      "text": "key uh you can operate them singly. Um",
+      "start": 1401.28,
+      "duration": 6.32
+    },
+    {
+      "text": "so they don't hold tangency between the",
+      "start": 1405.12,
+      "duration": 6.559
+    },
+    {
+      "text": "two two points on either side. Um so",
+      "start": 1407.6,
+      "duration": 5.36
+    },
+    {
+      "text": "that's also something that's really",
+      "start": 1411.679,
+      "duration": 4.281
+    },
+    {
+      "text": "handy.",
+      "start": 1412.96,
+      "duration": 3.0
+    },
+    {
+      "text": "Uh",
+      "start": 1416.0,
+      "duration": 3.679
+    },
+    {
+      "text": "another thing that you can do and you",
+      "start": 1417.76,
+      "duration": 4.56
+    },
+    {
+      "text": "might need to use this for uh the",
+      "start": 1419.679,
+      "duration": 5.601
+    },
+    {
+      "text": "project we're doing today or introducing",
+      "start": 1422.32,
+      "duration": 7.28
+    },
+    {
+      "text": "today for your design uh will be sorry",
+      "start": 1425.28,
+      "duration": 6.56
+    },
+    {
+      "text": "the just trying to move these zoom",
+      "start": 1429.6,
+      "duration": 5.559
+    },
+    {
+      "text": "windows around.",
+      "start": 1431.84,
+      "duration": 3.319
+    },
+    {
+      "text": "Uh",
+      "start": 1436.0,
+      "duration": 5.12
+    },
+    {
+      "text": "so if you click up here, you can also",
+      "start": 1437.76,
+      "duration": 6.399
+    },
+    {
+      "text": "have multiple artboards for your designs",
+      "start": 1441.12,
+      "duration": 5.12
+    },
+    {
+      "text": "in Illustrator.",
+      "start": 1444.159,
+      "duration": 4.561
+    },
+    {
+      "text": "Um so you can hold alt and drag and that",
+      "start": 1446.24,
+      "duration": 5.039
+    },
+    {
+      "text": "will copy",
+      "start": 1448.72,
+      "duration": 5.28
+    },
+    {
+      "text": "or you can click new artboard here and",
+      "start": 1451.279,
+      "duration": 6.481
+    },
+    {
+      "text": "that will create a new one next to it.",
+      "start": 1454.0,
+      "duration": 6.799
+    },
+    {
+      "text": "Um so I'm guessing you might need to use",
+      "start": 1457.76,
+      "duration": 8.48
+    },
+    {
+      "text": "some text for your projects. Um",
+      "start": 1460.799,
+      "duration": 10.24
+    },
+    {
+      "text": "so you can create text boxes. Um",
+      "start": 1466.24,
+      "duration": 7.919
+    },
+    {
+      "text": "Illustrator will al automatically uh",
+      "start": 1471.039,
+      "duration": 5.681
+    },
+    {
+      "text": "place Lauram ipsum which is filler text",
+      "start": 1474.159,
+      "duration": 6.0
+    },
+    {
+      "text": "uh in graphic design. Um but you can",
+      "start": 1476.72,
+      "duration": 7.6
+    },
+    {
+      "text": "create whatever you want in there. Uh so",
+      "start": 1480.159,
+      "duration": 7.281
+    },
+    {
+      "text": "I will go 2021",
+      "start": 1484.32,
+      "duration": 5.12
+    },
+    {
+      "text": "stem",
+      "start": 1487.44,
+      "duration": 5.8
+    },
+    {
+      "text": "want to write in all caps.",
+      "start": 1489.44,
+      "duration": 3.8
+    },
+    {
+      "text": "Uh, and you can select fonts like normal",
+      "start": 1502.64,
+      "duration": 6.56
+    },
+    {
+      "text": "in um a lot of your programs.",
+      "start": 1505.679,
+      "duration": 8.321
+    },
+    {
+      "text": "Um, I want to use Monerat extra bold,",
+      "start": 1509.2,
+      "duration": 9.2
+    },
+    {
+      "text": "which is the uh a very commonly used",
+      "start": 1514.0,
+      "duration": 7.52
+    },
+    {
+      "text": "font here at Swimburn.",
+      "start": 1518.4,
+      "duration": 6.159
+    },
+    {
+      "text": "Um you can change all sorts of things in",
+      "start": 1521.52,
+      "duration": 5.44
+    },
+    {
+      "text": "font and you can also bring up in the",
+      "start": 1524.559,
+      "duration": 3.921
+    },
+    {
+      "text": "window",
+      "start": 1526.96,
+      "duration": 5.36
+    },
+    {
+      "text": "uh the type tool",
+      "start": 1528.48,
+      "duration": 5.76
+    },
+    {
+      "text": "character and bring that up on its own.",
+      "start": 1532.32,
+      "duration": 6.88
+    },
+    {
+      "text": "So you can manipulate um sort of I'll",
+      "start": 1534.24,
+      "duration": 7.28
+    },
+    {
+      "text": "just put this here to neaten up the",
+      "start": 1539.2,
+      "duration": 5.04
+    },
+    {
+      "text": "screen a bit. uh you can sort of",
+      "start": 1541.52,
+      "duration": 6.48
+    },
+    {
+      "text": "manipulate everything from spacing to uh",
+      "start": 1544.24,
+      "duration": 7.84
+    },
+    {
+      "text": "sizing um even the gaps between letters.",
+      "start": 1548.0,
+      "duration": 5.679
+    },
+    {
+      "text": "So you can increase that or decrease",
+      "start": 1552.08,
+      "duration": 5.76
+    },
+    {
+      "text": "that um however you may want. Um, in the",
+      "start": 1553.679,
+      "duration": 7.761
+    },
+    {
+      "text": "context of laser cutting, uh, one thing",
+      "start": 1557.84,
+      "duration": 6.319
+    },
+    {
+      "text": "that might be really important depending",
+      "start": 1561.44,
+      "duration": 6.16
+    },
+    {
+      "text": "how you want to use, uh, either for cuts",
+      "start": 1564.159,
+      "duration": 7.12
+    },
+    {
+      "text": "or for, um, etching,",
+      "start": 1567.6,
+      "duration": 5.36
+    },
+    {
+      "text": "uh,",
+      "start": 1571.279,
+      "duration": 7.121
+    },
+    {
+      "text": "there is the in the type tab",
+      "start": 1572.96,
+      "duration": 10.88
+    },
+    {
+      "text": "there is uh create outlines of text. So",
+      "start": 1578.4,
+      "duration": 8.399
+    },
+    {
+      "text": "you can select your text box",
+      "start": 1583.84,
+      "duration": 6.719
+    },
+    {
+      "text": "type and create outlines. And as you can",
+      "start": 1586.799,
+      "duration": 6.641
+    },
+    {
+      "text": "see, it's now changed that to a",
+      "start": 1590.559,
+      "duration": 5.281
+    },
+    {
+      "text": "different uh context, which I will show",
+      "start": 1593.44,
+      "duration": 4.96
+    },
+    {
+      "text": "an example of how you do that uh or sort",
+      "start": 1595.84,
+      "duration": 6.0
+    },
+    {
+      "text": "of how that's explained. So with",
+      "start": 1598.4,
+      "duration": 5.92
+    },
+    {
+      "text": "Illustrator as well, you have um the",
+      "start": 1601.84,
+      "duration": 4.64
+    },
+    {
+      "text": "power to change your fill color, which",
+      "start": 1604.32,
+      "duration": 5.32
+    },
+    {
+      "text": "is here.",
+      "start": 1606.48,
+      "duration": 3.16
+    },
+    {
+      "text": "So I'm going to select red and then your",
+      "start": 1610.0,
+      "duration": 5.36
+    },
+    {
+      "text": "outline color which is black. Um so if I",
+      "start": 1612.32,
+      "duration": 6.2
+    },
+    {
+      "text": "go to",
+      "start": 1615.36,
+      "duration": 3.16
+    },
+    {
+      "text": "the stroke window",
+      "start": 1619.52,
+      "duration": 4.039
+    },
+    {
+      "text": "I can increase the line weight. Um so",
+      "start": 1624.96,
+      "duration": 8.48
+    },
+    {
+      "text": "now this has changed my text into a",
+      "start": 1629.919,
+      "duration": 7.681
+    },
+    {
+      "text": "similar um setting. So if I click in the",
+      "start": 1633.44,
+      "duration": 8.56
+    },
+    {
+      "text": "group, each text piece now is a singular",
+      "start": 1637.6,
+      "duration": 7.04
+    },
+    {
+      "text": "singular shape. Um if I select all of",
+      "start": 1642.0,
+      "duration": 7.039
+    },
+    {
+      "text": "them, I can change the fill color",
+      "start": 1644.64,
+      "duration": 8.88
+    },
+    {
+      "text": "to red. And if I add an outline stroke,",
+      "start": 1649.039,
+      "duration": 6.961
+    },
+    {
+      "text": "which this is going to look very bad,",
+      "start": 1653.52,
+      "duration": 7.56
+    },
+    {
+      "text": "but I'll just show it as an example.",
+      "start": 1656.0,
+      "duration": 5.08
+    },
+    {
+      "text": "Um and I increase that weight a little",
+      "start": 1662.559,
+      "duration": 4.801
+    },
+    {
+      "text": "bit. um you'll see it sort of eats into",
+      "start": 1664.48,
+      "duration": 5.6
+    },
+    {
+      "text": "the size of",
+      "start": 1667.36,
+      "duration": 5.6
+    },
+    {
+      "text": "the",
+      "start": 1670.08,
+      "duration": 4.56
+    },
+    {
+      "text": "uh shape.",
+      "start": 1672.96,
+      "duration": 4.319
+    },
+    {
+      "text": "So in the context of laser cutting,",
+      "start": 1674.64,
+      "duration": 5.6
+    },
+    {
+      "text": "which I'll explain later, um you'll have",
+      "start": 1677.279,
+      "duration": 6.081
+    },
+    {
+      "text": "zero fill and you'll have a 0.01 mil",
+      "start": 1680.24,
+      "duration": 6.08
+    },
+    {
+      "text": "line, which is not great to show in a",
+      "start": 1683.36,
+      "duration": 4.799
+    },
+    {
+      "text": "presentation. So when we're setting that",
+      "start": 1686.32,
+      "duration": 5.2
+    },
+    {
+      "text": "up at the end, I will um I will just",
+      "start": 1688.159,
+      "duration": 5.76
+    },
+    {
+      "text": "show that. So,",
+      "start": 1691.52,
+      "duration": 7.519
+    },
+    {
+      "text": "uh, that's some of the basics. Um,",
+      "start": 1693.919,
+      "duration": 8.24
+    },
+    {
+      "text": "another really handy, uh, part in",
+      "start": 1699.039,
+      "duration": 5.601
+    },
+    {
+      "text": "Illustrator is the pathfinder tool. So,",
+      "start": 1702.159,
+      "duration": 5.681
+    },
+    {
+      "text": "you'll often want to create, um,",
+      "start": 1704.64,
+      "duration": 6.639
+    },
+    {
+      "text": "shapes which include multiple different",
+      "start": 1707.84,
+      "duration": 6.48
+    },
+    {
+      "text": "shapes in them.",
+      "start": 1711.279,
+      "duration": 5.201
+    },
+    {
+      "text": "Um, so",
+      "start": 1714.32,
+      "duration": 5.359
+    },
+    {
+      "text": "I'll create a few copies of this and",
+      "start": 1716.48,
+      "duration": 5.12
+    },
+    {
+      "text": "show how the pathfinder will do them",
+      "start": 1719.679,
+      "duration": 4.921
+    },
+    {
+      "text": "differently.",
+      "start": 1721.6,
+      "duration": 3.0
+    },
+    {
+      "text": "So I'll just do three for now. Uh, and",
+      "start": 1726.48,
+      "duration": 4.96
+    },
+    {
+      "text": "sometimes these can be almost a little",
+      "start": 1729.279,
+      "duration": 4.561
+    },
+    {
+      "text": "bit of trial and error. Um, sometimes",
+      "start": 1731.44,
+      "duration": 4.64
+    },
+    {
+      "text": "they might not do exactly what you want.",
+      "start": 1733.84,
+      "duration": 5.439
+    },
+    {
+      "text": "Um, but you will be able to use them and",
+      "start": 1736.08,
+      "duration": 6.16
+    },
+    {
+      "text": "find out which one you want to use. Um,",
+      "start": 1739.279,
+      "duration": 5.681
+    },
+    {
+      "text": "so there's the unite",
+      "start": 1742.24,
+      "duration": 5.439
+    },
+    {
+      "text": "uh feature. So that will now create that",
+      "start": 1744.96,
+      "duration": 6.719
+    },
+    {
+      "text": "as one shape. Um, and as you do your",
+      "start": 1747.679,
+      "duration": 5.761
+    },
+    {
+      "text": "designs, this will become apparent why",
+      "start": 1751.679,
+      "duration": 4.24
+    },
+    {
+      "text": "you want would want to use these. Um, so",
+      "start": 1753.44,
+      "duration": 6.32
+    },
+    {
+      "text": "if I select both of these and do the",
+      "start": 1755.919,
+      "duration": 6.081
+    },
+    {
+      "text": "minus front,",
+      "start": 1759.76,
+      "duration": 4.08
+    },
+    {
+      "text": "that will take that away from that",
+      "start": 1762.0,
+      "duration": 3.52
+    },
+    {
+      "text": "shape.",
+      "start": 1763.84,
+      "duration": 5.52
+    },
+    {
+      "text": "And then if I I'll scroll across.",
+      "start": 1765.52,
+      "duration": 8.96
+    },
+    {
+      "text": "Uh so this will choose the area that is",
+      "start": 1769.36,
+      "duration": 8.0
+    },
+    {
+      "text": "uh intersected between the two. So their",
+      "start": 1774.48,
+      "duration": 4.96
+    },
+    {
+      "text": "overlap",
+      "start": 1777.36,
+      "duration": 6.559
+    },
+    {
+      "text": "uh and then if I go and do the same for",
+      "start": 1779.44,
+      "duration": 6.08
+    },
+    {
+      "text": "those.",
+      "start": 1783.919,
+      "duration": 4.88
+    },
+    {
+      "text": "So that will choose the area of overlap",
+      "start": 1785.52,
+      "duration": 6.8
+    },
+    {
+      "text": "as an exclusion zone. Um and then you",
+      "start": 1788.799,
+      "duration": 4.801
+    },
+    {
+      "text": "actually have two different shapes",
+      "start": 1792.32,
+      "duration": 4.079
+    },
+    {
+      "text": "there. So um when you go into their",
+      "start": 1793.6,
+      "duration": 5.92
+    },
+    {
+      "text": "group which is when you double click um",
+      "start": 1796.399,
+      "duration": 4.88
+    },
+    {
+      "text": "you'll be able to edit that. So I'll",
+      "start": 1799.52,
+      "duration": 4.48
+    },
+    {
+      "text": "move that back.",
+      "start": 1801.279,
+      "duration": 5.52
+    },
+    {
+      "text": "Um and in the context of designing the",
+      "start": 1804.0,
+      "duration": 5.039
+    },
+    {
+      "text": "trebuche that I designed these",
+      "start": 1806.799,
+      "duration": 3.841
+    },
+    {
+      "text": "pathfinder tools have were really",
+      "start": 1809.039,
+      "duration": 3.76
+    },
+    {
+      "text": "useful.",
+      "start": 1810.64,
+      "duration": 5.159
+    },
+    {
+      "text": "Um",
+      "start": 1812.799,
+      "duration": 3.0
+    },
+    {
+      "text": "another thing that is really handy",
+      "start": 1816.399,
+      "duration": 5.681
+    },
+    {
+      "text": "especially um when your files get quite",
+      "start": 1819.039,
+      "duration": 4.721
+    },
+    {
+      "text": "complex. Sorry, I'll just have to move",
+      "start": 1822.08,
+      "duration": 3.839
+    },
+    {
+      "text": "this box again.",
+      "start": 1823.76,
+      "duration": 7.2
+    },
+    {
+      "text": "Um, is the layers tool. So, um,",
+      "start": 1825.919,
+      "duration": 10.24
+    },
+    {
+      "text": "I'll drop a link in the chat now.",
+      "start": 1830.96,
+      "duration": 9.079
+    },
+    {
+      "text": "So these are",
+      "start": 1836.159,
+      "duration": 3.88
+    },
+    {
+      "text": "so the PDF that I've dropped in the chat",
+      "start": 1850.159,
+      "duration": 8.081
+    },
+    {
+      "text": "um is explaining how uh here at the",
+      "start": 1854.08,
+      "duration": 8.4
+    },
+    {
+      "text": "proto lab at Swimburn how we set uh the",
+      "start": 1858.24,
+      "duration": 7.36
+    },
+    {
+      "text": "files up for laser cutting. So",
+      "start": 1862.48,
+      "duration": 9.12
+    },
+    {
+      "text": "I'll uh I'll actually go to my file now",
+      "start": 1865.6,
+      "duration": 9.92
+    },
+    {
+      "text": "um which I have set up for laser cutting",
+      "start": 1871.6,
+      "duration": 7.28
+    },
+    {
+      "text": "almost. Um so these are the files that I",
+      "start": 1875.52,
+      "duration": 8.159
+    },
+    {
+      "text": "designed for cutting my uh trebushchet.",
+      "start": 1878.88,
+      "duration": 8.32
+    },
+    {
+      "text": "So I have two A3 sheets which I had cut",
+      "start": 1883.679,
+      "duration": 7.441
+    },
+    {
+      "text": "in ply. Um the left one here is a 3M ply",
+      "start": 1887.2,
+      "duration": 7.599
+    },
+    {
+      "text": "sheet and the right hand side is a 9 mil",
+      "start": 1891.12,
+      "duration": 6.88
+    },
+    {
+      "text": "sheet which uh was a bit thicker and",
+      "start": 1894.799,
+      "duration": 5.12
+    },
+    {
+      "text": "stronger and then the 3M allowed for",
+      "start": 1898.0,
+      "duration": 7.039
+    },
+    {
+      "text": "more weight to be put in the uh basket.",
+      "start": 1899.919,
+      "duration": 9.76
+    },
+    {
+      "text": "Um so in these files",
+      "start": 1905.039,
+      "duration": 6.721
+    },
+    {
+      "text": "I'll go over setting them up for",
+      "start": 1909.679,
+      "duration": 5.041
+    },
+    {
+      "text": "different things. Um, and I'll even add",
+      "start": 1911.76,
+      "duration": 6.56
+    },
+    {
+      "text": "in some text onto this one and set that",
+      "start": 1914.72,
+      "duration": 5.6
+    },
+    {
+      "text": "up for etching in two different",
+      "start": 1918.32,
+      "duration": 4.56
+    },
+    {
+      "text": "fashions.",
+      "start": 1920.32,
+      "duration": 6.479
+    },
+    {
+      "text": "So, I've designed my parts uh here and I",
+      "start": 1922.88,
+      "duration": 6.48
+    },
+    {
+      "text": "I did a bit of research before I started",
+      "start": 1926.799,
+      "duration": 3.76
+    },
+    {
+      "text": "doing this and I actually made a",
+      "start": 1929.36,
+      "duration": 3.12
+    },
+    {
+      "text": "cardboard prototype.",
+      "start": 1930.559,
+      "duration": 5.521
+    },
+    {
+      "text": "Um, and I learned a few different things",
+      "start": 1932.48,
+      "duration": 7.12
+    },
+    {
+      "text": "about the functions and dimensions of a",
+      "start": 1936.08,
+      "duration": 7.92
+    },
+    {
+      "text": "trebuche. So the most important rule in",
+      "start": 1939.6,
+      "duration": 7.76
+    },
+    {
+      "text": "my research that I found was that the",
+      "start": 1944.0,
+      "duration": 6.399
+    },
+    {
+      "text": "length from the",
+      "start": 1947.36,
+      "duration": 8.0
+    },
+    {
+      "text": "pivot point of the weight to the fulcrum",
+      "start": 1950.399,
+      "duration": 9.28
+    },
+    {
+      "text": "should be 1 to 3.75 to the length of the",
+      "start": 1955.36,
+      "duration": 6.24
+    },
+    {
+      "text": "end of the arm where the projectile is",
+      "start": 1959.679,
+      "duration": 6.081
+    },
+    {
+      "text": "swung. So that was my ratio that I had",
+      "start": 1961.6,
+      "duration": 6.16
+    },
+    {
+      "text": "to keep in mind. So when I started",
+      "start": 1965.76,
+      "duration": 4.159
+    },
+    {
+      "text": "designing my parts, which I've neatly",
+      "start": 1967.76,
+      "duration": 6.0
+    },
+    {
+      "text": "nested on this sheet, um I had them laid",
+      "start": 1969.919,
+      "duration": 5.921
+    },
+    {
+      "text": "out a bit differently, but that's how I",
+      "start": 1973.76,
+      "duration": 4.399
+    },
+    {
+      "text": "started designing them. So when I",
+      "start": 1975.84,
+      "duration": 4.559
+    },
+    {
+      "text": "designed this arm,",
+      "start": 1978.159,
+      "duration": 5.681
+    },
+    {
+      "text": "the dot, the circle here",
+      "start": 1980.399,
+      "duration": 7.201
+    },
+    {
+      "text": "from there to there and there to the end",
+      "start": 1983.84,
+      "duration": 9.28
+    },
+    {
+      "text": "is a 1 to 3.75 ratio. Um so that's",
+      "start": 1987.6,
+      "duration": 7.52
+    },
+    {
+      "text": "that's just something that I had to",
+      "start": 1993.12,
+      "duration": 5.36
+    },
+    {
+      "text": "include there. um for whatever you guys",
+      "start": 1995.12,
+      "duration": 6.159
+    },
+    {
+      "text": "uh come up with for your designs. Um",
+      "start": 1998.48,
+      "duration": 4.72
+    },
+    {
+      "text": "hopefully we can come up with some great",
+      "start": 2001.279,
+      "duration": 5.041
+    },
+    {
+      "text": "uh designs for educating young young",
+      "start": 2003.2,
+      "duration": 6.16
+    },
+    {
+      "text": "kids about STEM. And from your",
+      "start": 2006.32,
+      "duration": 4.959
+    },
+    {
+      "text": "backgrounds, you probably have a much",
+      "start": 2009.36,
+      "duration": 3.52
+    },
+    {
+      "text": "better understanding of science than I",
+      "start": 2011.279,
+      "duration": 4.081
+    },
+    {
+      "text": "do. So hopefully we can get some really",
+      "start": 2012.88,
+      "duration": 5.279
+    },
+    {
+      "text": "good engaging content in there. Um but",
+      "start": 2015.36,
+      "duration": 5.199
+    },
+    {
+      "text": "just for this purpose, um we're going to",
+      "start": 2018.159,
+      "duration": 6.961
+    },
+    {
+      "text": "go over this trebushe file. Uh so all of",
+      "start": 2020.559,
+      "duration": 7.441
+    },
+    {
+      "text": "my lines here apart from this one here I",
+      "start": 2025.12,
+      "duration": 6.08
+    },
+    {
+      "text": "have set up for cuts.",
+      "start": 2028.0,
+      "duration": 6.0
+    },
+    {
+      "text": "So in that PDF that I sent through you",
+      "start": 2031.2,
+      "duration": 4.64
+    },
+    {
+      "text": "will notice if you have a chance to look",
+      "start": 2034.0,
+      "duration": 4.559
+    },
+    {
+      "text": "at it there's different lines for",
+      "start": 2035.84,
+      "duration": 4.4
+    },
+    {
+      "text": "cutting",
+      "start": 2038.559,
+      "duration": 4.321
+    },
+    {
+      "text": "uh etching vectors. So you can cut a",
+      "start": 2040.24,
+      "duration": 4.64
+    },
+    {
+      "text": "vector and etch a vector. And then you",
+      "start": 2042.88,
+      "duration": 5.999
+    },
+    {
+      "text": "can uh do fill etching which is black.",
+      "start": 2044.88,
+      "duration": 6.88
+    },
+    {
+      "text": "Um so we'll have red, blue and black.",
+      "start": 2048.879,
+      "duration": 7.841
+    },
+    {
+      "text": "And our file is set up for RGB. So this",
+      "start": 2051.76,
+      "duration": 9.159
+    },
+    {
+      "text": "is how we will use our colors.",
+      "start": 2056.72,
+      "duration": 4.199
+    },
+    {
+      "text": "So for this these files, I'll just",
+      "start": 2061.52,
+      "duration": 5.92
+    },
+    {
+      "text": "select these ones for now. Um I'm going",
+      "start": 2064.8,
+      "duration": 5.76
+    },
+    {
+      "text": "to change the stroke weight.",
+      "start": 2067.44,
+      "duration": 6.56
+    },
+    {
+      "text": "So it's a 0.1 points, but I'm going to",
+      "start": 2070.56,
+      "duration": 7.88
+    },
+    {
+      "text": "use millimeters as my dimensions.",
+      "start": 2074.0,
+      "duration": 4.44
+    },
+    {
+      "text": "And it's changed it to points. So, I'm",
+      "start": 2078.96,
+      "duration": 5.439
+    },
+    {
+      "text": "going to go into my document setup,",
+      "start": 2081.359,
+      "duration": 5.121
+    },
+    {
+      "text": "which I believe is in millimeters. So, I",
+      "start": 2084.399,
+      "duration": 3.76
+    },
+    {
+      "text": "don't know why that is uh displaying",
+      "start": 2086.48,
+      "duration": 3.439
+    },
+    {
+      "text": "that in points, but again, this isn't my",
+      "start": 2088.159,
+      "duration": 5.041
+    },
+    {
+      "text": "laptop, so uh apologies for that. Um,",
+      "start": 2089.919,
+      "duration": 5.92
+    },
+    {
+      "text": "but I've made sure that that is now in",
+      "start": 2093.2,
+      "duration": 5.52
+    },
+    {
+      "text": "uh the correct line weight. It's a bit",
+      "start": 2095.839,
+      "duration": 5.76
+    },
+    {
+      "text": "hard to see now, as you can see.",
+      "start": 2098.72,
+      "duration": 7.68
+    },
+    {
+      "text": "Uh, but I will change the color of these",
+      "start": 2101.599,
+      "duration": 8.721
+    },
+    {
+      "text": "because I want these to be uh cut lines.",
+      "start": 2106.4,
+      "duration": 7.04
+    },
+    {
+      "text": "So, I'm going to change that to 255",
+      "start": 2110.32,
+      "duration": 6.0
+    },
+    {
+      "text": "value in the R,",
+      "start": 2113.44,
+      "duration": 8.72
+    },
+    {
+      "text": "zero in the green, and zero in the blue.",
+      "start": 2116.32,
+      "duration": 8.88
+    },
+    {
+      "text": "So, that gives me a 100% red line. And",
+      "start": 2122.16,
+      "duration": 4.64
+    },
+    {
+      "text": "now it's going to be even harder to see,",
+      "start": 2125.2,
+      "duration": 5.36
+    },
+    {
+      "text": "but if I zoom in, you can can see it",
+      "start": 2126.8,
+      "duration": 7.039
+    },
+    {
+      "text": "depending on the quality of the uh live",
+      "start": 2130.56,
+      "duration": 6.279
+    },
+    {
+      "text": "stream.",
+      "start": 2133.839,
+      "duration": 3.0
+    },
+    {
+      "text": "I'll blow them back up to uh 2 point",
+      "start": 2138.0,
+      "duration": 5.839
+    },
+    {
+      "text": "just so we can see them. But we have to",
+      "start": 2141.599,
+      "duration": 3.921
+    },
+    {
+      "text": "remember that when we export this for",
+      "start": 2143.839,
+      "duration": 6.321
+    },
+    {
+      "text": "cutting, we will use uh 0.01 mm as our",
+      "start": 2145.52,
+      "duration": 6.8
+    },
+    {
+      "text": "line weight.",
+      "start": 2150.16,
+      "duration": 4.64
+    },
+    {
+      "text": "I would do the same for these. Change",
+      "start": 2152.32,
+      "duration": 5.039
+    },
+    {
+      "text": "them. Change the weight and change the",
+      "start": 2154.8,
+      "duration": 5.559
+    },
+    {
+      "text": "color.",
+      "start": 2157.359,
+      "duration": 3.0
+    },
+    {
+      "text": "So, one thing you'll notice in the",
+      "start": 2167.839,
+      "duration": 4.881
+    },
+    {
+      "text": "trebuche that I have here, it doesn't",
+      "start": 2170.16,
+      "duration": 6.24
+    },
+    {
+      "text": "have a platform in here um in this area,",
+      "start": 2172.72,
+      "duration": 6.48
+    },
+    {
+      "text": "which has what I realize is very",
+      "start": 2176.4,
+      "duration": 5.36
+    },
+    {
+      "text": "important. Um it allows the sling to",
+      "start": 2179.2,
+      "duration": 4.72
+    },
+    {
+      "text": "slide out without getting caught and",
+      "start": 2181.76,
+      "duration": 5.12
+    },
+    {
+      "text": "also the weight doesn't get caught. So,",
+      "start": 2183.92,
+      "duration": 5.04
+    },
+    {
+      "text": "that's this additional piece here, which",
+      "start": 2186.88,
+      "duration": 4.479
+    },
+    {
+      "text": "I would glue in. And I think it's quite",
+      "start": 2188.96,
+      "duration": 6.879
+    },
+    {
+      "text": "a nice place to put um some text.",
+      "start": 2191.359,
+      "duration": 6.24
+    },
+    {
+      "text": "So, I'm going to go through and design",
+      "start": 2195.839,
+      "duration": 3.681
+    },
+    {
+      "text": "this.",
+      "start": 2197.599,
+      "duration": 5.681
+    },
+    {
+      "text": "I'll even start from scratch because",
+      "start": 2199.52,
+      "duration": 7.04
+    },
+    {
+      "text": "I know the dimensions of it. So, if I",
+      "start": 2203.28,
+      "duration": 6.88
+    },
+    {
+      "text": "grab the rectangle tool",
+      "start": 2206.56,
+      "duration": 5.68
+    },
+    {
+      "text": "and I have a single click without",
+      "start": 2210.16,
+      "duration": 5.439
+    },
+    {
+      "text": "dragging, I can actually create a shape",
+      "start": 2212.24,
+      "duration": 7.68
+    },
+    {
+      "text": "uh from just from dimensions. So my",
+      "start": 2215.599,
+      "duration": 8.48
+    },
+    {
+      "text": "width will be 156 mm",
+      "start": 2219.92,
+      "duration": 10.0
+    },
+    {
+      "text": "and my height will be 113 mm.",
+      "start": 2224.079,
+      "duration": 9.921
+    },
+    {
+      "text": "So that's that there. Um",
+      "start": 2229.92,
+      "duration": 6.56
+    },
+    {
+      "text": "and I will",
+      "start": 2234.0,
+      "duration": 5.04
+    },
+    {
+      "text": "grab the text tool",
+      "start": 2236.48,
+      "duration": 6.16
+    },
+    {
+      "text": "and zoom in on this shape. So, if I um",
+      "start": 2239.04,
+      "duration": 6.24
+    },
+    {
+      "text": "select something and then I zoom in",
+      "start": 2242.64,
+      "duration": 5.439
+    },
+    {
+      "text": "using the control and plus or minus uh",
+      "start": 2245.28,
+      "duration": 5.52
+    },
+    {
+      "text": "buttons on your keyboard, it will focus",
+      "start": 2248.079,
+      "duration": 5.601
+    },
+    {
+      "text": "um and center them.",
+      "start": 2250.8,
+      "duration": 7.039
+    },
+    {
+      "text": "I'll then grab the text or the type tool",
+      "start": 2253.68,
+      "duration": 8.88
+    },
+    {
+      "text": "uh and I will drag out a box. So, again,",
+      "start": 2257.839,
+      "duration": 9.361
+    },
+    {
+      "text": "it's dropped in Laura Mipsum. Um",
+      "start": 2262.56,
+      "duration": 9.08
+    },
+    {
+      "text": "I want to create the 2021",
+      "start": 2267.2,
+      "duration": 4.44
+    },
+    {
+      "text": "Sorry, I'm in caps lock stem.",
+      "start": 2272.56,
+      "duration": 4.84
+    },
+    {
+      "text": "You'll see this uh red plus sign, which",
+      "start": 2281.599,
+      "duration": 4.641
+    },
+    {
+      "text": "means that your text doesn't actually",
+      "start": 2284.56,
+      "duration": 3.12
+    },
+    {
+      "text": "fit in the box that you've created for",
+      "start": 2286.24,
+      "duration": 4.64
+    },
+    {
+      "text": "it. So, if I drag that out, I will see",
+      "start": 2287.68,
+      "duration": 9.52
+    },
+    {
+      "text": "that. And it's trying to hyphenate that.",
+      "start": 2290.88,
+      "duration": 8.88
+    },
+    {
+      "text": "And it's also so showing my spelling",
+      "start": 2297.2,
+      "duration": 5.56
+    },
+    {
+      "text": "mistake.",
+      "start": 2299.76,
+      "duration": 3.0
+    },
+    {
+      "text": "So I add the H in there. And you can see",
+      "start": 2304.8,
+      "duration": 5.6
+    },
+    {
+      "text": "that's now made the box not visible",
+      "start": 2307.119,
+      "duration": 5.841
+    },
+    {
+      "text": "or all of the text visible. So I'll",
+      "start": 2310.4,
+      "duration": 6.48
+    },
+    {
+      "text": "select all of my text with control A.",
+      "start": 2312.96,
+      "duration": 10.44
+    },
+    {
+      "text": "Uh and I will go to the sorry",
+      "start": 2316.88,
+      "duration": 6.52
+    },
+    {
+      "text": "character tab which was already open.",
+      "start": 2328.8,
+      "duration": 6.4
+    },
+    {
+      "text": "Um, and I will reduce the size a bit",
+      "start": 2331.92,
+      "duration": 7.56
+    },
+    {
+      "text": "just so I can get that all in there.",
+      "start": 2335.2,
+      "duration": 4.28
+    },
+    {
+      "text": "Now that I've got that there as well,",
+      "start": 2358.96,
+      "duration": 4.639
+    },
+    {
+      "text": "I'm going to show you how to use the",
+      "start": 2361.52,
+      "duration": 6.72
+    },
+    {
+      "text": "align tool a little bit. Um, so",
+      "start": 2363.599,
+      "duration": 7.361
+    },
+    {
+      "text": "the align tool is really handy. This is",
+      "start": 2368.24,
+      "duration": 4.72
+    },
+    {
+      "text": "not going to be the most complicated um",
+      "start": 2370.96,
+      "duration": 7.2
+    },
+    {
+      "text": "scenario of using it. Uh but you can use",
+      "start": 2372.96,
+      "duration": 7.36
+    },
+    {
+      "text": "uh there's all different alignment",
+      "start": 2378.16,
+      "duration": 6.32
+    },
+    {
+      "text": "settings. So you can align left, center,",
+      "start": 2380.32,
+      "duration": 5.759
+    },
+    {
+      "text": "horizontal. Uh these are in the",
+      "start": 2384.48,
+      "duration": 4.879
+    },
+    {
+      "text": "horizontal plane. Uh top, center,",
+      "start": 2386.079,
+      "duration": 4.881
+    },
+    {
+      "text": "bottom.",
+      "start": 2389.359,
+      "duration": 5.201
+    },
+    {
+      "text": "Uh you can even distribute objects.",
+      "start": 2390.96,
+      "duration": 4.72
+    },
+    {
+      "text": "Not going to do anything in this",
+      "start": 2394.56,
+      "duration": 3.36
+    },
+    {
+      "text": "setting, but um they can be really",
+      "start": 2395.68,
+      "duration": 4.56
+    },
+    {
+      "text": "handy, too. Another thing to note is",
+      "start": 2397.92,
+      "duration": 5.6
+    },
+    {
+      "text": "that uh if you want to keep one thing",
+      "start": 2400.24,
+      "duration": 5.76
+    },
+    {
+      "text": "that will stay still. So if you've",
+      "start": 2403.52,
+      "duration": 4.96
+    },
+    {
+      "text": "selected so you select that and you hold",
+      "start": 2406.0,
+      "duration": 4.079
+    },
+    {
+      "text": "the shift key you can select your text",
+      "start": 2408.48,
+      "duration": 4.72
+    },
+    {
+      "text": "as well. Um what I'm going to do is just",
+      "start": 2410.079,
+      "duration": 5.52
+    },
+    {
+      "text": "move this out of the way here just so it",
+      "start": 2413.2,
+      "duration": 5.68
+    },
+    {
+      "text": "will show what it does. So I've selected",
+      "start": 2415.599,
+      "duration": 5.041
+    },
+    {
+      "text": "both of them. I'm not holding the shift",
+      "start": 2418.88,
+      "duration": 4.479
+    },
+    {
+      "text": "key anymore and I will just have a mouse",
+      "start": 2420.64,
+      "duration": 5.12
+    },
+    {
+      "text": "click on the part that I want to stay",
+      "start": 2423.359,
+      "duration": 4.081
+    },
+    {
+      "text": "still. And you'll see it'll secondly",
+      "start": 2425.76,
+      "duration": 6.16
+    },
+    {
+      "text": "highlight it in the thicker blue line.",
+      "start": 2427.44,
+      "duration": 10.919
+    },
+    {
+      "text": "Uh so I will center that and also that.",
+      "start": 2431.92,
+      "duration": 6.439
+    },
+    {
+      "text": "So I have my text here now. It's all",
+      "start": 2440.24,
+      "duration": 4.24
+    },
+    {
+      "text": "centered and I'm ready to create the",
+      "start": 2442.24,
+      "duration": 5.24
+    },
+    {
+      "text": "outlines.",
+      "start": 2444.48,
+      "duration": 3.0
+    },
+    {
+      "text": "So, in the type there, I will create",
+      "start": 2450.96,
+      "duration": 6.24
+    },
+    {
+      "text": "outlines.",
+      "start": 2454.24,
+      "duration": 6.64
+    },
+    {
+      "text": "Uh, I'm no longer going to need the fill",
+      "start": 2457.2,
+      "duration": 5.6
+    },
+    {
+      "text": "because I'm going to do them as etch",
+      "start": 2460.88,
+      "duration": 4.92
+    },
+    {
+      "text": "lines.",
+      "start": 2462.8,
+      "duration": 3.0
+    },
+    {
+      "text": "Uh, so I will grab the fill color there.",
+      "start": 2465.839,
+      "duration": 5.441
+    },
+    {
+      "text": "So, you can select whichever one is on",
+      "start": 2468.48,
+      "duration": 4.16
+    },
+    {
+      "text": "top is the one that you're going to",
+      "start": 2471.28,
+      "duration": 3.68
+    },
+    {
+      "text": "edit. So, I've selected the black one",
+      "start": 2472.64,
+      "duration": 5.439
+    },
+    {
+      "text": "and I don't want a fill on there. If I",
+      "start": 2474.96,
+      "duration": 5.68
+    },
+    {
+      "text": "select that, I can then select the color",
+      "start": 2478.079,
+      "duration": 6.081
+    },
+    {
+      "text": "that was last used, which was black. Um,",
+      "start": 2480.64,
+      "duration": 5.28
+    },
+    {
+      "text": "but I'm going to need to change that.",
+      "start": 2484.16,
+      "duration": 5.76
+    },
+    {
+      "text": "So, this one I'm going to use as an edge",
+      "start": 2485.92,
+      "duration": 8.96
+    },
+    {
+      "text": "edge of a vector. So, I'll have 255",
+      "start": 2489.92,
+      "duration": 8.24
+    },
+    {
+      "text": "in the value of blue,",
+      "start": 2494.88,
+      "duration": 6.32
+    },
+    {
+      "text": "zero in the value of red, and zero in",
+      "start": 2498.16,
+      "duration": 5.28
+    },
+    {
+      "text": "the value of green.",
+      "start": 2501.2,
+      "duration": 6.0
+    },
+    {
+      "text": "So, that will give me a pure blue line.",
+      "start": 2503.44,
+      "duration": 6.48
+    },
+    {
+      "text": "However, that is not the right line",
+      "start": 2507.2,
+      "duration": 5.76
+    },
+    {
+      "text": "weight. So again, it will etch vector",
+      "start": 2509.92,
+      "duration": 7.32
+    },
+    {
+      "text": "lines only at 0.01",
+      "start": 2512.96,
+      "duration": 4.28
+    },
+    {
+      "text": "millimeters.",
+      "start": 2518.56,
+      "duration": 4.08
+    },
+    {
+      "text": "So that I will change again to there.",
+      "start": 2520.079,
+      "duration": 5.121
+    },
+    {
+      "text": "Again, very hard to see. So I'll change",
+      "start": 2522.64,
+      "duration": 6.64
+    },
+    {
+      "text": "that back to 2 point just for um showing",
+      "start": 2525.2,
+      "duration": 8.399
+    },
+    {
+      "text": "on this demonstration.",
+      "start": 2529.28,
+      "duration": 6.16
+    },
+    {
+      "text": "And then again, if I did want to do",
+      "start": 2533.599,
+      "duration": 6.881
+    },
+    {
+      "text": "those as a fill etch, I can cancel that",
+      "start": 2535.44,
+      "duration": 7.76
+    },
+    {
+      "text": "color as an outline.",
+      "start": 2540.48,
+      "duration": 5.839
+    },
+    {
+      "text": "I can select the fill. I'll just make it",
+      "start": 2543.2,
+      "duration": 6.879
+    },
+    {
+      "text": "blue and then change my values. Um, and",
+      "start": 2546.319,
+      "duration": 7.28
+    },
+    {
+      "text": "as a value representation, black is zero",
+      "start": 2550.079,
+      "duration": 6.561
+    },
+    {
+      "text": "in all categories.",
+      "start": 2553.599,
+      "duration": 6.081
+    },
+    {
+      "text": "Um, so this would create an etch line as",
+      "start": 2556.64,
+      "duration": 5.36
+    },
+    {
+      "text": "as you see in that PDF that I sent",
+      "start": 2559.68,
+      "duration": 4.56
+    },
+    {
+      "text": "through. Um, which is a handy one to",
+      "start": 2562.0,
+      "duration": 4.079
+    },
+    {
+      "text": "save for future reference if you're",
+      "start": 2564.24,
+      "duration": 3.359
+    },
+    {
+      "text": "going to go down this path for your",
+      "start": 2566.079,
+      "duration": 6.641
+    },
+    {
+      "text": "design. Um, that will uh etch all of",
+      "start": 2567.599,
+      "duration": 9.681
+    },
+    {
+      "text": "that fill area. Um, and you can",
+      "start": 2572.72,
+      "duration": 8.879
+    },
+    {
+      "text": "uh you can do this. Um, it is just",
+      "start": 2577.28,
+      "duration": 6.24
+    },
+    {
+      "text": "something that takes a lot longer on the",
+      "start": 2581.599,
+      "duration": 4.561
+    },
+    {
+      "text": "laser cutter. Um, so it's just something",
+      "start": 2583.52,
+      "duration": 4.0
+    },
+    {
+      "text": "to keep in mind. If you don't really",
+      "start": 2586.16,
+      "duration": 3.199
+    },
+    {
+      "text": "need to do that much fill area, it's",
+      "start": 2587.52,
+      "duration": 5.599
+    },
+    {
+      "text": "probably something uh good to avoid.",
+      "start": 2589.359,
+      "duration": 6.081
+    },
+    {
+      "text": "Um,",
+      "start": 2593.119,
+      "duration": 4.72
+    },
+    {
+      "text": "for my original design for this, I had",
+      "start": 2595.44,
+      "duration": 6.8
+    },
+    {
+      "text": "created uh a woodfill pattern, um, which",
+      "start": 2597.839,
+      "duration": 7.361
+    },
+    {
+      "text": "I thought might be quite engaging for",
+      "start": 2602.24,
+      "duration": 7.119
+    },
+    {
+      "text": "the audience. Um, at the scale that this",
+      "start": 2605.2,
+      "duration": 5.44
+    },
+    {
+      "text": "was cut out of plywood, you don't",
+      "start": 2609.359,
+      "duration": 3.681
+    },
+    {
+      "text": "actually see any wood grain. So it would",
+      "start": 2610.64,
+      "duration": 5.76
+    },
+    {
+      "text": "be wood grain on wood grain. Um but this",
+      "start": 2613.04,
+      "duration": 6.88
+    },
+    {
+      "text": "is something that I created. Um and it's",
+      "start": 2616.4,
+      "duration": 7.04
+    },
+    {
+      "text": "a process called uh clipping masks which",
+      "start": 2619.92,
+      "duration": 8.56
+    },
+    {
+      "text": "are really handy in uh Illustrator.",
+      "start": 2623.44,
+      "duration": 9.76
+    },
+    {
+      "text": "So, if I go and just grab anything off",
+      "start": 2628.48,
+      "duration": 9.24
+    },
+    {
+      "text": "Google images, um,",
+      "start": 2633.2,
+      "duration": 4.52
+    },
+    {
+      "text": "in the context of this, I'll grab a",
+      "start": 2638.56,
+      "duration": 4.6
+    },
+    {
+      "text": "trebushche.",
+      "start": 2640.16,
+      "duration": 3.0
+    },
+    {
+      "text": "Uh, so I'm going to create a new",
+      "start": 2652.96,
+      "duration": 4.6
+    },
+    {
+      "text": "artboard.",
+      "start": 2654.56,
+      "duration": 3.0
+    },
+    {
+      "text": "Drop this image on here.",
+      "start": 2664.319,
+      "duration": 3.961
+    },
+    {
+      "text": "I'm going to use this shape as my",
+      "start": 2683.68,
+      "duration": 5.28
+    },
+    {
+      "text": "clipping mask. So, I'm going to",
+      "start": 2685.44,
+      "duration": 7.36
+    },
+    {
+      "text": "I'll use just one of these. Um, it's",
+      "start": 2688.96,
+      "duration": 5.6
+    },
+    {
+      "text": "probably not the greatest example of a",
+      "start": 2692.8,
+      "duration": 5.279
+    },
+    {
+      "text": "shape to use, but I'll use it anyway.",
+      "start": 2694.56,
+      "duration": 6.519
+    },
+    {
+      "text": "Um,",
+      "start": 2698.079,
+      "duration": 3.0
+    },
+    {
+      "text": "actually, I'll use",
+      "start": 2702.4,
+      "duration": 3.439
+    },
+    {
+      "text": "Oops.",
+      "start": 2708.64,
+      "duration": 3.0
+    },
+    {
+      "text": "So, um, another thing that, uh, can be,",
+      "start": 2718.8,
+      "duration": 8.4
+    },
+    {
+      "text": "uh, quite tricky in Illustrator is, uh,",
+      "start": 2723.119,
+      "duration": 8.081
+    },
+    {
+      "text": "the layering of your objects. So for a",
+      "start": 2727.2,
+      "duration": 5.44
+    },
+    {
+      "text": "clipping mask, I will show you how to",
+      "start": 2731.2,
+      "duration": 6.399
+    },
+    {
+      "text": "not do this first. So in object arrange,",
+      "start": 2732.64,
+      "duration": 8.16
+    },
+    {
+      "text": "I can send that to the back.",
+      "start": 2737.599,
+      "duration": 5.441
+    },
+    {
+      "text": "So now my ellipse is at the back. I've",
+      "start": 2740.8,
+      "duration": 4.24
+    },
+    {
+      "text": "selected both of them and I will go",
+      "start": 2743.04,
+      "duration": 6.799
+    },
+    {
+      "text": "object clipping mask make and it'll tell",
+      "start": 2745.04,
+      "duration": 7.36
+    },
+    {
+      "text": "me an error.",
+      "start": 2749.839,
+      "duration": 7.321
+    },
+    {
+      "text": "So I'll then move Sorry.",
+      "start": 2752.4,
+      "duration": 4.76
+    },
+    {
+      "text": "That's all right.",
+      "start": 2764.079,
+      "duration": 7.201
+    },
+    {
+      "text": "Um, so I've now uh sent the image to the",
+      "start": 2766.16,
+      "duration": 9.76
+    },
+    {
+      "text": "back. Um, and I can now make a clipping",
+      "start": 2771.28,
+      "duration": 7.64
+    },
+    {
+      "text": "mask.",
+      "start": 2775.92,
+      "duration": 3.0
+    },
+    {
+      "text": "Um, so you'll notice it got rid of the",
+      "start": 2779.92,
+      "duration": 4.0
+    },
+    {
+      "text": "red line on the outline of the shape,",
+      "start": 2782.24,
+      "duration": 4.8
+    },
+    {
+      "text": "but it has selected the area inside. And",
+      "start": 2783.92,
+      "duration": 6.24
+    },
+    {
+      "text": "you can then double click on that area",
+      "start": 2787.04,
+      "duration": 5.52
+    },
+    {
+      "text": "and you can alter it. So you can drag",
+      "start": 2790.16,
+      "duration": 6.56
+    },
+    {
+      "text": "it, um, center it",
+      "start": 2792.56,
+      "duration": 8.559
+    },
+    {
+      "text": "and so on. Um, again, it's a bit of a",
+      "start": 2796.72,
+      "duration": 6.56
+    },
+    {
+      "text": "confusing part in this context, but it",
+      "start": 2801.119,
+      "duration": 3.601
+    },
+    {
+      "text": "might make a lot of sense later when you",
+      "start": 2803.28,
+      "duration": 5.24
+    },
+    {
+      "text": "need to use things like this.",
+      "start": 2804.72,
+      "duration": 3.8
+    },
+    {
+      "text": "That's all right.",
+      "start": 2810.24,
+      "duration": 3.24
+    },
+    {
+      "text": ">> Uh, so I'm just going to have a look at",
+      "start": 2814.64,
+      "duration": 6.08
+    },
+    {
+      "text": "the chat and see if there's anything",
+      "start": 2817.68,
+      "duration": 5.679
+    },
+    {
+      "text": "um",
+      "start": 2820.72,
+      "duration": 7.599
+    },
+    {
+      "text": "that I've sort of missed. Um",
+      "start": 2823.359,
+      "duration": 6.321
+    },
+    {
+      "text": ">> um Elliot,",
+      "start": 2828.319,
+      "duration": 1.921
+    },
+    {
+      "text": ">> yeah,",
+      "start": 2829.68,
+      "duration": 3.439
+    },
+    {
+      "text": ">> I just have a very general question.",
+      "start": 2830.24,
+      "duration": 3.2
+    },
+    {
+      "text": "Yeah,",
+      "start": 2833.119,
+      "duration": 3.761
+    },
+    {
+      "text": ">> please um consider my brain is just a",
+      "start": 2833.44,
+      "duration": 5.679
+    },
+    {
+      "text": "science brain and with all of this",
+      "start": 2836.88,
+      "duration": 4.959
+    },
+    {
+      "text": "design it's just I'm trying to come up",
+      "start": 2839.119,
+      "duration": 5.921
+    },
+    {
+      "text": "with a so if a students coming from",
+      "start": 2841.839,
+      "duration": 6.161
+    },
+    {
+      "text": "different discipline they want to start",
+      "start": 2845.04,
+      "duration": 5.279
+    },
+    {
+      "text": "like I can see all of this pattern and",
+      "start": 2848.0,
+      "duration": 6.96
+    },
+    {
+      "text": "this um you know I just want to know uh",
+      "start": 2850.319,
+      "duration": 8.081
+    },
+    {
+      "text": "how come you come to create this pattern",
+      "start": 2854.96,
+      "duration": 6.639
+    },
+    {
+      "text": "to then start adding them to the",
+      "start": 2858.4,
+      "duration": 5.84
+    },
+    {
+      "text": "illustrator What was the template you",
+      "start": 2861.599,
+      "duration": 5.921
+    },
+    {
+      "text": "use or is that just you're looking at",
+      "start": 2864.24,
+      "duration": 6.879
+    },
+    {
+      "text": "the do you know the the what you plan to",
+      "start": 2867.52,
+      "duration": 5.52
+    },
+    {
+      "text": "design and then you come up with all of",
+      "start": 2871.119,
+      "duration": 5.441
+    },
+    {
+      "text": "these pattern can you just uh",
+      "start": 2873.04,
+      "duration": 3.92
+    },
+    {
+      "text": "I guess",
+      "start": 2876.56,
+      "duration": 2.96
+    },
+    {
+      "text": ">> yeah so uh that's probably a bit of um",
+      "start": 2876.96,
+      "duration": 4.96
+    },
+    {
+      "text": "something that I have skipped a bit um",
+      "start": 2879.52,
+      "duration": 5.52
+    },
+    {
+      "text": "so the first thing I did was I again",
+      "start": 2881.92,
+      "duration": 5.439
+    },
+    {
+      "text": "I'll go back to this uh artboard over",
+      "start": 2885.04,
+      "duration": 7.2
+    },
+    {
+      "text": "here um so I",
+      "start": 2887.359,
+      "duration": 8.24
+    },
+    {
+      "text": "before this I had almost zero knowledge",
+      "start": 2892.24,
+      "duration": 6.4
+    },
+    {
+      "text": "of uh how a trebuche works. I'd seen a",
+      "start": 2895.599,
+      "duration": 5.921
+    },
+    {
+      "text": "few um but I yeah I didn't really know",
+      "start": 2898.64,
+      "duration": 5.919
+    },
+    {
+      "text": "too much about them. Um I watched a few",
+      "start": 2901.52,
+      "duration": 4.559
+    },
+    {
+      "text": "videos and looked at a few different",
+      "start": 2904.559,
+      "duration": 6.321
+    },
+    {
+      "text": "resources on what what has been um done",
+      "start": 2906.079,
+      "duration": 7.52
+    },
+    {
+      "text": "in the past. Um and I think that's a",
+      "start": 2910.88,
+      "duration": 4.4
+    },
+    {
+      "text": "really important part of the design",
+      "start": 2913.599,
+      "duration": 5.281
+    },
+    {
+      "text": "process. So, um, when I'm going to",
+      "start": 2915.28,
+      "duration": 5.92
+    },
+    {
+      "text": "design something, uh, if something's",
+      "start": 2918.88,
+      "duration": 5.04
+    },
+    {
+      "text": "already been designed before, uh, unless",
+      "start": 2921.2,
+      "duration": 4.48
+    },
+    {
+      "text": "I can greatly improve it, there's",
+      "start": 2923.92,
+      "duration": 3.6
+    },
+    {
+      "text": "probably not a lot of point in designing",
+      "start": 2925.68,
+      "duration": 4.56
+    },
+    {
+      "text": "it again. Um, for this context, it's",
+      "start": 2927.52,
+      "duration": 4.72
+    },
+    {
+      "text": "different because it's using, uh,",
+      "start": 2930.24,
+      "duration": 4.319
+    },
+    {
+      "text": "scaling it down for an educational tool.",
+      "start": 2932.24,
+      "duration": 6.56
+    },
+    {
+      "text": "Um, but yeah, a great thing to do in the",
+      "start": 2934.559,
+      "duration": 6.401
+    },
+    {
+      "text": "design process is benchmarking. So, you",
+      "start": 2938.8,
+      "duration": 5.039
+    },
+    {
+      "text": "look at what is existing, um, you take",
+      "start": 2940.96,
+      "duration": 5.04
+    },
+    {
+      "text": "what you can from that. um and then you",
+      "start": 2943.839,
+      "duration": 5.28
+    },
+    {
+      "text": "apply it to your work. So this shape",
+      "start": 2946.0,
+      "duration": 6.48
+    },
+    {
+      "text": "here um is sort of the basis on what I",
+      "start": 2949.119,
+      "duration": 9.041
+    },
+    {
+      "text": "uh based my design upon. Um, and uh, I",
+      "start": 2952.48,
+      "duration": 8.48
+    },
+    {
+      "text": "think a super important thing before you",
+      "start": 2958.16,
+      "duration": 4.64
+    },
+    {
+      "text": "go into something like Illustrator and",
+      "start": 2960.96,
+      "duration": 3.44
+    },
+    {
+      "text": "then going into the trouble of laser",
+      "start": 2962.8,
+      "duration": 4.16
+    },
+    {
+      "text": "cutting um, is you might do a lot of",
+      "start": 2964.4,
+      "duration": 6.159
+    },
+    {
+      "text": "sketching uh, drawing on paper and then",
+      "start": 2966.96,
+      "duration": 5.28
+    },
+    {
+      "text": "then you can go into a program like",
+      "start": 2970.559,
+      "duration": 3.681
+    },
+    {
+      "text": "Illustrator. And as I said before, I",
+      "start": 2972.24,
+      "duration": 4.319
+    },
+    {
+      "text": "made a scale model of this out of",
+      "start": 2974.24,
+      "duration": 5.839
+    },
+    {
+      "text": "cardboard with some skewers. Um, and I",
+      "start": 2976.559,
+      "duration": 6.081
+    },
+    {
+      "text": "got it working roughly and then I'd",
+      "start": 2980.079,
+      "duration": 4.24
+    },
+    {
+      "text": "learned what I needed to from that",
+      "start": 2982.64,
+      "duration": 5.919
+    },
+    {
+      "text": "process. So, uh, if if any of the groups",
+      "start": 2984.319,
+      "duration": 6.401
+    },
+    {
+      "text": "here have any designs that they're",
+      "start": 2988.559,
+      "duration": 5.28
+    },
+    {
+      "text": "thinking of, I could quickly like come",
+      "start": 2990.72,
+      "duration": 5.2
+    },
+    {
+      "text": "up with how I would go about that. Um,",
+      "start": 2993.839,
+      "duration": 3.921
+    },
+    {
+      "text": "if you want to drop that in the chat.",
+      "start": 2995.92,
+      "duration": 4.88
+    },
+    {
+      "text": "Um, but otherwise, it's it's uh, yeah,",
+      "start": 2997.76,
+      "duration": 5.12
+    },
+    {
+      "text": "with the design process, yeah, look",
+      "start": 3000.8,
+      "duration": 4.4
+    },
+    {
+      "text": "what's existing. Um, what is your",
+      "start": 3002.88,
+      "duration": 5.36
+    },
+    {
+      "text": "inspiration? Um,",
+      "start": 3005.2,
+      "duration": 7.919
+    },
+    {
+      "text": "and and then go from there. Uh so um",
+      "start": 3008.24,
+      "duration": 7.52
+    },
+    {
+      "text": "it's pretty hard to teach all of that in",
+      "start": 3013.119,
+      "duration": 3.2
+    },
+    {
+      "text": "uh",
+      "start": 3015.76,
+      "duration": 1.44
+    },
+    {
+      "text": ">> yes",
+      "start": 3016.319,
+      "duration": 4.8
+    },
+    {
+      "text": ">> in this one or twohour class but um yeah",
+      "start": 3017.2,
+      "duration": 5.359
+    },
+    {
+      "text": "that's something that you would think",
+      "start": 3021.119,
+      "duration": 3.761
+    },
+    {
+      "text": "about and and hopefully some of some of",
+      "start": 3022.559,
+      "duration": 4.961
+    },
+    {
+      "text": "you have have come up with some some",
+      "start": 3024.88,
+      "duration": 4.479
+    },
+    {
+      "text": "ideas at least of of things that you",
+      "start": 3027.52,
+      "duration": 4.24
+    },
+    {
+      "text": "would want to design. Um there's a lot",
+      "start": 3029.359,
+      "duration": 5.361
+    },
+    {
+      "text": "of really nice laser cut designs out out",
+      "start": 3031.76,
+      "duration": 6.96
+    },
+    {
+      "text": "there for STEM um sort of educational",
+      "start": 3034.72,
+      "duration": 6.56
+    },
+    {
+      "text": "tools. Um, and there's a lot of great",
+      "start": 3038.72,
+      "duration": 4.56
+    },
+    {
+      "text": "STEM educational tools that could",
+      "start": 3041.28,
+      "duration": 6.4
+    },
+    {
+      "text": "possibly be laser cut or um, and that's",
+      "start": 3043.28,
+      "duration": 6.72
+    },
+    {
+      "text": "where we want people with a design",
+      "start": 3047.68,
+      "duration": 4.879
+    },
+    {
+      "text": "background um, to show their expertise.",
+      "start": 3050.0,
+      "duration": 6.96
+    },
+    {
+      "text": "Um, so if if there's a a premise um, in",
+      "start": 3052.559,
+      "duration": 7.28
+    },
+    {
+      "text": "science or your an area of research that",
+      "start": 3056.96,
+      "duration": 5.599
+    },
+    {
+      "text": "you're really interested in um, how",
+      "start": 3059.839,
+      "duration": 6.161
+    },
+    {
+      "text": "could you educate um, young young",
+      "start": 3062.559,
+      "duration": 7.361
+    },
+    {
+      "text": "learners to do that? um especially uh we",
+      "start": 3066.0,
+      "duration": 8.0
+    },
+    {
+      "text": "see high rates of uh women in STEM um",
+      "start": 3069.92,
+      "duration": 7.12
+    },
+    {
+      "text": "being almost scared to tackle some STEM",
+      "start": 3074.0,
+      "duration": 8.319
+    },
+    {
+      "text": "subjects. Um so how can you uh inspire",
+      "start": 3077.04,
+      "duration": 9.6
+    },
+    {
+      "text": "um more women in STEM? Um",
+      "start": 3082.319,
+      "duration": 7.361
+    },
+    {
+      "text": "you can do stuff like that through uh",
+      "start": 3086.64,
+      "duration": 7.439
+    },
+    {
+      "text": "through the design process. So, um if if",
+      "start": 3089.68,
+      "duration": 8.08
+    },
+    {
+      "text": "anyone has any ideas, um this is a good",
+      "start": 3094.079,
+      "duration": 5.121
+    },
+    {
+      "text": "place to bring them up. We can have a",
+      "start": 3097.76,
+      "duration": 5.52
+    },
+    {
+      "text": "look at them. Um stuff like that. Uh but",
+      "start": 3099.2,
+      "duration": 6.24
+    },
+    {
+      "text": "yeah, uh",
+      "start": 3103.28,
+      "duration": 4.0
+    },
+    {
+      "text": ">> thank you Elliot. I think that is the",
+      "start": 3105.44,
+      "duration": 5.36
+    },
+    {
+      "text": "message to whoever is in the um you know",
+      "start": 3107.28,
+      "duration": 7.12
+    },
+    {
+      "text": "uh room today and whoever is going to",
+      "start": 3110.8,
+      "duration": 6.4
+    },
+    {
+      "text": "watch this recording. So if you have an",
+      "start": 3114.4,
+      "duration": 5.84
+    },
+    {
+      "text": "STEM, if your passion uh in the STEM and",
+      "start": 3117.2,
+      "duration": 5.68
+    },
+    {
+      "text": "you know how we can inspire",
+      "start": 3120.24,
+      "duration": 7.359
+    },
+    {
+      "text": "um school age um students into the STEM,",
+      "start": 3122.88,
+      "duration": 8.08
+    },
+    {
+      "text": "so they would be someone to direct you.",
+      "start": 3127.599,
+      "duration": 6.48
+    },
+    {
+      "text": "So if you have any idea just um send an",
+      "start": 3130.96,
+      "duration": 7.68
+    },
+    {
+      "text": "email to uh us Elliot and then we can",
+      "start": 3134.079,
+      "duration": 6.801
+    },
+    {
+      "text": "your design and we can see how we can",
+      "start": 3138.64,
+      "duration": 3.679
+    },
+    {
+      "text": "help you.",
+      "start": 3140.88,
+      "duration": 5.76
+    },
+    {
+      "text": ">> Yeah. Um and luckily if if you're a",
+      "start": 3142.319,
+      "duration": 7.201
+    },
+    {
+      "text": "Smurn student you have access to um the",
+      "start": 3146.64,
+      "duration": 5.36
+    },
+    {
+      "text": "Adobe Creative Campus and all those all",
+      "start": 3149.52,
+      "duration": 5.28
+    },
+    {
+      "text": "its resources. So you can also apart",
+      "start": 3152.0,
+      "duration": 6.8
+    },
+    {
+      "text": "from me you can um leverage people like",
+      "start": 3154.8,
+      "duration": 8.4
+    },
+    {
+      "text": "uh Julia. So um yeah these are some",
+      "start": 3158.8,
+      "duration": 5.759
+    },
+    {
+      "text": "really great resources that you have",
+      "start": 3163.2,
+      "duration": 5.359
+    },
+    {
+      "text": "access to. Um and we're also offering um",
+      "start": 3164.559,
+      "duration": 5.76
+    },
+    {
+      "text": "that if you come to a design that you",
+      "start": 3168.559,
+      "duration": 5.201
+    },
+    {
+      "text": "think could help uh STEM education where",
+      "start": 3170.319,
+      "duration": 5.441
+    },
+    {
+      "text": "we will support you in laser cutting",
+      "start": 3173.76,
+      "duration": 5.76
+    },
+    {
+      "text": "that and helping produce that. So um",
+      "start": 3175.76,
+      "duration": 5.44
+    },
+    {
+      "text": "it's a great opportunity to learn some",
+      "start": 3179.52,
+      "duration": 3.839
+    },
+    {
+      "text": "new skills and I think these are skills",
+      "start": 3181.2,
+      "duration": 5.52
+    },
+    {
+      "text": "that um are highly valuable. It may not",
+      "start": 3183.359,
+      "duration": 4.96
+    },
+    {
+      "text": "seem like it but in your future",
+      "start": 3186.72,
+      "duration": 5.119
+    },
+    {
+      "text": "employment. Um, so I think it's a great",
+      "start": 3188.319,
+      "duration": 8.081
+    },
+    {
+      "text": "opportunity to to be involved with. Um,",
+      "start": 3191.839,
+      "duration": 6.24
+    },
+    {
+      "text": "is there anything that you wanted to",
+      "start": 3196.4,
+      "duration": 3.76
+    },
+    {
+      "text": "add, Julia, that I might have missed? I",
+      "start": 3198.079,
+      "duration": 4.561
+    },
+    {
+      "text": "know I went over things quite quickly.",
+      "start": 3200.16,
+      "duration": 5.04
+    },
+    {
+      "text": "Um, is there and is there anything that",
+      "start": 3202.64,
+      "duration": 5.439
+    },
+    {
+      "text": "anyone has had any specific trouble with",
+      "start": 3205.2,
+      "duration": 5.2
+    },
+    {
+      "text": "um that they would like me to go over",
+      "start": 3208.079,
+      "duration": 5.601
+    },
+    {
+      "text": "again or something like that?",
+      "start": 3210.4,
+      "duration": 4.88
+    },
+    {
+      "text": "I think it might be good to go over",
+      "start": 3213.68,
+      "duration": 3.76
+    },
+    {
+      "text": "exporting, showing people how to",
+      "start": 3215.28,
+      "duration": 3.76
+    },
+    {
+      "text": "actually, you know, take this and",
+      "start": 3217.44,
+      "duration": 3.84
+    },
+    {
+      "text": "create, you know, a PDF or, you know,",
+      "start": 3219.04,
+      "duration": 4.0
+    },
+    {
+      "text": "whatever format they need to be actually",
+      "start": 3221.28,
+      "duration": 2.96
+    },
+    {
+      "text": "printing it.",
+      "start": 3223.04,
+      "duration": 3.84
+    },
+    {
+      "text": ">> Yep, that's a great idea. Um, so I'll",
+      "start": 3224.24,
+      "duration": 5.28
+    },
+    {
+      "text": "sort of just zoom out a little bit here.",
+      "start": 3226.88,
+      "duration": 5.52
+    },
+    {
+      "text": "Um, and so we can look and see that I've",
+      "start": 3229.52,
+      "duration": 6.24
+    },
+    {
+      "text": "got four artboards. Uh, this one here is",
+      "start": 3232.4,
+      "duration": 6.0
+    },
+    {
+      "text": "almost uh useless. I just did that as a",
+      "start": 3235.76,
+      "duration": 5.52
+    },
+    {
+      "text": "quick demo on clipping mask and it",
+      "start": 3238.4,
+      "duration": 4.8
+    },
+    {
+      "text": "wasn't a great demo on clipping mask but",
+      "start": 3241.28,
+      "duration": 5.76
+    },
+    {
+      "text": "um you can see how they very useful. I",
+      "start": 3243.2,
+      "duration": 5.52
+    },
+    {
+      "text": "actually did use a clipping mask for",
+      "start": 3247.04,
+      "duration": 4.88
+    },
+    {
+      "text": "this part here too. Um so I created that",
+      "start": 3248.72,
+      "duration": 6.96
+    },
+    {
+      "text": "pattern out of um using the brush tool",
+      "start": 3251.92,
+      "duration": 6.32
+    },
+    {
+      "text": "um and some different stroke weights. Um",
+      "start": 3255.68,
+      "duration": 4.0
+    },
+    {
+      "text": "but I think that's probably a bit too",
+      "start": 3258.24,
+      "duration": 4.4
+    },
+    {
+      "text": "much to go over for today. Um",
+      "start": 3259.68,
+      "duration": 5.439
+    },
+    {
+      "text": "and so I'll now go over different file",
+      "start": 3262.64,
+      "duration": 6.959
+    },
+    {
+      "text": "types and exporting. So, um if you look",
+      "start": 3265.119,
+      "duration": 8.96
+    },
+    {
+      "text": "in here in the file tab, there is save,",
+      "start": 3269.599,
+      "duration": 7.76
+    },
+    {
+      "text": "save as, uh and export, which are",
+      "start": 3274.079,
+      "duration": 4.721
+    },
+    {
+      "text": "probably the ones that you will use",
+      "start": 3277.359,
+      "duration": 3.361
+    },
+    {
+      "text": "most.",
+      "start": 3278.8,
+      "duration": 6.72
+    },
+    {
+      "text": "Uh so, saving, I'll go save as first.",
+      "start": 3280.72,
+      "duration": 5.92
+    },
+    {
+      "text": "I'm just going to save it on my",
+      "start": 3285.52,
+      "duration": 2.799
+    },
+    {
+      "text": "computer, but you can also save up on",
+      "start": 3286.64,
+      "duration": 3.84
+    },
+    {
+      "text": "the cloud.",
+      "start": 3288.319,
+      "duration": 5.841
+    },
+    {
+      "text": "And just for ease of use, um, and this",
+      "start": 3290.48,
+      "duration": 5.839
+    },
+    {
+      "text": "not being my laptop, I'm going to save",
+      "start": 3294.16,
+      "duration": 4.56
+    },
+    {
+      "text": "that on the desktop. Um, so I will call",
+      "start": 3296.319,
+      "duration": 4.881
+    },
+    {
+      "text": "it 2021,",
+      "start": 3298.72,
+      "duration": 5.92
+    },
+    {
+      "text": "uh, STEM",
+      "start": 3301.2,
+      "duration": 6.44
+    },
+    {
+      "text": "program.",
+      "start": 3304.64,
+      "duration": 3.0
+    },
+    {
+      "text": "Um, and so you will see that there is a",
+      "start": 3310.559,
+      "duration": 5.601
+    },
+    {
+      "text": "bunch of different object options here.",
+      "start": 3313.2,
+      "duration": 8.08
+    },
+    {
+      "text": "Um, the native type for Illustrator is",
+      "start": 3316.16,
+      "duration": 8.64
+    },
+    {
+      "text": "AI. Um, so we're going to save that as",
+      "start": 3321.28,
+      "duration": 6.76
+    },
+    {
+      "text": "an AI.",
+      "start": 3324.8,
+      "duration": 3.24
+    },
+    {
+      "text": "Again, not my laptop, so it's not",
+      "start": 3328.319,
+      "duration": 4.481
+    },
+    {
+      "text": "letting me save the",
+      "start": 3330.079,
+      "duration": 4.24
+    },
+    {
+      "text": "So, I'm automatically going to save it",
+      "start": 3332.8,
+      "duration": 4.24
+    },
+    {
+      "text": "in the folder that it created for me.",
+      "start": 3334.319,
+      "duration": 5.361
+    },
+    {
+      "text": "Um,",
+      "start": 3337.04,
+      "duration": 7.64
+    },
+    {
+      "text": "so that's now saved that. And",
+      "start": 3339.68,
+      "duration": 5.0
+    },
+    {
+      "text": "Sorry. Uh",
+      "start": 3345.76,
+      "duration": 5.2
+    },
+    {
+      "text": "sorry, there's a fire engine driving",
+      "start": 3349.119,
+      "duration": 6.881
+    },
+    {
+      "text": "past. Um and inside that saving there",
+      "start": 3350.96,
+      "duration": 7.2
+    },
+    {
+      "text": "will be another bunch of options here.",
+      "start": 3356.0,
+      "duration": 6.88
+    },
+    {
+      "text": "So uh we have uh legacy versions of",
+      "start": 3358.16,
+      "duration": 8.24
+    },
+    {
+      "text": "Illustrator. Um so",
+      "start": 3362.88,
+      "duration": 5.439
+    },
+    {
+      "text": "that's probably not that useful for",
+      "start": 3366.4,
+      "duration": 4.64
+    },
+    {
+      "text": "today. Uh and you guys all have access",
+      "start": 3368.319,
+      "duration": 4.961
+    },
+    {
+      "text": "to the latest version of all programs.",
+      "start": 3371.04,
+      "duration": 5.12
+    },
+    {
+      "text": "So, uh you might need to do that for",
+      "start": 3373.28,
+      "duration": 4.64
+    },
+    {
+      "text": "someone. So, if if you were sending a",
+      "start": 3376.16,
+      "duration": 3.439
+    },
+    {
+      "text": "file to someone and they had Illustrator",
+      "start": 3377.92,
+      "duration": 4.8
+    },
+    {
+      "text": "CS6, for instance, you can save it as uh",
+      "start": 3379.599,
+      "duration": 5.441
+    },
+    {
+      "text": "that file type and it will allow them to",
+      "start": 3382.72,
+      "duration": 4.8
+    },
+    {
+      "text": "be able to fully edit it. Um I'm going",
+      "start": 3385.04,
+      "duration": 6.319
+    },
+    {
+      "text": "to leave it at 2020. Um so, when I",
+      "start": 3387.52,
+      "duration": 6.64
+    },
+    {
+      "text": "reopen this file, all of my lines and",
+      "start": 3391.359,
+      "duration": 4.48
+    },
+    {
+      "text": "everything, all the information will",
+      "start": 3394.16,
+      "duration": 6.88
+    },
+    {
+      "text": "still be there. Um, and then if I",
+      "start": 3395.839,
+      "duration": 8.561
+    },
+    {
+      "text": "export, um, so there's a lot of",
+      "start": 3401.04,
+      "duration": 5.6
+    },
+    {
+      "text": "different um,",
+      "start": 3404.4,
+      "duration": 4.399
+    },
+    {
+      "text": "options here.",
+      "start": 3406.64,
+      "duration": 4.64
+    },
+    {
+      "text": "So you can export for screens. So for",
+      "start": 3408.799,
+      "duration": 4.081
+    },
+    {
+      "text": "doing web design and things like that,",
+      "start": 3411.28,
+      "duration": 4.72
+    },
+    {
+      "text": "there's a lot of options there. Um,",
+      "start": 3412.88,
+      "duration": 6.4
+    },
+    {
+      "text": "and then, uh, another thing that is very",
+      "start": 3416.0,
+      "duration": 6.0
+    },
+    {
+      "text": "handy for laser cutting, um, depending",
+      "start": 3419.28,
+      "duration": 5.519
+    },
+    {
+      "text": "what type of process you're going for,",
+      "start": 3422.0,
+      "duration": 5.68
+    },
+    {
+      "text": "um, DXF and DWGs,",
+      "start": 3424.799,
+      "duration": 7.04
+    },
+    {
+      "text": "um, might be the appropriate, uh, type.",
+      "start": 3427.68,
+      "duration": 6.8
+    },
+    {
+      "text": "Uh, you can save as like a JPEG or an",
+      "start": 3431.839,
+      "duration": 5.681
+    },
+    {
+      "text": "SVG. Um, and that will give you a flat",
+      "start": 3434.48,
+      "duration": 5.52
+    },
+    {
+      "text": "image.",
+      "start": 3437.52,
+      "duration": 4.24
+    },
+    {
+      "text": "I'm not really going to need to use any",
+      "start": 3440.0,
+      "duration": 4.72
+    },
+    {
+      "text": "of these exports today. Um, and a very",
+      "start": 3441.76,
+      "duration": 7.28
+    },
+    {
+      "text": "common um, export type from uh, a",
+      "start": 3444.72,
+      "duration": 8.879
+    },
+    {
+      "text": "program like Illustrator is a PDF. Um,",
+      "start": 3449.04,
+      "duration": 7.759
+    },
+    {
+      "text": "almost any phone, computer,",
+      "start": 3453.599,
+      "duration": 7.601
+    },
+    {
+      "text": "uh, even down to probably some smart TVs",
+      "start": 3456.799,
+      "duration": 7.921
+    },
+    {
+      "text": "and fridges could open um, a PDF. So,",
+      "start": 3461.2,
+      "duration": 5.44
+    },
+    {
+      "text": "I'll go save as a PDF. And again, it's",
+      "start": 3464.72,
+      "duration": 3.599
+    },
+    {
+      "text": "going to bring up um, a bunch more",
+      "start": 3466.64,
+      "duration": 4.679
+    },
+    {
+      "text": "options.",
+      "start": 3468.319,
+      "duration": 3.0
+    },
+    {
+      "text": "just waiting for the computer. Uh, so",
+      "start": 3476.24,
+      "duration": 5.04
+    },
+    {
+      "text": "there's a lot of different settings",
+      "start": 3479.599,
+      "duration": 3.52
+    },
+    {
+      "text": "here. Um, so there's the default",
+      "start": 3481.28,
+      "duration": 4.24
+    },
+    {
+      "text": "Illustrator settings that will probably",
+      "start": 3483.119,
+      "duration": 6.321
+    },
+    {
+      "text": "be okay for most situations. Um, there's",
+      "start": 3485.52,
+      "duration": 6.16
+    },
+    {
+      "text": "high quality print. Uh, we don't really",
+      "start": 3489.44,
+      "duration": 4.8
+    },
+    {
+      "text": "have any, um,",
+      "start": 3491.68,
+      "duration": 4.48
+    },
+    {
+      "text": "high quality images in here or anything,",
+      "start": 3494.24,
+      "duration": 3.68
+    },
+    {
+      "text": "so you would not need to go for that.",
+      "start": 3496.16,
+      "duration": 4.399
+    },
+    {
+      "text": "And especially for laser cutting. um",
+      "start": 3497.92,
+      "duration": 5.52
+    },
+    {
+      "text": "sort of the standard was is going to do.",
+      "start": 3500.559,
+      "duration": 6.8
+    },
+    {
+      "text": "Um but you can look at um if you are",
+      "start": 3503.44,
+      "duration": 7.6
+    },
+    {
+      "text": "setting up for printing um at like a a",
+      "start": 3507.359,
+      "duration": 6.321
+    },
+    {
+      "text": "paper printing shop sort of scenario um",
+      "start": 3511.04,
+      "duration": 4.64
+    },
+    {
+      "text": "you can set up bleeds and slugs and",
+      "start": 3513.68,
+      "duration": 5.04
+    },
+    {
+      "text": "things like that and different colors.",
+      "start": 3515.68,
+      "duration": 6.04
+    },
+    {
+      "text": "Um",
+      "start": 3518.72,
+      "duration": 3.0
+    },
+    {
+      "text": "I'm going to just go Illustrator default",
+      "start": 3522.0,
+      "duration": 5.2
+    },
+    {
+      "text": "and that that will suffice for what I",
+      "start": 3524.799,
+      "duration": 4.241
+    },
+    {
+      "text": "want to do. Um, did you want to add",
+      "start": 3527.2,
+      "duration": 6.0
+    },
+    {
+      "text": "anything in there, Julia? I probably",
+      "start": 3529.04,
+      "duration": 6.88
+    },
+    {
+      "text": "uh skipped over a lot of stuff there.",
+      "start": 3533.2,
+      "duration": 4.08
+    },
+    {
+      "text": ">> I think that was actually pretty",
+      "start": 3535.92,
+      "duration": 3.28
+    },
+    {
+      "text": "comprehensive. Yeah. I mean, could you",
+      "start": 3537.28,
+      "duration": 4.559
+    },
+    {
+      "text": "just specify one more time uh which file",
+      "start": 3539.2,
+      "duration": 4.879
+    },
+    {
+      "text": "you want to use for if you were to laser",
+      "start": 3541.839,
+      "duration": 3.121
+    },
+    {
+      "text": "cut?",
+      "start": 3544.079,
+      "duration": 4.321
+    },
+    {
+      "text": ">> Uh, yep. So, for laser cutting, um, it",
+      "start": 3544.96,
+      "duration": 9.04
+    },
+    {
+      "text": "would a PDF will be fine. Um, so, uh,",
+      "start": 3548.4,
+      "duration": 8.159
+    },
+    {
+      "text": "that will be good enough. And, um, it's",
+      "start": 3554.0,
+      "duration": 5.28
+    },
+    {
+      "text": "it's very easily openable. It's not as",
+      "start": 3556.559,
+      "duration": 4.881
+    },
+    {
+      "text": "easily editable. So, um, if you were",
+      "start": 3559.28,
+      "duration": 3.68
+    },
+    {
+      "text": "going to send through a file for laser",
+      "start": 3561.44,
+      "duration": 3.76
+    },
+    {
+      "text": "cutting, it could be handy to send both",
+      "start": 3562.96,
+      "duration": 5.839
+    },
+    {
+      "text": "an AI file and a PDF. Um, if the PDF",
+      "start": 3565.2,
+      "duration": 4.96
+    },
+    {
+      "text": "doesn't work, you can go back into the",
+      "start": 3568.799,
+      "duration": 4.0
+    },
+    {
+      "text": "AI file. But, um, yeah, that would be",
+      "start": 3570.16,
+      "duration": 5.6
+    },
+    {
+      "text": "the, um, sort of fine fine scenario for",
+      "start": 3572.799,
+      "duration": 5.28
+    },
+    {
+      "text": "for this setting. Um, so I could go",
+      "start": 3575.76,
+      "duration": 6.16
+    },
+    {
+      "text": "there. Um, one thing that I did uh go",
+      "start": 3578.079,
+      "duration": 7.121
+    },
+    {
+      "text": "over brush over, but I didn't actually",
+      "start": 3581.92,
+      "duration": 6.96
+    },
+    {
+      "text": "um spend too much time on was layers.",
+      "start": 3585.2,
+      "duration": 6.24
+    },
+    {
+      "text": "Um, so what I will do is I'm going to",
+      "start": 3588.88,
+      "duration": 6.16
+    },
+    {
+      "text": "rename these layers as cut.",
+      "start": 3591.44,
+      "duration": 4.96
+    },
+    {
+      "text": "I'm going to have to move this again.",
+      "start": 3595.04,
+      "duration": 4.36
+    },
+    {
+      "text": "Sorry.",
+      "start": 3596.4,
+      "duration": 3.0
+    },
+    {
+      "text": "Um, and so I'll show you how to move",
+      "start": 3612.4,
+      "duration": 8.64
+    },
+    {
+      "text": "those around. So, um, my cut lines,",
+      "start": 3616.16,
+      "duration": 7.36
+    },
+    {
+      "text": "which are these ones here,",
+      "start": 3621.04,
+      "duration": 8.0
+    },
+    {
+      "text": "uh, I can go object arrange,",
+      "start": 3623.52,
+      "duration": 8.079
+    },
+    {
+      "text": "and it's not letting me do that. Uh,",
+      "start": 3629.04,
+      "duration": 5.039
+    },
+    {
+      "text": "they're already in that layer. Sorry.",
+      "start": 3631.599,
+      "duration": 5.2
+    },
+    {
+      "text": "Uh,",
+      "start": 3634.079,
+      "duration": 4.48
+    },
+    {
+      "text": "I will select these and these are my",
+      "start": 3636.799,
+      "duration": 5.201
+    },
+    {
+      "text": "edge fills. So, I'll go object",
+      "start": 3638.559,
+      "duration": 6.081
+    },
+    {
+      "text": "arrange.",
+      "start": 3642.0,
+      "duration": 6.68
+    },
+    {
+      "text": "Make sure I'm in that layer.",
+      "start": 3644.64,
+      "duration": 4.04
+    },
+    {
+      "text": "Sorry,",
+      "start": 3660.0,
+      "duration": 5.72
+    },
+    {
+      "text": "it's not allowing me to select.",
+      "start": 3661.68,
+      "duration": 4.04
+    },
+    {
+      "text": "[Music]",
+      "start": 3672.84,
+      "duration": 3.049
+    },
+    {
+      "text": "Uh, do you know why it wouldn't be doing",
+      "start": 3678.0,
+      "duration": 3.28
+    },
+    {
+      "text": "that, Julia? Sorry. Normally I just",
+      "start": 3679.839,
+      "duration": 5.041
+    },
+    {
+      "text": "double click and it selects them.",
+      "start": 3681.28,
+      "duration": 5.12
+    },
+    {
+      "text": ">> Um,",
+      "start": 3684.88,
+      "duration": 4.88
+    },
+    {
+      "text": "sorry. Run through once more what your",
+      "start": 3686.4,
+      "duration": 5.679
+    },
+    {
+      "text": ">> I'm just trying to move move switch them",
+      "start": 3689.76,
+      "duration": 6.72
+    },
+    {
+      "text": "to layers. Um, so I can",
+      "start": 3692.079,
+      "duration": 7.76
+    },
+    {
+      "text": "move it to the edge fill layer.",
+      "start": 3696.48,
+      "duration": 6.16
+    },
+    {
+      "text": ">> Um, you might need to so actually open",
+      "start": 3699.839,
+      "duration": 4.081
+    },
+    {
+      "text": "up the layer. So with the drop down",
+      "start": 3702.64,
+      "duration": 4.08
+    },
+    {
+      "text": "arrow in the layers tab.",
+      "start": 3703.92,
+      "duration": 5.8
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 3706.72,
+      "duration": 3.0
+    },
+    {
+      "text": "Uh, and then grab whichever object",
+      "start": 3711.68,
+      "duration": 4.96
+    },
+    {
+      "text": "you're trying to move and just click and",
+      "start": 3715.04,
+      "duration": 6.6
+    },
+    {
+      "text": "drag it into the into the other layer.",
+      "start": 3716.64,
+      "duration": 5.0
+    },
+    {
+      "text": "Oh, sorry. From the um from the layers",
+      "start": 3725.28,
+      "duration": 5.2
+    },
+    {
+      "text": "menu. So, yeah, it can be a bit tricky",
+      "start": 3727.599,
+      "duration": 6.081
+    },
+    {
+      "text": "to find which one you want, but grab the",
+      "start": 3730.48,
+      "duration": 6.24
+    },
+    {
+      "text": "actual um",
+      "start": 3733.68,
+      "duration": 6.96
+    },
+    {
+      "text": "the actual layer object name from the",
+      "start": 3736.72,
+      "duration": 5.119
+    },
+    {
+      "text": "outliner.",
+      "start": 3740.64,
+      "duration": 2.479
+    },
+    {
+      "text": ">> Sorry, I just",
+      "start": 3741.839,
+      "duration": 2.081
+    },
+    {
+      "text": ">> There we go.",
+      "start": 3743.119,
+      "duration": 2.24
+    },
+    {
+      "text": ">> There we go.",
+      "start": 3743.92,
+      "duration": 4.439
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 3745.359,
+      "duration": 3.0
+    },
+    {
+      "text": "All right. And now you'll see that",
+      "start": 3752.48,
+      "duration": 4.639
+    },
+    {
+      "text": "that's gone green. Um, and if I hide all",
+      "start": 3753.599,
+      "duration": 4.96
+    },
+    {
+      "text": "the other layers, you can see that it's",
+      "start": 3757.119,
+      "duration": 6.321
+    },
+    {
+      "text": "just that there. Um, and then for just",
+      "start": 3758.559,
+      "duration": 7.361
+    },
+    {
+      "text": "uh an example, I would intend to cut",
+      "start": 3763.44,
+      "duration": 6.8
+    },
+    {
+      "text": "these, but um I will make them blue now.",
+      "start": 3765.92,
+      "duration": 5.919
+    },
+    {
+      "text": "Sorry,",
+      "start": 3770.24,
+      "duration": 3.04
+    },
+    {
+      "text": "it's a bit hard doing this on a small",
+      "start": 3771.839,
+      "duration": 3.921
+    },
+    {
+      "text": "screen.",
+      "start": 3773.28,
+      "duration": 7.44
+    },
+    {
+      "text": "Uh, so I'll go 0 0 and 255 in the blue,",
+      "start": 3775.76,
+      "duration": 7.28
+    },
+    {
+      "text": "but that's gone as my fill color. So,",
+      "start": 3780.72,
+      "duration": 4.56
+    },
+    {
+      "text": "I'll drag that across as my stroke",
+      "start": 3783.04,
+      "duration": 6.48
+    },
+    {
+      "text": "color. And I'll get rid of the fill.",
+      "start": 3785.28,
+      "duration": 7.279
+    },
+    {
+      "text": "And so, that was these ones here. And",
+      "start": 3789.52,
+      "duration": 8.16
+    },
+    {
+      "text": "I'll drag that into my edge layer. Um,",
+      "start": 3792.559,
+      "duration": 8.161
+    },
+    {
+      "text": "and then if I",
+      "start": 3797.68,
+      "duration": 6.919
+    },
+    {
+      "text": "go like that,",
+      "start": 3800.72,
+      "duration": 3.879
+    },
+    {
+      "text": "sorry,",
+      "start": 3804.64,
+      "duration": 3.0
+    },
+    {
+      "text": "I didn't move them.",
+      "start": 3809.28,
+      "duration": 3.64
+    },
+    {
+      "text": "It has moved. So,",
+      "start": 3825.599,
+      "duration": 5.44
+    },
+    {
+      "text": "it's a bit confusing because this layer",
+      "start": 3829.039,
+      "duration": 4.56
+    },
+    {
+      "text": "is red. So, I'll double click on that",
+      "start": 3831.039,
+      "duration": 8.76
+    },
+    {
+      "text": "and then I'll change that to yellow. Um,",
+      "start": 3833.599,
+      "duration": 6.2
+    },
+    {
+      "text": "so now that's similar to the other",
+      "start": 3844.48,
+      "duration": 6.599
+    },
+    {
+      "text": "color, but uh",
+      "start": 3847.44,
+      "duration": 3.639
+    },
+    {
+      "text": "I'll go",
+      "start": 3851.44,
+      "duration": 3.32
+    },
+    {
+      "text": "there.",
+      "start": 3855.92,
+      "duration": 3.0
+    },
+    {
+      "text": "So if I select those, um, my highlight",
+      "start": 3859.52,
+      "duration": 6.799
+    },
+    {
+      "text": "color will now be that color. Um, yeah,",
+      "start": 3862.48,
+      "duration": 5.92
+    },
+    {
+      "text": "that's just sorry, sort of the last",
+      "start": 3866.319,
+      "duration": 5.681
+    },
+    {
+      "text": "thing I will go over.",
+      "start": 3868.4,
+      "duration": 5.12
+    },
+    {
+      "text": "Um,",
+      "start": 3872.0,
+      "duration": 3.599
+    },
+    {
+      "text": "but did anyone have any specific",
+      "start": 3873.52,
+      "duration": 6.079
+    },
+    {
+      "text": "questions on on anything else? Just have",
+      "start": 3875.599,
+      "duration": 6.48
+    },
+    {
+      "text": "a look.",
+      "start": 3879.599,
+      "duration": 4.72
+    },
+    {
+      "text": ">> Elliot, can you please show us your",
+      "start": 3882.079,
+      "duration": 5.361
+    },
+    {
+      "text": "design one more time if you can?",
+      "start": 3884.319,
+      "duration": 5.04
+    },
+    {
+      "text": ">> The real the real life one.",
+      "start": 3887.44,
+      "duration": 6.72
+    },
+    {
+      "text": ">> Yes. Okay. So from what you did here",
+      "start": 3889.359,
+      "duration": 7.121
+    },
+    {
+      "text": ">> and then printed",
+      "start": 3894.16,
+      "duration": 5.04
+    },
+    {
+      "text": ">> then you were able and you were able to",
+      "start": 3896.48,
+      "duration": 4.8
+    },
+    {
+      "text": "assemble this. Yes.",
+      "start": 3899.2,
+      "duration": 6.72
+    },
+    {
+      "text": ">> Yeah. So uh I simply glued those pieces",
+      "start": 3901.28,
+      "duration": 7.44
+    },
+    {
+      "text": "in. Um the only extra pieces that I've",
+      "start": 3905.92,
+      "duration": 5.679
+    },
+    {
+      "text": "added to this were I replaced the basket",
+      "start": 3908.72,
+      "duration": 5.28
+    },
+    {
+      "text": "with a bag. Um I couldn't get enough",
+      "start": 3911.599,
+      "duration": 4.561
+    },
+    {
+      "text": "weight in the basket that I had",
+      "start": 3914.0,
+      "duration": 4.72
+    },
+    {
+      "text": "originally cut. So I created a bag to do",
+      "start": 3916.16,
+      "duration": 7.199
+    },
+    {
+      "text": "that. Um, and I created a sling um, just",
+      "start": 3918.72,
+      "duration": 7.68
+    },
+    {
+      "text": "with some um, canvas that I had lying",
+      "start": 3923.359,
+      "duration": 5.68
+    },
+    {
+      "text": "around the house. Um, you could use an",
+      "start": 3926.4,
+      "duration": 4.8
+    },
+    {
+      "text": "offcut of cloth or anything really for",
+      "start": 3929.039,
+      "duration": 5.681
+    },
+    {
+      "text": "that. Um, and then you might be able to",
+      "start": 3931.2,
+      "duration": 5.2
+    },
+    {
+      "text": "see them here, but they're just some",
+      "start": 3934.72,
+      "duration": 3.119
+    },
+    {
+      "text": "little eye books that I got from",
+      "start": 3936.4,
+      "duration": 5.04
+    },
+    {
+      "text": "Bunnings. Um, so it's a pretty basic",
+      "start": 3937.839,
+      "duration": 7.441
+    },
+    {
+      "text": "construction. Um, but it does the job.",
+      "start": 3941.44,
+      "duration": 7.28
+    },
+    {
+      "text": "Um, and yeah, there might be some extra",
+      "start": 3945.28,
+      "duration": 4.64
+    },
+    {
+      "text": "things that you need to add to your",
+      "start": 3948.72,
+      "duration": 3.44
+    },
+    {
+      "text": "design. Um, or you could design it",
+      "start": 3949.92,
+      "duration": 4.48
+    },
+    {
+      "text": "completely with just laser cut parts.",
+      "start": 3952.16,
+      "duration": 5.199
+    },
+    {
+      "text": "Um, there could be some really good uh",
+      "start": 3954.4,
+      "duration": 6.32
+    },
+    {
+      "text": "puzzles and things like that that would",
+      "start": 3957.359,
+      "duration": 6.0
+    },
+    {
+      "text": "um add a lot of STEM value uh to",
+      "start": 3960.72,
+      "duration": 7.359
+    },
+    {
+      "text": "students. Um, you could make a",
+      "start": 3963.359,
+      "duration": 7.68
+    },
+    {
+      "text": "game like operation um with laser",
+      "start": 3968.079,
+      "duration": 6.0
+    },
+    {
+      "text": "cutting quite easily. So, um if it was",
+      "start": 3971.039,
+      "duration": 6.0
+    },
+    {
+      "text": "to promote something, uh about the",
+      "start": 3974.079,
+      "duration": 8.321
+    },
+    {
+      "text": "environment or um or women in STEM or",
+      "start": 3977.039,
+      "duration": 6.641
+    },
+    {
+      "text": "something like that, you could",
+      "start": 3982.4,
+      "duration": 3.04
+    },
+    {
+      "text": "definitely create some um sort of",
+      "start": 3983.68,
+      "duration": 4.879
+    },
+    {
+      "text": "interactive games uh with with laser",
+      "start": 3985.44,
+      "duration": 6.879
+    },
+    {
+      "text": "cutting. Um and the other thing that I",
+      "start": 3988.559,
+      "duration": 8.401
+    },
+    {
+      "text": "didn't really go over was that uh we",
+      "start": 3992.319,
+      "duration": 6.881
+    },
+    {
+      "text": "will be able to do a bunch of different",
+      "start": 3996.96,
+      "duration": 7.28
+    },
+    {
+      "text": "materials. Um so we can do plywood in",
+      "start": 3999.2,
+      "duration": 8.0
+    },
+    {
+      "text": "three, five, 9 and 12 mil uh",
+      "start": 4004.24,
+      "duration": 4.879
+    },
+    {
+      "text": "thicknesses.",
+      "start": 4007.2,
+      "duration": 6.639
+    },
+    {
+      "text": "Acrylic in 2, 3, 5, 6 and 9 mil.",
+      "start": 4009.119,
+      "duration": 7.041
+    },
+    {
+      "text": "Cardboard in two and three and box board",
+      "start": 4013.839,
+      "duration": 4.96
+    },
+    {
+      "text": "in 3 mil. Um so these are quite a lot of",
+      "start": 4016.16,
+      "duration": 5.52
+    },
+    {
+      "text": "different um different materials that",
+      "start": 4018.799,
+      "duration": 5.52
+    },
+    {
+      "text": "you could use. Uh acrylic you can get in",
+      "start": 4021.68,
+      "duration": 7.84
+    },
+    {
+      "text": "all sorts of colors um clear through to",
+      "start": 4024.319,
+      "duration": 7.921
+    },
+    {
+      "text": "um black, white, red, green, sort of",
+      "start": 4029.52,
+      "duration": 6.0
+    },
+    {
+      "text": "every color of the rainbow. Um and with",
+      "start": 4032.24,
+      "duration": 5.2
+    },
+    {
+      "text": "cardboard, if you did want to do it, you",
+      "start": 4035.52,
+      "duration": 5.76
+    },
+    {
+      "text": "could set it up so that you had",
+      "start": 4037.44,
+      "duration": 7.119
+    },
+    {
+      "text": "a print out mounted on some card um and",
+      "start": 4041.28,
+      "duration": 5.519
+    },
+    {
+      "text": "then laser cut on top of that. Um that",
+      "start": 4044.559,
+      "duration": 5.121
+    },
+    {
+      "text": "would be an option. um if you wanted to",
+      "start": 4046.799,
+      "duration": 5.201
+    },
+    {
+      "text": "bring in some more general sort of",
+      "start": 4049.68,
+      "duration": 5.919
+    },
+    {
+      "text": "graphic design stuff. Um so there's a",
+      "start": 4052.0,
+      "duration": 5.039
+    },
+    {
+      "text": "lot of options that you could could do",
+      "start": 4055.599,
+      "duration": 4.24
+    },
+    {
+      "text": "with this. Um and again, if you had",
+      "start": 4057.039,
+      "duration": 6.0
+    },
+    {
+      "text": "something that you wanted to uh design",
+      "start": 4059.839,
+      "duration": 4.321
+    },
+    {
+      "text": "even if it didn't really need",
+      "start": 4063.039,
+      "duration": 4.08
+    },
+    {
+      "text": "Illustrator, you could um oh sorry, even",
+      "start": 4064.16,
+      "duration": 4.159
+    },
+    {
+      "text": "if it didn't need laser cutting, you",
+      "start": 4067.119,
+      "duration": 2.321
+    },
+    {
+      "text": "could still design a lot of stuff with",
+      "start": 4068.319,
+      "duration": 3.121
+    },
+    {
+      "text": "Illustrator uh just as a graphic",
+      "start": 4069.44,
+      "duration": 4.96
+    },
+    {
+      "text": "platform as well. Um and Illustrator is",
+      "start": 4071.44,
+      "duration": 5.04
+    },
+    {
+      "text": "super handy for doing logos and things",
+      "start": 4074.4,
+      "duration": 4.0
+    },
+    {
+      "text": "like that. little info in infographics",
+      "start": 4076.48,
+      "duration": 5.92
+    },
+    {
+      "text": "and pictograms. Um, so I find it as like",
+      "start": 4078.4,
+      "duration": 7.439
+    },
+    {
+      "text": "an invaluable tool for me. Um,",
+      "start": 4082.4,
+      "duration": 5.52
+    },
+    {
+      "text": "and hopefully hopefully you guys will",
+      "start": 4085.839,
+      "duration": 4.48
+    },
+    {
+      "text": "too. Um, I think it's a it's a really",
+      "start": 4087.92,
+      "duration": 6.24
+    },
+    {
+      "text": "handy tool to have in your toolkit.",
+      "start": 4090.319,
+      "duration": 7.761
+    },
+    {
+      "text": ">> Thank you, Elliot. Uh I guess um um",
+      "start": 4094.16,
+      "duration": 8.88
+    },
+    {
+      "text": "Julia do we have a source of um I think",
+      "start": 4098.08,
+      "duration": 8.4
+    },
+    {
+      "text": "uh for those who actually participate",
+      "start": 4103.04,
+      "duration": 6.56
+    },
+    {
+      "text": "today and those who register but they",
+      "start": 4106.48,
+      "duration": 5.199
+    },
+    {
+      "text": "were not able to participate the",
+      "start": 4109.6,
+      "duration": 4.159
+    },
+    {
+      "text": "recording of this is going to be",
+      "start": 4111.679,
+      "duration": 5.04
+    },
+    {
+      "text": "provided to you please that's why we",
+      "start": 4113.759,
+      "duration": 5.121
+    },
+    {
+      "text": "requested in the beginning to use of",
+      "start": 4116.719,
+      "duration": 5.6
+    },
+    {
+      "text": "your students ID in zoom so we can",
+      "start": 4118.88,
+      "duration": 6.24
+    },
+    {
+      "text": "communicate with you when we provide And",
+      "start": 4122.319,
+      "duration": 5.201
+    },
+    {
+      "text": "I guess um the other link additional",
+      "start": 4125.12,
+      "duration": 5.199
+    },
+    {
+      "text": "link that we can send in the email for",
+      "start": 4127.52,
+      "duration": 6.96
+    },
+    {
+      "text": "you is how you access to Adobe uh hub",
+      "start": 4130.319,
+      "duration": 7.36
+    },
+    {
+      "text": "and how you can access to this u self",
+      "start": 4134.48,
+      "duration": 6.239
+    },
+    {
+      "text": "tutorial Adobe hub and maybe something",
+      "start": 4137.679,
+      "duration": 6.881
+    },
+    {
+      "text": "across with um um Elliot is there any",
+      "start": 4140.719,
+      "duration": 6.721
+    },
+    {
+      "text": "places that if they want to get an idea",
+      "start": 4144.56,
+      "duration": 6.88
+    },
+    {
+      "text": "of this um you know uh prototype like",
+      "start": 4147.44,
+      "duration": 6.399
+    },
+    {
+      "text": "you mentioned even for the infographic",
+      "start": 4151.44,
+      "duration": 5.279
+    },
+    {
+      "text": "they can use of Adobe Illustrator but is",
+      "start": 4153.839,
+      "duration": 6.32
+    },
+    {
+      "text": "there any uh link that they can use or",
+      "start": 4156.719,
+      "duration": 6.56
+    },
+    {
+      "text": "we can if you don't know now we can send",
+      "start": 4160.159,
+      "duration": 5.12
+    },
+    {
+      "text": "it through the email so they can have a",
+      "start": 4163.279,
+      "duration": 6.4
+    },
+    {
+      "text": "look and they get some idea of um design",
+      "start": 4165.279,
+      "duration": 6.56
+    },
+    {
+      "text": ">> I can definitely send them the design of",
+      "start": 4169.679,
+      "duration": 3.841
+    },
+    {
+      "text": "this and they can have play around with",
+      "start": 4171.839,
+      "duration": 3.52
+    },
+    {
+      "text": "that",
+      "start": 4173.52,
+      "duration": 4.08
+    },
+    {
+      "text": ">> I'll definitely do that afterwards I",
+      "start": 4175.359,
+      "duration": 4.641
+    },
+    {
+      "text": "yeah again I was planning to do that but",
+      "start": 4177.6,
+      "duration": 6.88
+    },
+    {
+      "text": "I had uh yeah my laptop was not here So,",
+      "start": 4180.0,
+      "duration": 6.64
+    },
+    {
+      "text": "um yeah, sorry about that, but we'll get",
+      "start": 4184.48,
+      "duration": 4.48
+    },
+    {
+      "text": "that the uh demonstration file sent out",
+      "start": 4186.64,
+      "duration": 4.639
+    },
+    {
+      "text": "to you um later today.",
+      "start": 4188.96,
+      "duration": 4.64
+    },
+    {
+      "text": ">> Yeah, I guess all of this information is",
+      "start": 4191.279,
+      "duration": 4.96
+    },
+    {
+      "text": "going to be shared along with this",
+      "start": 4193.6,
+      "duration": 6.079
+    },
+    {
+      "text": "recording and um we appreciate",
+      "start": 4196.239,
+      "duration": 6.561
+    },
+    {
+      "text": "everyone's time. Again, uh for those who",
+      "start": 4199.679,
+      "duration": 6.881
+    },
+    {
+      "text": "join us later uh and miss the",
+      "start": 4202.8,
+      "duration": 6.879
+    },
+    {
+      "text": "introduction, this is the design for",
+      "start": 4206.56,
+      "duration": 6.56
+    },
+    {
+      "text": "change competition. This is the first",
+      "start": 4209.679,
+      "duration": 5.441
+    },
+    {
+      "text": "workshop. We are going to have the",
+      "start": 4213.12,
+      "duration": 5.2
+    },
+    {
+      "text": "second workshop for Adobe XD and we are",
+      "start": 4215.12,
+      "duration": 5.52
+    },
+    {
+      "text": "going to have the third workshop for",
+      "start": 4218.32,
+      "duration": 6.48
+    },
+    {
+      "text": "Adobe Rush. How you design, how you",
+      "start": 4220.64,
+      "duration": 7.2
+    },
+    {
+      "text": "pitch your design. So you are going to",
+      "start": 4224.8,
+      "duration": 6.72
+    },
+    {
+      "text": "use of illustrator and XD to come up",
+      "start": 4227.84,
+      "duration": 6.96
+    },
+    {
+      "text": "with your design but you need to create",
+      "start": 4231.52,
+      "duration": 7.04
+    },
+    {
+      "text": "a video to um promote and come up with",
+      "start": 4234.8,
+      "duration": 6.72
+    },
+    {
+      "text": "the startup pitch presentation",
+      "start": 4238.56,
+      "duration": 6.32
+    },
+    {
+      "text": "uh concepts to introduce your STEM",
+      "start": 4241.52,
+      "duration": 6.56
+    },
+    {
+      "text": "design. So we are looking for two vision",
+      "start": 4244.88,
+      "duration": 5.6
+    },
+    {
+      "text": "whether you are going to contribute to",
+      "start": 4248.08,
+      "duration": 7.04
+    },
+    {
+      "text": "our AG industry partner um you know",
+      "start": 4250.48,
+      "duration": 7.44
+    },
+    {
+      "text": "vision uh to make the world a better",
+      "start": 4255.12,
+      "duration": 5.52
+    },
+    {
+      "text": "place. Think about the sustainability.",
+      "start": 4257.92,
+      "duration": 6.64
+    },
+    {
+      "text": "Think about the terms circular economy.",
+      "start": 4260.64,
+      "duration": 6.64
+    },
+    {
+      "text": "Think about how you can contribute to",
+      "start": 4264.56,
+      "duration": 5.119
+    },
+    {
+      "text": "this industry vision to help them to",
+      "start": 4267.28,
+      "duration": 5.68
+    },
+    {
+      "text": "make this world a safer place to live.",
+      "start": 4269.679,
+      "duration": 6.081
+    },
+    {
+      "text": "And also the second vision which is",
+      "start": 4272.96,
+      "duration": 4.96
+    },
+    {
+      "text": "basically this workshop is it align with",
+      "start": 4275.76,
+      "duration": 6.0
+    },
+    {
+      "text": "that it's the educational prototype",
+      "start": 4277.92,
+      "duration": 8.72
+    },
+    {
+      "text": "design. So to inspire school age um",
+      "start": 4281.76,
+      "duration": 7.76
+    },
+    {
+      "text": "students into the STEM especially we",
+      "start": 4286.64,
+      "duration": 6.079
+    },
+    {
+      "text": "look for any women or girls into the",
+      "start": 4289.52,
+      "duration": 5.679
+    },
+    {
+      "text": "STEM. So think about the regional area",
+      "start": 4292.719,
+      "duration": 4.881
+    },
+    {
+      "text": "and how we can come up with your design",
+      "start": 4295.199,
+      "duration": 5.761
+    },
+    {
+      "text": "and inspire them to join us in STEM.",
+      "start": 4297.6,
+      "duration": 5.84
+    },
+    {
+      "text": "This is the multidisiplinary",
+      "start": 4300.96,
+      "duration": 5.92
+    },
+    {
+      "text": "um project and you can come up with a",
+      "start": 4303.44,
+      "duration": 7.84
+    },
+    {
+      "text": "group of three to five students and yeah",
+      "start": 4306.88,
+      "duration": 8.88
+    },
+    {
+      "text": "the winner is going to receive uh $1,000",
+      "start": 4311.28,
+      "duration": 8.08
+    },
+    {
+      "text": "along with um a professional experience",
+      "start": 4315.76,
+      "duration": 7.2
+    },
+    {
+      "text": "in supported by IG. You're going to be",
+      "start": 4319.36,
+      "duration": 6.879
+    },
+    {
+      "text": "recognized for your work um by emerging",
+      "start": 4322.96,
+      "duration": 6.08
+    },
+    {
+      "text": "leaders program and also the story of",
+      "start": 4326.239,
+      "duration": 6.0
+    },
+    {
+      "text": "your um you know um success is going to",
+      "start": 4329.04,
+      "duration": 6.08
+    },
+    {
+      "text": "be published and uh everyone is going to",
+      "start": 4332.239,
+      "duration": 5.361
+    },
+    {
+      "text": "get a certificate for those skills that",
+      "start": 4335.12,
+      "duration": 4.8
+    },
+    {
+      "text": "you're going to achieve by attending in",
+      "start": 4337.6,
+      "duration": 5.68
+    },
+    {
+      "text": "the workshop and then the competition.",
+      "start": 4339.92,
+      "duration": 5.44
+    },
+    {
+      "text": "So there are a lot to achieve and I know",
+      "start": 4343.28,
+      "duration": 3.919
+    },
+    {
+      "text": "some of you are here for your",
+      "start": 4345.36,
+      "duration": 3.6
+    },
+    {
+      "text": "assessments which is a design",
+      "start": 4347.199,
+      "duration": 5.201
+    },
+    {
+      "text": "assessment. uh you can design and pass",
+      "start": 4348.96,
+      "duration": 5.44
+    },
+    {
+      "text": "to your unit and you can come up to",
+      "start": 4352.4,
+      "duration": 6.56
+    },
+    {
+      "text": "competition to win and um be recognized.",
+      "start": 4354.4,
+      "duration": 7.44
+    },
+    {
+      "text": "So is there anything else that we want",
+      "start": 4358.96,
+      "duration": 4.8
+    },
+    {
+      "text": "to answer regarding the Adobe",
+      "start": 4361.84,
+      "duration": 5.04
+    },
+    {
+      "text": "Illustrator or competition?",
+      "start": 4363.76,
+      "duration": 5.2
+    },
+    {
+      "text": ">> We have a question from Irene. Uh she's",
+      "start": 4366.88,
+      "duration": 4.16
+    },
+    {
+      "text": "asked if students must use Illustrator",
+      "start": 4368.96,
+      "duration": 6.0
+    },
+    {
+      "text": "or XD to prepare their prototypes.",
+      "start": 4371.04,
+      "duration": 9.44
+    },
+    {
+      "text": "I guess the answer can be uh any any uh",
+      "start": 4374.96,
+      "duration": 8.88
+    },
+    {
+      "text": "application. Can you please um specify",
+      "start": 4380.48,
+      "duration": 7.12
+    },
+    {
+      "text": "what type of application I do you do you",
+      "start": 4383.84,
+      "duration": 7.52
+    },
+    {
+      "text": "want to use? I mean the the the aim is",
+      "start": 4387.6,
+      "duration": 6.88
+    },
+    {
+      "text": "to design a proto a stem prototype and",
+      "start": 4391.36,
+      "duration": 5.52
+    },
+    {
+      "text": "what we are suggesting here is Adobe",
+      "start": 4394.48,
+      "duration": 6.239
+    },
+    {
+      "text": "Illustrator and Adobe XD. If you and",
+      "start": 4396.88,
+      "duration": 6.72
+    },
+    {
+      "text": "your any students uh team member they",
+      "start": 4400.719,
+      "duration": 5.201
+    },
+    {
+      "text": "know of the other um do you know",
+      "start": 4403.6,
+      "duration": 5.52
+    },
+    {
+      "text": "application that can help them to design",
+      "start": 4405.92,
+      "duration": 5.36
+    },
+    {
+      "text": "I guess there is no limitation for that",
+      "start": 4409.12,
+      "duration": 6.24
+    },
+    {
+      "text": "but we would like to suggest this",
+      "start": 4411.28,
+      "duration": 6.72
+    },
+    {
+      "text": ">> okay we haven't really come to that uh",
+      "start": 4415.36,
+      "duration": 5.359
+    },
+    {
+      "text": "stage yet but let's say if their design",
+      "start": 4418.0,
+      "duration": 4.8
+    },
+    {
+      "text": "is um they start with some just hand",
+      "start": 4420.719,
+      "duration": 4.881
+    },
+    {
+      "text": "drawing something more simple",
+      "start": 4422.8,
+      "duration": 5.359
+    },
+    {
+      "text": "um and it can be achieved with that is",
+      "start": 4425.6,
+      "duration": 3.599
+    },
+    {
+      "text": "that",
+      "start": 4428.159,
+      "duration": 3.841
+    },
+    {
+      "text": "possible as well.",
+      "start": 4429.199,
+      "duration": 6.161
+    },
+    {
+      "text": ">> I I I think uh I'll maybe add in",
+      "start": 4432.0,
+      "duration": 5.52
+    },
+    {
+      "text": "something here. Uh if you're going to",
+      "start": 4435.36,
+      "duration": 4.4
+    },
+    {
+      "text": "create um your video as a pitch",
+      "start": 4437.52,
+      "duration": 4.4
+    },
+    {
+      "text": "presentation, you're still you can still",
+      "start": 4439.76,
+      "duration": 5.12
+    },
+    {
+      "text": "use Adobe products there as well. So um",
+      "start": 4441.92,
+      "duration": 5.6
+    },
+    {
+      "text": "I I think it would be great if you could",
+      "start": 4444.88,
+      "duration": 5.68
+    },
+    {
+      "text": "use them. Um so there's there's plenty",
+      "start": 4447.52,
+      "duration": 5.6
+    },
+    {
+      "text": "of um space to use Adobe products in",
+      "start": 4450.56,
+      "duration": 4.88
+    },
+    {
+      "text": "this presentation in the total scheme of",
+      "start": 4453.12,
+      "duration": 3.68
+    },
+    {
+      "text": "it.",
+      "start": 4455.44,
+      "duration": 3.279
+    },
+    {
+      "text": "just add there is so much support. If",
+      "start": 4456.8,
+      "duration": 4.0
+    },
+    {
+      "text": "you've never used Adobe products before,",
+      "start": 4458.719,
+      "duration": 3.841
+    },
+    {
+      "text": "uh the Adobe hub, all the coaches, we",
+      "start": 4460.8,
+      "duration": 3.52
+    },
+    {
+      "text": "are here to help. So any questions you",
+      "start": 4462.56,
+      "duration": 3.679
+    },
+    {
+      "text": "have, you can email us or you can book a",
+      "start": 4464.32,
+      "duration": 3.6
+    },
+    {
+      "text": "session with us. Um and we'll help you",
+      "start": 4466.239,
+      "duration": 2.641
+    },
+    {
+      "text": "out with whatever you need.",
+      "start": 4467.92,
+      "duration": 3.52
+    },
+    {
+      "text": ">> And and Julia, this is for Sarah",
+      "start": 4468.88,
+      "duration": 4.319
+    },
+    {
+      "text": "students as well.",
+      "start": 4471.44,
+      "duration": 4.16
+    },
+    {
+      "text": ">> Yep. So we can do online sessions if",
+      "start": 4473.199,
+      "duration": 3.761
+    },
+    {
+      "text": "they want to book if students want to",
+      "start": 4475.6,
+      "duration": 3.28
+    },
+    {
+      "text": "book a half an hour peer-to-peer",
+      "start": 4476.96,
+      "duration": 5.12
+    },
+    {
+      "text": "session. Uh so I will I'll grab the link",
+      "start": 4478.88,
+      "duration": 4.799
+    },
+    {
+      "text": "to that and send that as well as well as",
+      "start": 4482.08,
+      "duration": 4.079
+    },
+    {
+      "text": "our email address. That is perfect.",
+      "start": 4483.679,
+      "duration": 5.761
+    },
+    {
+      "text": "Amazing. Um I guess uh uh following what",
+      "start": 4486.159,
+      "duration": 5.52
+    },
+    {
+      "text": "Elliott mentioned because here we",
+      "start": 4489.44,
+      "duration": 6.08
+    },
+    {
+      "text": "offering three Adobe uh application. If",
+      "start": 4491.679,
+      "duration": 6.241
+    },
+    {
+      "text": "your design is the handwriting but it's",
+      "start": 4495.52,
+      "duration": 6.88
+    },
+    {
+      "text": "a a shiny uh smart idea still you need",
+      "start": 4497.92,
+      "duration": 8.239
+    },
+    {
+      "text": "to um showcase and you need to create an",
+      "start": 4502.4,
+      "duration": 8.56
+    },
+    {
+      "text": "startup uh video by using Adobe Rush to",
+      "start": 4506.159,
+      "duration": 8.08
+    },
+    {
+      "text": "introduce your spam prototype. So at",
+      "start": 4510.96,
+      "duration": 6.16
+    },
+    {
+      "text": "least if you use one uh Adobe",
+      "start": 4514.239,
+      "duration": 5.761
+    },
+    {
+      "text": "application I think that is all good and",
+      "start": 4517.12,
+      "duration": 5.119
+    },
+    {
+      "text": "anyway for the creating of this video",
+      "start": 4520.0,
+      "duration": 4.159
+    },
+    {
+      "text": "you are going to use Adobe Rush. So",
+      "start": 4522.239,
+      "duration": 5.44
+    },
+    {
+      "text": "you're welcome to use of some other uh",
+      "start": 4524.159,
+      "duration": 6.801
+    },
+    {
+      "text": "application to come up with your STEM",
+      "start": 4527.679,
+      "duration": 7.0
+    },
+    {
+      "text": "prototype design.",
+      "start": 4530.96,
+      "duration": 3.719
+    },
+    {
+      "text": ">> Yeah that's great. Thanks. Yeah. Um",
+      "start": 4538.4,
+      "duration": 5.759
+    },
+    {
+      "text": "definitely for the video uh because um",
+      "start": 4541.12,
+      "duration": 5.92
+    },
+    {
+      "text": "previously we did use Adobe what's that",
+      "start": 4544.159,
+      "duration": 3.841
+    },
+    {
+      "text": "rush.",
+      "start": 4547.04,
+      "duration": 1.36
+    },
+    {
+      "text": ">> Yes.",
+      "start": 4548.0,
+      "duration": 3.12
+    },
+    {
+      "text": ">> U so at least the video will be using",
+      "start": 4548.4,
+      "duration": 5.839
+    },
+    {
+      "text": "that just the design probably um it can",
+      "start": 4551.12,
+      "duration": 6.32
+    },
+    {
+      "text": "be quite a steep change uh sorry",
+      "start": 4554.239,
+      "duration": 4.801
+    },
+    {
+      "text": "learning curve for some.",
+      "start": 4557.44,
+      "duration": 2.16
+    },
+    {
+      "text": ">> Yes.",
+      "start": 4559.04,
+      "duration": 3.28
+    },
+    {
+      "text": ">> So especially those not taking design.",
+      "start": 4559.6,
+      "duration": 5.92
+    },
+    {
+      "text": "Of course I can actually feel that and",
+      "start": 4562.32,
+      "duration": 6.08
+    },
+    {
+      "text": "I'm I'm here to support those students",
+      "start": 4565.52,
+      "duration": 6.32
+    },
+    {
+      "text": "who are not in design. This is what we",
+      "start": 4568.4,
+      "duration": 5.44
+    },
+    {
+      "text": "offering here and that's what the",
+      "start": 4571.84,
+      "duration": 5.28
+    },
+    {
+      "text": "students are going to play risk and act.",
+      "start": 4573.84,
+      "duration": 4.96
+    },
+    {
+      "text": "You know we are not expecting to be",
+      "start": 4577.12,
+      "duration": 3.599
+    },
+    {
+      "text": "perfect in the beginning but that is",
+      "start": 4578.8,
+      "duration": 3.52
+    },
+    {
+      "text": "something that we are going to learn",
+      "start": 4580.719,
+      "duration": 4.241
+    },
+    {
+      "text": "from each other and if we have a",
+      "start": 4582.32,
+      "duration": 5.6
+    },
+    {
+      "text": "multidisciplinary of a students one can",
+      "start": 4584.96,
+      "duration": 6.48
+    },
+    {
+      "text": "be the design students and one can be",
+      "start": 4587.92,
+      "duration": 6.16
+    },
+    {
+      "text": "students in IT or science that would be",
+      "start": 4591.44,
+      "duration": 6.239
+    },
+    {
+      "text": "great. So anyway, at the end you're",
+      "start": 4594.08,
+      "duration": 5.599
+    },
+    {
+      "text": "going to create your startup pitch",
+      "start": 4597.679,
+      "duration": 4.641
+    },
+    {
+      "text": "presentation with Adobe Rush and we have",
+      "start": 4599.679,
+      "duration": 4.801
+    },
+    {
+      "text": "our workshop and startup pitch",
+      "start": 4602.32,
+      "duration": 4.16
+    },
+    {
+      "text": "presentation to help you improve your",
+      "start": 4604.48,
+      "duration": 5.0
+    },
+    {
+      "text": "skills.",
+      "start": 4606.48,
+      "duration": 3.0
+    },
+    {
+      "text": "Okay. So I think uh with this",
+      "start": 4610.56,
+      "duration": 7.119
+    },
+    {
+      "text": "information we reach to the end and I",
+      "start": 4614.32,
+      "duration": 8.56
+    },
+    {
+      "text": "want once again to appreciate um Elliot",
+      "start": 4617.679,
+      "duration": 7.441
+    },
+    {
+      "text": "um your time your valuable time and",
+      "start": 4622.88,
+      "duration": 4.56
+    },
+    {
+      "text": "Julia again thank you very much for",
+      "start": 4625.12,
+      "duration": 4.64
+    },
+    {
+      "text": "moderating the session and come up with",
+      "start": 4627.44,
+      "duration": 6.0
+    },
+    {
+      "text": "all the summary points was very useful",
+      "start": 4629.76,
+      "duration": 6.56
+    },
+    {
+      "text": "and again we are going to send an email",
+      "start": 4633.44,
+      "duration": 5.68
+    },
+    {
+      "text": "to all of the students who attend today",
+      "start": 4636.32,
+      "duration": 4.72
+    },
+    {
+      "text": "and those who are not here but they are",
+      "start": 4639.12,
+      "duration": 4.32
+    },
+    {
+      "text": "going to watch this recording. Please",
+      "start": 4641.04,
+      "duration": 6.0
+    },
+    {
+      "text": "join us as an audience or parti um as a",
+      "start": 4643.44,
+      "duration": 6.56
+    },
+    {
+      "text": "participate in this workshop and join us",
+      "start": 4647.04,
+      "duration": 5.84
+    },
+    {
+      "text": "as an audience or more important",
+      "start": 4650.0,
+      "duration": 5.6
+    },
+    {
+      "text": "competitors in the design for chain",
+      "start": 4652.88,
+      "duration": 4.48
+    },
+    {
+      "text": "2021.",
+      "start": 4655.6,
+      "duration": 5.44
+    },
+    {
+      "text": "We are aim to inspire the community to",
+      "start": 4657.36,
+      "duration": 8.0
+    },
+    {
+      "text": "join us in STEM and we want to h in",
+      "start": 4661.04,
+      "duration": 7.6
+    },
+    {
+      "text": "collaborate with the IG uh vision to",
+      "start": 4665.36,
+      "duration": 6.319
+    },
+    {
+      "text": "make the world a better place to live.",
+      "start": 4668.64,
+      "duration": 5.44
+    },
+    {
+      "text": "Thank you very much everyone uh for your",
+      "start": 4671.679,
+      "duration": 6.56
+    },
+    {
+      "text": "time and see you in the next Adobe XD",
+      "start": 4674.08,
+      "duration": 6.4
+    },
+    {
+      "text": "workshop which is going to be presented",
+      "start": 4678.239,
+      "duration": 6.641
+    },
+    {
+      "text": "by Elliot and our um kind uh Julia",
+      "start": 4680.48,
+      "duration": 6.64
+    },
+    {
+      "text": "kindly accepted to be here as a",
+      "start": 4684.88,
+      "duration": 5.04
+    },
+    {
+      "text": "moderator. So be prepared for that. Come",
+      "start": 4687.12,
+      "duration": 5.28
+    },
+    {
+      "text": "with the question and listen to what we",
+      "start": 4689.92,
+      "duration": 4.56
+    },
+    {
+      "text": "are going to suggest. I'm sure that you",
+      "start": 4692.4,
+      "duration": 4.0
+    },
+    {
+      "text": "are coming with the innovative STEM",
+      "start": 4694.48,
+      "duration": 4.8
+    },
+    {
+      "text": "idea. Thank you very much.",
+      "start": 4696.4,
+      "duration": 5.04
+    },
+    {
+      "text": "Thank",
+      "start": 4699.28,
+      "duration": 2.16
+    }
+  ]
+}

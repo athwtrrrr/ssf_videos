@@ -1,0 +1,14 @@
+# YouTube transcript and metadata
+youtube-transcript-api==1.4.3
+google-api-python-client==2.97.0
+
+# Embeddings
+sentence-transformers==2.2.2
+nltk==3.8.1
+numpy==1.26.0
+
+# Vector database
+pinecone-client==2.3.0
+
+# HTTP requests 
+requests==2.31.0

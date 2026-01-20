@@ -1,0 +1,8308 @@
+{
+  "video_id": "SV-YLB6vlHk",
+  "title": "Interdisciplinary Insights: Bridging media and STEM Making a podcast.",
+  "channel": "Shaping STEMS Futures ",
+  "published": "2025-11-09T22:22:40Z",
+  "transcript": [
+    {
+      "text": "Hello everyone, welcome. Um, and today",
+      "start": 9.44,
+      "duration": 5.44
+    },
+    {
+      "text": "we will be talking about making podcasts",
+      "start": 12.16,
+      "duration": 4.48
+    },
+    {
+      "text": "and understanding how they work and",
+      "start": 14.88,
+      "duration": 4.319
+    },
+    {
+      "text": "looking at um some of the tools such as",
+      "start": 16.64,
+      "duration": 5.28
+    },
+    {
+      "text": "Adobe Audition that you can use to make",
+      "start": 19.199,
+      "duration": 5.201
+    },
+    {
+      "text": "um a podcast. So we'll begin by um",
+      "start": 21.92,
+      "duration": 3.92
+    },
+    {
+      "text": "giving an acknowledgement of country.",
+      "start": 24.4,
+      "duration": 3.119
+    },
+    {
+      "text": "So, we pay homage to Australia's",
+      "start": 25.84,
+      "duration": 4.0
+    },
+    {
+      "text": "original storytellers who remind us that",
+      "start": 27.519,
+      "duration": 4.641
+    },
+    {
+      "text": "storytelling is about deep listening. We",
+      "start": 29.84,
+      "duration": 4.0
+    },
+    {
+      "text": "recognize Australia's First Nation",
+      "start": 32.16,
+      "duration": 3.919
+    },
+    {
+      "text": "peoples for their ongoing connection to",
+      "start": 33.84,
+      "duration": 4.0
+    },
+    {
+      "text": "storytelling, country, culture, and",
+      "start": 36.079,
+      "duration": 3.761
+    },
+    {
+      "text": "community. We also respectfully",
+      "start": 37.84,
+      "duration": 3.44
+    },
+    {
+      "text": "acknowledge the traditional owners on",
+      "start": 39.84,
+      "duration": 3.36
+    },
+    {
+      "text": "the land of which you're all situated",
+      "start": 41.28,
+      "duration": 3.84
+    },
+    {
+      "text": "today and recognize that it was never",
+      "start": 43.2,
+      "duration": 3.92
+    },
+    {
+      "text": "seated. And I'm joining you today from",
+      "start": 45.12,
+      "duration": 4.8
+    },
+    {
+      "text": "Murang land um past Jalong. So, feel",
+      "start": 47.12,
+      "duration": 4.32
+    },
+    {
+      "text": "free to pop in the chat anywhere that",
+      "start": 49.92,
+      "duration": 3.44
+    },
+    {
+      "text": "you've come from or that you're situated",
+      "start": 51.44,
+      "duration": 5.2
+    },
+    {
+      "text": "on if you like. uh and um exciting uh",
+      "start": 53.36,
+      "duration": 4.56
+    },
+    {
+      "text": "events today. We'll be talking about",
+      "start": 56.64,
+      "duration": 3.36
+    },
+    {
+      "text": "making a podcast. Um and I want to thank",
+      "start": 57.92,
+      "duration": 4.959
+    },
+    {
+      "text": "Beta for her amazing graphic here, which",
+      "start": 60.0,
+      "duration": 7.119
+    },
+    {
+      "text": "is terrific. Um and Beta is our um is",
+      "start": 62.879,
+      "duration": 7.121
+    },
+    {
+      "text": "our esteemed leader in a project where",
+      "start": 67.119,
+      "duration": 6.241
+    },
+    {
+      "text": "we are matching up science uh students",
+      "start": 70.0,
+      "duration": 5.6
+    },
+    {
+      "text": "with media and comm students or art",
+      "start": 73.36,
+      "duration": 4.799
+    },
+    {
+      "text": "students um as a way of helping the",
+      "start": 75.6,
+      "duration": 4.24
+    },
+    {
+      "text": "science students practice their",
+      "start": 78.159,
+      "duration": 3.6
+    },
+    {
+      "text": "communication skills about their",
+      "start": 79.84,
+      "duration": 3.52
+    },
+    {
+      "text": "projects and communicating to an",
+      "start": 81.759,
+      "duration": 3.201
+    },
+    {
+      "text": "audience what they're doing and what",
+      "start": 83.36,
+      "duration": 4.16
+    },
+    {
+      "text": "their experiences are in their capstone",
+      "start": 84.96,
+      "duration": 4.08
+    },
+    {
+      "text": "unit. and with the media and",
+      "start": 87.52,
+      "duration": 3.68
+    },
+    {
+      "text": "communication students and art students,",
+      "start": 89.04,
+      "duration": 5.119
+    },
+    {
+      "text": "writing students, um learning how to um",
+      "start": 91.2,
+      "duration": 4.879
+    },
+    {
+      "text": "interview and make that into a podcast.",
+      "start": 94.159,
+      "duration": 4.561
+    },
+    {
+      "text": "Now, that's not the only thing um that",
+      "start": 96.079,
+      "duration": 5.121
+    },
+    {
+      "text": "this that this session is about. Um this",
+      "start": 98.72,
+      "duration": 4.56
+    },
+    {
+      "text": "is also for people that want to learn a",
+      "start": 101.2,
+      "duration": 3.36
+    },
+    {
+      "text": "little bit more about podcasting. you",
+      "start": 103.28,
+      "duration": 3.519
+    },
+    {
+      "text": "might have an idea for a podcast, but we",
+      "start": 104.56,
+      "duration": 4.48
+    },
+    {
+      "text": "um certainly are keen to get people",
+      "start": 106.799,
+      "duration": 5.121
+    },
+    {
+      "text": "pairing up um in uh after this session",
+      "start": 109.04,
+      "duration": 4.8
+    },
+    {
+      "text": "if they want to practice those skills by",
+      "start": 111.92,
+      "duration": 3.92
+    },
+    {
+      "text": "um helping our science students",
+      "start": 113.84,
+      "duration": 4.8
+    },
+    {
+      "text": "articulate their uh particular projects",
+      "start": 115.84,
+      "duration": 5.68
+    },
+    {
+      "text": "in the capstone unit through their u",
+      "start": 118.64,
+      "duration": 4.799
+    },
+    {
+      "text": "through a podcast. Bea, did you want to",
+      "start": 121.52,
+      "duration": 3.44
+    },
+    {
+      "text": "say anything more about that amazing",
+      "start": 123.439,
+      "duration": 3.761
+    },
+    {
+      "text": "project that you've um come up with?",
+      "start": 124.96,
+      "duration": 4.079
+    },
+    {
+      "text": ">> Thank you so much, Carolene, and thank",
+      "start": 127.2,
+      "duration": 3.679
+    },
+    {
+      "text": "you for these uh beautiful",
+      "start": 129.039,
+      "duration": 4.081
+    },
+    {
+      "text": "acknowledgements to the country. I guess",
+      "start": 130.879,
+      "duration": 4.401
+    },
+    {
+      "text": "I just want to emphasize that we are",
+      "start": 133.12,
+      "duration": 5.36
+    },
+    {
+      "text": "just a passionate educators who are uh",
+      "start": 135.28,
+      "duration": 5.679
+    },
+    {
+      "text": "keen to support and empower our",
+      "start": 138.48,
+      "duration": 6.08
+    },
+    {
+      "text": "students. So observing the gap skill and",
+      "start": 140.959,
+      "duration": 6.081
+    },
+    {
+      "text": "thinking about the future and the",
+      "start": 144.56,
+      "duration": 5.6
+    },
+    {
+      "text": "potential jobs that uh you might uh want",
+      "start": 147.04,
+      "duration": 6.8
+    },
+    {
+      "text": "to follow in future and because we also",
+      "start": 150.16,
+      "duration": 6.159
+    },
+    {
+      "text": "considering that we are keen uh",
+      "start": 153.84,
+      "duration": 4.96
+    },
+    {
+      "text": "collaboration not just between educators",
+      "start": 156.319,
+      "duration": 5.28
+    },
+    {
+      "text": "of course uh we always consider our",
+      "start": 158.8,
+      "duration": 5.36
+    },
+    {
+      "text": "students as our partners. So uh coming",
+      "start": 161.599,
+      "duration": 5.041
+    },
+    {
+      "text": "with this multid-disciplinary type of a",
+      "start": 164.16,
+      "duration": 4.88
+    },
+    {
+      "text": "project uh providing this opportunity",
+      "start": 166.64,
+      "duration": 5.76
+    },
+    {
+      "text": "and facilitating this training for our",
+      "start": 169.04,
+      "duration": 5.839
+    },
+    {
+      "text": "students to meet each other and to apply",
+      "start": 172.4,
+      "duration": 5.44
+    },
+    {
+      "text": "their knowledge and skills to uh support",
+      "start": 174.879,
+      "duration": 6.161
+    },
+    {
+      "text": "each each other. That's an exciting",
+      "start": 177.84,
+      "duration": 5.039
+    },
+    {
+      "text": "journey that we are going to start with",
+      "start": 181.04,
+      "duration": 5.04
+    },
+    {
+      "text": "each other. And of course uh as Caroline",
+      "start": 182.879,
+      "duration": 5.921
+    },
+    {
+      "text": "mentioned this is beneficial to our STEM",
+      "start": 186.08,
+      "duration": 5.439
+    },
+    {
+      "text": "students who are unpacking a real",
+      "start": 188.8,
+      "duration": 6.079
+    },
+    {
+      "text": "challenge uh problem and how they can",
+      "start": 191.519,
+      "duration": 5.281
+    },
+    {
+      "text": "communicate their science and how they",
+      "start": 194.879,
+      "duration": 4.801
+    },
+    {
+      "text": "practice the outcome and uh share that",
+      "start": 196.8,
+      "duration": 4.88
+    },
+    {
+      "text": "knowledge with the broader audience.",
+      "start": 199.68,
+      "duration": 5.12
+    },
+    {
+      "text": "also for our media communication to see",
+      "start": 201.68,
+      "duration": 5.6
+    },
+    {
+      "text": "the impact of the research in a STEM",
+      "start": 204.8,
+      "duration": 5.439
+    },
+    {
+      "text": "area and how that can inspire the",
+      "start": 207.28,
+      "duration": 5.36
+    },
+    {
+      "text": "community and the society for some",
+      "start": 210.239,
+      "duration": 5.441
+    },
+    {
+      "text": "require actions something like climate",
+      "start": 212.64,
+      "duration": 5.28
+    },
+    {
+      "text": "change. What would do we need uh to",
+      "start": 215.68,
+      "duration": 5.36
+    },
+    {
+      "text": "expect our community to consider as I",
+      "start": 217.92,
+      "duration": 5.679
+    },
+    {
+      "text": "believe the um community knowledge is a",
+      "start": 221.04,
+      "duration": 5.279
+    },
+    {
+      "text": "powerful source but we need we all",
+      "start": 223.599,
+      "duration": 5.761
+    },
+    {
+      "text": "together we need to act on it. So I",
+      "start": 226.319,
+      "duration": 5.761
+    },
+    {
+      "text": "believe and I think this exciting",
+      "start": 229.36,
+      "duration": 6.64
+    },
+    {
+      "text": "journey started um uh with us. So it's",
+      "start": 232.08,
+      "duration": 7.76
+    },
+    {
+      "text": "going to provide an um a useful",
+      "start": 236.0,
+      "duration": 8.4
+    },
+    {
+      "text": "informative um archive podcast for a",
+      "start": 239.84,
+      "duration": 7.52
+    },
+    {
+      "text": "future of the capstone project students",
+      "start": 244.4,
+      "duration": 6.72
+    },
+    {
+      "text": "or media communication to um see how",
+      "start": 247.36,
+      "duration": 7.92
+    },
+    {
+      "text": "they can um use of their knowledge and",
+      "start": 251.12,
+      "duration": 5.92
+    },
+    {
+      "text": "uh you know any challenges, any",
+      "start": 255.28,
+      "duration": 5.84
+    },
+    {
+      "text": "successes or any ideas to do the better",
+      "start": 257.04,
+      "duration": 6.24
+    },
+    {
+      "text": "um experience during the capstone",
+      "start": 261.12,
+      "duration": 5.28
+    },
+    {
+      "text": "projects and yeah that is all I can say",
+      "start": 263.28,
+      "duration": 5.28
+    },
+    {
+      "text": "right now and I'm so excited. Thank you",
+      "start": 266.4,
+      "duration": 2.88
+    },
+    {
+      "text": "Carolyn.",
+      "start": 268.56,
+      "duration": 2.96
+    },
+    {
+      "text": ">> Terrific beta. Beautifully said. So just",
+      "start": 269.28,
+      "duration": 4.24
+    },
+    {
+      "text": "a reminder if anyone here wants to",
+      "start": 271.52,
+      "duration": 4.0
+    },
+    {
+      "text": "participate in that project where you're",
+      "start": 273.52,
+      "duration": 3.6
+    },
+    {
+      "text": "working with a science student to",
+      "start": 275.52,
+      "duration": 3.28
+    },
+    {
+      "text": "interview them and make a podcast then",
+      "start": 277.12,
+      "duration": 4.4
+    },
+    {
+      "text": "you can just flip me an email and we can",
+      "start": 278.8,
+      "duration": 4.32
+    },
+    {
+      "text": "um move that forward. But we're",
+      "start": 281.52,
+      "duration": 3.36
+    },
+    {
+      "text": "appreciating that some of you are here",
+      "start": 283.12,
+      "duration": 4.079
+    },
+    {
+      "text": "today also",
+      "start": 284.88,
+      "duration": 5.28
+    },
+    {
+      "text": "just to learn about podcasting. So it's",
+      "start": 287.199,
+      "duration": 6.161
+    },
+    {
+      "text": "a double barrel exciting um session. So,",
+      "start": 290.16,
+      "duration": 4.64
+    },
+    {
+      "text": "we'll jump on in then and talk a little",
+      "start": 293.36,
+      "duration": 3.36
+    },
+    {
+      "text": "bit about what a podcast is. Now, I'm",
+      "start": 294.8,
+      "duration": 3.44
+    },
+    {
+      "text": "going to talk for about half an hour.",
+      "start": 296.72,
+      "duration": 3.199
+    },
+    {
+      "text": "Um, just give a little bit of structure",
+      "start": 298.24,
+      "duration": 3.84
+    },
+    {
+      "text": "around what podcasts commonly do. I've",
+      "start": 299.919,
+      "duration": 3.84
+    },
+    {
+      "text": "gloriously stolen some material from my",
+      "start": 302.08,
+      "duration": 3.28
+    },
+    {
+      "text": "amazing colleagues Corey Martin and",
+      "start": 303.759,
+      "duration": 4.801
+    },
+    {
+      "text": "Jamie who have um provided some videos",
+      "start": 305.36,
+      "duration": 5.92
+    },
+    {
+      "text": "as well as additional support for you if",
+      "start": 308.56,
+      "duration": 4.88
+    },
+    {
+      "text": "you want to know a little bit more about",
+      "start": 311.28,
+      "duration": 3.919
+    },
+    {
+      "text": "um some of the production processes and",
+      "start": 313.44,
+      "duration": 4.0
+    },
+    {
+      "text": "some of the um you know the ways you can",
+      "start": 315.199,
+      "duration": 4.081
+    },
+    {
+      "text": "position a podcast and some of the techy",
+      "start": 317.44,
+      "duration": 3.92
+    },
+    {
+      "text": "stuff. And then we will have um fabulous",
+      "start": 319.28,
+      "duration": 3.759
+    },
+    {
+      "text": "colleague from learning transformation",
+      "start": 321.36,
+      "duration": 4.24
+    },
+    {
+      "text": "who is an Adobe coach run us through how",
+      "start": 323.039,
+      "duration": 5.521
+    },
+    {
+      "text": "to use Adobe Audition. So um nothing",
+      "start": 325.6,
+      "duration": 4.64
+    },
+    {
+      "text": "required of you in terms of pairing you",
+      "start": 328.56,
+      "duration": 4.32
+    },
+    {
+      "text": "up right now. Um sit back, enjoy, ask",
+      "start": 330.24,
+      "duration": 5.44
+    },
+    {
+      "text": "lots of questions and hopefully jot down",
+      "start": 332.88,
+      "duration": 5.28
+    },
+    {
+      "text": "lots of good ideas for you to use later.",
+      "start": 335.68,
+      "duration": 4.959
+    },
+    {
+      "text": "So what is a podcast? So a podcast is a",
+      "start": 338.16,
+      "duration": 4.879
+    },
+    {
+      "text": "series of spoken word audio episodes",
+      "start": 340.639,
+      "duration": 4.641
+    },
+    {
+      "text": "focused on a particular topic or theme.",
+      "start": 343.039,
+      "duration": 5.6
+    },
+    {
+      "text": "So it tends to be about one particular",
+      "start": 345.28,
+      "duration": 7.359
+    },
+    {
+      "text": "um one particular process idea topic or",
+      "start": 348.639,
+      "duration": 6.721
+    },
+    {
+      "text": "a particular um discipline or a domain",
+      "start": 352.639,
+      "duration": 4.721
+    },
+    {
+      "text": "or a particular area of research. So",
+      "start": 355.36,
+      "duration": 3.44
+    },
+    {
+      "text": "some of you might be here because you",
+      "start": 357.36,
+      "duration": 4.24
+    },
+    {
+      "text": "want to make a podcast series about your",
+      "start": 358.8,
+      "duration": 5.04
+    },
+    {
+      "text": "discipline that just happens to be you",
+      "start": 361.6,
+      "duration": 4.319
+    },
+    {
+      "text": "know um centering on your area of",
+      "start": 363.84,
+      "duration": 3.84
+    },
+    {
+      "text": "research. So you might want to do a",
+      "start": 365.919,
+      "duration": 3.681
+    },
+    {
+      "text": "podcast around creative writing or you",
+      "start": 367.68,
+      "duration": 4.239
+    },
+    {
+      "text": "might want to do a podcast around um",
+      "start": 369.6,
+      "duration": 3.68
+    },
+    {
+      "text": "learning and teaching whatever it is",
+      "start": 371.919,
+      "duration": 3.28
+    },
+    {
+      "text": "that you're particularly interested in.",
+      "start": 373.28,
+      "duration": 4.16
+    },
+    {
+      "text": "And a lot of the time um we do hear",
+      "start": 375.199,
+      "duration": 5.12
+    },
+    {
+      "text": "about um we we use the word podcast and",
+      "start": 377.44,
+      "duration": 4.24
+    },
+    {
+      "text": "we might be talking about a kind of",
+      "start": 380.319,
+      "duration": 3.841
+    },
+    {
+      "text": "singular audio experience like a feature",
+      "start": 381.68,
+      "duration": 4.959
+    },
+    {
+      "text": "a kind of doc audio documentary. Um that",
+      "start": 384.16,
+      "duration": 4.56
+    },
+    {
+      "text": "is technically not a podcast but look",
+      "start": 386.639,
+      "duration": 4.241
+    },
+    {
+      "text": "it's interchangeable language right? So,",
+      "start": 388.72,
+      "duration": 4.16
+    },
+    {
+      "text": "the idea of a podcast generally is that",
+      "start": 390.88,
+      "duration": 4.159
+    },
+    {
+      "text": "it's a series of some sort, but you",
+      "start": 392.88,
+      "duration": 3.92
+    },
+    {
+      "text": "could use this session to also record",
+      "start": 395.039,
+      "duration": 4.801
+    },
+    {
+      "text": "your own um your own one-off episode or",
+      "start": 396.8,
+      "duration": 4.399
+    },
+    {
+      "text": "something or your own um little",
+      "start": 399.84,
+      "duration": 3.919
+    },
+    {
+      "text": "documentary or your own um record your",
+      "start": 401.199,
+      "duration": 4.56
+    },
+    {
+      "text": "own work or writing or performance if",
+      "start": 403.759,
+      "duration": 5.201
+    },
+    {
+      "text": "you like. So, you can use a script or uh",
+      "start": 405.759,
+      "duration": 5.681
+    },
+    {
+      "text": "talking points or questions to make it",
+      "start": 408.96,
+      "duration": 4.4
+    },
+    {
+      "text": "to make you feel prepared when you are",
+      "start": 411.44,
+      "duration": 4.479
+    },
+    {
+      "text": "undertaking a podcast um production and",
+      "start": 413.36,
+      "duration": 4.399
+    },
+    {
+      "text": "getting that ready. But the idea is that",
+      "start": 415.919,
+      "duration": 3.601
+    },
+    {
+      "text": "they are conversational. So, you don't",
+      "start": 417.759,
+      "duration": 3.601
+    },
+    {
+      "text": "want to have your podcast be sounding",
+      "start": 419.52,
+      "duration": 3.44
+    },
+    {
+      "text": "too stiff and formal. It's not a",
+      "start": 421.36,
+      "duration": 3.36
+    },
+    {
+      "text": "lecture. Not that our lectures are stiff",
+      "start": 422.96,
+      "duration": 4.0
+    },
+    {
+      "text": "and formal, right, beta? But, you know,",
+      "start": 424.72,
+      "duration": 4.96
+    },
+    {
+      "text": "it's meant a conversation is um a",
+      "start": 426.96,
+      "duration": 4.56
+    },
+    {
+      "text": "podcast is meant to be engaging to",
+      "start": 429.68,
+      "duration": 3.359
+    },
+    {
+      "text": "listen to a little bit more",
+      "start": 431.52,
+      "duration": 3.44
+    },
+    {
+      "text": "traditionally aligned with how radio",
+      "start": 433.039,
+      "duration": 3.841
+    },
+    {
+      "text": "would sound. So, you want to keep it",
+      "start": 434.96,
+      "duration": 5.44
+    },
+    {
+      "text": "conversational. Now, there are two main",
+      "start": 436.88,
+      "duration": 5.039
+    },
+    {
+      "text": "groups that we're going to put podcast",
+      "start": 440.4,
+      "duration": 4.239
+    },
+    {
+      "text": "in today. They are narrativebased and",
+      "start": 441.919,
+      "duration": 4.801
+    },
+    {
+      "text": "interview based. Now they can cross over",
+      "start": 444.639,
+      "duration": 4.081
+    },
+    {
+      "text": "but narrative based podcasts are when",
+      "start": 446.72,
+      "duration": 4.0
+    },
+    {
+      "text": "you are focused on telling the story of",
+      "start": 448.72,
+      "duration": 4.08
+    },
+    {
+      "text": "something. So you can think of something",
+      "start": 450.72,
+      "duration": 6.479
+    },
+    {
+      "text": "like this podcast series serial or um",
+      "start": 452.8,
+      "duration": 6.959
+    },
+    {
+      "text": "America this American life or there's",
+      "start": 457.199,
+      "duration": 5.361
+    },
+    {
+      "text": "multiple true crime um podcast around",
+      "start": 459.759,
+      "duration": 5.041
+    },
+    {
+      "text": "where you're unpacking over a number of",
+      "start": 462.56,
+      "duration": 4.96
+    },
+    {
+      "text": "episodes a particular story and you may",
+      "start": 464.8,
+      "duration": 5.44
+    },
+    {
+      "text": "not actually be having other people um",
+      "start": 467.52,
+      "duration": 4.88
+    },
+    {
+      "text": "in that other than you. You may not be",
+      "start": 470.24,
+      "duration": 4.079
+    },
+    {
+      "text": "having interviews from other people, but",
+      "start": 472.4,
+      "duration": 4.16
+    },
+    {
+      "text": "you may include a couple of interviews",
+      "start": 474.319,
+      "duration": 5.521
+    },
+    {
+      "text": "as uh good sound bites or you may in a",
+      "start": 476.56,
+      "duration": 5.52
+    },
+    {
+      "text": "narrative-based podcast actually have a",
+      "start": 479.84,
+      "duration": 4.32
+    },
+    {
+      "text": "fair few interviews. So, it's up to you.",
+      "start": 482.08,
+      "duration": 5.28
+    },
+    {
+      "text": "That form is very flexible. Um so, the",
+      "start": 484.16,
+      "duration": 4.96
+    },
+    {
+      "text": "other option, the other more common one,",
+      "start": 487.36,
+      "duration": 3.44
+    },
+    {
+      "text": "which is the one we'll be looking a",
+      "start": 489.12,
+      "duration": 4.32
+    },
+    {
+      "text": "little bit more um closely at today, is",
+      "start": 490.8,
+      "duration": 5.44
+    },
+    {
+      "text": "a interviewbased podcast. And usually",
+      "start": 493.44,
+      "duration": 4.879
+    },
+    {
+      "text": "that's when um you are interviewing",
+      "start": 496.24,
+      "duration": 3.84
+    },
+    {
+      "text": "someone different every week or a couple",
+      "start": 498.319,
+      "duration": 3.44
+    },
+    {
+      "text": "of different people around a different",
+      "start": 500.08,
+      "duration": 4.48
+    },
+    {
+      "text": "topic every week and you you're kind of",
+      "start": 501.759,
+      "duration": 4.88
+    },
+    {
+      "text": "really focusing on that interview. That",
+      "start": 504.56,
+      "duration": 3.919
+    },
+    {
+      "text": "is the main part of it. It's not about",
+      "start": 506.639,
+      "duration": 4.0
+    },
+    {
+      "text": "you and your work. It's about you",
+      "start": 508.479,
+      "duration": 4.321
+    },
+    {
+      "text": "engaging with someone who's an expert in",
+      "start": 510.639,
+      "duration": 4.481
+    },
+    {
+      "text": "the field or an expert in a lived",
+      "start": 512.8,
+      "duration": 6.0
+    },
+    {
+      "text": "experience in some way. Uh, and the idea",
+      "start": 515.12,
+      "duration": 5.68
+    },
+    {
+      "text": "of a podcast too is that they really",
+      "start": 518.8,
+      "duration": 4.479
+    },
+    {
+      "text": "make really good use of music um and",
+      "start": 520.8,
+      "duration": 4.96
+    },
+    {
+      "text": "sound effects as transitions between",
+      "start": 523.279,
+      "duration": 4.801
+    },
+    {
+      "text": "discussions between scenes. If it's like",
+      "start": 525.76,
+      "duration": 4.079
+    },
+    {
+      "text": "a narrative, if it's like a radio play",
+      "start": 528.08,
+      "duration": 5.759
+    },
+    {
+      "text": "style story or um if it's a set of",
+      "start": 529.839,
+      "duration": 7.041
+    },
+    {
+      "text": "interviews, you may have a a particular",
+      "start": 533.839,
+      "duration": 5.921
+    },
+    {
+      "text": "sound come or a music clip come back to",
+      "start": 536.88,
+      "duration": 4.959
+    },
+    {
+      "text": "signal you're shifting into a different",
+      "start": 539.76,
+      "duration": 4.639
+    },
+    {
+      "text": "section of the podcast. They have theme",
+      "start": 541.839,
+      "duration": 4.641
+    },
+    {
+      "text": "music which may be the same across all",
+      "start": 544.399,
+      "duration": 5.44
+    },
+    {
+      "text": "the episodes but it could change",
+      "start": 546.48,
+      "duration": 6.32
+    },
+    {
+      "text": "according to what the episode's feel is.",
+      "start": 549.839,
+      "duration": 4.881
+    },
+    {
+      "text": "So the use of music is really exciting",
+      "start": 552.8,
+      "duration": 4.4
+    },
+    {
+      "text": "sound effects. Um and in terms of the",
+      "start": 554.72,
+      "duration": 4.0
+    },
+    {
+      "text": "duration well they vary between around",
+      "start": 557.2,
+      "duration": 3.68
+    },
+    {
+      "text": "10 minutes to an hour. Sometimes they",
+      "start": 558.72,
+      "duration": 3.76
+    },
+    {
+      "text": "can be longer but the idea is that it's",
+      "start": 560.88,
+      "duration": 4.0
+    },
+    {
+      "text": "as long as they need to be. Um, if you",
+      "start": 562.48,
+      "duration": 4.96
+    },
+    {
+      "text": "are doing something like having um",
+      "start": 564.88,
+      "duration": 6.399
+    },
+    {
+      "text": "sponsorship built in or um using um more",
+      "start": 567.44,
+      "duration": 6.0
+    },
+    {
+      "text": "of a uh having more of a corporate",
+      "start": 571.279,
+      "duration": 4.321
+    },
+    {
+      "text": "influence, you might want to have a",
+      "start": 573.44,
+      "duration": 3.839
+    },
+    {
+      "text": "particular time length so that your",
+      "start": 575.6,
+      "duration": 4.48
+    },
+    {
+      "text": "sponsors so that your advertisers um are",
+      "start": 577.279,
+      "duration": 4.641
+    },
+    {
+      "text": "able to see this as an investable",
+      "start": 580.08,
+      "duration": 4.0
+    },
+    {
+      "text": "package a little bit more. But for our",
+      "start": 581.92,
+      "duration": 4.0
+    },
+    {
+      "text": "purpose, you know, we can say it's",
+      "start": 584.08,
+      "duration": 4.64
+    },
+    {
+      "text": "whatever length it needs to be. So, in",
+      "start": 585.92,
+      "duration": 5.039
+    },
+    {
+      "text": "terms of the structure of a podcast, um,",
+      "start": 588.72,
+      "duration": 4.0
+    },
+    {
+      "text": "and I'm I'm going to talk mainly about",
+      "start": 590.959,
+      "duration": 3.681
+    },
+    {
+      "text": "the interview style one now. And, um,",
+      "start": 592.72,
+      "duration": 3.679
+    },
+    {
+      "text": "Bea's communication project is an",
+      "start": 594.64,
+      "duration": 3.199
+    },
+    {
+      "text": "excellent example of an interview",
+      "start": 596.399,
+      "duration": 3.841
+    },
+    {
+      "text": "focused one. Um, so I'll talk about",
+      "start": 597.839,
+      "duration": 4.401
+    },
+    {
+      "text": "that, but I also just want to mention if",
+      "start": 600.24,
+      "duration": 3.52
+    },
+    {
+      "text": "you have questions, feel free just to",
+      "start": 602.24,
+      "duration": 3.84
+    },
+    {
+      "text": "toss them in the chat as we go along.",
+      "start": 603.76,
+      "duration": 5.519
+    },
+    {
+      "text": "Um, very very capable of at talking, uh,",
+      "start": 606.08,
+      "duration": 5.28
+    },
+    {
+      "text": "lecturing and answering chat at the same",
+      "start": 609.279,
+      "duration": 5.441
+    },
+    {
+      "text": "time these days. Um, so what does a the",
+      "start": 611.36,
+      "duration": 5.52
+    },
+    {
+      "text": "structure of a typical interviewbased",
+      "start": 614.72,
+      "duration": 4.08
+    },
+    {
+      "text": "podcast look like? I'm going to deviate",
+      "start": 616.88,
+      "duration": 3.6
+    },
+    {
+      "text": "off a little bit in some of those points",
+      "start": 618.8,
+      "duration": 4.0
+    },
+    {
+      "text": "to also cover narrative as well. So",
+      "start": 620.48,
+      "duration": 4.64
+    },
+    {
+      "text": "you'll find um a good example is Damian",
+      "start": 622.8,
+      "duration": 5.44
+    },
+    {
+      "text": "Omera's um Has Damian works with us in",
+      "start": 625.12,
+      "duration": 5.04
+    },
+    {
+      "text": "media and communication. He's a PhD",
+      "start": 628.24,
+      "duration": 4.4
+    },
+    {
+      "text": "student. He's done a terrific um podcast",
+      "start": 630.16,
+      "duration": 5.119
+    },
+    {
+      "text": "series around um uh humanities, arts,",
+      "start": 632.64,
+      "duration": 4.56
+    },
+    {
+      "text": "and social sciences. So I've included",
+      "start": 635.279,
+      "duration": 4.161
+    },
+    {
+      "text": "that there and I will pop it in the chat",
+      "start": 637.2,
+      "duration": 5.04
+    },
+    {
+      "text": "in a moment as well. So if you listen to",
+      "start": 639.44,
+      "duration": 4.72
+    },
+    {
+      "text": "his, you'll find it follows this typical",
+      "start": 642.24,
+      "duration": 3.76
+    },
+    {
+      "text": "structure. He's got some opening music",
+      "start": 644.16,
+      "duration": 3.84
+    },
+    {
+      "text": "in here. So it's something that kind of",
+      "start": 646.0,
+      "duration": 4.0
+    },
+    {
+      "text": "captures the vibe or the feel of what",
+      "start": 648.0,
+      "duration": 4.88
+    },
+    {
+      "text": "the content is. And then he'll move in",
+      "start": 650.0,
+      "duration": 4.88
+    },
+    {
+      "text": "quite quickly to give a welcome and an",
+      "start": 652.88,
+      "duration": 4.079
+    },
+    {
+      "text": "introduction and that is where you are",
+      "start": 654.88,
+      "duration": 4.24
+    },
+    {
+      "text": "telling us what the podcast is about,",
+      "start": 656.959,
+      "duration": 4.0
+    },
+    {
+      "text": "who you'll be talking to in that episode",
+      "start": 659.12,
+      "duration": 4.719
+    },
+    {
+      "text": "or what the topic of that episode is and",
+      "start": 660.959,
+      "duration": 5.041
+    },
+    {
+      "text": "what you will be discussing. So, um",
+      "start": 663.839,
+      "duration": 4.321
+    },
+    {
+      "text": "it'll be a little bit of a of a one",
+      "start": 666.0,
+      "duration": 4.48
+    },
+    {
+      "text": "person talking and giving a bit of a",
+      "start": 668.16,
+      "duration": 4.4
+    },
+    {
+      "text": "teaser about what's going to happen in",
+      "start": 670.48,
+      "duration": 4.88
+    },
+    {
+      "text": "the rest of the podcast. And then, um",
+      "start": 672.56,
+      "duration": 4.959
+    },
+    {
+      "text": "you might give a a little bit of",
+      "start": 675.36,
+      "duration": 4.479
+    },
+    {
+      "text": "background or information to the topic",
+      "start": 677.519,
+      "duration": 4.481
+    },
+    {
+      "text": "in a little bit more detail about what",
+      "start": 679.839,
+      "duration": 4.401
+    },
+    {
+      "text": "your guest is going to be talking about.",
+      "start": 682.0,
+      "duration": 3.839
+    },
+    {
+      "text": "So, you can merge those two or you can",
+      "start": 684.24,
+      "duration": 4.0
+    },
+    {
+      "text": "have them um separate points there. And",
+      "start": 685.839,
+      "duration": 4.641
+    },
+    {
+      "text": "then you move into the interview. Uh and",
+      "start": 688.24,
+      "duration": 3.44
+    },
+    {
+      "text": "remembering you're going to be doing",
+      "start": 690.48,
+      "duration": 3.68
+    },
+    {
+      "text": "that conversationally. And if it's an",
+      "start": 691.68,
+      "duration": 4.64
+    },
+    {
+      "text": "interview, you might start um start",
+      "start": 694.16,
+      "duration": 4.0
+    },
+    {
+      "text": "telling your story, give some background",
+      "start": 696.32,
+      "duration": 3.92
+    },
+    {
+      "text": "of your story, and then weave in",
+      "start": 698.16,
+      "duration": 4.4
+    },
+    {
+      "text": "interviews as needed as the story",
+      "start": 700.24,
+      "duration": 4.88
+    },
+    {
+      "text": "progresses. Um and you think of the",
+      "start": 702.56,
+      "duration": 4.56
+    },
+    {
+      "text": "podcast Serial is a great example of",
+      "start": 705.12,
+      "duration": 4.88
+    },
+    {
+      "text": "that where you've got interviews with um",
+      "start": 707.12,
+      "duration": 5.2
+    },
+    {
+      "text": "judges and lawyers and family members.",
+      "start": 710.0,
+      "duration": 4.72
+    },
+    {
+      "text": "And you also have a narrator who tells",
+      "start": 712.32,
+      "duration": 5.28
+    },
+    {
+      "text": "us um what's happened in what the story",
+      "start": 714.72,
+      "duration": 5.28
+    },
+    {
+      "text": "is and bridges the gap between the",
+      "start": 717.6,
+      "duration": 5.679
+    },
+    {
+      "text": "interviewees comments. So if it's a",
+      "start": 720.0,
+      "duration": 5.04
+    },
+    {
+      "text": "traditional interview style, you'd be",
+      "start": 723.279,
+      "duration": 4.641
+    },
+    {
+      "text": "then um moving into talking in depth",
+      "start": 725.04,
+      "duration": 5.28
+    },
+    {
+      "text": "with your interviewee, asking question,",
+      "start": 727.92,
+      "duration": 4.64
+    },
+    {
+      "text": "having them answer and you you know",
+      "start": 730.32,
+      "duration": 4.56
+    },
+    {
+      "text": "having a conversation about that and",
+      "start": 732.56,
+      "duration": 4.399
+    },
+    {
+      "text": "then after that's done and that that may",
+      "start": 734.88,
+      "duration": 4.8
+    },
+    {
+      "text": "go for um you might ask end up asking",
+      "start": 736.959,
+      "duration": 4.961
+    },
+    {
+      "text": "six questions, eight questions depending",
+      "start": 739.68,
+      "duration": 4.0
+    },
+    {
+      "text": "on how long it is. I find I get through",
+      "start": 741.92,
+      "duration": 4.08
+    },
+    {
+      "text": "about six to eight in an hour. So you",
+      "start": 743.68,
+      "duration": 4.64
+    },
+    {
+      "text": "know you might want to um it'll be I",
+      "start": 746.0,
+      "duration": 4.32
+    },
+    {
+      "text": "guess practice. it'll help you work out",
+      "start": 748.32,
+      "duration": 5.28
+    },
+    {
+      "text": "how how long they go for. Um and then",
+      "start": 750.32,
+      "duration": 5.04
+    },
+    {
+      "text": "wrapping it up, thanking the guest and",
+      "start": 753.6,
+      "duration": 3.6
+    },
+    {
+      "text": "giving it a bit of an insight into",
+      "start": 755.36,
+      "duration": 3.84
+    },
+    {
+      "text": "what's happening in the next episode if",
+      "start": 757.2,
+      "duration": 5.6
+    },
+    {
+      "text": "you can. So um the class one, the first",
+      "start": 759.2,
+      "duration": 5.439
+    },
+    {
+      "text": "u guest was Katherine Hartung, Dr.",
+      "start": 762.8,
+      "duration": 3.839
+    },
+    {
+      "text": "Katherine Hartung. So do have a listen",
+      "start": 764.639,
+      "duration": 3.841
+    },
+    {
+      "text": "to that. That is that will give you an",
+      "start": 766.639,
+      "duration": 4.401
+    },
+    {
+      "text": "indication of this structure. Um, I",
+      "start": 768.48,
+      "duration": 4.24
+    },
+    {
+      "text": "won't play it for you because, you know,",
+      "start": 771.04,
+      "duration": 3.12
+    },
+    {
+      "text": "you've we've got other stuff to cover",
+      "start": 772.72,
+      "duration": 3.28
+    },
+    {
+      "text": "and you might want to listen to that in",
+      "start": 774.16,
+      "duration": 3.76
+    },
+    {
+      "text": "in the nice and quiet of your own time",
+      "start": 776.0,
+      "duration": 4.16
+    },
+    {
+      "text": "with a nice glass glass of Coca-Cola or",
+      "start": 777.92,
+      "duration": 5.12
+    },
+    {
+      "text": "or wine in your hand. Um, so",
+      "start": 780.16,
+      "duration": 5.919
+    },
+    {
+      "text": "interviewing, this is a skill that um",
+      "start": 783.04,
+      "duration": 5.599
+    },
+    {
+      "text": "comes often doesn't come naturally to",
+      "start": 786.079,
+      "duration": 4.081
+    },
+    {
+      "text": "people. You have to practice it a little",
+      "start": 788.639,
+      "duration": 3.2
+    },
+    {
+      "text": "bit. Even, you know, journalists that",
+      "start": 790.16,
+      "duration": 3.28
+    },
+    {
+      "text": "have won multiple awards for",
+      "start": 791.839,
+      "duration": 4.081
+    },
+    {
+      "text": "interviewing still started out doing",
+      "start": 793.44,
+      "duration": 4.399
+    },
+    {
+      "text": "some very tentative, slightly awkward",
+      "start": 795.92,
+      "duration": 4.08
+    },
+    {
+      "text": "interviews. That's quite normal. So, um,",
+      "start": 797.839,
+      "duration": 3.761
+    },
+    {
+      "text": "that's why it's fun to start practicing",
+      "start": 800.0,
+      "duration": 4.0
+    },
+    {
+      "text": "them as soon as you can. So, um, there's",
+      "start": 801.6,
+      "duration": 4.479
+    },
+    {
+      "text": "a few guides for interviewing. I've got",
+      "start": 804.0,
+      "duration": 4.32
+    },
+    {
+      "text": "a quick one that I use, which is just",
+      "start": 806.079,
+      "duration": 4.56
+    },
+    {
+      "text": "really simple for me in my head. I",
+      "start": 808.32,
+      "duration": 5.6
+    },
+    {
+      "text": "always start off, and I I'm going to say",
+      "start": 810.639,
+      "duration": 5.281
+    },
+    {
+      "text": "that I start off here, but you can",
+      "start": 813.92,
+      "duration": 4.0
+    },
+    {
+      "text": "actually move the order of them around",
+      "start": 815.92,
+      "duration": 4.159
+    },
+    {
+      "text": "according to what the um the flow of the",
+      "start": 817.92,
+      "duration": 3.44
+    },
+    {
+      "text": "conversation is and according to what",
+      "start": 820.079,
+      "duration": 3.361
+    },
+    {
+      "text": "you want to cover. I usually start off",
+      "start": 821.36,
+      "duration": 6.08
+    },
+    {
+      "text": "with thinking or asking about why or why",
+      "start": 823.44,
+      "duration": 5.519
+    },
+    {
+      "text": "are you interested in this particular",
+      "start": 827.44,
+      "duration": 3.68
+    },
+    {
+      "text": "thing to my guest. How did you start?",
+      "start": 828.959,
+      "duration": 4.0
+    },
+    {
+      "text": "Where did you where you know how did you",
+      "start": 831.12,
+      "duration": 3.36
+    },
+    {
+      "text": "come to this? How did you get involved?",
+      "start": 832.959,
+      "duration": 3.601
+    },
+    {
+      "text": "What drew you into this particular",
+      "start": 834.48,
+      "duration": 4.24
+    },
+    {
+      "text": "project or this particular idea? So, I'm",
+      "start": 836.56,
+      "duration": 4.16
+    },
+    {
+      "text": "kind of thinking about in my head why",
+      "start": 838.72,
+      "duration": 3.76
+    },
+    {
+      "text": "this why this thing? Why are you",
+      "start": 840.72,
+      "duration": 3.6
+    },
+    {
+      "text": "interested in this? And then I might",
+      "start": 842.48,
+      "duration": 3.84
+    },
+    {
+      "text": "switch to asking questions more about",
+      "start": 844.32,
+      "duration": 4.4
+    },
+    {
+      "text": "what it actually is. Tell us about your",
+      "start": 846.32,
+      "duration": 4.16
+    },
+    {
+      "text": "project. Unpack it. That's what I'm",
+      "start": 848.72,
+      "duration": 3.52
+    },
+    {
+      "text": "thinking. unpack your project a little",
+      "start": 850.48,
+      "duration": 3.44
+    },
+    {
+      "text": "bit more. What are you trying to do with",
+      "start": 852.24,
+      "duration": 4.32
+    },
+    {
+      "text": "this project? And then I might think um",
+      "start": 853.92,
+      "duration": 4.64
+    },
+    {
+      "text": "move to asking a little bit more about",
+      "start": 856.56,
+      "duration": 4.32
+    },
+    {
+      "text": "who the project might help. So, oh that",
+      "start": 858.56,
+      "duration": 4.56
+    },
+    {
+      "text": "sounds great. Um who are the sorts of",
+      "start": 860.88,
+      "duration": 3.6
+    },
+    {
+      "text": "people that might benefit for your",
+      "start": 863.12,
+      "duration": 3.6
+    },
+    {
+      "text": "project or what sort of outcomes are you",
+      "start": 864.48,
+      "duration": 4.88
+    },
+    {
+      "text": "hoping to get or who are the people that",
+      "start": 866.72,
+      "duration": 4.799
+    },
+    {
+      "text": "you think might stand beside you and",
+      "start": 869.36,
+      "duration": 4.719
+    },
+    {
+      "text": "take up this cause? So, I'm asking um",
+      "start": 871.519,
+      "duration": 4.401
+    },
+    {
+      "text": "now more about the people and the",
+      "start": 874.079,
+      "duration": 3.44
+    },
+    {
+      "text": "influences and the impact of the",
+      "start": 875.92,
+      "duration": 4.159
+    },
+    {
+      "text": "project. And then somewhere in there,",
+      "start": 877.519,
+      "duration": 4.721
+    },
+    {
+      "text": "depending on how the conversation flows,",
+      "start": 880.079,
+      "duration": 3.841
+    },
+    {
+      "text": "I'll always cover some sort of",
+      "start": 882.24,
+      "duration": 3.839
+    },
+    {
+      "text": "challenge. So, oh, what were some of the",
+      "start": 883.92,
+      "duration": 4.24
+    },
+    {
+      "text": "obstacles? But I won't necessarily ask",
+      "start": 886.079,
+      "duration": 4.961
+    },
+    {
+      "text": "it that bluntly. I might might listen",
+      "start": 888.16,
+      "duration": 4.479
+    },
+    {
+      "text": "and hear that they've mentioned that it",
+      "start": 891.04,
+      "duration": 3.919
+    },
+    {
+      "text": "was hard to get funding. So, I'll say,",
+      "start": 892.639,
+      "duration": 4.481
+    },
+    {
+      "text": "oh, so how how did you get the funding?",
+      "start": 894.959,
+      "duration": 3.601
+    },
+    {
+      "text": "That must have been very challenging.",
+      "start": 897.12,
+      "duration": 3.519
+    },
+    {
+      "text": "What's some advice for people who may be",
+      "start": 898.56,
+      "duration": 4.16
+    },
+    {
+      "text": "facing the challenge of getting funding?",
+      "start": 900.639,
+      "duration": 4.0
+    },
+    {
+      "text": "So, I'm unpack and ask about the",
+      "start": 902.72,
+      "duration": 4.88
+    },
+    {
+      "text": "obstacles in some way. Um so that's",
+      "start": 904.639,
+      "duration": 6.0
+    },
+    {
+      "text": "really thinking about um challenges advi",
+      "start": 907.6,
+      "duration": 4.96
+    },
+    {
+      "text": "it's sort of a way of getting advice for",
+      "start": 910.639,
+      "duration": 5.361
+    },
+    {
+      "text": "other listeners as well. Uh and now for",
+      "start": 912.56,
+      "duration": 6.16
+    },
+    {
+      "text": "beta's science communication project um",
+      "start": 916.0,
+      "duration": 4.399
+    },
+    {
+      "text": "with those podcasts we're looking at",
+      "start": 918.72,
+      "duration": 4.32
+    },
+    {
+      "text": "something slightly more specific. So the",
+      "start": 920.399,
+      "duration": 5.12
+    },
+    {
+      "text": "sort of questions we might ask in her",
+      "start": 923.04,
+      "duration": 4.88
+    },
+    {
+      "text": "podcast series which is where we're uh",
+      "start": 925.519,
+      "duration": 4.56
+    },
+    {
+      "text": "talking to um science students about",
+      "start": 927.92,
+      "duration": 5.279
+    },
+    {
+      "text": "their experience in their capstone unit.",
+      "start": 930.079,
+      "duration": 4.88
+    },
+    {
+      "text": "We might ask something to start off",
+      "start": 933.199,
+      "duration": 3.521
+    },
+    {
+      "text": "with. What's your research about? Tell",
+      "start": 934.959,
+      "duration": 3.761
+    },
+    {
+      "text": "us about your research. And then we",
+      "start": 936.72,
+      "duration": 4.479
+    },
+    {
+      "text": "might move to um what are what do you do",
+      "start": 938.72,
+      "duration": 4.4
+    },
+    {
+      "text": "in your where do you do your research?",
+      "start": 941.199,
+      "duration": 3.76
+    },
+    {
+      "text": "Do you work in the lab? Do you work with",
+      "start": 943.12,
+      "duration": 4.079
+    },
+    {
+      "text": "statistics? Are you desk based? Just to",
+      "start": 944.959,
+      "duration": 4.481
+    },
+    {
+      "text": "draw that out. Now, they may cover that",
+      "start": 947.199,
+      "duration": 3.921
+    },
+    {
+      "text": "in the answer. And that's great. I don't",
+      "start": 949.44,
+      "duration": 3.92
+    },
+    {
+      "text": "have to cover that question then, but um",
+      "start": 951.12,
+      "duration": 5.2
+    },
+    {
+      "text": "what we're doing is listening for an",
+      "start": 953.36,
+      "duration": 4.479
+    },
+    {
+      "text": "opportunity to make sure that",
+      "start": 956.32,
+      "duration": 4.4
+    },
+    {
+      "text": "information comes out. And we might ask",
+      "start": 957.839,
+      "duration": 4.641
+    },
+    {
+      "text": "because they're science students that's",
+      "start": 960.72,
+      "duration": 3.679
+    },
+    {
+      "text": "in might be in a laboratory, what",
+      "start": 962.48,
+      "duration": 4.24
+    },
+    {
+      "text": "equipment do you use? And the idea of",
+      "start": 964.399,
+      "duration": 4.321
+    },
+    {
+      "text": "this for this particular project is to",
+      "start": 966.72,
+      "duration": 3.679
+    },
+    {
+      "text": "allow students that haven't done the",
+      "start": 968.72,
+      "duration": 4.16
+    },
+    {
+      "text": "unit yet or have just enrolled to get a",
+      "start": 970.399,
+      "duration": 5.68
+    },
+    {
+      "text": "bit of a sense of how they can succeed.",
+      "start": 972.88,
+      "duration": 4.72
+    },
+    {
+      "text": "What do you need to do to succeed in",
+      "start": 976.079,
+      "duration": 2.641
+    },
+    {
+      "text": "this unit? What are some of the",
+      "start": 977.6,
+      "duration": 2.799
+    },
+    {
+      "text": "challenges that you'll be facing? How",
+      "start": 978.72,
+      "duration": 3.679
+    },
+    {
+      "text": "can you prepare for that? So questions",
+      "start": 980.399,
+      "duration": 3.68
+    },
+    {
+      "text": "like, well, what equipment do you use?",
+      "start": 982.399,
+      "duration": 3.68
+    },
+    {
+      "text": "lets us kind of pull that out a little",
+      "start": 984.079,
+      "duration": 4.641
+    },
+    {
+      "text": "bit and let them understand and",
+      "start": 986.079,
+      "duration": 4.401
+    },
+    {
+      "text": "visualize what they might be doing in",
+      "start": 988.72,
+      "duration": 3.919
+    },
+    {
+      "text": "the lab. We might then ask them, well,",
+      "start": 990.48,
+      "duration": 3.599
+    },
+    {
+      "text": "what's the best way to manage your work",
+      "start": 992.639,
+      "duration": 3.76
+    },
+    {
+      "text": "and time in your capstone project? So,",
+      "start": 994.079,
+      "duration": 3.76
+    },
+    {
+      "text": "what not to do? What are some of the",
+      "start": 996.399,
+      "duration": 3.68
+    },
+    {
+      "text": "mistakes we want other people to avoid?",
+      "start": 997.839,
+      "duration": 4.161
+    },
+    {
+      "text": "And then we might go on to ask, what",
+      "start": 1000.079,
+      "duration": 5.2
+    },
+    {
+      "text": "type of preparation should a student um",
+      "start": 1002.0,
+      "duration": 5.519
+    },
+    {
+      "text": "do for the unit and across the rest of",
+      "start": 1005.279,
+      "duration": 3.841
+    },
+    {
+      "text": "the unit? So we want to make sure that",
+      "start": 1007.519,
+      "duration": 3.76
+    },
+    {
+      "text": "students that are coming into this unit",
+      "start": 1009.12,
+      "duration": 5.839
+    },
+    {
+      "text": "are able to understand what they can do",
+      "start": 1011.279,
+      "duration": 5.761
+    },
+    {
+      "text": "to give them the best chance of success",
+      "start": 1014.959,
+      "duration": 3.921
+    },
+    {
+      "text": "in the unit so that they're organized",
+      "start": 1017.04,
+      "duration": 3.44
+    },
+    {
+      "text": "for the laboratories and they don't roll",
+      "start": 1018.88,
+      "duration": 4.16
+    },
+    {
+      "text": "up not having done the work. Um and then",
+      "start": 1020.48,
+      "duration": 4.64
+    },
+    {
+      "text": "we might ask them well okay that that's",
+      "start": 1023.04,
+      "duration": 4.32
+    },
+    {
+      "text": "great it's wonderful to hear that how we",
+      "start": 1025.12,
+      "duration": 4.319
+    },
+    {
+      "text": "can get prepared but what makes a good",
+      "start": 1027.36,
+      "duration": 3.839
+    },
+    {
+      "text": "capstone project? How do I know I've",
+      "start": 1029.439,
+      "duration": 3.6
+    },
+    {
+      "text": "made the right choice in the project I",
+      "start": 1031.199,
+      "duration": 4.0
+    },
+    {
+      "text": "put forward? So the person will give us",
+      "start": 1033.039,
+      "duration": 4.081
+    },
+    {
+      "text": "some information about that and then we",
+      "start": 1035.199,
+      "duration": 5.681
+    },
+    {
+      "text": "might um end on uh a question that",
+      "start": 1037.12,
+      "duration": 5.919
+    },
+    {
+      "text": "projects to the future. So we might say",
+      "start": 1040.88,
+      "duration": 3.76
+    },
+    {
+      "text": "well you know what would you like this",
+      "start": 1043.039,
+      "duration": 3.681
+    },
+    {
+      "text": "project to lead you to in your career?",
+      "start": 1044.64,
+      "duration": 4.24
+    },
+    {
+      "text": "Why did you undertake this? Did you have",
+      "start": 1046.72,
+      "duration": 5.12
+    },
+    {
+      "text": "a an idea of where it might lead you?",
+      "start": 1048.88,
+      "duration": 4.88
+    },
+    {
+      "text": "How do you think it might look and work",
+      "start": 1051.84,
+      "duration": 5.04
+    },
+    {
+      "text": "for your CV? So that's an example of two",
+      "start": 1053.76,
+      "duration": 5.2
+    },
+    {
+      "text": "sorts of approaches to interviewing. The",
+      "start": 1056.88,
+      "duration": 4.159
+    },
+    {
+      "text": "first one that I talk through um with",
+      "start": 1058.96,
+      "duration": 3.92
+    },
+    {
+      "text": "the the dot points on the left side of",
+      "start": 1061.039,
+      "duration": 3.76
+    },
+    {
+      "text": "the screen are a little bit more general",
+      "start": 1062.88,
+      "duration": 4.159
+    },
+    {
+      "text": "about getting someone to unpack their",
+      "start": 1064.799,
+      "duration": 4.801
+    },
+    {
+      "text": "experience. And then the with beta's",
+      "start": 1067.039,
+      "duration": 4.0
+    },
+    {
+      "text": "project we're looking more specifically",
+      "start": 1069.6,
+      "duration": 3.76
+    },
+    {
+      "text": "at a particular aim which is to create a",
+      "start": 1071.039,
+      "duration": 5.041
+    },
+    {
+      "text": "podcast that helps students understand",
+      "start": 1073.36,
+      "duration": 6.24
+    },
+    {
+      "text": "what they need to do to succeed in their",
+      "start": 1076.08,
+      "duration": 5.44
+    },
+    {
+      "text": "um project unit and also to get them",
+      "start": 1079.6,
+      "duration": 4.48
+    },
+    {
+      "text": "used to talking about their project in",
+      "start": 1081.52,
+      "duration": 4.32
+    },
+    {
+      "text": "to people that may not be used to",
+      "start": 1084.08,
+      "duration": 4.719
+    },
+    {
+      "text": "hearing about it as well. Um, so a trick",
+      "start": 1085.84,
+      "duration": 5.36
+    },
+    {
+      "text": "with this that journalists use a lot is",
+      "start": 1088.799,
+      "duration": 4.961
+    },
+    {
+      "text": "they'll often um get their interviewees",
+      "start": 1091.2,
+      "duration": 4.719
+    },
+    {
+      "text": "to repeat the question as a statement at",
+      "start": 1093.76,
+      "duration": 4.08
+    },
+    {
+      "text": "the beginning of their response. And um",
+      "start": 1095.919,
+      "duration": 4.321
+    },
+    {
+      "text": "I've got this great example from Corey,",
+      "start": 1097.84,
+      "duration": 5.44
+    },
+    {
+      "text": "one of our um podcast teachers. Um when",
+      "start": 1100.24,
+      "duration": 4.96
+    },
+    {
+      "text": "if I want to know what their journey,",
+      "start": 1103.28,
+      "duration": 3.44
+    },
+    {
+      "text": "say they're a ballet dancer, I want to",
+      "start": 1105.2,
+      "duration": 3.44
+    },
+    {
+      "text": "know where they where they started. So I",
+      "start": 1106.72,
+      "duration": 3.68
+    },
+    {
+      "text": "might ask, well, where did your journey",
+      "start": 1108.64,
+      "duration": 3.919
+    },
+    {
+      "text": "of ballet begin? What I would like them",
+      "start": 1110.4,
+      "duration": 4.32
+    },
+    {
+      "text": "to do, so I will need to advise them on",
+      "start": 1112.559,
+      "duration": 4.641
+    },
+    {
+      "text": "this before the session is to repeat",
+      "start": 1114.72,
+      "duration": 4.64
+    },
+    {
+      "text": "that question in a way that makes it",
+      "start": 1117.2,
+      "duration": 5.44
+    },
+    {
+      "text": "easier for me to edit later on audio. So",
+      "start": 1119.36,
+      "duration": 5.28
+    },
+    {
+      "text": "I'd say, can you repeat the second half",
+      "start": 1122.64,
+      "duration": 4.72
+    },
+    {
+      "text": "of my question as a statement? So I'll",
+      "start": 1124.64,
+      "duration": 4.56
+    },
+    {
+      "text": "give them that example. Well, where did",
+      "start": 1127.36,
+      "duration": 4.24
+    },
+    {
+      "text": "your journey of ballet begin? They might",
+      "start": 1129.2,
+      "duration": 4.88
+    },
+    {
+      "text": "say, well, my journey journey of ballet",
+      "start": 1131.6,
+      "duration": 4.88
+    },
+    {
+      "text": "began when? And they tell us that story.",
+      "start": 1134.08,
+      "duration": 5.28
+    },
+    {
+      "text": "And that gets used in TV a lot, too. So,",
+      "start": 1136.48,
+      "duration": 5.28
+    },
+    {
+      "text": "you're kind of um giving a fuller",
+      "start": 1139.36,
+      "duration": 4.4
+    },
+    {
+      "text": "answer, encouraging them to give you a",
+      "start": 1141.76,
+      "duration": 3.919
+    },
+    {
+      "text": "fuller sentence answer so that it's",
+      "start": 1143.76,
+      "duration": 3.68
+    },
+    {
+      "text": "easier for editing. Now, the challenge",
+      "start": 1145.679,
+      "duration": 3.841
+    },
+    {
+      "text": "with that is that it's not always",
+      "start": 1147.44,
+      "duration": 4.479
+    },
+    {
+      "text": "feeling naturally conversational. So,",
+      "start": 1149.52,
+      "duration": 4.48
+    },
+    {
+      "text": "sometimes you may not want to use that.",
+      "start": 1151.919,
+      "duration": 4.081
+    },
+    {
+      "text": "So, but it's a good it's a good way of",
+      "start": 1154.0,
+      "duration": 5.28
+    },
+    {
+      "text": "creating some space for you to edit. Um",
+      "start": 1156.0,
+      "duration": 5.52
+    },
+    {
+      "text": "so, I'll chat to you now and I won't I",
+      "start": 1159.28,
+      "duration": 4.08
+    },
+    {
+      "text": "won't um cover this, but I just wanted",
+      "start": 1161.52,
+      "duration": 4.159
+    },
+    {
+      "text": "to put this up for you. There's also",
+      "start": 1163.36,
+      "duration": 4.319
+    },
+    {
+      "text": "some really good interview guides for",
+      "start": 1165.679,
+      "duration": 3.841
+    },
+    {
+      "text": "larger projects as well. And this one is",
+      "start": 1167.679,
+      "duration": 4.481
+    },
+    {
+      "text": "from Corey. Um she's given us an example",
+      "start": 1169.52,
+      "duration": 6.159
+    },
+    {
+      "text": "of cluster um clustered questions. So",
+      "start": 1172.16,
+      "duration": 5.28
+    },
+    {
+      "text": "it's kind of working on a structure of",
+      "start": 1175.679,
+      "duration": 4.481
+    },
+    {
+      "text": "we want to know what event started you",
+      "start": 1177.44,
+      "duration": 4.88
+    },
+    {
+      "text": "off on your journey or what what is your",
+      "start": 1180.16,
+      "duration": 4.72
+    },
+    {
+      "text": "particular experience? And we then ask",
+      "start": 1182.32,
+      "duration": 4.719
+    },
+    {
+      "text": "them to reflect a little bit about what",
+      "start": 1184.88,
+      "duration": 3.76
+    },
+    {
+      "text": "that experience might mean for other",
+      "start": 1187.039,
+      "duration": 3.76
+    },
+    {
+      "text": "people. And then we might go on to get",
+      "start": 1188.64,
+      "duration": 3.76
+    },
+    {
+      "text": "them to talk about some of the",
+      "start": 1190.799,
+      "duration": 4.081
+    },
+    {
+      "text": "challenges they've had and then how they",
+      "start": 1192.4,
+      "duration": 4.48
+    },
+    {
+      "text": "feel about it. You know, what we bring",
+      "start": 1194.88,
+      "duration": 4.48
+    },
+    {
+      "text": "in their emotion or their lived",
+      "start": 1196.88,
+      "duration": 5.28
+    },
+    {
+      "text": "experience there and then um start",
+      "start": 1199.36,
+      "duration": 5.52
+    },
+    {
+      "text": "taking another step back and asking how",
+      "start": 1202.16,
+      "duration": 5.04
+    },
+    {
+      "text": "how other people have reacted to this.",
+      "start": 1204.88,
+      "duration": 5.44
+    },
+    {
+      "text": "So, this is a bit more of a complicated",
+      "start": 1207.2,
+      "duration": 5.599
+    },
+    {
+      "text": "uh interview set that just gives you the",
+      "start": 1210.32,
+      "duration": 5.44
+    },
+    {
+      "text": "opportunity to um unpack somebody's",
+      "start": 1212.799,
+      "duration": 5.041
+    },
+    {
+      "text": "experiences in a bigger way than the",
+      "start": 1215.76,
+      "duration": 4.159
+    },
+    {
+      "text": "other examples that I've given. But most",
+      "start": 1217.84,
+      "duration": 4.88
+    },
+    {
+      "text": "of you will find you might use the um",
+      "start": 1219.919,
+      "duration": 5.921
+    },
+    {
+      "text": "the um why, what, who challenges or if",
+      "start": 1222.72,
+      "duration": 5.76
+    },
+    {
+      "text": "you are doing a narrative based podcast",
+      "start": 1225.84,
+      "duration": 4.56
+    },
+    {
+      "text": "where you're um really telling the story",
+      "start": 1228.48,
+      "duration": 4.24
+    },
+    {
+      "text": "of something and you're using multiple",
+      "start": 1230.4,
+      "duration": 4.8
+    },
+    {
+      "text": "interviews in there multi from multiple",
+      "start": 1232.72,
+      "duration": 4.88
+    },
+    {
+      "text": "people, multiple experts, you might just",
+      "start": 1235.2,
+      "duration": 4.719
+    },
+    {
+      "text": "simply ask those people two or three",
+      "start": 1237.6,
+      "duration": 5.52
+    },
+    {
+      "text": "questions in your pre in your um",
+      "start": 1239.919,
+      "duration": 5.841
+    },
+    {
+      "text": "interview session and then edit those in",
+      "start": 1243.12,
+      "duration": 5.039
+    },
+    {
+      "text": "and it might end up being one one answer",
+      "start": 1245.76,
+      "duration": 4.799
+    },
+    {
+      "text": "that you use from them or two answers.",
+      "start": 1248.159,
+      "duration": 4.241
+    },
+    {
+      "text": "So it depends on the sort of podcast",
+      "start": 1250.559,
+      "duration": 3.841
+    },
+    {
+      "text": "that you're doing. But you've got they",
+      "start": 1252.4,
+      "duration": 3.68
+    },
+    {
+      "text": "you'll find that most of them fit under",
+      "start": 1254.4,
+      "duration": 3.92
+    },
+    {
+      "text": "those two two aspects. And you know you",
+      "start": 1256.08,
+      "duration": 4.32
+    },
+    {
+      "text": "do have podcasts where people talk at",
+      "start": 1258.32,
+      "duration": 3.839
+    },
+    {
+      "text": "great length about one thing and you",
+      "start": 1260.4,
+      "duration": 4.399
+    },
+    {
+      "text": "don't hear any interviews etc. Um maybe",
+      "start": 1262.159,
+      "duration": 4.481
+    },
+    {
+      "text": "someone who's a political commentator or",
+      "start": 1264.799,
+      "duration": 3.281
+    },
+    {
+      "text": "two people just talking about a",
+      "start": 1266.64,
+      "duration": 3.36
+    },
+    {
+      "text": "particular topic. They still fall under",
+      "start": 1268.08,
+      "duration": 5.12
+    },
+    {
+      "text": "those two types of podcasts. So just um",
+      "start": 1270.0,
+      "duration": 5.44
+    },
+    {
+      "text": "talking quickly about how to conduct the",
+      "start": 1273.2,
+      "duration": 4.24
+    },
+    {
+      "text": "interview itself. We will have more",
+      "start": 1275.44,
+      "duration": 3.599
+    },
+    {
+      "text": "sessions on this and we've got some",
+      "start": 1277.44,
+      "duration": 5.04
+    },
+    {
+      "text": "video resources you can um access to um",
+      "start": 1279.039,
+      "duration": 4.561
+    },
+    {
+      "text": "if you want to know a little bit more",
+      "start": 1282.48,
+      "duration": 3.679
+    },
+    {
+      "text": "about this. Um but the idea as we said",
+      "start": 1283.6,
+      "duration": 4.88
+    },
+    {
+      "text": "treat it like a conversation. Um however",
+      "start": 1286.159,
+      "duration": 4.481
+    },
+    {
+      "text": "do prepare questions, right? You don't",
+      "start": 1288.48,
+      "duration": 4.16
+    },
+    {
+      "text": "want to go in there and um not be able",
+      "start": 1290.64,
+      "duration": 3.919
+    },
+    {
+      "text": "to guide your interviewe. They are",
+      "start": 1292.64,
+      "duration": 4.32
+    },
+    {
+      "text": "expecting you to point them in the",
+      "start": 1294.559,
+      "duration": 4.881
+    },
+    {
+      "text": "direction that of the information you",
+      "start": 1296.96,
+      "duration": 4.32
+    },
+    {
+      "text": "want from them. So you want to make sure",
+      "start": 1299.44,
+      "duration": 3.76
+    },
+    {
+      "text": "that you've got some questions prepared.",
+      "start": 1301.28,
+      "duration": 4.24
+    },
+    {
+      "text": "You can um do them quite specific or you",
+      "start": 1303.2,
+      "duration": 4.719
+    },
+    {
+      "text": "can do them kind of broad. Um when when",
+      "start": 1305.52,
+      "duration": 5.279
+    },
+    {
+      "text": "did you start your uh university degree",
+      "start": 1307.919,
+      "duration": 4.64
+    },
+    {
+      "text": "or you could say that's quite specific",
+      "start": 1310.799,
+      "duration": 4.401
+    },
+    {
+      "text": "or you could use something like um you",
+      "start": 1312.559,
+      "duration": 4.0
+    },
+    {
+      "text": "know tell me the story of your",
+      "start": 1315.2,
+      "duration": 3.04
+    },
+    {
+      "text": "university degree? How did you come to",
+      "start": 1316.559,
+      "duration": 3.761
+    },
+    {
+      "text": "this? You know when did when did it all",
+      "start": 1318.24,
+      "duration": 4.319
+    },
+    {
+      "text": "happen for you? So you can ask the same",
+      "start": 1320.32,
+      "duration": 4.56
+    },
+    {
+      "text": "question in a very taught way with",
+      "start": 1322.559,
+      "duration": 4.801
+    },
+    {
+      "text": "specific information coming back or you",
+      "start": 1324.88,
+      "duration": 4.56
+    },
+    {
+      "text": "can ask it in a way that is a little bit",
+      "start": 1327.36,
+      "duration": 4.64
+    },
+    {
+      "text": "more open and that lets them tell the",
+      "start": 1329.44,
+      "duration": 5.84
+    },
+    {
+      "text": "story as they see it. Um which is just",
+      "start": 1332.0,
+      "duration": 4.88
+    },
+    {
+      "text": "two different approaches to the same",
+      "start": 1335.28,
+      "duration": 4.08
+    },
+    {
+      "text": "getting the same information. Uh so it's",
+      "start": 1336.88,
+      "duration": 3.919
+    },
+    {
+      "text": "up to you if you want to ask really",
+      "start": 1339.36,
+      "duration": 3.28
+    },
+    {
+      "text": "specific questions or have them a little",
+      "start": 1340.799,
+      "duration": 5.601
+    },
+    {
+      "text": "bit more open. And um Jamie and Omera",
+      "start": 1342.64,
+      "duration": 5.6
+    },
+    {
+      "text": "has a great um session which I've",
+      "start": 1346.4,
+      "duration": 4.0
+    },
+    {
+      "text": "included in the um in the video",
+      "start": 1348.24,
+      "duration": 4.88
+    },
+    {
+      "text": "resources about creating cheats cheat",
+      "start": 1350.4,
+      "duration": 5.2
+    },
+    {
+      "text": "sheets. So um a a sheet of information",
+      "start": 1353.12,
+      "duration": 4.0
+    },
+    {
+      "text": "that has a little bit about of the",
+      "start": 1355.6,
+      "duration": 3.36
+    },
+    {
+      "text": "background of the person, maybe some of",
+      "start": 1357.12,
+      "duration": 3.679
+    },
+    {
+      "text": "their achievements if you're going to be",
+      "start": 1358.96,
+      "duration": 3.76
+    },
+    {
+      "text": "talking to them about that. So you don't",
+      "start": 1360.799,
+      "duration": 3.76
+    },
+    {
+      "text": "have a Carolyn moment when you forget",
+      "start": 1362.72,
+      "duration": 4.319
+    },
+    {
+      "text": "what the name of their project is or",
+      "start": 1364.559,
+      "duration": 5.761
+    },
+    {
+      "text": "what the name of their particular um",
+      "start": 1367.039,
+      "duration": 4.64
+    },
+    {
+      "text": "film that they've done is or their",
+      "start": 1370.32,
+      "duration": 2.96
+    },
+    {
+      "text": "particular science experiment or their",
+      "start": 1371.679,
+      "duration": 4.801
+    },
+    {
+      "text": "particular um uh approach in the lab. So",
+      "start": 1373.28,
+      "duration": 4.72
+    },
+    {
+      "text": "it's good to have those kind of notes",
+      "start": 1376.48,
+      "duration": 3.28
+    },
+    {
+      "text": "with you when you're doing the interview",
+      "start": 1378.0,
+      "duration": 3.679
+    },
+    {
+      "text": "just so you can refer back to them. Um",
+      "start": 1379.76,
+      "duration": 3.44
+    },
+    {
+      "text": "and we've got some examples of those",
+      "start": 1381.679,
+      "duration": 3.681
+    },
+    {
+      "text": "that we can share with you. And when",
+      "start": 1383.2,
+      "duration": 3.68
+    },
+    {
+      "text": "you're interviewing, you need to make",
+      "start": 1385.36,
+      "duration": 3.6
+    },
+    {
+      "text": "sure that you are um actually listening",
+      "start": 1386.88,
+      "duration": 4.799
+    },
+    {
+      "text": "and responding to what people are",
+      "start": 1388.96,
+      "duration": 4.32
+    },
+    {
+      "text": "saying. You don't want to just",
+      "start": 1391.679,
+      "duration": 4.401
+    },
+    {
+      "text": "interview, ask a question, wait till",
+      "start": 1393.28,
+      "duration": 5.04
+    },
+    {
+      "text": "they finish, then ask the next question,",
+      "start": 1396.08,
+      "duration": 4.719
+    },
+    {
+      "text": "and wait till they finish. That's not a",
+      "start": 1398.32,
+      "duration": 5.28
+    },
+    {
+      "text": "conversation. Um so you want to listen",
+      "start": 1400.799,
+      "duration": 6.081
+    },
+    {
+      "text": "and not be afraid to move into asking",
+      "start": 1403.6,
+      "duration": 5.04
+    },
+    {
+      "text": "other things. You can go off on a bit of",
+      "start": 1406.88,
+      "duration": 4.159
+    },
+    {
+      "text": "a tangent if that's if there's something",
+      "start": 1408.64,
+      "duration": 3.919
+    },
+    {
+      "text": "that the person has said that you're",
+      "start": 1411.039,
+      "duration": 4.721
+    },
+    {
+      "text": "interviewing that sounds like you maybe",
+      "start": 1412.559,
+      "duration": 4.881
+    },
+    {
+      "text": "your audience might want to know more",
+      "start": 1415.76,
+      "duration": 3.84
+    },
+    {
+      "text": "about it or that sounds a little bit",
+      "start": 1417.44,
+      "duration": 3.76
+    },
+    {
+      "text": "more interesting than maybe what your",
+      "start": 1419.6,
+      "duration": 3.52
+    },
+    {
+      "text": "next question was going to be. So you",
+      "start": 1421.2,
+      "duration": 5.12
+    },
+    {
+      "text": "can take a a moment to diverge and um",
+      "start": 1423.12,
+      "duration": 5.439
+    },
+    {
+      "text": "move into a side topic if that's where",
+      "start": 1426.32,
+      "duration": 4.32
+    },
+    {
+      "text": "the conversation goes naturally. You can",
+      "start": 1428.559,
+      "duration": 4.641
+    },
+    {
+      "text": "always edit it out if it didn't work.",
+      "start": 1430.64,
+      "duration": 5.919
+    },
+    {
+      "text": "So, it's important to follow the",
+      "start": 1433.2,
+      "duration": 5.52
+    },
+    {
+      "text": "conversation.",
+      "start": 1436.559,
+      "duration": 5.6
+    },
+    {
+      "text": "And um also, and this is really hard,",
+      "start": 1438.72,
+      "duration": 5.92
+    },
+    {
+      "text": "it's really hard to try not to make too",
+      "start": 1442.159,
+      "duration": 5.201
+    },
+    {
+      "text": "many noises when you're interviewing",
+      "start": 1444.64,
+      "duration": 7.2
+    },
+    {
+      "text": "someone, be careful not to say, \"Yeah,",
+      "start": 1447.36,
+      "duration": 8.559
+    },
+    {
+      "text": "yeah. Oh, definitely.\" Or, \"M\" Because",
+      "start": 1451.84,
+      "duration": 6.079
+    },
+    {
+      "text": "what happens is it makes it harder to",
+      "start": 1455.919,
+      "duration": 4.161
+    },
+    {
+      "text": "edit. And it also means that while",
+      "start": 1457.919,
+      "duration": 3.681
+    },
+    {
+      "text": "they're talking, you're going to they're",
+      "start": 1460.08,
+      "duration": 3.52
+    },
+    {
+      "text": "we're going to be hearing your voice",
+      "start": 1461.6,
+      "duration": 4.319
+    },
+    {
+      "text": "coming in a lot. So, it takes a lot of",
+      "start": 1463.6,
+      "duration": 4.559
+    },
+    {
+      "text": "practice to actually not say much and",
+      "start": 1465.919,
+      "duration": 5.041
+    },
+    {
+      "text": "not give much affirmation back when",
+      "start": 1468.159,
+      "duration": 5.201
+    },
+    {
+      "text": "you're or much confirmation and",
+      "start": 1470.96,
+      "duration": 3.92
+    },
+    {
+      "text": "acknowledgement when you're interviewing",
+      "start": 1473.36,
+      "duration": 4.0
+    },
+    {
+      "text": "someone. Um, so it takes a bit of",
+      "start": 1474.88,
+      "duration": 6.0
+    },
+    {
+      "text": "practice. So, just remember, try to nod",
+      "start": 1477.36,
+      "duration": 6.96
+    },
+    {
+      "text": "and not go too much. But sometimes you",
+      "start": 1480.88,
+      "duration": 5.039
+    },
+    {
+      "text": "have to, so that's okay. But just",
+      "start": 1484.32,
+      "duration": 3.44
+    },
+    {
+      "text": "balance that out. you'll find when you",
+      "start": 1485.919,
+      "duration": 4.481
+    },
+    {
+      "text": "do it and you try to edit, you'll never",
+      "start": 1487.76,
+      "duration": 4.72
+    },
+    {
+      "text": "do it again because it's really hard to",
+      "start": 1490.4,
+      "duration": 7.12
+    },
+    {
+      "text": "edit your littles and out. Um, and um,",
+      "start": 1492.48,
+      "duration": 8.88
+    },
+    {
+      "text": "also uh, don't be afraid to um,",
+      "start": 1497.52,
+      "duration": 6.96
+    },
+    {
+      "text": "interject with your own um, additional",
+      "start": 1501.36,
+      "duration": 5.28
+    },
+    {
+      "text": "ideas or thoughts as well. It's up to",
+      "start": 1504.48,
+      "duration": 3.76
+    },
+    {
+      "text": "you what your podcast is looking like",
+      "start": 1506.64,
+      "duration": 4.399
+    },
+    {
+      "text": "and what the intention is, but you can",
+      "start": 1508.24,
+      "duration": 6.08
+    },
+    {
+      "text": "definitely um share your experiences",
+      "start": 1511.039,
+      "duration": 5.921
+    },
+    {
+      "text": "with the interviewer um in the recording",
+      "start": 1514.32,
+      "duration": 4.56
+    },
+    {
+      "text": "if you want to. That if that's part of",
+      "start": 1516.96,
+      "duration": 3.199
+    },
+    {
+      "text": "what you're doing with the podcast,",
+      "start": 1518.88,
+      "duration": 3.84
+    },
+    {
+      "text": "that's fine. So, that is coming back to",
+      "start": 1520.159,
+      "duration": 4.321
+    },
+    {
+      "text": "the philosophy of it's a conversation,",
+      "start": 1522.72,
+      "duration": 4.72
+    },
+    {
+      "text": "it's a sharing, but remember it's not",
+      "start": 1524.48,
+      "duration": 5.439
+    },
+    {
+      "text": "about you, it's about your interviewee,",
+      "start": 1527.44,
+      "duration": 3.839
+    },
+    {
+      "text": "right?",
+      "start": 1529.919,
+      "duration": 3.921
+    },
+    {
+      "text": "Um, so try to leave a bit of a beat of",
+      "start": 1531.279,
+      "duration": 5.201
+    },
+    {
+      "text": "silence in between your questions or",
+      "start": 1533.84,
+      "duration": 5.28
+    },
+    {
+      "text": "your comments. Try not to talk over the",
+      "start": 1536.48,
+      "duration": 4.559
+    },
+    {
+      "text": "person because that means you're going",
+      "start": 1539.12,
+      "duration": 4.64
+    },
+    {
+      "text": "to find it really hard to slice and edit",
+      "start": 1541.039,
+      "duration": 5.841
+    },
+    {
+      "text": "and separate um sections if you've got",
+      "start": 1543.76,
+      "duration": 5.84
+    },
+    {
+      "text": "your voice overlapping. So if for",
+      "start": 1546.88,
+      "duration": 4.64
+    },
+    {
+      "text": "instance when I'm giving a lecture I'm",
+      "start": 1549.6,
+      "duration": 4.48
+    },
+    {
+      "text": "now I can see I've got my next slide in",
+      "start": 1551.52,
+      "duration": 4.8
+    },
+    {
+      "text": "front of me after this one. So I can",
+      "start": 1554.08,
+      "duration": 4.88
+    },
+    {
+      "text": "naturally segue into the next slide.",
+      "start": 1556.32,
+      "duration": 5.2
+    },
+    {
+      "text": "However, that would cause a problem if I",
+      "start": 1558.96,
+      "duration": 4.88
+    },
+    {
+      "text": "was doing that in an audio interview",
+      "start": 1561.52,
+      "duration": 4.24
+    },
+    {
+      "text": "because it won't give a moment for me to",
+      "start": 1563.84,
+      "duration": 4.64
+    },
+    {
+      "text": "edit. So, if I say, \"Okay, um that's my",
+      "start": 1565.76,
+      "duration": 4.32
+    },
+    {
+      "text": "slide. Now, on to my next slide. I'd",
+      "start": 1568.48,
+      "duration": 3.439
+    },
+    {
+      "text": "like to talk about this.\" There's no",
+      "start": 1570.08,
+      "duration": 4.4
+    },
+    {
+      "text": "edit space where if I do something like,",
+      "start": 1571.919,
+      "duration": 6.321
+    },
+    {
+      "text": "um, okay, that that's great. Thank you.",
+      "start": 1574.48,
+      "duration": 6.0
+    },
+    {
+      "text": "So, my next question is that little",
+      "start": 1578.24,
+      "duration": 4.72
+    },
+    {
+      "text": "space makes it easier for you to edit",
+      "start": 1580.48,
+      "duration": 5.52
+    },
+    {
+      "text": "the audio and to move things around. So,",
+      "start": 1582.96,
+      "duration": 6.079
+    },
+    {
+      "text": "um, silence is death if it's too long in",
+      "start": 1586.0,
+      "duration": 5.6
+    },
+    {
+      "text": "audio, but silence is golden if it's",
+      "start": 1589.039,
+      "duration": 5.361
+    },
+    {
+      "text": "just long enough that it lets you, um,",
+      "start": 1591.6,
+      "duration": 5.28
+    },
+    {
+      "text": "create an edit space that sounds natural",
+      "start": 1594.4,
+      "duration": 3.92
+    },
+    {
+      "text": "because if you don't, you'll end up",
+      "start": 1596.88,
+      "duration": 3.6
+    },
+    {
+      "text": "cutting off words um, of the beginning",
+      "start": 1598.32,
+      "duration": 4.479
+    },
+    {
+      "text": "or the ends of sentences.",
+      "start": 1600.48,
+      "duration": 5.439
+    },
+    {
+      "text": "And, um, Damian had a great uh, idea of",
+      "start": 1602.799,
+      "duration": 5.281
+    },
+    {
+      "text": "giving somebody or your interviewee,",
+      "start": 1605.919,
+      "duration": 4.561
+    },
+    {
+      "text": "sorry, a text sheet for home",
+      "start": 1608.08,
+      "duration": 4.959
+    },
+    {
+      "text": "preparation. So, if you are um",
+      "start": 1610.48,
+      "duration": 6.16
+    },
+    {
+      "text": "interviewing people that are on Zoom for",
+      "start": 1613.039,
+      "duration": 6.161
+    },
+    {
+      "text": "through Zoom um or that you don't have",
+      "start": 1616.64,
+      "duration": 4.96
+    },
+    {
+      "text": "in front of you, they might feel a bit",
+      "start": 1619.2,
+      "duration": 4.16
+    },
+    {
+      "text": "overwhelmed by the tech. So, it's really",
+      "start": 1621.6,
+      "duration": 4.24
+    },
+    {
+      "text": "good to give them a guide of things to",
+      "start": 1623.36,
+      "duration": 5.36
+    },
+    {
+      "text": "set up. So, you know, okay, um you know,",
+      "start": 1625.84,
+      "duration": 5.199
+    },
+    {
+      "text": "maybe make sure that you've got no",
+      "start": 1628.72,
+      "duration": 4.16
+    },
+    {
+      "text": "noises around you from your washing",
+      "start": 1631.039,
+      "duration": 4.321
+    },
+    {
+      "text": "machine, all of that sort of thing. So,",
+      "start": 1632.88,
+      "duration": 4.48
+    },
+    {
+      "text": "um what would this look like? So, we",
+      "start": 1635.36,
+      "duration": 3.76
+    },
+    {
+      "text": "might tell them, um, can you make sure",
+      "start": 1637.36,
+      "duration": 3.84
+    },
+    {
+      "text": "you wear headphones? Because if you, and",
+      "start": 1639.12,
+      "duration": 3.52
+    },
+    {
+      "text": "this is good for you, for people doing",
+      "start": 1641.2,
+      "duration": 2.8
+    },
+    {
+      "text": "the interview, too, because if you've",
+      "start": 1642.64,
+      "duration": 4.48
+    },
+    {
+      "text": "got headphones on with a, um, mic in",
+      "start": 1644.0,
+      "duration": 5.2
+    },
+    {
+      "text": "them, that means that you're not going",
+      "start": 1647.12,
+      "duration": 3.76
+    },
+    {
+      "text": "to be as distracted by what's happening",
+      "start": 1649.2,
+      "duration": 3.12
+    },
+    {
+      "text": "around you, you're also going to have a",
+      "start": 1650.88,
+      "duration": 4.0
+    },
+    {
+      "text": "better quality of audio. So, um, you may",
+      "start": 1652.32,
+      "duration": 4.88
+    },
+    {
+      "text": "want to encourage your interviewees, if",
+      "start": 1654.88,
+      "duration": 4.08
+    },
+    {
+      "text": "you're doing it by Zoom, to wear",
+      "start": 1657.2,
+      "duration": 4.0
+    },
+    {
+      "text": "headphones with a mic where possible,",
+      "start": 1658.96,
+      "duration": 4.16
+    },
+    {
+      "text": "like um, Beta's got. Have you got a mic",
+      "start": 1661.2,
+      "duration": 4.32
+    },
+    {
+      "text": "in yours, Beta?",
+      "start": 1663.12,
+      "duration": 5.439
+    },
+    {
+      "text": "Yes, you do. See, [laughter]",
+      "start": 1665.52,
+      "duration": 4.56
+    },
+    {
+      "text": "excellent. So, you would have seen that",
+      "start": 1668.559,
+      "duration": 3.441
+    },
+    {
+      "text": "in the earlier um part of this video",
+      "start": 1670.08,
+      "duration": 4.88
+    },
+    {
+      "text": "when VA came up to to to greet you all.",
+      "start": 1672.0,
+      "duration": 4.799
+    },
+    {
+      "text": "Um and so, make sure that your",
+      "start": 1674.96,
+      "duration": 6.48
+    },
+    {
+      "text": "interviewee um also um checks and I'll",
+      "start": 1676.799,
+      "duration": 6.161
+    },
+    {
+      "text": "just jump forward a bit. Also checks",
+      "start": 1681.44,
+      "duration": 3.92
+    },
+    {
+      "text": "that their um equipment's off around",
+      "start": 1682.96,
+      "duration": 4.56
+    },
+    {
+      "text": "them. Um that they've turned off their",
+      "start": 1685.36,
+      "duration": 4.16
+    },
+    {
+      "text": "email dinger. I've been in lots of",
+      "start": 1687.52,
+      "duration": 3.6
+    },
+    {
+      "text": "sessions and interviews where I've heard",
+      "start": 1689.52,
+      "duration": 3.6
+    },
+    {
+      "text": "that people's email ding go off. Turn",
+      "start": 1691.12,
+      "duration": 4.32
+    },
+    {
+      "text": "that off. put their phone on silent um",
+      "start": 1693.12,
+      "duration": 4.24
+    },
+    {
+      "text": "and turn off the washing machine um",
+      "start": 1695.44,
+      "duration": 3.76
+    },
+    {
+      "text": "musical noise. [laughter] It's a good",
+      "start": 1697.36,
+      "duration": 4.48
+    },
+    {
+      "text": "one from Damian. Um there is a really",
+      "start": 1699.2,
+      "duration": 4.8
+    },
+    {
+      "text": "good tip that Damian's given us uh which",
+      "start": 1701.84,
+      "duration": 5.92
+    },
+    {
+      "text": "is around making sure that you are um",
+      "start": 1704.0,
+      "duration": 6.24
+    },
+    {
+      "text": "able to have a backup for your audio. So",
+      "start": 1707.76,
+      "duration": 5.12
+    },
+    {
+      "text": "a great tip that he's given is that when",
+      "start": 1710.24,
+      "duration": 6.08
+    },
+    {
+      "text": "you um say to your interviewe if you're",
+      "start": 1712.88,
+      "duration": 5.6
+    },
+    {
+      "text": "doing it remotely, okay, can you get",
+      "start": 1716.32,
+      "duration": 4.56
+    },
+    {
+      "text": "your phone and find your recording on",
+      "start": 1718.48,
+      "duration": 4.72
+    },
+    {
+      "text": "your phone, your audio recorder? I'm",
+      "start": 1720.88,
+      "duration": 5.12
+    },
+    {
+      "text": "going to count to three and when I clap",
+      "start": 1723.2,
+      "duration": 5.92
+    },
+    {
+      "text": "um I want um I want you to hit the voice",
+      "start": 1726.0,
+      "duration": 5.52
+    },
+    {
+      "text": "memo, right? So um or actually it's a",
+      "start": 1729.12,
+      "duration": 4.08
+    },
+    {
+      "text": "bit before, isn't it? So um count to",
+      "start": 1731.52,
+      "duration": 5.2
+    },
+    {
+      "text": "three, hit the voice memo and then clap.",
+      "start": 1733.2,
+      "duration": 6.0
+    },
+    {
+      "text": "And that clap will s will mean that you",
+      "start": 1736.72,
+      "duration": 4.959
+    },
+    {
+      "text": "can see straight away on both the audio",
+      "start": 1739.2,
+      "duration": 5.52
+    },
+    {
+      "text": "recordings um when the interview starts.",
+      "start": 1741.679,
+      "duration": 4.88
+    },
+    {
+      "text": "You're syncing it together. And that",
+      "start": 1744.72,
+      "duration": 4.319
+    },
+    {
+      "text": "means you've got a backup for your what",
+      "start": 1746.559,
+      "duration": 4.321
+    },
+    {
+      "text": "you say, they've got a backup for what",
+      "start": 1749.039,
+      "duration": 5.201
+    },
+    {
+      "text": "they say in case the u one of you have",
+      "start": 1750.88,
+      "duration": 6.08
+    },
+    {
+      "text": "bad blotchy audio on your Zoom or your",
+      "start": 1754.24,
+      "duration": 4.64
+    },
+    {
+      "text": "teams, however you're doing it. So",
+      "start": 1756.96,
+      "duration": 4.48
+    },
+    {
+      "text": "really, really good device to to a",
+      "start": 1758.88,
+      "duration": 4.32
+    },
+    {
+      "text": "really good technique to practice there.",
+      "start": 1761.44,
+      "duration": 4.08
+    },
+    {
+      "text": "So you've both got a syncedin version",
+      "start": 1763.2,
+      "duration": 4.16
+    },
+    {
+      "text": "and that person that you're interviewing",
+      "start": 1765.52,
+      "duration": 4.96
+    },
+    {
+      "text": "can just email you that particular",
+      "start": 1767.36,
+      "duration": 6.16
+    },
+    {
+      "text": "um recording. Makes it easier. Um, so",
+      "start": 1770.48,
+      "duration": 4.88
+    },
+    {
+      "text": "that was that was my quick rundown of",
+      "start": 1773.52,
+      "duration": 4.639
+    },
+    {
+      "text": "the different sorts of podcast and some",
+      "start": 1775.36,
+      "duration": 4.559
+    },
+    {
+      "text": "tips. We have more information about",
+      "start": 1778.159,
+      "duration": 4.24
+    },
+    {
+      "text": "that. Um, I'll end the slides out.",
+      "start": 1779.919,
+      "duration": 4.24
+    },
+    {
+      "text": "There's some great videos you can watch.",
+      "start": 1782.399,
+      "duration": 4.16
+    },
+    {
+      "text": "We'll also be running a session. I'll be",
+      "start": 1784.159,
+      "duration": 3.76
+    },
+    {
+      "text": "running a session on Monday, which is",
+      "start": 1786.559,
+      "duration": 3.761
+    },
+    {
+      "text": "just a drop-in session if people want to",
+      "start": 1787.919,
+      "duration": 4.081
+    },
+    {
+      "text": "um, drop in and talk about their idea",
+      "start": 1790.32,
+      "duration": 4.239
+    },
+    {
+      "text": "for a podcast um, or we want to start",
+      "start": 1792.0,
+      "duration": 5.52
+    },
+    {
+      "text": "setting up um, some support for you and",
+      "start": 1794.559,
+      "duration": 5.201
+    },
+    {
+      "text": "to start giving you some additional um,",
+      "start": 1797.52,
+      "duration": 5.44
+    },
+    {
+      "text": "help on how to use the programs. Um so I",
+      "start": 1799.76,
+      "duration": 6.08
+    },
+    {
+      "text": "will hand this over now to um either",
+      "start": 1802.96,
+      "duration": 5.439
+    },
+    {
+      "text": "beta or our fabulous um learning",
+      "start": 1805.84,
+      "duration": 4.319
+    },
+    {
+      "text": "transformations",
+      "start": 1808.399,
+      "duration": 4.721
+    },
+    {
+      "text": "um teacher. So I'll hand it back. Thank",
+      "start": 1810.159,
+      "duration": 4.801
+    },
+    {
+      "text": "you.",
+      "start": 1813.12,
+      "duration": 7.039
+    },
+    {
+      "text": "Um so to create um a new file uh we go",
+      "start": 1814.96,
+      "duration": 10.719
+    },
+    {
+      "text": "to file new multitrack session and um",
+      "start": 1820.159,
+      "duration": 9.601
+    },
+    {
+      "text": "I'm just going to title this um my",
+      "start": 1825.679,
+      "duration": 7.681
+    },
+    {
+      "text": "podcast for now. And you can uh browse",
+      "start": 1829.76,
+      "duration": 6.72
+    },
+    {
+      "text": "where you want to save your um",
+      "start": 1833.36,
+      "duration": 6.08
+    },
+    {
+      "text": "this uh session. And the templates are",
+      "start": 1836.48,
+      "duration": 4.48
+    },
+    {
+      "text": "over here. We're going to press podcast",
+      "start": 1839.44,
+      "duration": 3.2
+    },
+    {
+      "text": "for now. And what that's going to do",
+      "start": 1840.96,
+      "duration": 3.839
+    },
+    {
+      "text": "when we click okay, it's going to set up",
+      "start": 1842.64,
+      "duration": 4.72
+    },
+    {
+      "text": "a multitrack session. And it's going to",
+      "start": 1844.799,
+      "duration": 4.401
+    },
+    {
+      "text": "have all the elements of a podcast",
+      "start": 1847.36,
+      "duration": 4.08
+    },
+    {
+      "text": "basically set up for you already. So we",
+      "start": 1849.2,
+      "duration": 5.28
+    },
+    {
+      "text": "have the host track, the interview, etc.",
+      "start": 1851.44,
+      "duration": 5.839
+    },
+    {
+      "text": "down to music. Um, if you would like to",
+      "start": 1854.48,
+      "duration": 5.439
+    },
+    {
+      "text": "change the names of um, these, you just",
+      "start": 1857.279,
+      "duration": 4.721
+    },
+    {
+      "text": "have to doubleclick them and then write",
+      "start": 1859.919,
+      "duration": 4.0
+    },
+    {
+      "text": "whatever you want. So maybe you want two",
+      "start": 1862.0,
+      "duration": 5.84
+    },
+    {
+      "text": "hosts. So this could be host one. Um, as",
+      "start": 1863.919,
+      "duration": 5.441
+    },
+    {
+      "text": "well as if you wanted to change the",
+      "start": 1867.84,
+      "duration": 3.68
+    },
+    {
+      "text": "color for organization purposes of these",
+      "start": 1869.36,
+      "duration": 4.72
+    },
+    {
+      "text": "little um, labels over here, you can",
+      "start": 1871.52,
+      "duration": 4.56
+    },
+    {
+      "text": "doubleclick them and select whatever",
+      "start": 1874.08,
+      "duration": 4.4
+    },
+    {
+      "text": "color you want. Um, can make it pretty",
+      "start": 1876.08,
+      "duration": 4.8
+    },
+    {
+      "text": "if you want. It won't it won't change",
+      "start": 1878.48,
+      "duration": 6.88
+    },
+    {
+      "text": "the audio. It's just it's just nice. Um,",
+      "start": 1880.88,
+      "duration": 7.519
+    },
+    {
+      "text": "so we're going to go into um how to",
+      "start": 1885.36,
+      "duration": 6.319
+    },
+    {
+      "text": "import an audio file. Um, for reference,",
+      "start": 1888.399,
+      "duration": 4.961
+    },
+    {
+      "text": "if you would like to download some audio",
+      "start": 1891.679,
+      "duration": 3.921
+    },
+    {
+      "text": "files today, um, I would recommend going",
+      "start": 1893.36,
+      "duration": 5.439
+    },
+    {
+      "text": "into Adobe Stock and then clicking the",
+      "start": 1895.6,
+      "duration": 7.919
+    },
+    {
+      "text": "audio button. Um, we don't have uh, as a",
+      "start": 1898.799,
+      "duration": 8.24
+    },
+    {
+      "text": "Swinburn student, you don't have um,",
+      "start": 1903.519,
+      "duration": 5.841
+    },
+    {
+      "text": "specific license to the audio",
+      "start": 1907.039,
+      "duration": 4.48
+    },
+    {
+      "text": "specifically. um you would have to get",
+      "start": 1909.36,
+      "duration": 4.319
+    },
+    {
+      "text": "that separately, but for now, you know,",
+      "start": 1911.519,
+      "duration": 4.88
+    },
+    {
+      "text": "today I would recommend it. So, just go",
+      "start": 1913.679,
+      "duration": 5.12
+    },
+    {
+      "text": "into whatever um genre you would like",
+      "start": 1916.399,
+      "duration": 5.52
+    },
+    {
+      "text": "and click the download button over here.",
+      "start": 1918.799,
+      "duration": 7.521
+    },
+    {
+      "text": "So, um we're going to go back into here",
+      "start": 1921.919,
+      "duration": 8.081
+    },
+    {
+      "text": "into our session and click files. Um",
+      "start": 1926.32,
+      "duration": 6.16
+    },
+    {
+      "text": "this button, this like file button with",
+      "start": 1930.0,
+      "duration": 4.0
+    },
+    {
+      "text": "the arrow is where you would like to",
+      "start": 1932.48,
+      "duration": 5.28
+    },
+    {
+      "text": "import the file. And I'm just going to",
+      "start": 1934.0,
+      "duration": 6.559
+    },
+    {
+      "text": "um today I'm going to import some disco",
+      "start": 1937.76,
+      "duration": 5.6
+    },
+    {
+      "text": "pop.",
+      "start": 1940.559,
+      "duration": 5.041
+    },
+    {
+      "text": "And now that I've imported this, all I",
+      "start": 1943.36,
+      "duration": 5.52
+    },
+    {
+      "text": "have to do is drag my audio into the",
+      "start": 1945.6,
+      "duration": 6.4
+    },
+    {
+      "text": "track that I would like and that will um",
+      "start": 1948.88,
+      "duration": 5.279
+    },
+    {
+      "text": "automatically place it there. So since",
+      "start": 1952.0,
+      "duration": 5.12
+    },
+    {
+      "text": "Disco Funk is music,",
+      "start": 1954.159,
+      "duration": 5.041
+    },
+    {
+      "text": "I'm going to drag it into the music",
+      "start": 1957.12,
+      "duration": 3.6
+    },
+    {
+      "text": "file.",
+      "start": 1959.2,
+      "duration": 5.719
+    },
+    {
+      "text": "And if you see, we can play here",
+      "start": 1960.72,
+      "duration": 4.199
+    },
+    {
+      "text": "[music]",
+      "start": 1965.022,
+      "duration": 5.058
+    },
+    {
+      "text": "with this real. Um, next, uh, we're",
+      "start": 1966.32,
+      "duration": 5.839
+    },
+    {
+      "text": "going to be using the recording option,",
+      "start": 1970.08,
+      "duration": 4.16
+    },
+    {
+      "text": "uh, where you can, um, record your own",
+      "start": 1972.159,
+      "duration": 4.961
+    },
+    {
+      "text": "audio and voice over and whatever you",
+      "start": 1974.24,
+      "duration": 5.439
+    },
+    {
+      "text": "like. So, um, I would assume in this",
+      "start": 1977.12,
+      "duration": 5.919
+    },
+    {
+      "text": "case, you would probably be the host or,",
+      "start": 1979.679,
+      "duration": 4.961
+    },
+    {
+      "text": "um, at least talking. So, I'm going to",
+      "start": 1983.039,
+      "duration": 4.24
+    },
+    {
+      "text": "go into the host track",
+      "start": 1984.64,
+      "duration": 5.759
+    },
+    {
+      "text": "and right where this arrow points to the",
+      "start": 1987.279,
+      "duration": 5.76
+    },
+    {
+      "text": "right and says none over here, we're",
+      "start": 1990.399,
+      "duration": 5.041
+    },
+    {
+      "text": "going to click it over here. Go into",
+      "start": 1993.039,
+      "duration": 5.441
+    },
+    {
+      "text": "mono and then click um the default",
+      "start": 1995.44,
+      "duration": 5.839
+    },
+    {
+      "text": "system button. What this is going to do",
+      "start": 1998.48,
+      "duration": 4.48
+    },
+    {
+      "text": "is it's going to allow you to click this",
+      "start": 2001.279,
+      "duration": 4.24
+    },
+    {
+      "text": "button up here and it's going to record",
+      "start": 2002.96,
+      "duration": 5.199
+    },
+    {
+      "text": "um any um it's going to let you input",
+      "start": 2005.519,
+      "duration": 6.081
+    },
+    {
+      "text": "the audio um through this. So, uh we're",
+      "start": 2008.159,
+      "duration": 5.841
+    },
+    {
+      "text": "just going to click record over here.",
+      "start": 2011.6,
+      "duration": 4.079
+    },
+    {
+      "text": "And wherever you want to put your play",
+      "start": 2014.0,
+      "duration": 3.039
+    },
+    {
+      "text": "head is where it's going to start",
+      "start": 2015.679,
+      "duration": 6.48
+    },
+    {
+      "text": "recording. So, let's just say um I",
+      "start": 2017.039,
+      "duration": 6.801
+    },
+    {
+      "text": "wanted the music to play a little bit",
+      "start": 2022.159,
+      "duration": 3.841
+    },
+    {
+      "text": "first",
+      "start": 2023.84,
+      "duration": 6.4
+    },
+    {
+      "text": "and then um I would like to speak. So",
+      "start": 2026.0,
+      "duration": 6.72
+    },
+    {
+      "text": "maybe the music is the intro. Um by the",
+      "start": 2030.24,
+      "duration": 4.48
+    },
+    {
+      "text": "way, all these layers over here, these",
+      "start": 2032.72,
+      "duration": 3.92
+    },
+    {
+      "text": "tracks, they all stack on top of each",
+      "start": 2034.72,
+      "duration": 3.839
+    },
+    {
+      "text": "other. So basically they will be playing",
+      "start": 2036.64,
+      "duration": 3.36
+    },
+    {
+      "text": "at the same time. So, if there's music",
+      "start": 2038.559,
+      "duration": 3.441
+    },
+    {
+      "text": "in here or there's something in here and",
+      "start": 2040.0,
+      "duration": 4.08
+    },
+    {
+      "text": "there's something in here, they will",
+      "start": 2042.0,
+      "duration": 3.919
+    },
+    {
+      "text": "play at the same time. And I can clear",
+      "start": 2044.08,
+      "duration": 3.999
+    },
+    {
+      "text": "that up if anyone has any questions with",
+      "start": 2045.919,
+      "duration": 4.081
+    },
+    {
+      "text": "that later because I know it might be",
+      "start": 2048.079,
+      "duration": 3.76
+    },
+    {
+      "text": "confusing and there's a bit of a",
+      "start": 2050.0,
+      "duration": 5.04
+    },
+    {
+      "text": "learning curve.",
+      "start": 2051.839,
+      "duration": 7.04
+    },
+    {
+      "text": "Um, so, uh, I want to put my play over",
+      "start": 2055.04,
+      "duration": 5.28
+    },
+    {
+      "text": "here. I'm going to start my voice over",
+      "start": 2058.879,
+      "duration": 3.601
+    },
+    {
+      "text": "at around 30 seconds, I'd say. And then",
+      "start": 2060.32,
+      "duration": 4.079
+    },
+    {
+      "text": "I'm just going to click this button to",
+      "start": 2062.48,
+      "duration": 3.359
+    },
+    {
+      "text": "start recording. And then I'll click it",
+      "start": 2064.399,
+      "duration": 4.881
+    },
+    {
+      "text": "again to stop the recording. Um, so, uh,",
+      "start": 2065.839,
+      "duration": 5.921
+    },
+    {
+      "text": "let's do this.",
+      "start": 2069.28,
+      "duration": 5.119
+    },
+    {
+      "text": "Hello, my name is [music] and you're",
+      "start": 2071.76,
+      "duration": 6.44
+    },
+    {
+      "text": "listening to my podcast.",
+      "start": 2074.399,
+      "duration": 3.801
+    },
+    {
+      "text": "There we go. So, it will also um play",
+      "start": 2080.32,
+      "duration": 5.44
+    },
+    {
+      "text": "the music while you're recording or",
+      "start": 2084.32,
+      "duration": 5.44
+    },
+    {
+      "text": "whatever else is in that um place at the",
+      "start": 2085.76,
+      "duration": 6.399
+    },
+    {
+      "text": "time just to give you a little like um",
+      "start": 2089.76,
+      "duration": 4.319
+    },
+    {
+      "text": "help make it easier to see what the",
+      "start": 2092.159,
+      "duration": 4.401
+    },
+    {
+      "text": "sound will actually um sound like when",
+      "start": 2094.079,
+      "duration": 5.921
+    },
+    {
+      "text": "you're recording. Um, so yeah, uh, I'm",
+      "start": 2096.56,
+      "duration": 5.68
+    },
+    {
+      "text": "going to solo this right now. This is",
+      "start": 2100.0,
+      "duration": 4.64
+    },
+    {
+      "text": "the solo button. Basically, what it will",
+      "start": 2102.24,
+      "duration": 4.24
+    },
+    {
+      "text": "do is it'll only play the sound from",
+      "start": 2104.64,
+      "duration": 4.4
+    },
+    {
+      "text": "that track. So, I'm going to move the",
+      "start": 2106.48,
+      "duration": 4.72
+    },
+    {
+      "text": "cursor head over back to here before it",
+      "start": 2109.04,
+      "duration": 3.68
+    },
+    {
+      "text": "started.",
+      "start": 2111.2,
+      "duration": 3.12
+    },
+    {
+      "text": "Not",
+      "start": 2112.72,
+      "duration": 4.84
+    },
+    {
+      "text": "I don't",
+      "start": 2114.32,
+      "duration": 3.24
+    },
+    {
+      "text": "Okay, I'm going to mute this and",
+      "start": 2120.4,
+      "duration": 3.92
+    },
+    {
+      "text": "hopefully it works.",
+      "start": 2122.24,
+      "duration": 3.92
+    },
+    {
+      "text": "I'm not sure why that's still playing.",
+      "start": 2124.32,
+      "duration": 3.44
+    },
+    {
+      "text": "That's",
+      "start": 2126.16,
+      "duration": 6.24
+    },
+    {
+      "text": "really odd. Um, I'm just gonna",
+      "start": 2127.76,
+      "duration": 9.28
+    },
+    {
+      "text": "turn the sound down this for now.",
+      "start": 2132.4,
+      "duration": 6.32
+    },
+    {
+      "text": "Hello,",
+      "start": 2137.04,
+      "duration": 4.0
+    },
+    {
+      "text": "my name is Talia and you were listening",
+      "start": 2138.72,
+      "duration": 5.2
+    },
+    {
+      "text": "to my podcast. So, what it basically did",
+      "start": 2141.04,
+      "duration": 4.4
+    },
+    {
+      "text": "in this instance accidentally because I",
+      "start": 2143.92,
+      "duration": 2.88
+    },
+    {
+      "text": "don't have my headphones in, which you",
+      "start": 2145.44,
+      "duration": 2.48
+    },
+    {
+      "text": "definitely usually should do. I just",
+      "start": 2146.8,
+      "duration": 2.96
+    },
+    {
+      "text": "didn't bring them today. Is that um",
+      "start": 2147.92,
+      "duration": 3.28
+    },
+    {
+      "text": "while I was recording it picked up the",
+      "start": 2149.76,
+      "duration": 4.079
+    },
+    {
+      "text": "musical um from over here and put it in",
+      "start": 2151.2,
+      "duration": 5.44
+    },
+    {
+      "text": "here. So, um, good tip, don't do that.",
+      "start": 2153.839,
+      "duration": 5.121
+    },
+    {
+      "text": "And how we can avoid doing that is by",
+      "start": 2156.64,
+      "duration": 5.84
+    },
+    {
+      "text": "muting this track while we do our voice",
+      "start": 2158.96,
+      "duration": 7.92
+    },
+    {
+      "text": "over so the music doesn't um, pick the",
+      "start": 2162.48,
+      "duration": 5.76
+    },
+    {
+      "text": "computer doesn't pick it up while we",
+      "start": 2166.88,
+      "duration": 3.52
+    },
+    {
+      "text": "record. Okay, let's try the recording",
+      "start": 2168.24,
+      "duration": 3.839
+    },
+    {
+      "text": "again.",
+      "start": 2170.4,
+      "duration": 3.76
+    },
+    {
+      "text": "Hello, my name is Talia and you were",
+      "start": 2172.079,
+      "duration": 5.801
+    },
+    {
+      "text": "listening to my podcast.",
+      "start": 2174.16,
+      "duration": 3.72
+    },
+    {
+      "text": "Oh, I forgot to press the record button.",
+      "start": 2179.359,
+      "duration": 4.321
+    },
+    {
+      "text": "[laughter]",
+      "start": 2181.83,
+      "duration": 3.85
+    },
+    {
+      "text": "It's exactly what we will do. So, it's",
+      "start": 2183.68,
+      "duration": 3.6
+    },
+    {
+      "text": "good to It's good that we learn it this",
+      "start": 2185.68,
+      "duration": 2.399
+    },
+    {
+      "text": "way.",
+      "start": 2187.28,
+      "duration": 1.6
+    },
+    {
+      "text": ">> Yes.",
+      "start": 2188.079,
+      "duration": 1.681
+    },
+    {
+      "text": ">> Good. It's",
+      "start": 2188.88,
+      "duration": 3.199
+    },
+    {
+      "text": ">> This is my first time um teaching",
+      "start": 2189.76,
+      "duration": 5.359
+    },
+    {
+      "text": "audition. So, um you got to work with me",
+      "start": 2192.079,
+      "duration": 4.561
+    },
+    {
+      "text": "here, but it's giving you tips on what",
+      "start": 2195.119,
+      "duration": 5.441
+    },
+    {
+      "text": "not to do. So, learn with it. [laughter]",
+      "start": 2196.64,
+      "duration": 6.719
+    },
+    {
+      "text": "Let me delete this.",
+      "start": 2200.56,
+      "duration": 4.799
+    },
+    {
+      "text": "Hello, my name is Talia and you were",
+      "start": 2203.359,
+      "duration": 5.921
+    },
+    {
+      "text": "listening to my podcast.",
+      "start": 2205.359,
+      "duration": 5.441
+    },
+    {
+      "text": "All right. Now, if we go back and put",
+      "start": 2209.28,
+      "duration": 5.839
+    },
+    {
+      "text": "our cursor over here, play",
+      "start": 2210.8,
+      "duration": 4.319
+    },
+    {
+      "text": "Hello, my name is Talia and you are",
+      "start": 2216.72,
+      "duration": 3.76
+    },
+    {
+      "text": "listening to my podcast.",
+      "start": 2218.56,
+      "duration": 4.88
+    },
+    {
+      "text": ">> Unsolo this and unmute this. Um,",
+      "start": 2220.48,
+      "duration": 7.08
+    },
+    {
+      "text": "combined it will sound like this.",
+      "start": 2223.44,
+      "duration": 4.12
+    },
+    {
+      "text": ">> Hello, my name is Talia and you were",
+      "start": 2227.92,
+      "duration": 4.0
+    },
+    {
+      "text": "listening to my podcast. Now you might",
+      "start": 2229.839,
+      "duration": 6.641
+    },
+    {
+      "text": "have noticed that this is really loud",
+      "start": 2231.92,
+      "duration": 8.32
+    },
+    {
+      "text": "and this is really soft and um this is",
+      "start": 2236.48,
+      "duration": 5.52
+    },
+    {
+      "text": "what we call uh this stage is what we",
+      "start": 2240.24,
+      "duration": 3.52
+    },
+    {
+      "text": "call audio mixing. So we want to make",
+      "start": 2242.0,
+      "duration": 3.839
+    },
+    {
+      "text": "sure that the combination of all these",
+      "start": 2243.76,
+      "duration": 6.319
+    },
+    {
+      "text": "sounds together sounds right. Um, so how",
+      "start": 2245.839,
+      "duration": 8.401
+    },
+    {
+      "text": "you can do that is, um, we have a bar",
+      "start": 2250.079,
+      "duration": 6.961
+    },
+    {
+      "text": "over here, our levels bar, and that's",
+      "start": 2254.24,
+      "duration": 6.0
+    },
+    {
+      "text": "going to tell us what levels are the",
+      "start": 2257.04,
+      "duration": 6.96
+    },
+    {
+      "text": "decibb that, um, each audio clip is",
+      "start": 2260.24,
+      "duration": 6.96
+    },
+    {
+      "text": "playing or in total what the decibb are.",
+      "start": 2264.0,
+      "duration": 5.68
+    },
+    {
+      "text": "So, if we go ahead and mute this clip,",
+      "start": 2267.2,
+      "duration": 4.8
+    },
+    {
+      "text": "it's only going to play this track. Um,",
+      "start": 2269.68,
+      "duration": 3.679
+    },
+    {
+      "text": "and it's going to show the levels of",
+      "start": 2272.0,
+      "duration": 6.44
+    },
+    {
+      "text": "that over here. So, let's play.",
+      "start": 2273.359,
+      "duration": 5.081
+    },
+    {
+      "text": "So, as you could see over there, it's",
+      "start": 2279.04,
+      "duration": 6.079
+    },
+    {
+      "text": "going into the red and it's showing this",
+      "start": 2282.4,
+      "duration": 5.28
+    },
+    {
+      "text": "red part. And we never ever want the red",
+      "start": 2285.119,
+      "duration": 5.041
+    },
+    {
+      "text": "part. Red part very bad. We want it to",
+      "start": 2287.68,
+      "duration": 4.72
+    },
+    {
+      "text": "be sitting around the yellow part. I'd",
+      "start": 2290.16,
+      "duration": 5.919
+    },
+    {
+      "text": "say that's the sweet spot um",
+      "start": 2292.4,
+      "duration": 6.16
+    },
+    {
+      "text": "that's the sweet spot for um dialogue,",
+      "start": 2296.079,
+      "duration": 6.081
+    },
+    {
+      "text": "but the sweet spot um for",
+      "start": 2298.56,
+      "duration": 6.88
+    },
+    {
+      "text": "audio is actually a bit lower. If I can",
+      "start": 2302.16,
+      "duration": 4.88
+    },
+    {
+      "text": "check,",
+      "start": 2305.44,
+      "duration": 5.2
+    },
+    {
+      "text": "um, there's a specific guide on dB, I'd",
+      "start": 2307.04,
+      "duration": 8.559
+    },
+    {
+      "text": "say. Um, so we want it to be around, I'd",
+      "start": 2310.64,
+      "duration": 9.199
+    },
+    {
+      "text": "say 18. Let's go 18 dB for this point.",
+      "start": 2315.599,
+      "duration": 7.361
+    },
+    {
+      "text": "So, we want the, um, levels to stop",
+      "start": 2319.839,
+      "duration": 5.601
+    },
+    {
+      "text": "around here. And how we can do this is",
+      "start": 2322.96,
+      "duration": 4.8
+    },
+    {
+      "text": "we're going to adjust this button over",
+      "start": 2325.44,
+      "duration": 4.24
+    },
+    {
+      "text": "here, the volume button, and we can make",
+      "start": 2327.76,
+      "duration": 4.72
+    },
+    {
+      "text": "it louder or quieter or louder. And I'm",
+      "start": 2329.68,
+      "duration": 5.36
+    },
+    {
+      "text": "gonna play the audio at the same time",
+      "start": 2332.48,
+      "duration": 5.28
+    },
+    {
+      "text": "and see if I can adjust it so it turns",
+      "start": 2335.04,
+      "duration": 6.64
+    },
+    {
+      "text": "um it the levels only hit this area.",
+      "start": 2337.76,
+      "duration": 8.68
+    },
+    {
+      "text": "Let me solo this. All right.",
+      "start": 2341.68,
+      "duration": 4.76
+    },
+    {
+      "text": "So, I've br it down a bit [music] and",
+      "start": 2352.8,
+      "duration": 4.319
+    },
+    {
+      "text": "it's going to play at around this area",
+      "start": 2354.48,
+      "duration": 5.04
+    },
+    {
+      "text": "which is ideal for the um background",
+      "start": 2357.119,
+      "duration": 5.201
+    },
+    {
+      "text": "music. So now if we if we were to unmute",
+      "start": 2359.52,
+      "duration": 4.72
+    },
+    {
+      "text": "this, unsolo this, and play these",
+      "start": 2362.32,
+      "duration": 3.92
+    },
+    {
+      "text": "together,",
+      "start": 2364.24,
+      "duration": 3.52
+    },
+    {
+      "text": "hopefully it'll sound a little better.",
+      "start": 2366.24,
+      "duration": 5.92
+    },
+    {
+      "text": "And then we'll adjust adjust um the host",
+      "start": 2367.76,
+      "duration": 7.4
+    },
+    {
+      "text": "sound.",
+      "start": 2372.16,
+      "duration": 3.0
+    },
+    {
+      "text": "Hello, my name is Talia and you are",
+      "start": 2376.079,
+      "duration": 4.641
+    },
+    {
+      "text": "listening to my podcast.",
+      "start": 2378.0,
+      "duration": 5.04
+    },
+    {
+      "text": "So as you can see already, you can hear",
+      "start": 2380.72,
+      "duration": 4.48
+    },
+    {
+      "text": "the um my voice much better and that's",
+      "start": 2383.04,
+      "duration": 3.44
+    },
+    {
+      "text": "what we want. We want the background",
+      "start": 2385.2,
+      "duration": 5.28
+    },
+    {
+      "text": "music to stay background music.",
+      "start": 2386.48,
+      "duration": 7.04
+    },
+    {
+      "text": "And I'd say uh for a general rule of",
+      "start": 2390.48,
+      "duration": 7.48
+    },
+    {
+      "text": "thumb um",
+      "start": 2393.52,
+      "duration": 4.44
+    },
+    {
+      "text": "I'd say that um",
+      "start": 2398.0,
+      "duration": 8.72
+    },
+    {
+      "text": "dialogue and voice should stay around 9",
+      "start": 2401.76,
+      "duration": 7.839
+    },
+    {
+      "text": "to -12. So I'm going to solo this. I'm",
+      "start": 2406.72,
+      "duration": 5.2
+    },
+    {
+      "text": "going to zoom in on it. And the scroll",
+      "start": 2409.599,
+      "duration": 4.48
+    },
+    {
+      "text": "bar up here is going to let you um go",
+      "start": 2411.92,
+      "duration": 4.159
+    },
+    {
+      "text": "back and forth if you want to zoom in on",
+      "start": 2414.079,
+      "duration": 5.801
+    },
+    {
+      "text": "your timeline and see",
+      "start": 2416.079,
+      "duration": 3.801
+    },
+    {
+      "text": "My name is Talia and you're listening to",
+      "start": 2422.24,
+      "duration": 3.76
+    },
+    {
+      "text": "my podcast. Just move it a little up",
+      "start": 2423.92,
+      "duration": 4.0
+    },
+    {
+      "text": "because I feel like it and unsolo and",
+      "start": 2426.0,
+      "duration": 3.599
+    },
+    {
+      "text": "see how it works together with the",
+      "start": 2427.92,
+      "duration": 4.679
+    },
+    {
+      "text": "music.",
+      "start": 2429.599,
+      "duration": 3.0
+    },
+    {
+      "text": ">> Hello, my name is Talia and you are",
+      "start": 2434.32,
+      "duration": 4.24
+    },
+    {
+      "text": "listening to my podcast.",
+      "start": 2436.16,
+      "duration": 6.48
+    },
+    {
+      "text": "Um, and [clears throat] if you want to",
+      "start": 2438.56,
+      "duration": 5.76
+    },
+    {
+      "text": "um",
+      "start": 2442.64,
+      "duration": 3.84
+    },
+    {
+      "text": "if you think it sounds bad um with these",
+      "start": 2444.32,
+      "duration": 4.08
+    },
+    {
+      "text": "decibel levels, you can always um so you",
+      "start": 2446.48,
+      "duration": 4.0
+    },
+    {
+      "text": "want to see um play it by ear a little",
+      "start": 2448.4,
+      "duration": 3.84
+    },
+    {
+      "text": "bit. I'd say I'd recommend putting the",
+      "start": 2450.48,
+      "duration": 5.2
+    },
+    {
+      "text": "volume maybe on half um over here and",
+      "start": 2452.24,
+      "duration": 4.879
+    },
+    {
+      "text": "then being able to play it by ear.",
+      "start": 2455.68,
+      "duration": 2.56
+    },
+    {
+      "text": "That's going to give you a good",
+      "start": 2457.119,
+      "duration": 3.2
+    },
+    {
+      "text": "reference to what it'll actually sound",
+      "start": 2458.24,
+      "duration": 5.2
+    },
+    {
+      "text": "like. And go around and um play with the",
+      "start": 2460.319,
+      "duration": 4.961
+    },
+    {
+      "text": "audio levels a little bit and see what's",
+      "start": 2463.44,
+      "duration": 4.72
+    },
+    {
+      "text": "the best combination.",
+      "start": 2465.28,
+      "duration": 4.559
+    },
+    {
+      "text": "Um",
+      "start": 2468.16,
+      "duration": 3.12
+    },
+    {
+      "text": "all right. Uh so",
+      "start": 2469.839,
+      "duration": 4.24
+    },
+    {
+      "text": ">> sorry Taria to disturb you because this",
+      "start": 2471.28,
+      "duration": 6.799
+    },
+    {
+      "text": "is kind of uh when new platform to me. I",
+      "start": 2474.079,
+      "duration": 6.961
+    },
+    {
+      "text": "just want you to define those uh latest",
+      "start": 2478.079,
+      "duration": 7.361
+    },
+    {
+      "text": "that you use. So I um so I can see where",
+      "start": 2481.04,
+      "duration": 6.48
+    },
+    {
+      "text": "you at the audio. I just want to be",
+      "start": 2485.44,
+      "duration": 4.879
+    },
+    {
+      "text": "familiar with the features that I have",
+      "start": 2487.52,
+      "duration": 5.839
+    },
+    {
+      "text": "and all of those options that we have.",
+      "start": 2490.319,
+      "duration": 3.601
+    },
+    {
+      "text": "If you can",
+      "start": 2493.359,
+      "duration": 2.24
+    },
+    {
+      "text": ">> Yes. Uh, is it these three?",
+      "start": 2493.92,
+      "duration": 2.0
+    },
+    {
+      "text": ">> Mhm.",
+      "start": 2495.599,
+      "duration": 2.0
+    },
+    {
+      "text": ">> That you're referencing.",
+      "start": 2495.92,
+      "duration": 3.6
+    },
+    {
+      "text": ">> All right. So, um, I probably should",
+      "start": 2497.599,
+      "duration": 3.681
+    },
+    {
+      "text": "have, um, defined them earlier, so thank",
+      "start": 2499.52,
+      "duration": 4.0
+    },
+    {
+      "text": "you for picking me up on that. Um, this",
+      "start": 2501.28,
+      "duration": 5.039
+    },
+    {
+      "text": "is M for mute. So, what that's going to",
+      "start": 2503.52,
+      "duration": 5.44
+    },
+    {
+      "text": "do is just say this is the track. So,",
+      "start": 2506.319,
+      "duration": 4.961
+    },
+    {
+      "text": "any audio that's going to be played",
+      "start": 2508.96,
+      "duration": 4.56
+    },
+    {
+      "text": "here, you're not going to be able to",
+      "start": 2511.28,
+      "duration": 3.76
+    },
+    {
+      "text": "hear it if I click the mute button. And",
+      "start": 2513.52,
+      "duration": 3.92
+    },
+    {
+      "text": "if I play, only this part is going to",
+      "start": 2515.04,
+      "duration": 5.4
+    },
+    {
+      "text": "play.",
+      "start": 2517.44,
+      "duration": 3.0
+    },
+    {
+      "text": "There we go.",
+      "start": 2520.64,
+      "duration": 5.76
+    },
+    {
+      "text": "Um, if I unmute it,",
+      "start": 2522.16,
+      "duration": 4.959
+    },
+    {
+      "text": "they're just going to play",
+      "start": 2526.4,
+      "duration": 4.56
+    },
+    {
+      "text": "simultaneously. If I solo it, my",
+      "start": 2527.119,
+      "duration": 5.795
+    },
+    {
+      "text": "podcast, this is the only audio track",
+      "start": 2530.96,
+      "duration": 3.76
+    },
+    {
+      "text": "[music] is that's going to play. It's",
+      "start": 2532.914,
+      "duration": 5.966
+    },
+    {
+      "text": "basically the reverse mute. Um, so these",
+      "start": 2534.72,
+      "duration": 6.16
+    },
+    {
+      "text": "any other tracks over here, you won't be",
+      "start": 2538.88,
+      "duration": 5.36
+    },
+    {
+      "text": "able to hear because they're not soloed.",
+      "start": 2540.88,
+      "duration": 7.239
+    },
+    {
+      "text": "So, let's play.",
+      "start": 2544.24,
+      "duration": 3.879
+    },
+    {
+      "text": "Hello, my name is Talia and you are",
+      "start": 2548.64,
+      "duration": 4.64
+    },
+    {
+      "text": "listening to my podcast. That's that",
+      "start": 2550.64,
+      "duration": 5.04
+    },
+    {
+      "text": "button and this is the record button",
+      "start": 2553.28,
+      "duration": 4.4
+    },
+    {
+      "text": "after record. So if I wanted to record",
+      "start": 2555.68,
+      "duration": 5.6
+    },
+    {
+      "text": "audio, I just um finish recording like I",
+      "start": 2557.68,
+      "duration": 4.88
+    },
+    {
+      "text": "did earlier. Does that clear it up a",
+      "start": 2561.28,
+      "duration": 2.559
+    },
+    {
+      "text": "little bit?",
+      "start": 2562.56,
+      "duration": 3.759
+    },
+    {
+      "text": ">> Yes, that is um clear. And one more",
+      "start": 2563.839,
+      "duration": 5.28
+    },
+    {
+      "text": "question. If you instead of recording",
+      "start": 2566.319,
+      "duration": 6.401
+    },
+    {
+      "text": "the audio, can you just remind us how to",
+      "start": 2569.119,
+      "duration": 7.121
+    },
+    {
+      "text": "import the audio from the file that you",
+      "start": 2572.72,
+      "duration": 7.119
+    },
+    {
+      "text": "show? previously. Thank you.",
+      "start": 2576.24,
+      "duration": 6.599
+    },
+    {
+      "text": ">> So",
+      "start": 2579.839,
+      "duration": 3.0
+    },
+    {
+      "text": "this",
+      "start": 2583.52,
+      "duration": 6.0
+    },
+    {
+      "text": "file button over here is clicked and",
+      "start": 2585.119,
+      "duration": 7.121
+    },
+    {
+      "text": "then it's just the file um button with",
+      "start": 2589.52,
+      "duration": 4.24
+    },
+    {
+      "text": "the arrow over here. Import. If you have",
+      "start": 2592.24,
+      "duration": 5.04
+    },
+    {
+      "text": "any audio stored um like um funky funk,",
+      "start": 2593.76,
+      "duration": 5.359
+    },
+    {
+      "text": "you just double click it and um now it's",
+      "start": 2597.28,
+      "duration": 3.44
+    },
+    {
+      "text": "there for you to drag wherever you um",
+      "start": 2599.119,
+      "duration": 4.561
+    },
+    {
+      "text": "wish in any of the tracks.",
+      "start": 2600.72,
+      "duration": 5.84
+    },
+    {
+      "text": "Does that clear it up?",
+      "start": 2603.68,
+      "duration": 4.8
+    },
+    {
+      "text": "Yes, thank you.",
+      "start": 2606.56,
+      "duration": 5.44
+    },
+    {
+      "text": ">> Great. Um, next we'll be going into um",
+      "start": 2608.48,
+      "duration": 7.2
+    },
+    {
+      "text": "how to edit the clips. So, um I'm going",
+      "start": 2612.0,
+      "duration": 7.28
+    },
+    {
+      "text": "to define clips is just any um piece of",
+      "start": 2615.68,
+      "duration": 5.6
+    },
+    {
+      "text": "audio basically. So, this is a clip.",
+      "start": 2619.28,
+      "duration": 5.039
+    },
+    {
+      "text": "It's on a track. Um so, you can have as",
+      "start": 2621.28,
+      "duration": 5.44
+    },
+    {
+      "text": "many clips on a track as you want, but",
+      "start": 2624.319,
+      "duration": 6.161
+    },
+    {
+      "text": "on a track um the clips on one track",
+      "start": 2626.72,
+      "duration": 5.92
+    },
+    {
+      "text": "can't be playing simultaneously. They",
+      "start": 2630.48,
+      "duration": 4.48
+    },
+    {
+      "text": "will be playing sequentially. But um if",
+      "start": 2632.64,
+      "duration": 4.88
+    },
+    {
+      "text": "you want simultaneous um clips to be",
+      "start": 2634.96,
+      "duration": 4.0
+    },
+    {
+      "text": "playing like we have here, you'll have",
+      "start": 2637.52,
+      "duration": 4.24
+    },
+    {
+      "text": "to put them on different tracks.",
+      "start": 2638.96,
+      "duration": 7.92
+    },
+    {
+      "text": "So um to edit this clip, uh let's just",
+      "start": 2641.76,
+      "duration": 8.64
+    },
+    {
+      "text": "say let's play this and mute this for a",
+      "start": 2646.88,
+      "duration": 6.08
+    },
+    {
+      "text": "moment so we can hear or let's solo this",
+      "start": 2650.4,
+      "duration": 4.8
+    },
+    {
+      "text": "even better so we can hear um just this",
+      "start": 2652.96,
+      "duration": 5.68
+    },
+    {
+      "text": "clip because that's what we want.",
+      "start": 2655.2,
+      "duration": 6.24
+    },
+    {
+      "text": "So if you were my name is Talia want a",
+      "start": 2658.64,
+      "duration": 4.479
+    },
+    {
+      "text": "little break between my name is Talia",
+      "start": 2661.44,
+      "duration": 4.0
+    },
+    {
+      "text": "and you're listening to my podcast the",
+      "start": 2663.119,
+      "duration": 5.361
+    },
+    {
+      "text": "um break between Talia and your um you",
+      "start": 2665.44,
+      "duration": 5.84
+    },
+    {
+      "text": "might go in here and let's see where we",
+      "start": 2668.48,
+      "duration": 7.96
+    },
+    {
+      "text": "can put the player head um between them.",
+      "start": 2671.28,
+      "duration": 5.16
+    },
+    {
+      "text": ">> So maybe we want it over here.",
+      "start": 2679.2,
+      "duration": 6.08
+    },
+    {
+      "text": ">> Um and you can use two options to split",
+      "start": 2681.44,
+      "duration": 6.72
+    },
+    {
+      "text": "the audio. Um,",
+      "start": 2685.28,
+      "duration": 4.88
+    },
+    {
+      "text": "let me move",
+      "start": 2688.16,
+      "duration": 6.4
+    },
+    {
+      "text": "this over so you can see the button. Um,",
+      "start": 2690.16,
+      "duration": 9.04
+    },
+    {
+      "text": "this is the razor button",
+      "start": 2694.56,
+      "duration": 8.64
+    },
+    {
+      "text": "and basically what it'll do is wherever",
+      "start": 2699.2,
+      "duration": 6.639
+    },
+    {
+      "text": "you put it over um, you can just click",
+      "start": 2703.2,
+      "duration": 5.68
+    },
+    {
+      "text": "and it'll cut anywhere. So, we want it",
+      "start": 2705.839,
+      "duration": 5.201
+    },
+    {
+      "text": "cut over here. So, you just go over the",
+      "start": 2708.88,
+      "duration": 3.84
+    },
+    {
+      "text": "cursor. So, those will be two separate",
+      "start": 2711.04,
+      "duration": 5.76
+    },
+    {
+      "text": "audio clips now. or um I prefer just",
+      "start": 2712.72,
+      "duration": 8.879
+    },
+    {
+      "text": "using um the um",
+      "start": 2716.8,
+      "duration": 8.16
+    },
+    {
+      "text": "oh by to get back into just moving being",
+      "start": 2721.599,
+      "duration": 5.441
+    },
+    {
+      "text": "able to move the clips you would have to",
+      "start": 2724.96,
+      "duration": 4.24
+    },
+    {
+      "text": "exit out of the razor and go back into",
+      "start": 2727.04,
+      "duration": 4.24
+    },
+    {
+      "text": "the move tool. Um that's just over there",
+      "start": 2729.2,
+      "duration": 4.48
+    },
+    {
+      "text": "in the tools bar.",
+      "start": 2731.28,
+      "duration": 5.2
+    },
+    {
+      "text": "Um my favorite thing is just using",
+      "start": 2733.68,
+      "duration": 6.88
+    },
+    {
+      "text": "command or control K.",
+      "start": 2736.48,
+      "duration": 6.639
+    },
+    {
+      "text": "That did that was on the wrong tab. Um,",
+      "start": 2740.56,
+      "duration": 4.88
+    },
+    {
+      "text": "and that will split the audio, um, where",
+      "start": 2743.119,
+      "duration": 5.121
+    },
+    {
+      "text": "your cursor is. So, it's a nice command.",
+      "start": 2745.44,
+      "duration": 5.36
+    },
+    {
+      "text": "Um, really neat trick. So, now, um, when",
+      "start": 2748.24,
+      "duration": 4.24
+    },
+    {
+      "text": "I click on these, there'll be two",
+      "start": 2750.8,
+      "duration": 4.799
+    },
+    {
+      "text": "separate, um, clips. So, if I wanted to",
+      "start": 2752.48,
+      "duration": 4.8
+    },
+    {
+      "text": "move this one back a little bit, which I",
+      "start": 2755.599,
+      "duration": 4.72
+    },
+    {
+      "text": "do want, um, there'll be now a pause",
+      "start": 2757.28,
+      "duration": 5.76
+    },
+    {
+      "text": "over here in this um, space over here,",
+      "start": 2760.319,
+      "duration": 7.04
+    },
+    {
+      "text": "this gray space, cuz I've moved it back.",
+      "start": 2763.04,
+      "duration": 6.24
+    },
+    {
+      "text": "So, maybe even",
+      "start": 2767.359,
+      "duration": 5.561
+    },
+    {
+      "text": "listening to my podcast.",
+      "start": 2769.28,
+      "duration": 3.64
+    },
+    {
+      "text": "name is Talia.",
+      "start": 2773.599,
+      "duration": 3.201
+    },
+    {
+      "text": ">> So if you wanted to have a little",
+      "start": 2774.64,
+      "duration": 4.24
+    },
+    {
+      "text": "podcast that might be nice.",
+      "start": 2776.8,
+      "duration": 4.16
+    },
+    {
+      "text": ">> And so that is how you split clips. If",
+      "start": 2778.88,
+      "duration": 5.199
+    },
+    {
+      "text": "you want um to adjust the clips again,",
+      "start": 2780.96,
+      "duration": 5.6
+    },
+    {
+      "text": "just say you wanted a little you split a",
+      "start": 2784.079,
+      "duration": 5.841
+    },
+    {
+      "text": "clip here and you want to pull it out a",
+      "start": 2786.56,
+      "duration": 5.84
+    },
+    {
+      "text": "little bit and want more of the audio to",
+      "start": 2789.92,
+      "duration": 4.399
+    },
+    {
+      "text": "continue on from where you cut it. You",
+      "start": 2792.4,
+      "duration": 4.719
+    },
+    {
+      "text": "would just drag it over here and you",
+      "start": 2794.319,
+      "duration": 6.201
+    },
+    {
+      "text": "would get it back.",
+      "start": 2797.119,
+      "duration": 3.401
+    },
+    {
+      "text": "You were listening to my podcast. My",
+      "start": 2800.64,
+      "duration": 4.64
+    },
+    {
+      "text": "name is Talia and you were listening to",
+      "start": 2802.079,
+      "duration": 8.081
+    },
+    {
+      "text": "my podcast and you were Yes.",
+      "start": 2805.28,
+      "duration": 7.44
+    },
+    {
+      "text": "Um, and you can also do the reverse. If",
+      "start": 2810.16,
+      "duration": 4.24
+    },
+    {
+      "text": "you wanted to cut the clip in a little",
+      "start": 2812.72,
+      "duration": 3.2
+    },
+    {
+      "text": "bit more, um, maybe you didn't want all",
+      "start": 2814.4,
+      "duration": 3.679
+    },
+    {
+      "text": "that. Um, you would just move it in like",
+      "start": 2815.92,
+      "duration": 3.6
+    },
+    {
+      "text": "that and that would cut the audio as",
+      "start": 2818.079,
+      "duration": 3.921
+    },
+    {
+      "text": "well. Um, I hope that makes sense right",
+      "start": 2819.52,
+      "duration": 6.559
+    },
+    {
+      "text": "now. Um, any questions with that?",
+      "start": 2822.0,
+      "duration": 10.0
+    },
+    {
+      "text": "Okay. Um, so as you um",
+      "start": 2826.079,
+      "duration": 8.0
+    },
+    {
+      "text": "can see over here, we're going to get",
+      "start": 2832.0,
+      "duration": 5.839
+    },
+    {
+      "text": "into fades. Um, this music luckily",
+      "start": 2834.079,
+      "duration": 7.921
+    },
+    {
+      "text": "already has a really nice fade",
+      "start": 2837.839,
+      "duration": 6.961
+    },
+    {
+      "text": "where it fades out and the music very",
+      "start": 2842.0,
+      "duration": 5.52
+    },
+    {
+      "text": "nicely quiets down. But let's just say",
+      "start": 2844.8,
+      "duration": 4.24
+    },
+    {
+      "text": "we didn't have that for a second. What",
+      "start": 2847.52,
+      "duration": 4.079
+    },
+    {
+      "text": "if the music was very harsh and had a",
+      "start": 2849.04,
+      "duration": 6.76
+    },
+    {
+      "text": "really abrupt and jarring ending?",
+      "start": 2851.599,
+      "duration": 4.201
+    },
+    {
+      "text": "it just kind of goes off. There's",
+      "start": 2857.28,
+      "duration": 4.319
+    },
+    {
+      "text": "nothing smooth or nice about it. Um, we",
+      "start": 2858.72,
+      "duration": 5.28
+    },
+    {
+      "text": "have this option to do an exponential",
+      "start": 2861.599,
+      "duration": 5.121
+    },
+    {
+      "text": "fade. And basically, it's just this",
+      "start": 2864.0,
+      "duration": 5.119
+    },
+    {
+      "text": "button right here.",
+      "start": 2866.72,
+      "duration": 4.08
+    },
+    {
+      "text": "And you just drag it out to where you",
+      "start": 2869.119,
+      "duration": 4.561
+    },
+    {
+      "text": "want it. And you can even curve it down",
+      "start": 2870.8,
+      "duration": 6.4
+    },
+    {
+      "text": "or move it to as you see fit. And this",
+      "start": 2873.68,
+      "duration": 6.639
+    },
+    {
+      "text": "line right over here is going to show",
+      "start": 2877.2,
+      "duration": 8.24
+    },
+    {
+      "text": "you um the direction of the sound. So,",
+      "start": 2880.319,
+      "duration": 8.161
+    },
+    {
+      "text": "from this point on, when we play, it's",
+      "start": 2885.44,
+      "duration": 4.48
+    },
+    {
+      "text": "going to I'm going to even adjust it a",
+      "start": 2888.48,
+      "duration": 3.2
+    },
+    {
+      "text": "little bit more.",
+      "start": 2889.92,
+      "duration": 3.76
+    },
+    {
+      "text": "It's going to slowly and slowly get more",
+      "start": 2891.68,
+      "duration": 6.679
+    },
+    {
+      "text": "quiet, have a really nice fade out.",
+      "start": 2893.68,
+      "duration": 4.679
+    },
+    {
+      "text": "And maybe let's apply that to the",
+      "start": 2904.48,
+      "duration": 5.04
+    },
+    {
+      "text": "beginning too because um there also",
+      "start": 2906.4,
+      "duration": 6.88
+    },
+    {
+      "text": "could be a potentially jarring um",
+      "start": 2909.52,
+      "duration": 8.64
+    },
+    {
+      "text": "beginning um sound as well. Um one",
+      "start": 2913.28,
+      "duration": 7.88
+    },
+    {
+      "text": "second.",
+      "start": 2918.16,
+      "duration": 3.0
+    },
+    {
+      "text": "So go over here.",
+      "start": 2921.2,
+      "duration": 6.56
+    },
+    {
+      "text": "Nice fade",
+      "start": 2924.88,
+      "duration": 5.88
+    },
+    {
+      "text": "out.",
+      "start": 2927.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Fade in. It's a fade in. So you might",
+      "start": 2931.119,
+      "duration": 4.24
+    },
+    {
+      "text": "not be able to hear much. And then",
+      "start": 2934.0,
+      "duration": 4.64
+    },
+    {
+      "text": "slowly slowly the music increases and",
+      "start": 2935.359,
+      "duration": 5.2
+    },
+    {
+      "text": "gets nice and to the volume that we",
+      "start": 2938.64,
+      "duration": 5.8
+    },
+    {
+      "text": "mainly want [music] it to be at.",
+      "start": 2940.559,
+      "duration": 3.881
+    },
+    {
+      "text": "There we [music] go. Um so next I'm",
+      "start": 2950.559,
+      "duration": 6.321
+    },
+    {
+      "text": "going to be uh talking about effects.",
+      "start": 2954.0,
+      "duration": 7.92
+    },
+    {
+      "text": "Um, so basically, um,",
+      "start": 2956.88,
+      "duration": 11.439
+    },
+    {
+      "text": "there's track effects and clip effects.",
+      "start": 2961.92,
+      "duration": 9.199
+    },
+    {
+      "text": "And the difference is you can either",
+      "start": 2968.319,
+      "duration": 6.881
+    },
+    {
+      "text": "apply an effect to an entire track,",
+      "start": 2971.119,
+      "duration": 5.841
+    },
+    {
+      "text": "which is going to clip out of that",
+      "start": 2975.2,
+      "duration": 3.28
+    },
+    {
+      "text": "track. For example, if you were to move",
+      "start": 2976.96,
+      "duration": 4.639
+    },
+    {
+      "text": "it down here, if I had a effect in that",
+      "start": 2978.48,
+      "duration": 5.52
+    },
+    {
+      "text": "track, it would no longer apply to this",
+      "start": 2981.599,
+      "duration": 4.72
+    },
+    {
+      "text": "clip that is in another track. Now I'm",
+      "start": 2984.0,
+      "duration": 5.04
+    },
+    {
+      "text": "going to reverse that. But if you wanted",
+      "start": 2986.319,
+      "duration": 5.441
+    },
+    {
+      "text": "to specifically apply a clip to this to",
+      "start": 2989.04,
+      "duration": 4.64
+    },
+    {
+      "text": "apply an effect to this and not to this",
+      "start": 2991.76,
+      "duration": 6.44
+    },
+    {
+      "text": "clip, you would double click the clip",
+      "start": 2993.68,
+      "duration": 4.52
+    },
+    {
+      "text": "and that's going to take us um to the",
+      "start": 2998.4,
+      "duration": 4.48
+    },
+    {
+      "text": "waveform",
+      "start": 3001.359,
+      "duration": 3.521
+    },
+    {
+      "text": "um section which is just going to edit",
+      "start": 3002.88,
+      "duration": 6.32
+    },
+    {
+      "text": "one clip. And um over here uh I just",
+      "start": 3004.88,
+      "duration": 6.8
+    },
+    {
+      "text": "recommend using this for now, but uh",
+      "start": 3009.2,
+      "duration": 6.639
+    },
+    {
+      "text": "there are of course others um in here.",
+      "start": 3011.68,
+      "duration": 9.28
+    },
+    {
+      "text": "Um I'm going to use the d noiseise",
+      "start": 3015.839,
+      "duration": 7.76
+    },
+    {
+      "text": "um effect over here and I'm going to",
+      "start": 3020.96,
+      "duration": 5.599
+    },
+    {
+      "text": "apply it specifically to this clip. So,",
+      "start": 3023.599,
+      "duration": 6.161
+    },
+    {
+      "text": "uh, this is a really helpful, um, this",
+      "start": 3026.559,
+      "duration": 5.121
+    },
+    {
+      "text": "is a really helpful effect, one that I",
+      "start": 3029.76,
+      "duration": 3.599
+    },
+    {
+      "text": "recommend definitely using for dialogue,",
+      "start": 3031.68,
+      "duration": 3.679
+    },
+    {
+      "text": "especially if you have, uh, air",
+      "start": 3033.359,
+      "duration": 3.921
+    },
+    {
+      "text": "conditioner or loud background noise.",
+      "start": 3035.359,
+      "duration": 4.0
+    },
+    {
+      "text": "What it's basically going to do is it's",
+      "start": 3037.28,
+      "duration": 3.76
+    },
+    {
+      "text": "going to try, it's not perfect, but it's",
+      "start": 3039.359,
+      "duration": 3.76
+    },
+    {
+      "text": "going to try and reduce that background",
+      "start": 3041.04,
+      "duration": 6.799
+    },
+    {
+      "text": "noise so your audio is clear and um,",
+      "start": 3043.119,
+      "duration": 6.72
+    },
+    {
+      "text": "without distractions in the background.",
+      "start": 3047.839,
+      "duration": 9.161
+    },
+    {
+      "text": "So now if I play um I think I have to",
+      "start": 3049.839,
+      "duration": 7.161
+    },
+    {
+      "text": "think it worked. Yeah.",
+      "start": 3063.599,
+      "duration": 3.921
+    },
+    {
+      "text": ">> Hello. My name is Talia and you were",
+      "start": 3065.44,
+      "duration": 3.04
+    },
+    {
+      "text": "listening to my podcast",
+      "start": 3067.52,
+      "duration": 2.48
+    },
+    {
+      "text": ">> in the room that I'm um currently in.",
+      "start": 3068.48,
+      "duration": 3.119
+    },
+    {
+      "text": "You could not hear any background noise",
+      "start": 3070.0,
+      "duration": 4.64
+    },
+    {
+      "text": "in the back.",
+      "start": 3071.599,
+      "duration": 7.281
+    },
+    {
+      "text": "Um, so that's how you apply um effects",
+      "start": 3074.64,
+      "duration": 6.719
+    },
+    {
+      "text": "to a specific clip. If you want to go",
+      "start": 3078.88,
+      "duration": 5.199
+    },
+    {
+      "text": "back, click the multitrack option and",
+      "start": 3081.359,
+      "duration": 3.841
+    },
+    {
+      "text": "that's going to take you back to the",
+      "start": 3084.079,
+      "duration": 3.201
+    },
+    {
+      "text": "multitrack.",
+      "start": 3085.2,
+      "duration": 4.24
+    },
+    {
+      "text": "And as you can see, let's do a little",
+      "start": 3087.28,
+      "duration": 5.44
+    },
+    {
+      "text": "comparison. Maybe",
+      "start": 3089.44,
+      "duration": 6.76
+    },
+    {
+      "text": "this clip.",
+      "start": 3092.72,
+      "duration": 3.48
+    },
+    {
+      "text": ">> Hello, my name is Buzzing. Um, I don't",
+      "start": 3097.04,
+      "duration": 4.64
+    },
+    {
+      "text": "know why I accidentally split that. Let",
+      "start": 3099.92,
+      "duration": 5.8
+    },
+    {
+      "text": "me bring that in a little bit.",
+      "start": 3101.68,
+      "duration": 4.04
+    },
+    {
+      "text": "And you",
+      "start": 3105.839,
+      "duration": 3.161
+    },
+    {
+      "text": "Talia and you.",
+      "start": 3116.079,
+      "duration": 7.841
+    },
+    {
+      "text": "So even there harsh over here",
+      "start": 3119.359,
+      "duration": 7.72
+    },
+    {
+      "text": "over here",
+      "start": 3123.92,
+      "duration": 3.159
+    },
+    {
+      "text": "a little bit more is Talia.",
+      "start": 3129.28,
+      "duration": 5.0
+    },
+    {
+      "text": "My name is Talia",
+      "start": 3135.119,
+      "duration": 5.601
+    },
+    {
+      "text": "and you were listening to my podcast.",
+      "start": 3137.359,
+      "duration": 5.601
+    },
+    {
+      "text": ">> Maybe maybe not. Maybe just um make sure",
+      "start": 3140.72,
+      "duration": 5.2
+    },
+    {
+      "text": "you do a little pause yourself. So um I",
+      "start": 3142.96,
+      "duration": 4.639
+    },
+    {
+      "text": "said it really quickly. So, when I",
+      "start": 3145.92,
+      "duration": 3.679
+    },
+    {
+      "text": "broke, I didn't really have a gap",
+      "start": 3147.599,
+      "duration": 4.72
+    },
+    {
+      "text": "between words. So, um consider that if",
+      "start": 3149.599,
+      "duration": 5.041
+    },
+    {
+      "text": "you wanted to cut your audio and um",
+      "start": 3152.319,
+      "duration": 3.76
+    },
+    {
+      "text": "split it. You might want a little bit",
+      "start": 3154.64,
+      "duration": 3.919
+    },
+    {
+      "text": "more of a pause that I than I did when I",
+      "start": 3156.079,
+      "duration": 4.081
+    },
+    {
+      "text": "split my clips. So, for example, I",
+      "start": 3158.559,
+      "duration": 4.0
+    },
+    {
+      "text": "should have said, \"My name is Talia and",
+      "start": 3160.16,
+      "duration": 4.48
+    },
+    {
+      "text": "you're listening to my podcast kind of",
+      "start": 3162.559,
+      "duration": 4.56
+    },
+    {
+      "text": "jarring um end cut where you can clearly",
+      "start": 3164.64,
+      "duration": 4.24
+    },
+    {
+      "text": "see I've cut the audio off and split",
+      "start": 3167.119,
+      "duration": 5.841
+    },
+    {
+      "text": "somewhere else.\" Um so, that's effects",
+      "start": 3168.88,
+      "duration": 6.56
+    },
+    {
+      "text": "um for clips. if you want to do the",
+      "start": 3172.96,
+      "duration": 8.92
+    },
+    {
+      "text": "entire um track. Um,",
+      "start": 3175.44,
+      "duration": 6.44
+    },
+    {
+      "text": "one second.",
+      "start": 3182.24,
+      "duration": 3.4
+    },
+    {
+      "text": "Um, also, um, the preset of the podcast",
+      "start": 3192.48,
+      "duration": 7.04
+    },
+    {
+      "text": "is going to give you these already, um,",
+      "start": 3196.4,
+      "duration": 5.199
+    },
+    {
+      "text": "effects in here in each track. So, don't",
+      "start": 3199.52,
+      "duration": 3.92
+    },
+    {
+      "text": "be alarmed. That's just the preset of",
+      "start": 3201.599,
+      "duration": 4.641
+    },
+    {
+      "text": "the podcast trying to help you. So, uh,",
+      "start": 3203.44,
+      "duration": 4.879
+    },
+    {
+      "text": "this is where the track, um, effects",
+      "start": 3206.24,
+      "duration": 3.599
+    },
+    {
+      "text": "are. So, if I wanted to create a new",
+      "start": 3208.319,
+      "duration": 3.601
+    },
+    {
+      "text": "effect in here,",
+      "start": 3209.839,
+      "duration": 3.76
+    },
+    {
+      "text": "um, I would turn the power button onto",
+      "start": 3211.92,
+      "duration": 8.24
+    },
+    {
+      "text": "it and then go into here and h",
+      "start": 3213.599,
+      "duration": 10.72
+    },
+    {
+      "text": "let's go reverb effect today. Um, you",
+      "start": 3220.16,
+      "duration": 6.08
+    },
+    {
+      "text": "can explore these um, effects. They're",
+      "start": 3224.319,
+      "duration": 3.921
+    },
+    {
+      "text": "really fun and a lot of them are really",
+      "start": 3226.24,
+      "duration": 3.76
+    },
+    {
+      "text": "helpful. For example, like the D noiseis",
+      "start": 3228.24,
+      "duration": 4.48
+    },
+    {
+      "text": "effect. Um, if I wanted to make it sound",
+      "start": 3230.0,
+      "duration": 7.04
+    },
+    {
+      "text": "like, um, there was an echo in the room,",
+      "start": 3232.72,
+      "duration": 7.44
+    },
+    {
+      "text": "um, I would go into reverb and studio",
+      "start": 3237.04,
+      "duration": 8.76
+    },
+    {
+      "text": "reverb and I'll play this.",
+      "start": 3240.16,
+      "duration": 5.64
+    },
+    {
+      "text": ">> So, um, you can see now, if you wanted",
+      "start": 3250.48,
+      "duration": 5.44
+    },
+    {
+      "text": "to, um, change the podcast, you could be",
+      "start": 3253.44,
+      "duration": 5.72
+    },
+    {
+      "text": "in a great",
+      "start": 3255.92,
+      "duration": 3.24
+    },
+    {
+      "text": "It just um changes the environment of",
+      "start": 3262.559,
+      "duration": 5.441
+    },
+    {
+      "text": "the room you listen to my podcast.",
+      "start": 3265.52,
+      "duration": 6.0
+    },
+    {
+      "text": ">> So um I really recommend um exploring",
+      "start": 3268.0,
+      "duration": 7.599
+    },
+    {
+      "text": "these effects. They're really fun. Um",
+      "start": 3271.52,
+      "duration": 7.599
+    },
+    {
+      "text": "yeah. So I'm going to bring this um back",
+      "start": 3275.599,
+      "duration": 6.72
+    },
+    {
+      "text": "with this. I'm going to delete this and",
+      "start": 3279.119,
+      "duration": 5.361
+    },
+    {
+      "text": "drag it out cuz I've decided I don't",
+      "start": 3282.319,
+      "duration": 4.0
+    },
+    {
+      "text": "really like the break in there. I feel",
+      "start": 3284.48,
+      "duration": 4.48
+    },
+    {
+      "text": "like it feels jarring. So, if remember",
+      "start": 3286.319,
+      "duration": 4.961
+    },
+    {
+      "text": "before, if I drag it back out, it will",
+      "start": 3288.96,
+      "duration": 4.96
+    },
+    {
+      "text": "have the same thing. Maybe I move it a",
+      "start": 3291.28,
+      "duration": 4.96
+    },
+    {
+      "text": "bit to the front because I want my intro",
+      "start": 3293.92,
+      "duration": 4.8
+    },
+    {
+      "text": "to start quicker. And I'm going to",
+      "start": 3296.24,
+      "duration": 5.76
+    },
+    {
+      "text": "unsolo this. And let's see it all play",
+      "start": 3298.72,
+      "duration": 6.28
+    },
+    {
+      "text": "together.",
+      "start": 3302.0,
+      "duration": 3.0
+    },
+    {
+      "text": "One second.",
+      "start": 3318.8,
+      "duration": 4.64
+    },
+    {
+      "text": "Oh, yes. I forgot about this. Maybe I",
+      "start": 3321.119,
+      "duration": 4.561
+    },
+    {
+      "text": "drag this a little in. Just got to play",
+      "start": 3323.44,
+      "duration": 5.56
+    },
+    {
+      "text": "around with it.",
+      "start": 3325.68,
+      "duration": 3.32
+    },
+    {
+      "text": "Hello, my name is Talia and you're",
+      "start": 3334.72,
+      "duration": 4.08
+    },
+    {
+      "text": "listening to my podcast.",
+      "start": 3336.559,
+      "duration": 4.8
+    },
+    {
+      "text": "And there we go. Um, so [music] really",
+      "start": 3338.8,
+      "duration": 4.48
+    },
+    {
+      "text": "play around with it. Um, there's a lot",
+      "start": 3341.359,
+      "duration": 3.76
+    },
+    {
+      "text": "of possibilities.",
+      "start": 3343.28,
+      "duration": 5.839
+    },
+    {
+      "text": "Um, it's a really good tool. Um, and I",
+      "start": 3345.119,
+      "duration": 6.081
+    },
+    {
+      "text": "hope it suits um, the assignments that",
+      "start": 3349.119,
+      "duration": 6.321
+    },
+    {
+      "text": "you're doing right now. Um to export um",
+      "start": 3351.2,
+      "duration": 6.639
+    },
+    {
+      "text": "you go to file",
+      "start": 3355.44,
+      "duration": 4.32
+    },
+    {
+      "text": "export",
+      "start": 3357.839,
+      "duration": 5.601
+    },
+    {
+      "text": "multitrack mi mixdown",
+      "start": 3359.76,
+      "duration": 6.88
+    },
+    {
+      "text": "entire session.",
+      "start": 3363.44,
+      "duration": 5.52
+    },
+    {
+      "text": "You you can title your um podcast",
+      "start": 3366.64,
+      "duration": 4.24
+    },
+    {
+      "text": "whatever you like. I'm going to keep it",
+      "start": 3368.96,
+      "duration": 4.879
+    },
+    {
+      "text": "as it is. Oh maybe maybe I'll change it",
+      "start": 3370.88,
+      "duration": 5.52
+    },
+    {
+      "text": "a little bit. My podcast. You can choose",
+      "start": 3373.839,
+      "duration": 4.561
+    },
+    {
+      "text": "where you save it. I'm just going to",
+      "start": 3376.4,
+      "duration": 4.159
+    },
+    {
+      "text": "save it here for now. No, I won't. I",
+      "start": 3378.4,
+      "duration": 7.12
+    },
+    {
+      "text": "will decide to save it maybe in",
+      "start": 3380.559,
+      "duration": 8.0
+    },
+    {
+      "text": "this section, my podcast, this Adobe",
+      "start": 3385.52,
+      "duration": 6.319
+    },
+    {
+      "text": "Audition file. And make sure you have an",
+      "start": 3388.559,
+      "duration": 5.52
+    },
+    {
+      "text": "audio format that works. Sometimes these",
+      "start": 3391.839,
+      "duration": 4.561
+    },
+    {
+      "text": "are not compatible with um the apps you",
+      "start": 3394.079,
+      "duration": 4.72
+    },
+    {
+      "text": "have in your computers. But uh I'd say",
+      "start": 3396.4,
+      "duration": 7.88
+    },
+    {
+      "text": "MP3 is a pretty safe option.",
+      "start": 3398.799,
+      "duration": 5.481
+    },
+    {
+      "text": "And I'm going to go okay. It's going to",
+      "start": 3404.48,
+      "duration": 5.92
+    },
+    {
+      "text": "download. I'm going to go over here to",
+      "start": 3407.92,
+      "duration": 4.72
+    },
+    {
+      "text": "my audition file. And as you can see, we",
+      "start": 3410.4,
+      "duration": 6.12
+    },
+    {
+      "text": "have an my podcast MP3.",
+      "start": 3412.64,
+      "duration": 3.88
+    },
+    {
+      "text": ">> Hello, my name is Talia and you're",
+      "start": 3420.319,
+      "duration": 5.52
+    },
+    {
+      "text": "listening to my podcast. I have um",
+      "start": 3422.16,
+      "duration": 9.639
+    },
+    {
+      "text": ">> this on. But um one second.",
+      "start": 3425.839,
+      "duration": 5.96
+    },
+    {
+      "text": "Um yeah, it's playing twice cuz I have",
+      "start": 3432.0,
+      "duration": 3.28
+    },
+    {
+      "text": "that on. But if you just launch that, it",
+      "start": 3433.599,
+      "duration": 3.681
+    },
+    {
+      "text": "should be able to play smoothly and",
+      "start": 3435.28,
+      "duration": 6.079
+    },
+    {
+      "text": "singly. Um, so, uh, yeah, that's",
+      "start": 3437.28,
+      "duration": 7.92
+    },
+    {
+      "text": "basically it. If you, uh, still need,",
+      "start": 3441.359,
+      "duration": 8.641
+    },
+    {
+      "text": "um, help, uh, with this, I Adobe and in",
+      "start": 3445.2,
+      "duration": 8.0
+    },
+    {
+      "text": "the Adobe Hub, we do offer a free one",
+      "start": 3450.0,
+      "duration": 6.48
+    },
+    {
+      "text": "onone help sessions.",
+      "start": 3453.2,
+      "duration": 5.359
+    },
+    {
+      "text": "Um,",
+      "start": 3456.48,
+      "duration": 5.92
+    },
+    {
+      "text": "I offer them personally as well. So, um,",
+      "start": 3458.559,
+      "duration": 5.681
+    },
+    {
+      "text": "if you want to scan this QR code, you",
+      "start": 3462.4,
+      "duration": 3.52
+    },
+    {
+      "text": "can book a meeting, uh, with us and",
+      "start": 3464.24,
+      "duration": 3.28
+    },
+    {
+      "text": "we'll help you with anything you want,",
+      "start": 3465.92,
+      "duration": 3.84
+    },
+    {
+      "text": "even if I didn't cover it in this area.",
+      "start": 3467.52,
+      "duration": 4.16
+    },
+    {
+      "text": "Um, if you want to extend yourself,",
+      "start": 3469.76,
+      "duration": 3.76
+    },
+    {
+      "text": "stretch yourself. Um, I'm pretty",
+      "start": 3471.68,
+      "duration": 2.96
+    },
+    {
+      "text": "knowledgeable in this, so I probably",
+      "start": 3473.52,
+      "duration": 3.039
+    },
+    {
+      "text": "will be able to help you. Um, if you",
+      "start": 3474.64,
+      "duration": 3.439
+    },
+    {
+      "text": "wanted to book me specifically, cuz I",
+      "start": 3476.559,
+      "duration": 3.441
+    },
+    {
+      "text": "have the Adobe edition knowledge",
+      "start": 3478.079,
+      "duration": 3.841
+    },
+    {
+      "text": "compared to a little bit better compared",
+      "start": 3480.0,
+      "duration": 4.72
+    },
+    {
+      "text": "to some of the other coaches. Um, my",
+      "start": 3481.92,
+      "duration": 7.52
+    },
+    {
+      "text": "shifts are Thursday, um, 11 till 2 every",
+      "start": 3484.72,
+      "duration": 7.44
+    },
+    {
+      "text": "Fortnite. So it' be this um oh",
+      "start": 3489.44,
+      "duration": 4.72
+    },
+    {
+      "text": "Wednesday, my bad, Wednesday every",
+      "start": 3492.16,
+      "duration": 4.24
+    },
+    {
+      "text": "Fortnite. So it'd be this Wednesday and",
+      "start": 3494.16,
+      "duration": 5.52
+    },
+    {
+      "text": "then uh continuing fortnightly. Um so",
+      "start": 3496.4,
+      "duration": 5.199
+    },
+    {
+      "text": "that's just at level two and the",
+      "start": 3499.68,
+      "duration": 5.439
+    },
+    {
+      "text": "Hawthorne Library. Um",
+      "start": 3501.599,
+      "duration": 6.161
+    },
+    {
+      "text": "so uh yeah, that's that's about it from",
+      "start": 3505.119,
+      "duration": 5.281
+    },
+    {
+      "text": "me. Uh do you have any questions or",
+      "start": 3507.76,
+      "duration": 5.64
+    },
+    {
+      "text": "anything",
+      "start": 3510.4,
+      "duration": 3.0
+    },
+    {
+      "text": "questions? Anyone?",
+      "start": 3515.52,
+      "duration": 4.72
+    },
+    {
+      "text": "give you a minute to think of some if",
+      "start": 3518.48,
+      "duration": 3.92
+    },
+    {
+      "text": "you like. Um, thanks for that, Talia.",
+      "start": 3520.24,
+      "duration": 3.92
+    },
+    {
+      "text": "Um, you managed to cover it all in the",
+      "start": 3522.4,
+      "duration": 3.6
+    },
+    {
+      "text": "in the half hour, so go you. [laughter]",
+      "start": 3524.16,
+      "duration": 2.959
+    },
+    {
+      "text": "Well done.",
+      "start": 3526.0,
+      "duration": 2.48
+    },
+    {
+      "text": ">> I'm so glad I did. Oh my god.",
+      "start": 3527.119,
+      "duration": 2.801
+    },
+    {
+      "text": ">> Oh, no, no, it's all good. It's fine.",
+      "start": 3528.48,
+      "duration": 3.839
+    },
+    {
+      "text": "Things happen. Um, so an interesting",
+      "start": 3529.92,
+      "duration": 4.159
+    },
+    {
+      "text": "thing for people to know as well is that",
+      "start": 3532.319,
+      "duration": 4.961
+    },
+    {
+      "text": "uh for free music, you can also check",
+      "start": 3534.079,
+      "duration": 7.121
+    },
+    {
+      "text": "out um a site called Zack. I was It",
+      "start": 3537.28,
+      "duration": 5.6
+    },
+    {
+      "text": "doesn't matter how clearly I pronounce",
+      "start": 3541.2,
+      "duration": 4.48
+    },
+    {
+      "text": "it. It doesn't sound right. Um, zap",
+      "start": 3542.88,
+      "duration": 5.199
+    },
+    {
+      "text": "splat probably like zapslat noise",
+      "start": 3545.68,
+      "duration": 4.399
+    },
+    {
+      "text": "sounds. So, I'm typing that in the chat",
+      "start": 3548.079,
+      "duration": 5.441
+    },
+    {
+      "text": "now for you all. Zaplat.",
+      "start": 3550.079,
+      "duration": 6.161
+    },
+    {
+      "text": "Um, they've got free. It's just like",
+      "start": 3553.52,
+      "duration": 4.88
+    },
+    {
+      "text": "just Google Zapslat. Um, they've got",
+      "start": 3556.24,
+      "duration": 3.68
+    },
+    {
+      "text": "good sound effects like, you know,",
+      "start": 3558.4,
+      "duration": 3.679
+    },
+    {
+      "text": "people knocking at the door, sirens.",
+      "start": 3559.92,
+      "duration": 4.48
+    },
+    {
+      "text": "You've also got music in there and you",
+      "start": 3562.079,
+      "duration": 4.401
+    },
+    {
+      "text": "can get a subscription to it, but um,",
+      "start": 3564.4,
+      "duration": 3.6
+    },
+    {
+      "text": "there's plenty of free sounds on there",
+      "start": 3566.48,
+      "duration": 3.2
+    },
+    {
+      "text": "as well. There's a lot of other sites",
+      "start": 3568.0,
+      "duration": 3.599
+    },
+    {
+      "text": "like that. Um, a lot of us just use",
+      "start": 3569.68,
+      "duration": 5.76
+    },
+    {
+      "text": "Zaplat for that. Um so I think yeah to",
+      "start": 3571.599,
+      "duration": 5.601
+    },
+    {
+      "text": "recap what what Talia has done here",
+      "start": 3575.44,
+      "duration": 4.639
+    },
+    {
+      "text": "she's taken us through um starting up a",
+      "start": 3577.2,
+      "duration": 6.72
+    },
+    {
+      "text": "new file going to um file open",
+      "start": 3580.079,
+      "duration": 6.161
+    },
+    {
+      "text": "multi-track which then opens up the",
+      "start": 3583.92,
+      "duration": 4.399
+    },
+    {
+      "text": "multiple tracks the different layers",
+      "start": 3586.24,
+      "duration": 4.16
+    },
+    {
+      "text": "call name your track what you want to",
+      "start": 3588.319,
+      "duration": 4.8
+    },
+    {
+      "text": "call it so maybe voice at the start um",
+      "start": 3590.4,
+      "duration": 5.6
+    },
+    {
+      "text": "music sound effects uh or choose the",
+      "start": 3593.119,
+      "duration": 5.841
+    },
+    {
+      "text": "podcast function importing in your audio",
+      "start": 3596.0,
+      "duration": 5.119
+    },
+    {
+      "text": "which um Talia covered and I covered a",
+      "start": 3598.96,
+      "duration": 4.24
+    },
+    {
+      "text": "little bit too um which means means that",
+      "start": 3601.119,
+      "duration": 4.0
+    },
+    {
+      "text": "you've already got your interview that",
+      "start": 3603.2,
+      "duration": 4.0
+    },
+    {
+      "text": "you've done on your phone or something",
+      "start": 3605.119,
+      "duration": 4.161
+    },
+    {
+      "text": "as an MP3 or you might have done it",
+      "start": 3607.2,
+      "duration": 3.84
+    },
+    {
+      "text": "through Adobe Audition, but most people",
+      "start": 3609.28,
+      "duration": 4.48
+    },
+    {
+      "text": "just do it through Zoom or Teams or on",
+      "start": 3611.04,
+      "duration": 4.48
+    },
+    {
+      "text": "their phone. Just use the phone",
+      "start": 3613.76,
+      "duration": 4.559
+    },
+    {
+      "text": "recorder, which I did one um the other",
+      "start": 3615.52,
+      "duration": 5.12
+    },
+    {
+      "text": "day like that. And then you just import",
+      "start": 3618.319,
+      "duration": 5.361
+    },
+    {
+      "text": "that file in. One question, one thing I",
+      "start": 3620.64,
+      "duration": 5.36
+    },
+    {
+      "text": "found that threw me a little bit, so I",
+      "start": 3623.68,
+      "duration": 4.0
+    },
+    {
+      "text": "don't know Tyler if you have the magic",
+      "start": 3626.0,
+      "duration": 4.24
+    },
+    {
+      "text": "answer to this one is when I've recorded",
+      "start": 3627.68,
+      "duration": 4.639
+    },
+    {
+      "text": "an interview on Zoom. So, what we do",
+      "start": 3630.24,
+      "duration": 3.76
+    },
+    {
+      "text": "with that is actually just run it with",
+      "start": 3632.319,
+      "duration": 4.24
+    },
+    {
+      "text": "the camera on like normal and hit hit",
+      "start": 3634.0,
+      "duration": 4.48
+    },
+    {
+      "text": "record and that will have a separate",
+      "start": 3636.559,
+      "duration": 4.961
+    },
+    {
+      "text": "audio file, but it's not an M. It's not",
+      "start": 3638.48,
+      "duration": 5.599
+    },
+    {
+      "text": "a file that when I try to import it",
+      "start": 3641.52,
+      "duration": 5.2
+    },
+    {
+      "text": "straight into Adobe Audition, it doesn't",
+      "start": 3644.079,
+      "duration": 4.72
+    },
+    {
+      "text": "take it. So, I have to convert it in",
+      "start": 3646.72,
+      "duration": 4.399
+    },
+    {
+      "text": "some way. Does that help your",
+      "start": 3648.799,
+      "duration": 4.0
+    },
+    {
+      "text": "experience? Yep.",
+      "start": 3651.119,
+      "duration": 4.321
+    },
+    {
+      "text": ">> Yes. Um, okay. I'm going to share my",
+      "start": 3652.799,
+      "duration": 5.681
+    },
+    {
+      "text": "screen again in a second. Um, I'll just",
+      "start": 3655.44,
+      "duration": 10.639
+    },
+    {
+      "text": "do it now. Um so there is um this app",
+      "start": 3658.48,
+      "duration": 11.839
+    },
+    {
+      "text": "called um one second. There is this app",
+      "start": 3666.079,
+      "duration": 6.961
+    },
+    {
+      "text": "called um",
+      "start": 3670.319,
+      "duration": 5.04
+    },
+    {
+      "text": "media encoder",
+      "start": 3673.04,
+      "duration": 5.12
+    },
+    {
+      "text": "uh where um let me bring it up over",
+      "start": 3675.359,
+      "duration": 5.44
+    },
+    {
+      "text": "here. Let me minimize that.",
+      "start": 3678.16,
+      "duration": 4.959
+    },
+    {
+      "text": "this app over here and it's going to be",
+      "start": 3680.799,
+      "duration": 6.881
+    },
+    {
+      "text": "able to encode whatever um media file",
+      "start": 3683.119,
+      "duration": 7.041
+    },
+    {
+      "text": "you have into a different type of media",
+      "start": 3687.68,
+      "duration": 9.8
+    },
+    {
+      "text": "file. Uh so um for example, I'm going to",
+      "start": 3690.16,
+      "duration": 7.32
+    },
+    {
+      "text": "let me",
+      "start": 3698.72,
+      "duration": 3.24
+    },
+    {
+      "text": "So I've double cllicked um over here and",
+      "start": 3702.64,
+      "duration": 6.08
+    },
+    {
+      "text": "that's going to let me import what I",
+      "start": 3706.319,
+      "duration": 5.121
+    },
+    {
+      "text": "want. Um, so for example, I'm just",
+      "start": 3708.72,
+      "duration": 4.48
+    },
+    {
+      "text": "probably going to change this WAV file",
+      "start": 3711.44,
+      "duration": 5.96
+    },
+    {
+      "text": "into an MP3 for now.",
+      "start": 3713.2,
+      "duration": 4.2
+    },
+    {
+      "text": "And you click the arrow down here. Now,",
+      "start": 3719.119,
+      "duration": 4.72
+    },
+    {
+      "text": "I already have it set on MP3, uh, but",
+      "start": 3721.2,
+      "duration": 5.28
+    },
+    {
+      "text": "you can set it to any of these options.",
+      "start": 3723.839,
+      "duration": 4.96
+    },
+    {
+      "text": "So, I'm going to click MP3 over here.",
+      "start": 3726.48,
+      "duration": 5.68
+    },
+    {
+      "text": "And then I click play over here.",
+      "start": 3728.799,
+      "duration": 5.441
+    },
+    {
+      "text": "It's loading.",
+      "start": 3732.16,
+      "duration": 8.0
+    },
+    {
+      "text": "And now um when I go back into my um",
+      "start": 3734.24,
+      "duration": 9.879
+    },
+    {
+      "text": "folder over here,",
+      "start": 3740.16,
+      "duration": 3.959
+    },
+    {
+      "text": "it's now an MP3 as you can see.",
+      "start": 3744.72,
+      "duration": 5.92
+    },
+    {
+      "text": ">> Does that make sense?",
+      "start": 3749.359,
+      "duration": 5.121
+    },
+    {
+      "text": ">> Yeah. And so does that have to play the",
+      "start": 3750.64,
+      "duration": 5.6
+    },
+    {
+      "text": "whole length of it? So, if I've recorded",
+      "start": 3754.48,
+      "duration": 3.599
+    },
+    {
+      "text": "an hour on Zoom, does it take an hour to",
+      "start": 3756.24,
+      "duration": 4.559
+    },
+    {
+      "text": "play? Does it hit play or does it like",
+      "start": 3758.079,
+      "duration": 5.841
+    },
+    {
+      "text": "just do it quickly?",
+      "start": 3760.799,
+      "duration": 6.8
+    },
+    {
+      "text": ">> It won't it won't take as long as the",
+      "start": 3763.92,
+      "duration": 7.12
+    },
+    {
+      "text": "video um or the sound is to process, but",
+      "start": 3767.599,
+      "duration": 5.121
+    },
+    {
+      "text": "it will probably take a little bit more",
+      "start": 3771.04,
+      "duration": 4.319
+    },
+    {
+      "text": "time, but probably not a concerning",
+      "start": 3772.72,
+      "duration": 4.48
+    },
+    {
+      "text": "amount of time. Like maybe a few more",
+      "start": 3775.359,
+      "duration": 4.48
+    },
+    {
+      "text": "minutes, like I'd say probably 20",
+      "start": 3777.2,
+      "duration": 4.56
+    },
+    {
+      "text": "minutes max if anything.",
+      "start": 3779.839,
+      "duration": 4.48
+    },
+    {
+      "text": ">> Terrific. That's great. So, if people",
+      "start": 3781.76,
+      "duration": 6.799
+    },
+    {
+      "text": "are um doing their interviews on Zoom,",
+      "start": 3784.319,
+      "duration": 7.76
+    },
+    {
+      "text": "um you import open uh get the record,",
+      "start": 3788.559,
+      "duration": 5.201
+    },
+    {
+      "text": "get the audio, drop it into that",
+      "start": 3792.079,
+      "duration": 3.76
+    },
+    {
+      "text": "program. There's a couple of others that",
+      "start": 3793.76,
+      "duration": 6.16
+    },
+    {
+      "text": "will suggested um including um including",
+      "start": 3795.839,
+      "duration": 7.2
+    },
+    {
+      "text": "Handbreak and Audacity. And then you've",
+      "start": 3799.92,
+      "duration": 5.679
+    },
+    {
+      "text": "got the option when it's in there of",
+      "start": 3803.039,
+      "duration": 4.641
+    },
+    {
+      "text": "tidying the audio up a bit using some of",
+      "start": 3805.599,
+      "duration": 4.72
+    },
+    {
+      "text": "the effects that Talia um she indicated",
+      "start": 3807.68,
+      "duration": 4.48
+    },
+    {
+      "text": "the uh the grand hall one. But there's",
+      "start": 3810.319,
+      "duration": 3.361
+    },
+    {
+      "text": "lots of effects that will tidy it up",
+      "start": 3812.16,
+      "duration": 2.959
+    },
+    {
+      "text": "because you know what it's like. I'm",
+      "start": 3813.68,
+      "duration": 4.48
+    },
+    {
+      "text": "using a mic right on my Zoom. So I'm",
+      "start": 3815.119,
+      "duration": 5.361
+    },
+    {
+      "text": "pretty clear, but I've usually I'm not",
+      "start": 3818.16,
+      "duration": 4.08
+    },
+    {
+      "text": "clear at all when I use Zoom. It's a",
+      "start": 3820.48,
+      "duration": 3.52
+    },
+    {
+      "text": "little bit I'm muffly because of my",
+      "start": 3822.24,
+      "duration": 3.44
+    },
+    {
+      "text": "computer. It's in the wrong position.",
+      "start": 3824.0,
+      "duration": 4.4
+    },
+    {
+      "text": "So, being able to just test out all the",
+      "start": 3825.68,
+      "duration": 6.32
+    },
+    {
+      "text": "different filters and sound cleanups are",
+      "start": 3828.4,
+      "duration": 5.439
+    },
+    {
+      "text": "really useful for getting a crisper",
+      "start": 3832.0,
+      "duration": 5.039
+    },
+    {
+      "text": "audio. But remember that when you are",
+      "start": 3833.839,
+      "duration": 5.441
+    },
+    {
+      "text": "listening to podcast, have a have a",
+      "start": 3837.039,
+      "duration": 4.641
+    },
+    {
+      "text": "critical listen to the difference in the",
+      "start": 3839.28,
+      "duration": 7.2
+    },
+    {
+      "text": "audio quality and volume between the",
+      "start": 3841.68,
+      "duration": 8.48
+    },
+    {
+      "text": "host and the um guest. For instance, in",
+      "start": 3846.48,
+      "duration": 5.359
+    },
+    {
+      "text": "Damian's one, you can hear there's a",
+      "start": 3850.16,
+      "duration": 3.439
+    },
+    {
+      "text": "slight you can tell that this person is",
+      "start": 3851.839,
+      "duration": 3.601
+    },
+    {
+      "text": "not in the same room as Damian when he's",
+      "start": 3853.599,
+      "duration": 4.081
+    },
+    {
+      "text": "recording it. That's okay. Podcasts have",
+      "start": 3855.44,
+      "duration": 5.2
+    },
+    {
+      "text": "that um accept cultural acceptance and",
+      "start": 3857.68,
+      "duration": 5.119
+    },
+    {
+      "text": "technical acceptance that the audio",
+      "start": 3860.64,
+      "duration": 3.52
+    },
+    {
+      "text": "doesn't have to match all the way",
+      "start": 3862.799,
+      "duration": 3.361
+    },
+    {
+      "text": "through. Is that your experience, Talia?",
+      "start": 3864.16,
+      "duration": 3.28
+    },
+    {
+      "text": "Do you have any advice or any",
+      "start": 3866.16,
+      "duration": 3.12
+    },
+    {
+      "text": "suggestions around that?",
+      "start": 3867.44,
+      "duration": 5.04
+    },
+    {
+      "text": ">> Yes. Um I I agree with that. I think um",
+      "start": 3869.28,
+      "duration": 5.039
+    },
+    {
+      "text": "they don't have to match, but it's nice",
+      "start": 3872.48,
+      "duration": 3.599
+    },
+    {
+      "text": "when they do match, and if you were able",
+      "start": 3874.319,
+      "duration": 3.681
+    },
+    {
+      "text": "to edit the settings to make them match,",
+      "start": 3876.079,
+      "duration": 5.921
+    },
+    {
+      "text": "that's always great. Um, two of the um,",
+      "start": 3878.0,
+      "duration": 5.52
+    },
+    {
+      "text": "effects that I'd say that would really",
+      "start": 3882.0,
+      "duration": 3.599
+    },
+    {
+      "text": "help that is den noiseise just to get",
+      "start": 3883.52,
+      "duration": 5.2
+    },
+    {
+      "text": "rid of the background noise um, and",
+      "start": 3885.599,
+      "duration": 6.24
+    },
+    {
+      "text": "vocal enhancer which um, enhances the",
+      "start": 3888.72,
+      "duration": 5.76
+    },
+    {
+      "text": "vocals and probably um, makes it sound a",
+      "start": 3891.839,
+      "duration": 4.081
+    },
+    {
+      "text": "little bit more clearer. But there's",
+      "start": 3894.48,
+      "duration": 3.76
+    },
+    {
+      "text": "tons of uh, tutorials online that have",
+      "start": 3895.92,
+      "duration": 4.8
+    },
+    {
+      "text": "probably more specific instructions that",
+      "start": 3898.24,
+      "duration": 5.44
+    },
+    {
+      "text": "will help you take your um, audio to the",
+      "start": 3900.72,
+      "duration": 4.399
+    },
+    {
+      "text": "next level and make it the best it can",
+      "start": 3903.68,
+      "duration": 2.879
+    },
+    {
+      "text": "be.",
+      "start": 3905.119,
+      "duration": 5.601
+    },
+    {
+      "text": ">> Terrific. Yeah. So people should um I",
+      "start": 3906.559,
+      "duration": 6.56
+    },
+    {
+      "text": "guess the next step for people is to um",
+      "start": 3910.72,
+      "duration": 4.0
+    },
+    {
+      "text": "if you you know what you want to do your",
+      "start": 3913.119,
+      "duration": 3.841
+    },
+    {
+      "text": "podcast on plan you know work out what",
+      "start": 3914.72,
+      "duration": 4.319
+    },
+    {
+      "text": "it is you want to cover in your episode",
+      "start": 3916.96,
+      "duration": 4.48
+    },
+    {
+      "text": "go out and get your interviews do your",
+      "start": 3919.039,
+      "duration": 3.841
+    },
+    {
+      "text": "background research so you've got the",
+      "start": 3921.44,
+      "duration": 4.48
+    },
+    {
+      "text": "context around it as well and then um",
+      "start": 3922.88,
+      "duration": 4.56
+    },
+    {
+      "text": "practice when and you can even just",
+      "start": 3925.92,
+      "duration": 4.08
+    },
+    {
+      "text": "practice doing interviews with us uh and",
+      "start": 3927.44,
+      "duration": 4.48
+    },
+    {
+      "text": "and our science students of course and",
+      "start": 3930.0,
+      "duration": 4.24
+    },
+    {
+      "text": "each other and just practice using Adobe",
+      "start": 3931.92,
+      "duration": 5.119
+    },
+    {
+      "text": "Audition. It's really easy to use. Um,",
+      "start": 3934.24,
+      "duration": 6.48
+    },
+    {
+      "text": "it really is. Um, and it's very, um,",
+      "start": 3937.039,
+      "duration": 6.0
+    },
+    {
+      "text": "reasonably intuitive. The only trouble I",
+      "start": 3940.72,
+      "duration": 4.24
+    },
+    {
+      "text": "have, and maybe Talia has a hint for",
+      "start": 3943.039,
+      "duration": 3.681
+    },
+    {
+      "text": "this, is, and it's the same with",
+      "start": 3944.96,
+      "duration": 3.68
+    },
+    {
+      "text": "programs like Premiere Pro, there can be",
+      "start": 3946.72,
+      "duration": 5.359
+    },
+    {
+      "text": "a lot of, um, sometimes you look up on a",
+      "start": 3948.64,
+      "duration": 5.919
+    },
+    {
+      "text": "video how to do something, and it says",
+      "start": 3952.079,
+      "duration": 4.561
+    },
+    {
+      "text": "go to this menu, and the menu is right",
+      "start": 3954.559,
+      "duration": 4.24
+    },
+    {
+      "text": "there on the demo video, but you can't",
+      "start": 3956.64,
+      "duration": 4.24
+    },
+    {
+      "text": "find it anywhere on yours because",
+      "start": 3958.799,
+      "duration": 4.401
+    },
+    {
+      "text": "there's so many menus that they",
+      "start": 3960.88,
+      "duration": 5.12
+    },
+    {
+      "text": "sometimes are small or hide. So, it's",
+      "start": 3963.2,
+      "duration": 4.72
+    },
+    {
+      "text": "useful to go into the menu bar at the",
+      "start": 3966.0,
+      "duration": 5.2
+    },
+    {
+      "text": "top and hit the uh toolbar and run",
+      "start": 3967.92,
+      "duration": 4.8
+    },
+    {
+      "text": "through. Would that be right, Charlie?",
+      "start": 3971.2,
+      "duration": 2.96
+    },
+    {
+      "text": "Is that the best way to work out where",
+      "start": 3972.72,
+      "duration": 3.44
+    },
+    {
+      "text": "all the menus are?",
+      "start": 3974.16,
+      "duration": 3.84
+    },
+    {
+      "text": ">> I if you're specifically looking for",
+      "start": 3976.16,
+      "duration": 3.52
+    },
+    {
+      "text": "something and you know the exact name of",
+      "start": 3978.0,
+      "duration": 4.48
+    },
+    {
+      "text": "it. Um there should be a search button.",
+      "start": 3979.68,
+      "duration": 4.639
+    },
+    {
+      "text": "It kind of has like a magnifying glass",
+      "start": 3982.48,
+      "duration": 3.76
+    },
+    {
+      "text": "button and you can search it from there.",
+      "start": 3984.319,
+      "duration": 4.881
+    },
+    {
+      "text": "Um that's really helpful. Um that's",
+      "start": 3986.24,
+      "duration": 5.68
+    },
+    {
+      "text": "usually where I I go if I get lost. Um,",
+      "start": 3989.2,
+      "duration": 4.48
+    },
+    {
+      "text": "yeah. Also, I'd just quickly like to",
+      "start": 3991.92,
+      "duration": 3.84
+    },
+    {
+      "text": "mention that uh with the Adobe Hub help",
+      "start": 3993.68,
+      "duration": 4.639
+    },
+    {
+      "text": "sessions, one-on-one 30 minute things,",
+      "start": 3995.76,
+      "duration": 4.24
+    },
+    {
+      "text": "um, you can book it online. So, if you",
+      "start": 3998.319,
+      "duration": 2.8
+    },
+    {
+      "text": "don't want to come to campus, that's",
+      "start": 4000.0,
+      "duration": 2.16
+    },
+    {
+      "text": "fine, too.",
+      "start": 4001.119,
+      "duration": 3.68
+    },
+    {
+      "text": ">> Yeah, it's terrific. Great to know.",
+      "start": 4002.16,
+      "duration": 6.959
+    },
+    {
+      "text": "Wonderful. Cool. Um, yeah, as an Adobe",
+      "start": 4004.799,
+      "duration": 8.641
+    },
+    {
+      "text": "um Aud uh Audition user, I feel like",
+      "start": 4009.119,
+      "duration": 5.68
+    },
+    {
+      "text": "that's the main stuff that you've",
+      "start": 4013.44,
+      "duration": 2.879
+    },
+    {
+      "text": "covered is actually what people need to",
+      "start": 4014.799,
+      "duration": 3.681
+    },
+    {
+      "text": "know is how to open the file, how to",
+      "start": 4016.319,
+      "duration": 4.961
+    },
+    {
+      "text": "import audio, um how to mute, turn the",
+      "start": 4018.48,
+      "duration": 5.44
+    },
+    {
+      "text": "volume down, how to edit, um and",
+      "start": 4021.28,
+      "duration": 4.48
+    },
+    {
+      "text": "stretching out your edit tune, making",
+      "start": 4023.92,
+      "duration": 4.639
+    },
+    {
+      "text": "the the sound the waveform, the sound",
+      "start": 4025.76,
+      "duration": 5.039
+    },
+    {
+      "text": "wave big so you can see precisely where",
+      "start": 4028.559,
+      "duration": 4.881
+    },
+    {
+      "text": "you want to edit, um and turning the",
+      "start": 4030.799,
+      "duration": 5.52
+    },
+    {
+      "text": "volume up and down through the decibel.",
+      "start": 4033.44,
+      "duration": 6.0
+    },
+    {
+      "text": "um uh circle like the dial the electric",
+      "start": 4036.319,
+      "duration": 5.201
+    },
+    {
+      "text": "dial electronic dial are the main things",
+      "start": 4039.44,
+      "duration": 4.56
+    },
+    {
+      "text": "people will use and then making sure you",
+      "start": 4041.52,
+      "duration": 5.519
+    },
+    {
+      "text": "select all source when you are exporting",
+      "start": 4044.0,
+      "duration": 6.24
+    },
+    {
+      "text": "rather than a section um and I'm",
+      "start": 4047.039,
+      "duration": 4.8
+    },
+    {
+      "text": "assuming that that's yeah that's Adobe",
+      "start": 4050.24,
+      "duration": 3.44
+    },
+    {
+      "text": "Audition that does that. So that they're",
+      "start": 4051.839,
+      "duration": 3.76
+    },
+    {
+      "text": "the main things. Um one thing to",
+      "start": 4053.68,
+      "duration": 4.8
+    },
+    {
+      "text": "remember too is once you have done a",
+      "start": 4055.599,
+      "duration": 7.361
+    },
+    {
+      "text": "mixdown so you've exported it you can't",
+      "start": 4058.48,
+      "duration": 6.72
+    },
+    {
+      "text": "necessarily go back in and reopen it.",
+      "start": 4062.96,
+      "duration": 4.32
+    },
+    {
+      "text": "You have to go back to the source file,",
+      "start": 4065.2,
+      "duration": 4.399
+    },
+    {
+      "text": "don't you?",
+      "start": 4067.28,
+      "duration": 3.759
+    },
+    {
+      "text": ">> If I want to change something, I've",
+      "start": 4069.599,
+      "duration": 4.801
+    },
+    {
+      "text": "mixed done a mixown and I want to ch Oh",
+      "start": 4071.039,
+      "duration": 5.04
+    },
+    {
+      "text": "my gosh, I cut myself off. I didn't",
+      "start": 4074.4,
+      "duration": 3.84
+    },
+    {
+      "text": "realize. I want to re-edit this. I have",
+      "start": 4076.079,
+      "duration": 3.76
+    },
+    {
+      "text": "to go back to the source, use the source",
+      "start": 4078.24,
+      "duration": 2.799
+    },
+    {
+      "text": "file, don't I?",
+      "start": 4079.839,
+      "duration": 3.28
+    },
+    {
+      "text": ">> Um, yeah. So, you will have to go back",
+      "start": 4081.039,
+      "duration": 5.04
+    },
+    {
+      "text": "to your Audition session file. Um, any",
+      "start": 4083.119,
+      "duration": 5.361
+    },
+    {
+      "text": "like MP3 or web files that have been",
+      "start": 4086.079,
+      "duration": 5.04
+    },
+    {
+      "text": "exported and created, they won't change",
+      "start": 4088.48,
+      "duration": 5.119
+    },
+    {
+      "text": "once you've edited it. But um it's it",
+      "start": 4091.119,
+      "duration": 4.321
+    },
+    {
+      "text": "takes like a few seconds to like export",
+      "start": 4093.599,
+      "duration": 4.64
+    },
+    {
+      "text": "to a MP3 each time the web and the",
+      "start": 4095.44,
+      "duration": 4.399
+    },
+    {
+      "text": "audition file is going to stay there.",
+      "start": 4098.239,
+      "duration": 3.12
+    },
+    {
+      "text": "Nothing's going to convert or change.",
+      "start": 4099.839,
+      "duration": 3.601
+    },
+    {
+      "text": "It's just going to create a new MP3 or",
+      "start": 4101.359,
+      "duration": 4.4
+    },
+    {
+      "text": "web file. So it's really easy to do just",
+      "start": 4103.44,
+      "duration": 4.239
+    },
+    {
+      "text": "making edits and then exporting it",
+      "start": 4105.759,
+      "duration": 3.04
+    },
+    {
+      "text": "again.",
+      "start": 4107.679,
+      "duration": 3.921
+    },
+    {
+      "text": ">> Terrific. Thank you. Excellent. Great.",
+      "start": 4108.799,
+      "duration": 8.201
+    },
+    {
+      "text": "Um yes. Uh any questions from anyone?",
+      "start": 4111.6,
+      "duration": 5.4
+    },
+    {
+      "text": "I would like to say thank you to",
+      "start": 4117.679,
+      "duration": 4.48
+    },
+    {
+      "text": "Carolene and Talia for their time and",
+      "start": 4119.359,
+      "duration": 6.161
+    },
+    {
+      "text": "also appreciate everyone's time in the",
+      "start": 4122.159,
+      "duration": 5.761
+    },
+    {
+      "text": "uh meeting and being patient with all",
+      "start": 4125.52,
+      "duration": 6.239
+    },
+    {
+      "text": "the you know um things happen in between",
+      "start": 4127.92,
+      "duration": 7.2
+    },
+    {
+      "text": "but I think we Talia you managed this um",
+      "start": 4131.759,
+      "duration": 6.321
+    },
+    {
+      "text": "very uh short and sharp to the point of",
+      "start": 4135.12,
+      "duration": 5.679
+    },
+    {
+      "text": "how to use this Adobe audition. So I",
+      "start": 4138.08,
+      "duration": 6.56
+    },
+    {
+      "text": "hope this project helps um to partner",
+      "start": 4140.799,
+      "duration": 5.601
+    },
+    {
+      "text": "our STEM students and media",
+      "start": 4144.64,
+      "duration": 4.24
+    },
+    {
+      "text": "communication students to come with a a",
+      "start": 4146.4,
+      "duration": 4.799
+    },
+    {
+      "text": "great product and that can be shared",
+      "start": 4148.88,
+      "duration": 4.72
+    },
+    {
+      "text": "with the other educators and students to",
+      "start": 4151.199,
+      "duration": 6.0
+    },
+    {
+      "text": "use and yeah I'm excited to see what is",
+      "start": 4153.6,
+      "duration": 6.48
+    },
+    {
+      "text": "the final product look like and we can",
+      "start": 4157.199,
+      "duration": 5.921
+    },
+    {
+      "text": "share this archive of the podcast",
+      "start": 4160.08,
+      "duration": 6.079
+    },
+    {
+      "text": "um sharing students experience and the",
+      "start": 4163.12,
+      "duration": 5.44
+    },
+    {
+      "text": "capstone project research. Thank you so",
+      "start": 4166.159,
+      "duration": 3.841
+    },
+    {
+      "text": "much everyone.",
+      "start": 4168.56,
+      "duration": 3.599
+    },
+    {
+      "text": ">> Terrific. No worries. And um I'll remind",
+      "start": 4170.0,
+      "duration": 3.6
+    },
+    {
+      "text": "everyone there's a Monday session to",
+      "start": 4172.159,
+      "duration": 3.2
+    },
+    {
+      "text": "drop in if you actually have you want to",
+      "start": 4173.6,
+      "duration": 3.36
+    },
+    {
+      "text": "take actually come and talk about what",
+      "start": 4175.359,
+      "duration": 3.281
+    },
+    {
+      "text": "you are going to do for your podcast if",
+      "start": 4176.96,
+      "duration": 3.68
+    },
+    {
+      "text": "you want to make one. Um and we can run",
+      "start": 4178.64,
+      "duration": 3.84
+    },
+    {
+      "text": "through you know the various steps again",
+      "start": 4180.64,
+      "duration": 4.0
+    },
+    {
+      "text": "talk it through um do some recordings if",
+      "start": 4182.48,
+      "duration": 4.48
+    },
+    {
+      "text": "you want to in that session as well.",
+      "start": 4184.64,
+      "duration": 3.119
+    },
+    {
+      "text": ">> Cool.",
+      "start": 4186.96,
+      "duration": 1.6
+    },
+    {
+      "text": ">> Thank you.",
+      "start": 4187.759,
+      "duration": 2.641
+    },
+    {
+      "text": ">> Thank you. Thank you.",
+      "start": 4188.56,
+      "duration": 4.56
+    },
+    {
+      "text": ">> I think thank you Ken. So Carolene just",
+      "start": 4190.4,
+      "duration": 4.799
+    },
+    {
+      "text": "the last question for you. So are you",
+      "start": 4193.12,
+      "duration": 5.28
+    },
+    {
+      "text": "going to use of the uh Google form to",
+      "start": 4195.199,
+      "duration": 5.52
+    },
+    {
+      "text": "partner our students between media",
+      "start": 4198.4,
+      "duration": 4.48
+    },
+    {
+      "text": "communication and STEM? So based on",
+      "start": 4200.719,
+      "duration": 4.321
+    },
+    {
+      "text": "their availability, we can facilitate",
+      "start": 4202.88,
+      "duration": 5.04
+    },
+    {
+      "text": "those interview sessions. Thank you so",
+      "start": 4205.04,
+      "duration": 3.36
+    },
+    {
+      "text": "much.",
+      "start": 4207.92,
+      "duration": 2.88
+    },
+    {
+      "text": ">> No worries. Thank you. Thanks everyone.",
+      "start": 4208.4,
+      "duration": 3.6
+    },
+    {
+      "text": "All right, we'll leave the session",
+      "start": 4210.8,
+      "duration": 2.96
+    },
+    {
+      "text": "there. I'll catch you later.",
+      "start": 4212.0,
+      "duration": 2.159
+    },
+    {
+      "text": ">> See you.",
+      "start": 4213.76,
+      "duration": 1.439
+    },
+    {
+      "text": ">> Thank you for having me.",
+      "start": 4214.159,
+      "duration": 1.761
+    },
+    {
+      "text": ">> Thanks Talia.",
+      "start": 4215.199,
+      "duration": 4.121
+    },
+    {
+      "text": ">> Thank you Talia.",
+      "start": 4215.92,
+      "duration": 3.4
+    }
+  ]
+}

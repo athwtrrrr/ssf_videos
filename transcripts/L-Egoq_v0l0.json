@@ -1,0 +1,713 @@
+{
+  "video_id": "L-Egoq_v0l0",
+  "title": "SisterCloud 2021",
+  "channel": "Shaping STEMS Futures ",
+  "published": "2025-08-29T00:12:32Z",
+  "transcript": [
+    {
+      "text": "Hello, my name is Jordan and today I'm",
+      "start": 0.88,
+      "duration": 3.28
+    },
+    {
+      "text": "going to be presenting my team's design",
+      "start": 2.8,
+      "duration": 3.12
+    },
+    {
+      "text": "concept submission for the design for",
+      "start": 4.16,
+      "duration": 4.08
+    },
+    {
+      "text": "change 2021 challenge. We've created",
+      "start": 5.92,
+      "duration": 3.92
+    },
+    {
+      "text": "this project as part of a technology",
+      "start": 8.24,
+      "duration": 3.519
+    },
+    {
+      "text": "design unit. I'll quickly introduce the",
+      "start": 9.84,
+      "duration": 3.6
+    },
+    {
+      "text": "members of the team for this project.",
+      "start": 11.759,
+      "duration": 3.601
+    },
+    {
+      "text": "Firstly, SVER, our project principal and",
+      "start": 13.44,
+      "duration": 3.759
+    },
+    {
+      "text": "facilitator, Emily and Shan, who",
+      "start": 15.36,
+      "duration": 3.2
+    },
+    {
+      "text": "contributed the bulk of the conceptual",
+      "start": 17.199,
+      "duration": 3.601
+    },
+    {
+      "text": "aspects of this project, myself, Jordan,",
+      "start": 18.56,
+      "duration": 4.799
+    },
+    {
+      "text": "Marius, and Michael. The core principle",
+      "start": 20.8,
+      "duration": 4.399
+    },
+    {
+      "text": "and value of insurance Australia group",
+      "start": 23.359,
+      "duration": 3.601
+    },
+    {
+      "text": "that we chose to align ourselves with is",
+      "start": 25.199,
+      "duration": 3.601
+    },
+    {
+      "text": "diversity, inclusion, and belonging.",
+      "start": 26.96,
+      "duration": 3.2
+    },
+    {
+      "text": "This was something that felt natural for",
+      "start": 28.8,
+      "duration": 3.279
+    },
+    {
+      "text": "us to tap into having a somewhat gender",
+      "start": 30.16,
+      "duration": 3.04
+    },
+    {
+      "text": "diverse group in a usually",
+      "start": 32.079,
+      "duration": 3.521
+    },
+    {
+      "text": "male-dominated course. What we found",
+      "start": 33.2,
+      "duration": 4.0
+    },
+    {
+      "text": "here was an incredibly complex web of",
+      "start": 35.6,
+      "duration": 3.52
+    },
+    {
+      "text": "interconnected gender equality issues",
+      "start": 37.2,
+      "duration": 3.28
+    },
+    {
+      "text": "resulting in women not only finding",
+      "start": 39.12,
+      "duration": 3.119
+    },
+    {
+      "text": "themselves underrepresented in STEM but",
+      "start": 40.48,
+      "duration": 2.96
+    },
+    {
+      "text": "finding it more difficult to get",
+      "start": 42.239,
+      "duration": 3.201
+    },
+    {
+      "text": "involved or even just to stay involved.",
+      "start": 43.44,
+      "duration": 3.439
+    },
+    {
+      "text": "The complex nature of these issues,",
+      "start": 45.44,
+      "duration": 3.04
+    },
+    {
+      "text": "although daunting at first, helped us to",
+      "start": 46.879,
+      "duration": 3.121
+    },
+    {
+      "text": "define the scope of our project to what",
+      "start": 48.48,
+      "duration": 3.12
+    },
+    {
+      "text": "we could realistically affect with just",
+      "start": 50.0,
+      "duration": 3.36
+    },
+    {
+      "text": "an application. Our vision developed",
+      "start": 51.6,
+      "duration": 3.279
+    },
+    {
+      "text": "into one to help young girls connect",
+      "start": 53.36,
+      "duration": 3.12
+    },
+    {
+      "text": "with like-minded peers, particularly",
+      "start": 54.879,
+      "duration": 3.52
+    },
+    {
+      "text": "mentors and role model figures. This",
+      "start": 56.48,
+      "duration": 3.28
+    },
+    {
+      "text": "meant that we needed to design a system",
+      "start": 58.399,
+      "duration": 2.8
+    },
+    {
+      "text": "that could help connect young girls and",
+      "start": 59.76,
+      "duration": 3.119
+    },
+    {
+      "text": "women with those like-minded peers, role",
+      "start": 61.199,
+      "duration": 3.121
+    },
+    {
+      "text": "models, and learning resources that will",
+      "start": 62.879,
+      "duration": 3.841
+    },
+    {
+      "text": "be better focused towards them. Upon",
+      "start": 64.32,
+      "duration": 3.839
+    },
+    {
+      "text": "preliminary research of this interest",
+      "start": 66.72,
+      "duration": 3.04
+    },
+    {
+      "text": "area, we found a few apps that could do",
+      "start": 68.159,
+      "duration": 3.681
+    },
+    {
+      "text": "similar things. Mentor loop and women in",
+      "start": 69.76,
+      "duration": 4.16
+    },
+    {
+      "text": "STEM provided a similar connection tool,",
+      "start": 71.84,
+      "duration": 3.52
+    },
+    {
+      "text": "while LinkedIn could provide similar",
+      "start": 73.92,
+      "duration": 3.12
+    },
+    {
+      "text": "kinds of access to successful career",
+      "start": 75.36,
+      "duration": 3.68
+    },
+    {
+      "text": "women. And STEM tutoring provides a",
+      "start": 77.04,
+      "duration": 3.68
+    },
+    {
+      "text": "direct mentor to mentee connection",
+      "start": 79.04,
+      "duration": 3.52
+    },
+    {
+      "text": "service.",
+      "start": 80.72,
+      "duration": 3.039
+    },
+    {
+      "text": "When we decided how we were going to",
+      "start": 82.56,
+      "duration": 2.64
+    },
+    {
+      "text": "differentiate ourselves, we looked at",
+      "start": 83.759,
+      "duration": 2.801
+    },
+    {
+      "text": "providing a fun, more gamified",
+      "start": 85.2,
+      "duration": 3.12
+    },
+    {
+      "text": "experience. What we found with a lot of",
+      "start": 86.56,
+      "duration": 3.28
+    },
+    {
+      "text": "current offerings in this space was that",
+      "start": 88.32,
+      "duration": 2.88
+    },
+    {
+      "text": "very few of them were targeted towards",
+      "start": 89.84,
+      "duration": 3.2
+    },
+    {
+      "text": "younger school girls and we wanted to",
+      "start": 91.2,
+      "duration": 3.76
+    },
+    {
+      "text": "fill this space. We created an app with",
+      "start": 93.04,
+      "duration": 4.079
+    },
+    {
+      "text": "girls aged of 10 to 15 in mind mainly",
+      "start": 94.96,
+      "duration": 3.76
+    },
+    {
+      "text": "although we expect this to easily extend",
+      "start": 97.119,
+      "duration": 3.601
+    },
+    {
+      "text": "a few years beyond those two limits.",
+      "start": 98.72,
+      "duration": 3.759
+    },
+    {
+      "text": "Initially we went where we to implement",
+      "start": 100.72,
+      "duration": 3.039
+    },
+    {
+      "text": "this design. We would be approaching",
+      "start": 102.479,
+      "duration": 3.521
+    },
+    {
+      "text": "schools to help us populate the app. We",
+      "start": 103.759,
+      "duration": 3.601
+    },
+    {
+      "text": "also need to approach some established",
+      "start": 106.0,
+      "duration": 2.88
+    },
+    {
+      "text": "women in STEM who eager to get involved",
+      "start": 107.36,
+      "duration": 3.92
+    },
+    {
+      "text": "in a cause such as this. I'm going to",
+      "start": 108.88,
+      "duration": 3.68
+    },
+    {
+      "text": "quickly demonstrate a few key features",
+      "start": 111.28,
+      "duration": 2.64
+    },
+    {
+      "text": "of our prototype we've created with",
+      "start": 112.56,
+      "duration": 3.519
+    },
+    {
+      "text": "Adobe XD. This is our landing page where",
+      "start": 113.92,
+      "duration": 3.36
+    },
+    {
+      "text": "we've created islands that each",
+      "start": 116.079,
+      "duration": 3.121
+    },
+    {
+      "text": "represent an area of STEM. When we click",
+      "start": 117.28,
+      "duration": 3.36
+    },
+    {
+      "text": "on an island, we see a procedurally",
+      "start": 119.2,
+      "duration": 3.44
+    },
+    {
+      "text": "generated view which is selected by",
+      "start": 120.64,
+      "duration": 4.64
+    },
+    {
+      "text": "users interests and activity levels.",
+      "start": 122.64,
+      "duration": 5.28
+    },
+    {
+      "text": "Here a user can browse between their",
+      "start": 125.28,
+      "duration": 4.24
+    },
+    {
+      "text": "young peers who are interested in",
+      "start": 127.92,
+      "duration": 3.36
+    },
+    {
+      "text": "pursuing STEM. We've named those little",
+      "start": 129.52,
+      "duration": 3.6
+    },
+    {
+      "text": "sisters. They can find mentors that they",
+      "start": 131.28,
+      "duration": 3.679
+    },
+    {
+      "text": "can connect with, known as big sisters,",
+      "start": 133.12,
+      "duration": 3.199
+    },
+    {
+      "text": "and they can browse and get involved in",
+      "start": 134.959,
+      "duration": 3.601
+    },
+    {
+      "text": "interest groups known as villages.",
+      "start": 136.319,
+      "duration": 3.28
+    },
+    {
+      "text": "Obviously, approaching people that",
+      "start": 138.56,
+      "duration": 2.08
+    },
+    {
+      "text": "you've never met can be a little",
+      "start": 139.599,
+      "duration": 2.881
+    },
+    {
+      "text": "daunting. So each day the app selects a",
+      "start": 140.64,
+      "duration": 3.92
+    },
+    {
+      "text": "sister of the day who's promoted based",
+      "start": 142.48,
+      "duration": 4.479
+    },
+    {
+      "text": "on a few performance metrics such as",
+      "start": 144.56,
+      "duration": 5.039
+    },
+    {
+      "text": "their level which is based on their",
+      "start": 146.959,
+      "duration": 4.241
+    },
+    {
+      "text": "activity, the amount of little sisters",
+      "start": 149.599,
+      "duration": 3.36
+    },
+    {
+      "text": "they've been recommended by and the",
+      "start": 151.2,
+      "duration": 2.88
+    },
+    {
+      "text": "total little sisters that they've",
+      "start": 152.959,
+      "duration": 3.681
+    },
+    {
+      "text": "connected with and assisted as well as a",
+      "start": 154.08,
+      "duration": 4.159
+    },
+    {
+      "text": "few hidden ones like their average",
+      "start": 156.64,
+      "duration": 3.2
+    },
+    {
+      "text": "response times to new messages or how",
+      "start": 158.239,
+      "duration": 2.881
+    },
+    {
+      "text": "many little sisters they are currently",
+      "start": 159.84,
+      "duration": 2.8
+    },
+    {
+      "text": "messaging.",
+      "start": 161.12,
+      "duration": 2.88
+    },
+    {
+      "text": "Future like this is critical to",
+      "start": 162.64,
+      "duration": 2.8
+    },
+    {
+      "text": "encourage prospective young women in",
+      "start": 164.0,
+      "duration": 3.519
+    },
+    {
+      "text": "STEM to take the first steps in",
+      "start": 165.44,
+      "duration": 3.76
+    },
+    {
+      "text": "developing a network and finding people",
+      "start": 167.519,
+      "duration": 3.121
+    },
+    {
+      "text": "that they can be encouraged by or",
+      "start": 169.2,
+      "duration": 4.16
+    },
+    {
+      "text": "inspired by. Member of the app can send",
+      "start": 170.64,
+      "duration": 4.319
+    },
+    {
+      "text": "a request to join a group which they'll",
+      "start": 173.36,
+      "duration": 3.36
+    },
+    {
+      "text": "need to be approved by the group's",
+      "start": 174.959,
+      "duration": 4.401
+    },
+    {
+      "text": "leader or admin.",
+      "start": 176.72,
+      "duration": 4.32
+    },
+    {
+      "text": "Any village that has been joined is then",
+      "start": 179.36,
+      "duration": 3.84
+    },
+    {
+      "text": "accessible by the option my villages in",
+      "start": 181.04,
+      "duration": 5.32
+    },
+    {
+      "text": "the menu.",
+      "start": 183.2,
+      "duration": 3.16
+    },
+    {
+      "text": "The villages use a unique design",
+      "start": 187.44,
+      "duration": 3.28
+    },
+    {
+      "text": "language to portray the sections of the",
+      "start": 188.959,
+      "duration": 3.601
+    },
+    {
+      "text": "group and provide a unique flavor to the",
+      "start": 190.72,
+      "duration": 3.92
+    },
+    {
+      "text": "app's experience. For example, the town",
+      "start": 192.56,
+      "duration": 4.319
+    },
+    {
+      "text": "hall can be used to make announcements.",
+      "start": 194.64,
+      "duration": 4.0
+    },
+    {
+      "text": "The library can use to create or upload",
+      "start": 196.879,
+      "duration": 3.28
+    },
+    {
+      "text": "documents. And the theater can be used",
+      "start": 198.64,
+      "duration": 3.28
+    },
+    {
+      "text": "for communicating over integrated voice",
+      "start": 200.159,
+      "duration": 4.481
+    },
+    {
+      "text": "chat or video chat. There are a few",
+      "start": 201.92,
+      "duration": 4.0
+    },
+    {
+      "text": "other features that our prototype has,",
+      "start": 204.64,
+      "duration": 2.64
+    },
+    {
+      "text": "but for the sake of brevity, I hope that",
+      "start": 205.92,
+      "duration": 2.959
+    },
+    {
+      "text": "this small look has demonstrated some of",
+      "start": 207.28,
+      "duration": 3.2
+    },
+    {
+      "text": "the key design concepts that are behind",
+      "start": 208.879,
+      "duration": 3.681
+    },
+    {
+      "text": "our application.",
+      "start": 210.48,
+      "duration": 3.759
+    },
+    {
+      "text": "The desired impact of this application",
+      "start": 212.56,
+      "duration": 3.36
+    },
+    {
+      "text": "is to empower young girls by connecting",
+      "start": 214.239,
+      "duration": 3.201
+    },
+    {
+      "text": "them to role models, tackling some of",
+      "start": 215.92,
+      "duration": 2.72
+    },
+    {
+      "text": "the stereotypes that are typically",
+      "start": 217.44,
+      "duration": 3.519
+    },
+    {
+      "text": "associated with STEM fields, to give",
+      "start": 218.64,
+      "duration": 4.08
+    },
+    {
+      "text": "families tools to help their young women",
+      "start": 220.959,
+      "duration": 3.681
+    },
+    {
+      "text": "succeed, and to deliver a platform where",
+      "start": 222.72,
+      "duration": 3.28
+    },
+    {
+      "text": "students and professionals alike can",
+      "start": 224.64,
+      "duration": 2.64
+    },
+    {
+      "text": "share their experiences and grow",
+      "start": 226.0,
+      "duration": 3.519
+    },
+    {
+      "text": "alongside one another. We think this",
+      "start": 227.28,
+      "duration": 4.0
+    },
+    {
+      "text": "idea is pretty malleable, so we've got a",
+      "start": 229.519,
+      "duration": 2.961
+    },
+    {
+      "text": "few ideas for how it could be developed",
+      "start": 231.28,
+      "duration": 3.12
+    },
+    {
+      "text": "further. These are some of them, though",
+      "start": 232.48,
+      "duration": 3.44
+    },
+    {
+      "text": "among the most important are ensuring",
+      "start": 234.4,
+      "duration": 3.28
+    },
+    {
+      "text": "that the platform is properly moderated.",
+      "start": 235.92,
+      "duration": 3.84
+    },
+    {
+      "text": "Given the precautious age that this",
+      "start": 237.68,
+      "duration": 4.32
+    },
+    {
+      "text": "design targets, this is an area where we",
+      "start": 239.76,
+      "duration": 3.839
+    },
+    {
+      "text": "would expect to be constantly iterating",
+      "start": 242.0,
+      "duration": 4.239
+    },
+    {
+      "text": "and improving.",
+      "start": 243.599,
+      "duration": 4.241
+    },
+    {
+      "text": "That's all for the presentation. We hope",
+      "start": 246.239,
+      "duration": 3.36
+    },
+    {
+      "text": "you've enjoyed it and that you like our",
+      "start": 247.84,
+      "duration": 5.44
+    },
+    {
+      "text": "design. Thank you for your time.",
+      "start": 249.599,
+      "duration": 3.681
+    }
+  ]
+}

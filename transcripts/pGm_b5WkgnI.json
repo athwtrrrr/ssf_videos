@@ -1,0 +1,5378 @@
+{
+  "video_id": "pGm_b5WkgnI",
+  "title": "Workshop 1 : Adobe XD (2024)",
+  "channel": "Shaping STEMS Futures ",
+  "published": "2025-09-15T11:49:15Z",
+  "transcript": [
+    {
+      "text": "Hi everyone. So this is the first",
+      "start": 0.56,
+      "duration": 4.64
+    },
+    {
+      "text": "workshop for design for change. I'm Z",
+      "start": 2.639,
+      "duration": 5.92
+    },
+    {
+      "text": "and I'm joined by Vita who is the the",
+      "start": 5.2,
+      "duration": 5.76
+    },
+    {
+      "text": "senior lecturer in microbio bio",
+      "start": 8.559,
+      "duration": 5.04
+    },
+    {
+      "text": "microbial technology and will and I'm",
+      "start": 10.96,
+      "duration": 5.28
+    },
+    {
+      "text": "Adobe digital coach representing Adobe",
+      "start": 13.599,
+      "duration": 6.321
+    },
+    {
+      "text": "hub and we would be running this",
+      "start": 16.24,
+      "duration": 5.68
+    },
+    {
+      "text": "workshop as part of the design for",
+      "start": 19.92,
+      "duration": 4.56
+    },
+    {
+      "text": "change competition and let me just",
+      "start": 21.92,
+      "duration": 5.519
+    },
+    {
+      "text": "acknowledge the country. We respectfully",
+      "start": 24.48,
+      "duration": 4.559
+    },
+    {
+      "text": "acknowledge the wary people of the",
+      "start": 27.439,
+      "duration": 3.84
+    },
+    {
+      "text": "clination who are the traditional owners",
+      "start": 29.039,
+      "duration": 3.68
+    },
+    {
+      "text": "of the land on which Shimburn's",
+      "start": 31.279,
+      "duration": 3.601
+    },
+    {
+      "text": "Australian campuses are located and we",
+      "start": 32.719,
+      "duration": 3.921
+    },
+    {
+      "text": "pay our respect to their elders past,",
+      "start": 34.88,
+      "duration": 3.519
+    },
+    {
+      "text": "present and emerging. We also",
+      "start": 36.64,
+      "duration": 3.36
+    },
+    {
+      "text": "acknowledge and respect the traditional",
+      "start": 38.399,
+      "duration": 4.0
+    },
+    {
+      "text": "owners of islands of the lands across",
+      "start": 40.0,
+      "duration": 4.48
+    },
+    {
+      "text": "Australia, their elders, ancestors,",
+      "start": 42.399,
+      "duration": 4.801
+    },
+    {
+      "text": "cultures and heritage. So as soon",
+      "start": 44.48,
+      "duration": 6.72
+    },
+    {
+      "text": "students we get free um access to Adobe",
+      "start": 47.2,
+      "duration": 6.72
+    },
+    {
+      "text": "Creative Cloud and we get to access all",
+      "start": 51.2,
+      "duration": 4.48
+    },
+    {
+      "text": "their apps for free. And in this",
+      "start": 53.92,
+      "duration": 3.68
+    },
+    {
+      "text": "workshop we will be introducing the",
+      "start": 55.68,
+      "duration": 5.44
+    },
+    {
+      "text": "design for change uh 2024 and we'll also",
+      "start": 57.6,
+      "duration": 5.84
+    },
+    {
+      "text": "introduce Adobe XD demonstrate its key",
+      "start": 61.12,
+      "duration": 4.079
+    },
+    {
+      "text": "functions saving and testing your",
+      "start": 63.44,
+      "duration": 3.84
+    },
+    {
+      "text": "prototype and where you can learn more.",
+      "start": 65.199,
+      "duration": 4.641
+    },
+    {
+      "text": "So on here I would pass it to Vita to",
+      "start": 67.28,
+      "duration": 6.96
+    },
+    {
+      "text": "explain the design for change 2024.",
+      "start": 69.84,
+      "duration": 9.2
+    },
+    {
+      "text": ">> Thank you Z. Um I just now have to if",
+      "start": 74.24,
+      "duration": 8.4
+    },
+    {
+      "text": "you can please stop sharing then I go",
+      "start": 79.04,
+      "duration": 6.399
+    },
+    {
+      "text": "and start sharing.",
+      "start": 82.64,
+      "duration": 6.96
+    },
+    {
+      "text": "Okay. So good afternoon everyone and",
+      "start": 85.439,
+      "duration": 7.04
+    },
+    {
+      "text": "welcome to the first workshop of the",
+      "start": 89.6,
+      "duration": 6.96
+    },
+    {
+      "text": "design for change 2024.",
+      "start": 92.479,
+      "duration": 7.68
+    },
+    {
+      "text": "I just bring the slide. Z can you",
+      "start": 96.56,
+      "duration": 6.08
+    },
+    {
+      "text": "confirm if you see the slide?",
+      "start": 100.159,
+      "duration": 3.201
+    },
+    {
+      "text": ">> Yes.",
+      "start": 102.64,
+      "duration": 5.519
+    },
+    {
+      "text": ">> Yeah. All right. So I guess we are a",
+      "start": 103.36,
+      "duration": 7.36
+    },
+    {
+      "text": "group of the educators at Swimburn from",
+      "start": 108.159,
+      "duration": 4.161
+    },
+    {
+      "text": "multidiscipline",
+      "start": 110.72,
+      "duration": 4.88
+    },
+    {
+      "text": "um you know majors and we are uh",
+      "start": 112.32,
+      "duration": 6.64
+    },
+    {
+      "text": "offering this shaping STEM futures um",
+      "start": 115.6,
+      "duration": 5.839
+    },
+    {
+      "text": "program which coming under different",
+      "start": 118.96,
+      "duration": 5.28
+    },
+    {
+      "text": "competitions and today is we are",
+      "start": 121.439,
+      "duration": 5.36
+    },
+    {
+      "text": "targeting the one that is design for",
+      "start": 124.24,
+      "duration": 4.719
+    },
+    {
+      "text": "change which is a prototyping",
+      "start": 126.799,
+      "duration": 5.44
+    },
+    {
+      "text": "competition. what would be the aim of um",
+      "start": 128.959,
+      "duration": 6.64
+    },
+    {
+      "text": "us uh working with this um you know uh",
+      "start": 132.239,
+      "duration": 6.0
+    },
+    {
+      "text": "competition and all of this training. We",
+      "start": 135.599,
+      "duration": 5.921
+    },
+    {
+      "text": "are hoping to support our students to",
+      "start": 138.239,
+      "duration": 5.041
+    },
+    {
+      "text": "improve their communication and",
+      "start": 141.52,
+      "duration": 4.16
+    },
+    {
+      "text": "technical progress through this",
+      "start": 143.28,
+      "duration": 5.12
+    },
+    {
+      "text": "collaborative multidisiplinary",
+      "start": 145.68,
+      "duration": 5.6
+    },
+    {
+      "text": "project. And we would love to consider",
+      "start": 148.4,
+      "duration": 5.119
+    },
+    {
+      "text": "that as a 4-minute video which is",
+      "start": 151.28,
+      "duration": 5.039
+    },
+    {
+      "text": "pitched to the uh which will be pitched",
+      "start": 153.519,
+      "duration": 6.401
+    },
+    {
+      "text": "to the um industry supervisor uh sorry",
+      "start": 156.319,
+      "duration": 7.28
+    },
+    {
+      "text": "the um the industry um collaborate",
+      "start": 159.92,
+      "duration": 6.959
+    },
+    {
+      "text": "partners. So it's in fact you are",
+      "start": 163.599,
+      "duration": 5.441
+    },
+    {
+      "text": "irregardless of where what is your major",
+      "start": 166.879,
+      "duration": 4.961
+    },
+    {
+      "text": "you're going to practice uh acting as a",
+      "start": 169.04,
+      "duration": 5.919
+    },
+    {
+      "text": "kind of an inter entrepreneur so sharing",
+      "start": 171.84,
+      "duration": 6.88
+    },
+    {
+      "text": "your idea. So that way we hoping uh",
+      "start": 174.959,
+      "duration": 6.801
+    },
+    {
+      "text": "students to be empowered with a digital",
+      "start": 178.72,
+      "duration": 7.2
+    },
+    {
+      "text": "literacy and u you are going to um these",
+      "start": 181.76,
+      "duration": 7.44
+    },
+    {
+      "text": "are the required and special skills for",
+      "start": 185.92,
+      "duration": 6.08
+    },
+    {
+      "text": "your future careers and that is how",
+      "start": 189.2,
+      "duration": 5.36
+    },
+    {
+      "text": "you're going to be involved with the you",
+      "start": 192.0,
+      "duration": 5.599
+    },
+    {
+      "text": "know community engagement and industry",
+      "start": 194.56,
+      "duration": 5.759
+    },
+    {
+      "text": "um uh contributions. Again these are all",
+      "start": 197.599,
+      "duration": 5.28
+    },
+    {
+      "text": "essential for your future career and",
+      "start": 200.319,
+      "duration": 5.84
+    },
+    {
+      "text": "these are kind of providing the evidence",
+      "start": 202.879,
+      "duration": 6.561
+    },
+    {
+      "text": "um to your potential uh interview in",
+      "start": 206.159,
+      "duration": 6.64
+    },
+    {
+      "text": "future. So what is the final product in",
+      "start": 209.44,
+      "duration": 6.24
+    },
+    {
+      "text": "the um design for change or any of these",
+      "start": 212.799,
+      "duration": 5.281
+    },
+    {
+      "text": "competitions that ST shaping stem",
+      "start": 215.68,
+      "duration": 6.32
+    },
+    {
+      "text": "futures offer is a 4minut video. So the",
+      "start": 218.08,
+      "duration": 6.159
+    },
+    {
+      "text": "audience uh every time is going to be",
+      "start": 222.0,
+      "duration": 5.2
+    },
+    {
+      "text": "dead. So this time for design for change",
+      "start": 224.239,
+      "duration": 5.601
+    },
+    {
+      "text": "we are targeting as I mentioned the",
+      "start": 227.2,
+      "duration": 5.44
+    },
+    {
+      "text": "industry partner or someone who is",
+      "start": 229.84,
+      "duration": 5.84
+    },
+    {
+      "text": "interested in your idea. Let's say you",
+      "start": 232.64,
+      "duration": 5.519
+    },
+    {
+      "text": "are coming with a digital prototype a",
+      "start": 235.68,
+      "duration": 5.839
+    },
+    {
+      "text": "website or a mobile application as a",
+      "start": 238.159,
+      "duration": 5.921
+    },
+    {
+      "text": "design solution to a challenge and you",
+      "start": 241.519,
+      "duration": 5.681
+    },
+    {
+      "text": "want to pitch it to the investors to um",
+      "start": 244.08,
+      "duration": 5.439
+    },
+    {
+      "text": "you know invest in your idea. How you",
+      "start": 247.2,
+      "duration": 4.72
+    },
+    {
+      "text": "are going to do it? How you come with",
+      "start": 249.519,
+      "duration": 4.8
+    },
+    {
+      "text": "this uh design solution in 4 minute?",
+      "start": 251.92,
+      "duration": 4.4
+    },
+    {
+      "text": "It's a challenge. That's why we would",
+      "start": 254.319,
+      "duration": 5.281
+    },
+    {
+      "text": "like to offer this opportunity to uh the",
+      "start": 256.32,
+      "duration": 6.0
+    },
+    {
+      "text": "students. If this is your assignment or",
+      "start": 259.6,
+      "duration": 5.92
+    },
+    {
+      "text": "if this is your um you know uh something",
+      "start": 262.32,
+      "duration": 5.68
+    },
+    {
+      "text": "that you are passionate about it or this",
+      "start": 265.52,
+      "duration": 5.679
+    },
+    {
+      "text": "is your research um you're coming to uh",
+      "start": 268.0,
+      "duration": 5.919
+    },
+    {
+      "text": "your prototype is going to unpack a",
+      "start": 271.199,
+      "duration": 4.72
+    },
+    {
+      "text": "challenge which is aligned with our",
+      "start": 273.919,
+      "duration": 4.161
+    },
+    {
+      "text": "vision make the world a better place to",
+      "start": 275.919,
+      "duration": 5.521
+    },
+    {
+      "text": "live. So and it's um you can imagine",
+      "start": 278.08,
+      "duration": 7.44
+    },
+    {
+      "text": "it's capture all of your topics. So um",
+      "start": 281.44,
+      "duration": 7.28
+    },
+    {
+      "text": "our collaborators um we have a industry",
+      "start": 285.52,
+      "duration": 7.119
+    },
+    {
+      "text": "partner who are going to be uh a one of",
+      "start": 288.72,
+      "duration": 7.039
+    },
+    {
+      "text": "the judge uh member during the live",
+      "start": 292.639,
+      "duration": 6.401
+    },
+    {
+      "text": "showcase for the selected best 4minut",
+      "start": 295.759,
+      "duration": 6.401
+    },
+    {
+      "text": "videos. So insurance uh insurance",
+      "start": 299.04,
+      "duration": 7.76
+    },
+    {
+      "text": "Australian group um I A so we have our",
+      "start": 302.16,
+      "duration": 7.12
+    },
+    {
+      "text": "Swimburn uh University of Technology",
+      "start": 306.8,
+      "duration": 5.92
+    },
+    {
+      "text": "Sarak canvas uh our students competing",
+      "start": 309.28,
+      "duration": 7.359
+    },
+    {
+      "text": "between uh from here Australia and um uh",
+      "start": 312.72,
+      "duration": 6.64
+    },
+    {
+      "text": "Sarowak we have our employability team",
+      "start": 316.639,
+      "duration": 6.4
+    },
+    {
+      "text": "Adobe team design factory um team",
+      "start": 319.36,
+      "duration": 5.76
+    },
+    {
+      "text": "emerging leaders program and of course",
+      "start": 323.039,
+      "duration": 4.641
+    },
+    {
+      "text": "we have our collaborative Swimburn woman",
+      "start": 325.12,
+      "duration": 8.079
+    },
+    {
+      "text": "in STEM club. So who we are? We are uh a",
+      "start": 327.68,
+      "duration": 9.28
+    },
+    {
+      "text": "three of us again um uh Kaslan who is a",
+      "start": 333.199,
+      "duration": 6.161
+    },
+    {
+      "text": "department chair of computing technology",
+      "start": 336.96,
+      "duration": 6.239
+    },
+    {
+      "text": "at Simburn myself um I'm a senior",
+      "start": 339.36,
+      "duration": 6.08
+    },
+    {
+      "text": "lecturer right now I'm working with the",
+      "start": 343.199,
+      "duration": 5.601
+    },
+    {
+      "text": "work integrated learning wheel academic",
+      "start": 345.44,
+      "duration": 6.08
+    },
+    {
+      "text": "uh but I'm coming from school of science",
+      "start": 348.8,
+      "duration": 6.16
+    },
+    {
+      "text": "so and um of course Irene from Sarowak",
+      "start": 351.52,
+      "duration": 5.84
+    },
+    {
+      "text": "who is also a senior lecturer from",
+      "start": 354.96,
+      "duration": 6.48
+    },
+    {
+      "text": "school of engineering and science So",
+      "start": 357.36,
+      "duration": 8.0
+    },
+    {
+      "text": "again um like any competitions there is",
+      "start": 361.44,
+      "duration": 7.36
+    },
+    {
+      "text": "a a judging criteria for you uh to",
+      "start": 365.36,
+      "duration": 6.559
+    },
+    {
+      "text": "consider but it's about how you're going",
+      "start": 368.8,
+      "duration": 5.92
+    },
+    {
+      "text": "to identify a challenge and how you are",
+      "start": 371.919,
+      "duration": 6.161
+    },
+    {
+      "text": "going to uh your design is coming to",
+      "start": 374.72,
+      "duration": 7.84
+    },
+    {
+      "text": "explain um uh coming with the solution",
+      "start": 378.08,
+      "duration": 7.839
+    },
+    {
+      "text": "and how that is going to how you deliver",
+      "start": 382.56,
+      "duration": 6.16
+    },
+    {
+      "text": "the content and how you take us through",
+      "start": 385.919,
+      "duration": 5.28
+    },
+    {
+      "text": "this um some steps of your design",
+      "start": 388.72,
+      "duration": 5.759
+    },
+    {
+      "text": "solution as a like a a prototype. It",
+      "start": 391.199,
+      "duration": 5.681
+    },
+    {
+      "text": "could be a a a physical prototype, it",
+      "start": 394.479,
+      "duration": 5.84
+    },
+    {
+      "text": "could be a digital prototype. So um and",
+      "start": 396.88,
+      "duration": 6.0
+    },
+    {
+      "text": "then um you know the clarity of",
+      "start": 400.319,
+      "duration": 4.961
+    },
+    {
+      "text": "communication and the delivery of that",
+      "start": 402.88,
+      "duration": 6.0
+    },
+    {
+      "text": "it's very important uh in a format of 4",
+      "start": 405.28,
+      "duration": 5.759
+    },
+    {
+      "text": "minute video.",
+      "start": 408.88,
+      "duration": 5.28
+    },
+    {
+      "text": "So the sorry this has to be changed",
+      "start": 411.039,
+      "duration": 5.201
+    },
+    {
+      "text": "2024.",
+      "start": 414.16,
+      "duration": 5.759
+    },
+    {
+      "text": "So uh we already had our design for CH",
+      "start": 416.24,
+      "duration": 7.359
+    },
+    {
+      "text": "2024 3. So anyway, this is open to all",
+      "start": 419.919,
+      "duration": 6.801
+    },
+    {
+      "text": "the port participants and competitor uh",
+      "start": 423.599,
+      "duration": 5.121
+    },
+    {
+      "text": "competitors",
+      "start": 426.72,
+      "duration": 5.759
+    },
+    {
+      "text": "uh from Swimburn and um we have uh this",
+      "start": 428.72,
+      "duration": 6.96
+    },
+    {
+      "text": "is Adobe XD. We have Adobe Express video",
+      "start": 432.479,
+      "duration": 6.241
+    },
+    {
+      "text": "because we want you to um you know know",
+      "start": 435.68,
+      "duration": 6.16
+    },
+    {
+      "text": "how to create 4minute video. Um that is",
+      "start": 438.72,
+      "duration": 5.68
+    },
+    {
+      "text": "an option. You don't have to use Adobe",
+      "start": 441.84,
+      "duration": 4.56
+    },
+    {
+      "text": "application but that is our suggestion",
+      "start": 444.4,
+      "duration": 4.56
+    },
+    {
+      "text": "because we have Adobe coaches or amazing",
+      "start": 446.4,
+      "duration": 6.16
+    },
+    {
+      "text": "Adobe coaches who can support you. So we",
+      "start": 448.96,
+      "duration": 5.84
+    },
+    {
+      "text": "also have a guest speaker from our",
+      "start": 452.56,
+      "duration": 5.44
+    },
+    {
+      "text": "industry partner IG to uh cover the",
+      "start": 454.8,
+      "duration": 5.839
+    },
+    {
+      "text": "startup pitch presentation because again",
+      "start": 458.0,
+      "duration": 4.16
+    },
+    {
+      "text": "if you're coming from different",
+      "start": 460.639,
+      "duration": 3.521
+    },
+    {
+      "text": "discipline you don't know how to pitch",
+      "start": 462.16,
+      "duration": 4.159
+    },
+    {
+      "text": "your idea in front of investors then",
+      "start": 464.16,
+      "duration": 4.72
+    },
+    {
+      "text": "that is the training for you. So you are",
+      "start": 466.319,
+      "duration": 7.28
+    },
+    {
+      "text": "going to submit a 300 words around um um",
+      "start": 468.88,
+      "duration": 7.36
+    },
+    {
+      "text": "identifying the outline of your design",
+      "start": 473.599,
+      "duration": 6.88
+    },
+    {
+      "text": "to myself by 20th of May. Your video",
+      "start": 476.24,
+      "duration": 7.92
+    },
+    {
+      "text": "submission is going to be um a kind of a",
+      "start": 480.479,
+      "duration": 6.0
+    },
+    {
+      "text": "4m minute startup video on your design",
+      "start": 484.16,
+      "duration": 5.439
+    },
+    {
+      "text": "idea by 27th of May. If this is your",
+      "start": 486.479,
+      "duration": 4.961
+    },
+    {
+      "text": "assignment, I'm sure by that time you",
+      "start": 489.599,
+      "duration": 4.481
+    },
+    {
+      "text": "already have this assignment ready. And",
+      "start": 491.44,
+      "duration": 5.599
+    },
+    {
+      "text": "um again uh this is a competition for",
+      "start": 494.08,
+      "duration": 4.72
+    },
+    {
+      "text": "2024",
+      "start": 497.039,
+      "duration": 4.0
+    },
+    {
+      "text": "and uh the live showcase is going to",
+      "start": 498.8,
+      "duration": 5.519
+    },
+    {
+      "text": "happen on Thursday 30th of May. You will",
+      "start": 501.039,
+      "duration": 5.84
+    },
+    {
+      "text": "be invited if you're select if your",
+      "start": 504.319,
+      "duration": 5.361
+    },
+    {
+      "text": "video is selected to be judged by our",
+      "start": 506.879,
+      "duration": 6.001
+    },
+    {
+      "text": "judges who are coming from um you know",
+      "start": 509.68,
+      "duration": 5.839
+    },
+    {
+      "text": "factory of design uh who are coming from",
+      "start": 512.88,
+      "duration": 6.24
+    },
+    {
+      "text": "the wheel team and also from industry.",
+      "start": 515.519,
+      "duration": 6.96
+    },
+    {
+      "text": "So, the judge's choice um price is up to",
+      "start": 519.12,
+      "duration": 7.2
+    },
+    {
+      "text": "400 bucks for four minute video. You're",
+      "start": 522.479,
+      "duration": 5.36
+    },
+    {
+      "text": "going to get a certificate of",
+      "start": 526.32,
+      "duration": 4.4
+    },
+    {
+      "text": "participation and you're going to get a",
+      "start": 527.839,
+      "duration": 6.401
+    },
+    {
+      "text": "a credit um as part of the emerging",
+      "start": 530.72,
+      "duration": 5.119
+    },
+    {
+      "text": "latest program. If you don't know what",
+      "start": 534.24,
+      "duration": 4.24
+    },
+    {
+      "text": "is it, you can ask me, send me an email.",
+      "start": 535.839,
+      "duration": 4.961
+    },
+    {
+      "text": "I will explain. And of course, the story",
+      "start": 538.48,
+      "duration": 5.44
+    },
+    {
+      "text": "of success will be published at Swimburn",
+      "start": 540.8,
+      "duration": 8.88
+    },
+    {
+      "text": "newsletter for a winner of 2024.",
+      "start": 543.92,
+      "duration": 9.2
+    },
+    {
+      "text": "So if you're interested, you can uh just",
+      "start": 549.68,
+      "duration": 7.36
+    },
+    {
+      "text": "um you know uh grab this uh QR code and",
+      "start": 553.12,
+      "duration": 7.6
+    },
+    {
+      "text": "um go to the story of uh success of uh",
+      "start": 557.04,
+      "duration": 8.56
+    },
+    {
+      "text": "air fun who was the winner um in 2023.",
+      "start": 560.72,
+      "duration": 9.6
+    },
+    {
+      "text": "It's a great story and yeah for any um",
+      "start": 565.6,
+      "duration": 7.04
+    },
+    {
+      "text": "concern or question please just be in",
+      "start": 570.32,
+      "duration": 4.959
+    },
+    {
+      "text": "contact with me. So I guess I would like",
+      "start": 572.64,
+      "duration": 6.16
+    },
+    {
+      "text": "to stop sharing and I pass to Z to cover",
+      "start": 575.279,
+      "duration": 7.521
+    },
+    {
+      "text": "the Adobe XD training. Thank you Z.",
+      "start": 578.8,
+      "duration": 5.28
+    },
+    {
+      "text": ">> Thank you VA beta. That was a great",
+      "start": 582.8,
+      "duration": 3.599
+    },
+    {
+      "text": "presentation. I will share my screen to",
+      "start": 584.08,
+      "duration": 6.08
+    },
+    {
+      "text": "introduce to everyone Adobe XD. So um",
+      "start": 586.399,
+      "duration": 6.161
+    },
+    {
+      "text": "just to reiterate um if you're a student",
+      "start": 590.16,
+      "duration": 4.88
+    },
+    {
+      "text": "at Swimburn you will have access free",
+      "start": 592.56,
+      "duration": 5.6
+    },
+    {
+      "text": "access to Adobe Creative Cloud apps. So",
+      "start": 595.04,
+      "duration": 6.88
+    },
+    {
+      "text": "this is how XD looks like. Um I'm a UX",
+      "start": 598.16,
+      "duration": 5.92
+    },
+    {
+      "text": "student so all my projects are down here",
+      "start": 601.92,
+      "duration": 4.64
+    },
+    {
+      "text": "but um underneath here you will find all",
+      "start": 604.08,
+      "duration": 4.56
+    },
+    {
+      "text": "your recent projects and over here you",
+      "start": 606.56,
+      "duration": 3.839
+    },
+    {
+      "text": "can explore your files what's shared",
+      "start": 608.64,
+      "duration": 3.92
+    },
+    {
+      "text": "with you and all that and then over here",
+      "start": 610.399,
+      "duration": 5.041
+    },
+    {
+      "text": "you'll be able to see preset artboard um",
+      "start": 612.56,
+      "duration": 5.519
+    },
+    {
+      "text": "sidelit. So let's try to click into one",
+      "start": 615.44,
+      "duration": 5.519
+    },
+    {
+      "text": "and you would be able to see",
+      "start": 618.079,
+      "duration": 7.44
+    },
+    {
+      "text": "uh something like this. Hang on",
+      "start": 620.959,
+      "duration": 8.241
+    },
+    {
+      "text": "let me just reshare the new window.",
+      "start": 625.519,
+      "duration": 5.921
+    },
+    {
+      "text": "Um yep.",
+      "start": 629.2,
+      "duration": 6.079
+    },
+    {
+      "text": "So if I clicked into a web 1920",
+      "start": 631.44,
+      "duration": 6.72
+    },
+    {
+      "text": "basically kind of a typical",
+      "start": 635.279,
+      "duration": 7.441
+    },
+    {
+      "text": "average website size you'll be able to",
+      "start": 638.16,
+      "duration": 6.88
+    },
+    {
+      "text": "see the first artboard which is the side",
+      "start": 642.72,
+      "duration": 6.239
+    },
+    {
+      "text": "that you have chosen. So um if if you",
+      "start": 645.04,
+      "duration": 6.72
+    },
+    {
+      "text": "want to add like different um layout",
+      "start": 648.959,
+      "duration": 5.281
+    },
+    {
+      "text": "sizes you can go into artboards here and",
+      "start": 651.76,
+      "duration": 5.36
+    },
+    {
+      "text": "then you can choose a bunch of different",
+      "start": 654.24,
+      "duration": 5.76
+    },
+    {
+      "text": "um other different sizes. So on the left",
+      "start": 657.12,
+      "duration": 6.48
+    },
+    {
+      "text": "we have um the sidebar contains a select",
+      "start": 660.0,
+      "duration": 6.72
+    },
+    {
+      "text": "tool, shapes, um pen tool, text,",
+      "start": 663.6,
+      "duration": 5.52
+    },
+    {
+      "text": "artboards, and even a search bar. And",
+      "start": 666.72,
+      "duration": 5.44
+    },
+    {
+      "text": "down here we have the document assets,",
+      "start": 669.12,
+      "duration": 6.08
+    },
+    {
+      "text": "layers, and plugins. Up here we have a",
+      "start": 672.16,
+      "duration": 6.48
+    },
+    {
+      "text": "home button, a design um screen, which",
+      "start": 675.2,
+      "duration": 5.04
+    },
+    {
+      "text": "is your working space. And we also have",
+      "start": 678.64,
+      "duration": 4.4
+    },
+    {
+      "text": "a prototype tab where we will go into",
+      "start": 680.24,
+      "duration": 5.36
+    },
+    {
+      "text": "this um further into the workshop. But",
+      "start": 683.04,
+      "duration": 4.239
+    },
+    {
+      "text": "in the prototype tab, you will be able",
+      "start": 685.6,
+      "duration": 4.08
+    },
+    {
+      "text": "to add interactions. So, making your",
+      "start": 687.279,
+      "duration": 5.281
+    },
+    {
+      "text": "website clickable and hover uh adding",
+      "start": 689.68,
+      "duration": 4.96
+    },
+    {
+      "text": "hover animations and things like that.",
+      "start": 692.56,
+      "duration": 4.16
+    },
+    {
+      "text": "And then on the shared page, when you",
+      "start": 694.64,
+      "duration": 4.24
+    },
+    {
+      "text": "have more screens, you'll be able to",
+      "start": 696.72,
+      "duration": 5.76
+    },
+    {
+      "text": "share this with your uh peers and your",
+      "start": 698.88,
+      "duration": 5.44
+    },
+    {
+      "text": "uh like to share as a link to share your",
+      "start": 702.48,
+      "duration": 5.68
+    },
+    {
+      "text": "prototype over here. So, um I'm going to",
+      "start": 704.32,
+      "duration": 7.04
+    },
+    {
+      "text": "open our demo and just going to show you",
+      "start": 708.16,
+      "duration": 5.119
+    },
+    {
+      "text": "what it looks like. Okay, please give me",
+      "start": 711.36,
+      "duration": 4.96
+    },
+    {
+      "text": "one second.",
+      "start": 713.279,
+      "duration": 3.041
+    },
+    {
+      "text": "Yep. So, here is uh just like a demo of",
+      "start": 727.519,
+      "duration": 6.241
+    },
+    {
+      "text": "um a workshop example. Um you can just",
+      "start": 730.399,
+      "duration": 6.321
+    },
+    {
+      "text": "have a look at uh I'm not sure whether",
+      "start": 733.76,
+      "duration": 6.639
+    },
+    {
+      "text": "you may be able to see this.",
+      "start": 736.72,
+      "duration": 4.96
+    },
+    {
+      "text": ">> Oh yes.",
+      "start": 740.399,
+      "duration": 5.361
+    },
+    {
+      "text": ">> So yeah. So if you if you have access to",
+      "start": 741.68,
+      "duration": 5.52
+    },
+    {
+      "text": "this page, we might need to double check",
+      "start": 745.76,
+      "duration": 3.759
+    },
+    {
+      "text": "with that, but you can um contact Adobe",
+      "start": 747.2,
+      "duration": 5.199
+    },
+    {
+      "text": "Hub and we we can pass you this workshop",
+      "start": 749.519,
+      "duration": 5.44
+    },
+    {
+      "text": "um example if you would like. But let me",
+      "start": 752.399,
+      "duration": 3.841
+    },
+    {
+      "text": "just demonstrate for you the",
+      "start": 754.959,
+      "duration": 4.961
+    },
+    {
+      "text": "capabilities of XD. If you play uh",
+      "start": 756.24,
+      "duration": 7.2
+    },
+    {
+      "text": "basically kind of prototype uh this is",
+      "start": 759.92,
+      "duration": 5.76
+    },
+    {
+      "text": "an app. So if you prototype an app and",
+      "start": 763.44,
+      "duration": 4.24
+    },
+    {
+      "text": "then you want to demonstrate how it",
+      "start": 765.68,
+      "duration": 5.12
+    },
+    {
+      "text": "looks like uh this is you can you can be",
+      "start": 767.68,
+      "duration": 5.839
+    },
+    {
+      "text": "able to see how this would work. So in",
+      "start": 770.8,
+      "duration": 5.36
+    },
+    {
+      "text": "an app you have like a sticky navigation",
+      "start": 773.519,
+      "duration": 5.041
+    },
+    {
+      "text": "bar you can scroll and you can like",
+      "start": 776.16,
+      "duration": 4.64
+    },
+    {
+      "text": "access different pages and things like",
+      "start": 778.56,
+      "duration": 6.0
+    },
+    {
+      "text": "that. Um and then typically you can add",
+      "start": 780.8,
+      "duration": 5.36
+    },
+    {
+      "text": "more interactions if you want. You can",
+      "start": 784.56,
+      "duration": 3.44
+    },
+    {
+      "text": "press these pictures and everything you",
+      "start": 786.16,
+      "duration": 5.28
+    },
+    {
+      "text": "want. So let's get into it. So I want to",
+      "start": 788.0,
+      "duration": 5.92
+    },
+    {
+      "text": "demonstrate to you how all the very",
+      "start": 791.44,
+      "duration": 5.36
+    },
+    {
+      "text": "basics of XD. We have kind of a limited",
+      "start": 793.92,
+      "duration": 4.64
+    },
+    {
+      "text": "time. So I'll try to uh cover",
+      "start": 796.8,
+      "duration": 4.96
+    },
+    {
+      "text": "everything. Um so if you command or",
+      "start": 798.56,
+      "duration": 5.92
+    },
+    {
+      "text": "control and click and drag, you'll be",
+      "start": 801.76,
+      "duration": 5.519
+    },
+    {
+      "text": "able to zoom in or zoom out or use your",
+      "start": 804.48,
+      "duration": 5.84
+    },
+    {
+      "text": "space bar to pan across your workspace.",
+      "start": 807.279,
+      "duration": 6.081
+    },
+    {
+      "text": "So that's easy. And in this um",
+      "start": 810.32,
+      "duration": 6.24
+    },
+    {
+      "text": "workspace, you'll be able to see um",
+      "start": 813.36,
+      "duration": 5.52
+    },
+    {
+      "text": "different art boards. So, like I",
+      "start": 816.56,
+      "duration": 4.48
+    },
+    {
+      "text": "mentioned earlier, you're able to add",
+      "start": 818.88,
+      "duration": 4.24
+    },
+    {
+      "text": "different um screen sizes of artboards",
+      "start": 821.04,
+      "duration": 4.239
+    },
+    {
+      "text": "if you just click on this artboard icon",
+      "start": 823.12,
+      "duration": 4.959
+    },
+    {
+      "text": "right here. And or you can also just",
+      "start": 825.279,
+      "duration": 7.041
+    },
+    {
+      "text": "copy like uh copy this size by holding",
+      "start": 828.079,
+      "duration": 7.121
+    },
+    {
+      "text": "um option key or alt on a windows and",
+      "start": 832.32,
+      "duration": 4.16
+    },
+    {
+      "text": "then you'll be able to get a new",
+      "start": 835.2,
+      "duration": 3.68
+    },
+    {
+      "text": "artboard the size of the one that you",
+      "start": 836.48,
+      "duration": 6.4
+    },
+    {
+      "text": "just duplicated. So, we would uh I would",
+      "start": 838.88,
+      "duration": 7.36
+    },
+    {
+      "text": "like to introduce plugins. Um, I think",
+      "start": 842.88,
+      "duration": 6.24
+    },
+    {
+      "text": "mostly you would be able to use icons or",
+      "start": 846.24,
+      "duration": 4.56
+    },
+    {
+      "text": "even Lauram ipsson. Lauram Ipsson",
+      "start": 849.12,
+      "duration": 6.079
+    },
+    {
+      "text": "basically placeholder text. So if you if",
+      "start": 850.8,
+      "duration": 8.32
+    },
+    {
+      "text": "you click this, you can just",
+      "start": 855.199,
+      "duration": 6.32
+    },
+    {
+      "text": "any I need the text box. If you have a",
+      "start": 859.12,
+      "duration": 3.92
+    },
+    {
+      "text": "text box and you want to fill it with",
+      "start": 861.519,
+      "duration": 3.921
+    },
+    {
+      "text": "placeholder text, you can just click",
+      "start": 863.04,
+      "duration": 5.599
+    },
+    {
+      "text": "place f placeholder text. Oh, I'm not",
+      "start": 865.44,
+      "duration": 7.24
+    },
+    {
+      "text": "working. Hang on.",
+      "start": 868.639,
+      "duration": 4.041
+    },
+    {
+      "text": "So you can just insert a text and it",
+      "start": 874.72,
+      "duration": 4.4
+    },
+    {
+      "text": "should be able to to fill in Lauram",
+      "start": 876.72,
+      "duration": 7.119
+    },
+    {
+      "text": "Ipsson for you. And so in your artboards",
+      "start": 879.12,
+      "duration": 7.36
+    },
+    {
+      "text": "you are able to use guides. So if you're",
+      "start": 883.839,
+      "duration": 4.8
+    },
+    {
+      "text": "familiar with other Adobe apps, you",
+      "start": 886.48,
+      "duration": 5.84
+    },
+    {
+      "text": "would be able to drag in guides um from",
+      "start": 888.639,
+      "duration": 7.361
+    },
+    {
+      "text": "the sides. Hang on. You you'll be able",
+      "start": 892.32,
+      "duration": 7.36
+    },
+    {
+      "text": "to drag in guides to align your design.",
+      "start": 896.0,
+      "duration": 5.519
+    },
+    {
+      "text": "And these will basically be blue lines.",
+      "start": 899.68,
+      "duration": 4.399
+    },
+    {
+      "text": "And if you want to uh align your",
+      "start": 901.519,
+      "duration": 4.401
+    },
+    {
+      "text": "objects, it will be much easier if you",
+      "start": 904.079,
+      "duration": 3.521
+    },
+    {
+      "text": "have guides and just keep it consistent",
+      "start": 905.92,
+      "duration": 3.359
+    },
+    {
+      "text": "and everything. If you want to remove",
+      "start": 907.6,
+      "duration": 3.12
+    },
+    {
+      "text": "the guides, you can just drag it off",
+      "start": 909.279,
+      "duration": 4.881
+    },
+    {
+      "text": "that artboard and it'll be gone. So, um",
+      "start": 910.72,
+      "duration": 6.239
+    },
+    {
+      "text": "there are different um capabilities you",
+      "start": 914.16,
+      "duration": 8.479
+    },
+    {
+      "text": "can do on on this tab right here. So,",
+      "start": 916.959,
+      "duration": 9.12
+    },
+    {
+      "text": "here you'll be able to draw shapes. Um",
+      "start": 922.639,
+      "duration": 6.801
+    },
+    {
+      "text": "and you can change uh their settings",
+      "start": 926.079,
+      "duration": 5.681
+    },
+    {
+      "text": "over here depending on the item you have",
+      "start": 929.44,
+      "duration": 4.48
+    },
+    {
+      "text": "selected. For example, if you have text,",
+      "start": 931.76,
+      "duration": 3.84
+    },
+    {
+      "text": "they will have different functions on",
+      "start": 933.92,
+      "duration": 5.039
+    },
+    {
+      "text": "the right panel. So just to go through",
+      "start": 935.6,
+      "duration": 7.919
+    },
+    {
+      "text": "on the text panel, you have transform,",
+      "start": 938.959,
+      "duration": 9.041
+    },
+    {
+      "text": "which is moving um the element. So you",
+      "start": 943.519,
+      "duration": 6.801
+    },
+    {
+      "text": "can adjust yourself where the x-axxis",
+      "start": 948.0,
+      "duration": 4.079
+    },
+    {
+      "text": "would be. So if you wanted it to be 50",
+      "start": 950.32,
+      "duration": 5.199
+    },
+    {
+      "text": "pixels from the left um corner, the left",
+      "start": 952.079,
+      "duration": 5.361
+    },
+    {
+      "text": "edge, then you can just input that your",
+      "start": 955.519,
+      "duration": 3.521
+    },
+    {
+      "text": "numbers over here or you can just drag",
+      "start": 957.44,
+      "duration": 3.92
+    },
+    {
+      "text": "it however you want. And there would",
+      "start": 959.04,
+      "duration": 6.479
+    },
+    {
+      "text": "also be numbers showing up um as pink",
+      "start": 961.36,
+      "duration": 6.32
+    },
+    {
+      "text": "pink text over here just to let you know",
+      "start": 965.519,
+      "duration": 4.88
+    },
+    {
+      "text": "how far away it is from the edge or from",
+      "start": 967.68,
+      "duration": 5.599
+    },
+    {
+      "text": "other items if you just click um alt key",
+      "start": 970.399,
+      "duration": 4.721
+    },
+    {
+      "text": "or option key on a Mac and you'll be",
+      "start": 973.279,
+      "duration": 3.68
+    },
+    {
+      "text": "able to see the distance between other",
+      "start": 975.12,
+      "duration": 5.92
+    },
+    {
+      "text": "elements. So um you are able to change",
+      "start": 976.959,
+      "duration": 6.721
+    },
+    {
+      "text": "the font of the text as well as the size",
+      "start": 981.04,
+      "duration": 5.039
+    },
+    {
+      "text": "as well as whether you want it to be all",
+      "start": 983.68,
+      "duration": 5.599
+    },
+    {
+      "text": "caps, all small letters or sentence case",
+      "start": 986.079,
+      "duration": 5.281
+    },
+    {
+      "text": "as well as superscript, subscript,",
+      "start": 989.279,
+      "duration": 4.721
+    },
+    {
+      "text": "underline, strike through. And over here",
+      "start": 991.36,
+      "duration": 6.56
+    },
+    {
+      "text": "you'll be able to add um you'll be able",
+      "start": 994.0,
+      "duration": 7.759
+    },
+    {
+      "text": "to change the colors of the the text as",
+      "start": 997.92,
+      "duration": 6.64
+    },
+    {
+      "text": "well as adding a border which will add",
+      "start": 1001.759,
+      "duration": 7.121
+    },
+    {
+      "text": "it around the text the the text itself.",
+      "start": 1004.56,
+      "duration": 7.839
+    },
+    {
+      "text": "So um after that you'll be able to uh",
+      "start": 1008.88,
+      "duration": 6.8
+    },
+    {
+      "text": "customize the text however you want and",
+      "start": 1012.399,
+      "duration": 5.841
+    },
+    {
+      "text": "do it as much as you want to respond to",
+      "start": 1015.68,
+      "duration": 5.04
+    },
+    {
+      "text": "your design needs. So the next thing I",
+      "start": 1018.24,
+      "duration": 6.24
+    },
+    {
+      "text": "would go through is repeat grids. So",
+      "start": 1020.72,
+      "duration": 6.0
+    },
+    {
+      "text": "over here there is a button called",
+      "start": 1024.48,
+      "duration": 4.4
+    },
+    {
+      "text": "repeat grid right here on the right",
+      "start": 1026.72,
+      "duration": 5.199
+    },
+    {
+      "text": "corner. So what repeat grid helps you do",
+      "start": 1028.88,
+      "duration": 7.36
+    },
+    {
+      "text": "is seamlessly add allow you to add um",
+      "start": 1031.919,
+      "duration": 6.241
+    },
+    {
+      "text": "your duplicate your elements",
+      "start": 1036.24,
+      "duration": 5.04
+    },
+    {
+      "text": "symmetrically on like horizontally or",
+      "start": 1038.16,
+      "duration": 5.759
+    },
+    {
+      "text": "vertically. So you would be able to drag",
+      "start": 1041.28,
+      "duration": 7.36
+    },
+    {
+      "text": "however many um uh boxes in this case",
+      "start": 1043.919,
+      "duration": 6.721
+    },
+    {
+      "text": "you want across your page and you can",
+      "start": 1048.64,
+      "duration": 6.159
+    },
+    {
+      "text": "even adjust the gutter space by dragging",
+      "start": 1050.64,
+      "duration": 6.32
+    },
+    {
+      "text": "dragging the space in between and then",
+      "start": 1054.799,
+      "duration": 6.401
+    },
+    {
+      "text": "adjusting it yourself. Or you can also",
+      "start": 1056.96,
+      "duration": 7.599
+    },
+    {
+      "text": "um or you can also just like adjust your",
+      "start": 1061.2,
+      "duration": 7.92
+    },
+    {
+      "text": "own um parent shape and then you can add",
+      "start": 1064.559,
+      "duration": 7.601
+    },
+    {
+      "text": "different things inside and it will it",
+      "start": 1069.12,
+      "duration": 6.48
+    },
+    {
+      "text": "will just like respond and duplicate",
+      "start": 1072.16,
+      "duration": 5.519
+    },
+    {
+      "text": "itself.",
+      "start": 1075.6,
+      "duration": 6.16
+    },
+    {
+      "text": "So then after that um I would go through",
+      "start": 1077.679,
+      "duration": 6.961
+    },
+    {
+      "text": "the artboard heights. So let's just",
+      "start": 1081.76,
+      "duration": 4.96
+    },
+    {
+      "text": "leave it here for now. So, as you can",
+      "start": 1084.64,
+      "duration": 4.96
+    },
+    {
+      "text": "see, this is one um screen. So, this",
+      "start": 1086.72,
+      "duration": 5.76
+    },
+    {
+      "text": "would fit perfectly on um one of the",
+      "start": 1089.6,
+      "duration": 4.959
+    },
+    {
+      "text": "screens. I believe it might be iPhone",
+      "start": 1092.48,
+      "duration": 5.68
+    },
+    {
+      "text": "14. And you would be able to drag this",
+      "start": 1094.559,
+      "duration": 6.0
+    },
+    {
+      "text": "artboard to allow for vertical",
+      "start": 1098.16,
+      "duration": 4.32
+    },
+    {
+      "text": "scrolling. Please be aware that this",
+      "start": 1100.559,
+      "duration": 3.761
+    },
+    {
+      "text": "blue line right here marks the end of",
+      "start": 1102.48,
+      "duration": 3.6
+    },
+    {
+      "text": "the screen. And please do not move it or",
+      "start": 1104.32,
+      "duration": 5.44
+    },
+    {
+      "text": "else it would change the resolution uh",
+      "start": 1106.08,
+      "duration": 6.64
+    },
+    {
+      "text": "basically the screen size of your um",
+      "start": 1109.76,
+      "duration": 4.48
+    },
+    {
+      "text": "starting",
+      "start": 1112.72,
+      "duration": 4.88
+    },
+    {
+      "text": "your your starting like page. So if you",
+      "start": 1114.24,
+      "duration": 5.92
+    },
+    {
+      "text": "allow it to just flow on while keeping",
+      "start": 1117.6,
+      "duration": 5.04
+    },
+    {
+      "text": "the blue line there you'll be able to",
+      "start": 1120.16,
+      "duration": 4.56
+    },
+    {
+      "text": "allow for scrolling. Let me just",
+      "start": 1122.64,
+      "duration": 4.88
+    },
+    {
+      "text": "demonstrate.",
+      "start": 1124.72,
+      "duration": 5.44
+    },
+    {
+      "text": "So I would put this past the blue line",
+      "start": 1127.52,
+      "duration": 5.039
+    },
+    {
+      "text": "and then if you if you play you would be",
+      "start": 1130.16,
+      "duration": 4.879
+    },
+    {
+      "text": "able to scroll and see the content.",
+      "start": 1132.559,
+      "duration": 6.401
+    },
+    {
+      "text": "However, if you move the blue line",
+      "start": 1135.039,
+      "duration": 6.321
+    },
+    {
+      "text": "it would just it would adjust this whole",
+      "start": 1138.96,
+      "duration": 6.88
+    },
+    {
+      "text": "screen size um itself without kind of",
+      "start": 1141.36,
+      "duration": 7.92
+    },
+    {
+      "text": "responding to any mobile size. So yes,",
+      "start": 1145.84,
+      "duration": 5.28
+    },
+    {
+      "text": "so that's one very important thing to",
+      "start": 1149.28,
+      "duration": 5.2
+    },
+    {
+      "text": "keep in mind. And on the prototype as I",
+      "start": 1151.12,
+      "duration": 5.679
+    },
+    {
+      "text": "mentioned before you have sticky",
+      "start": 1154.48,
+      "duration": 4.96
+    },
+    {
+      "text": "navigation. So this is also one of the",
+      "start": 1156.799,
+      "duration": 4.561
+    },
+    {
+      "text": "options on the right hand side. You may",
+      "start": 1159.44,
+      "duration": 3.52
+    },
+    {
+      "text": "have seen the fixed position when",
+      "start": 1161.36,
+      "duration": 3.6
+    },
+    {
+      "text": "scrolling. So this is a button where you",
+      "start": 1162.96,
+      "duration": 4.4
+    },
+    {
+      "text": "can click to fix the element on the",
+      "start": 1164.96,
+      "duration": 5.36
+    },
+    {
+      "text": "screen. So if I turn this off, you would",
+      "start": 1167.36,
+      "duration": 5.28
+    },
+    {
+      "text": "be able to see that it follows the page",
+      "start": 1170.32,
+      "duration": 5.359
+    },
+    {
+      "text": "and doesn't stick at the bottom section.",
+      "start": 1172.64,
+      "duration": 6.32
+    },
+    {
+      "text": "So if you turn it on, it would it would",
+      "start": 1175.679,
+      "duration": 5.281
+    },
+    {
+      "text": "stick wherever you want on this screen",
+      "start": 1178.96,
+      "duration": 3.68
+    },
+    {
+      "text": "and then just hold its place while you",
+      "start": 1180.96,
+      "duration": 4.56
+    },
+    {
+      "text": "allow for vertical scrolling.",
+      "start": 1182.64,
+      "duration": 5.2
+    },
+    {
+      "text": "Yes. So",
+      "start": 1185.52,
+      "duration": 5.84
+    },
+    {
+      "text": "um so if you want you can play around,",
+      "start": 1187.84,
+      "duration": 5.839
+    },
+    {
+      "text": "you can pause this recording and play",
+      "start": 1191.36,
+      "duration": 5.28
+    },
+    {
+      "text": "around with shapes and um art boards.",
+      "start": 1193.679,
+      "duration": 4.801
+    },
+    {
+      "text": "And then once you have a wireframe",
+      "start": 1196.64,
+      "duration": 4.56
+    },
+    {
+      "text": "ready, you may you may want to decorate",
+      "start": 1198.48,
+      "duration": 6.96
+    },
+    {
+      "text": "it, add images. You can add images by by",
+      "start": 1201.2,
+      "duration": 8.44
+    },
+    {
+      "text": "making a box over here.",
+      "start": 1205.44,
+      "duration": 4.2
+    },
+    {
+      "text": "You can make a box. And then under fill,",
+      "start": 1210.0,
+      "duration": 4.96
+    },
+    {
+      "text": "you can also add it here. You can add",
+      "start": 1212.96,
+      "duration": 4.48
+    },
+    {
+      "text": "color like linear gradients, angular",
+      "start": 1214.96,
+      "duration": 5.52
+    },
+    {
+      "text": "gradients and all that. Or you can also",
+      "start": 1217.44,
+      "duration": 4.72
+    },
+    {
+      "text": "drag the image. If you're on a Mac, you",
+      "start": 1220.48,
+      "duration": 4.079
+    },
+    {
+      "text": "can just drag the image into the box as",
+      "start": 1222.16,
+      "duration": 5.92
+    },
+    {
+      "text": "well. I believe if you are um on a",
+      "start": 1224.559,
+      "duration": 7.041
+    },
+    {
+      "text": "Windows you might need to um uh attach",
+      "start": 1228.08,
+      "duration": 5.839
+    },
+    {
+      "text": "images like by dragging in. I'm not",
+      "start": 1231.6,
+      "duration": 4.0
+    },
+    {
+      "text": "completely sure about that since I'm on",
+      "start": 1233.919,
+      "duration": 5.201
+    },
+    {
+      "text": "a Mac but yes and then after you are",
+      "start": 1235.6,
+      "duration": 6.0
+    },
+    {
+      "text": "complete you may come up with um an app",
+      "start": 1239.12,
+      "duration": 5.039
+    },
+    {
+      "text": "design that looks like this. So when",
+      "start": 1241.6,
+      "duration": 4.64
+    },
+    {
+      "text": "you're ready you can jump into",
+      "start": 1244.159,
+      "duration": 4.4
+    },
+    {
+      "text": "prototyping.",
+      "start": 1246.24,
+      "duration": 5.6
+    },
+    {
+      "text": ">> So I just want to ask you a question. So",
+      "start": 1248.559,
+      "duration": 5.921
+    },
+    {
+      "text": "I can see with your design working",
+      "start": 1251.84,
+      "duration": 5.199
+    },
+    {
+      "text": "example, it's kind of",
+      "start": 1254.48,
+      "duration": 5.199
+    },
+    {
+      "text": ">> um Okay. So I can see all of the text",
+      "start": 1257.039,
+      "duration": 5.041
+    },
+    {
+      "text": "and the images and the boxes that you",
+      "start": 1259.679,
+      "duration": 4.081
+    },
+    {
+      "text": "added, but I can see there is a",
+      "start": 1262.08,
+      "duration": 5.28
+    },
+    {
+      "text": "background um on the screen. So is that",
+      "start": 1263.76,
+      "duration": 6.32
+    },
+    {
+      "text": "different to what you just explained um",
+      "start": 1267.36,
+      "duration": 6.559
+    },
+    {
+      "text": "or how that search button or that so",
+      "start": 1270.08,
+      "duration": 5.76
+    },
+    {
+      "text": "yeah the background is going to be",
+      "start": 1273.919,
+      "duration": 3.441
+    },
+    {
+      "text": "appear.",
+      "start": 1275.84,
+      "duration": 3.199
+    },
+    {
+      "text": ">> Oh, right. You mean like this this",
+      "start": 1277.36,
+      "duration": 3.28
+    },
+    {
+      "text": "picture?",
+      "start": 1279.039,
+      "duration": 5.201
+    },
+    {
+      "text": "Okay. Yeah. So, um if you if you look",
+      "start": 1280.64,
+      "duration": 6.48
+    },
+    {
+      "text": "over here, okay, so if this background",
+      "start": 1284.24,
+      "duration": 5.2
+    },
+    {
+      "text": "is basically like the back of the",
+      "start": 1287.12,
+      "duration": 4.0
+    },
+    {
+      "text": "screen, right? So, it's the background",
+      "start": 1289.44,
+      "duration": 6.08
+    },
+    {
+      "text": "of the prototype itself, the design. So,",
+      "start": 1291.12,
+      "duration": 6.88
+    },
+    {
+      "text": "you would be able to just add images on",
+      "start": 1295.52,
+      "duration": 4.88
+    },
+    {
+      "text": "here. Let me just demonstrate by pulling",
+      "start": 1298.0,
+      "duration": 7.039
+    },
+    {
+      "text": "up an image and dragging it in here. Um,",
+      "start": 1300.4,
+      "duration": 8.36
+    },
+    {
+      "text": "give me one second.",
+      "start": 1305.039,
+      "duration": 3.721
+    },
+    {
+      "text": "Let me just pull up an image.",
+      "start": 1311.12,
+      "duration": 4.28
+    },
+    {
+      "text": "Yeah. So, if I were to just drag an",
+      "start": 1317.52,
+      "duration": 4.32
+    },
+    {
+      "text": "image onto",
+      "start": 1319.76,
+      "duration": 4.399
+    },
+    {
+      "text": "onto here, you're able to see it's",
+      "start": 1321.84,
+      "duration": 5.52
+    },
+    {
+      "text": "really huge. Um Yeah. So, I've just",
+      "start": 1324.159,
+      "duration": 5.441
+    },
+    {
+      "text": "dragged an image in here. You can just",
+      "start": 1327.36,
+      "duration": 5.439
+    },
+    {
+      "text": "if you just um drag it onto a screen and",
+      "start": 1329.6,
+      "duration": 6.319
+    },
+    {
+      "text": "just like um proportionately fit it over",
+      "start": 1332.799,
+      "duration": 6.0
+    },
+    {
+      "text": "the screen, it will become a background.",
+      "start": 1335.919,
+      "duration": 6.081
+    },
+    {
+      "text": "So you can alter the opacity if you want",
+      "start": 1338.799,
+      "duration": 4.24
+    },
+    {
+      "text": "over here.",
+      "start": 1342.0,
+      "duration": 1.36
+    },
+    {
+      "text": ">> Yeah.",
+      "start": 1343.039,
+      "duration": 2.481
+    },
+    {
+      "text": ">> If you want to just um adjust the",
+      "start": 1343.36,
+      "duration": 4.799
+    },
+    {
+      "text": "opacity according to uh what the",
+      "start": 1345.52,
+      "duration": 5.2
+    },
+    {
+      "text": "background color is. So, if I wanted to",
+      "start": 1348.159,
+      "duration": 4.481
+    },
+    {
+      "text": "have it have it like have a white",
+      "start": 1350.72,
+      "duration": 7.04
+    },
+    {
+      "text": "overlay, I could just decrease the um",
+      "start": 1352.64,
+      "duration": 6.96
+    },
+    {
+      "text": "decrease the opacity",
+      "start": 1357.76,
+      "duration": 6.72
+    },
+    {
+      "text": ">> or I can or I can add a layer of overlay",
+      "start": 1359.6,
+      "duration": 7.04
+    },
+    {
+      "text": "colors however I want and then just",
+      "start": 1364.48,
+      "duration": 5.84
+    },
+    {
+      "text": "adjust the opacity over here over here.",
+      "start": 1366.64,
+      "duration": 6.399
+    },
+    {
+      "text": "So, yeah. So, this is how you produce",
+      "start": 1370.32,
+      "duration": 4.56
+    },
+    {
+      "text": "like a background image. And then as for",
+      "start": 1373.039,
+      "duration": 3.52
+    },
+    {
+      "text": "these, I'm pretty sure that it's just",
+      "start": 1374.88,
+      "duration": 4.56
+    },
+    {
+      "text": "the white of the artboard itself.",
+      "start": 1376.559,
+      "duration": 4.081
+    },
+    {
+      "text": "Thank you.",
+      "start": 1379.44,
+      "duration": 5.2
+    },
+    {
+      "text": ">> Yep. So, if you if you wanted to um have",
+      "start": 1380.64,
+      "duration": 6.88
+    },
+    {
+      "text": "a scrolling a vertical scrolling screen",
+      "start": 1384.64,
+      "duration": 5.2
+    },
+    {
+      "text": "and you wanted one picture across the",
+      "start": 1387.52,
+      "duration": 4.399
+    },
+    {
+      "text": "entire thing, this would be how the home",
+      "start": 1389.84,
+      "duration": 4.16
+    },
+    {
+      "text": "looks like. So, if it's one huge screen,",
+      "start": 1391.919,
+      "duration": 3.841
+    },
+    {
+      "text": "when you scroll, it's still like the",
+      "start": 1394.0,
+      "duration": 5.12
+    },
+    {
+      "text": "image is like stuck onto the artboard.",
+      "start": 1395.76,
+      "duration": 5.52
+    },
+    {
+      "text": "Yeah. However, if you wanted to fix it",
+      "start": 1399.12,
+      "duration": 4.559
+    },
+    {
+      "text": "in position like we we discussed just",
+      "start": 1401.28,
+      "duration": 7.0
+    },
+    {
+      "text": "now, you select the image",
+      "start": 1403.679,
+      "duration": 4.601
+    },
+    {
+      "text": "If you want it to fix position, then",
+      "start": 1408.559,
+      "duration": 5.441
+    },
+    {
+      "text": "when you scroll, it will it will fix on",
+      "start": 1411.2,
+      "duration": 6.04
+    },
+    {
+      "text": "its spot.",
+      "start": 1414.0,
+      "duration": 3.24
+    },
+    {
+      "text": "Yep. So, let me just demonstrate.",
+      "start": 1420.159,
+      "duration": 8.361
+    },
+    {
+      "text": "Sorry, wrong thing.",
+      "start": 1424.24,
+      "duration": 4.28
+    },
+    {
+      "text": "Yeah. Let me just demonstrate the with",
+      "start": 1429.6,
+      "duration": 4.72
+    },
+    {
+      "text": "the repeat grid. Yep. you'll be able to",
+      "start": 1431.84,
+      "duration": 5.28
+    },
+    {
+      "text": "scroll and then the picture um is stuck",
+      "start": 1434.32,
+      "duration": 5.28
+    },
+    {
+      "text": "like fixed position on the artboard.",
+      "start": 1437.12,
+      "duration": 5.679
+    },
+    {
+      "text": "Yes. So, thank you for that question. Um",
+      "start": 1439.6,
+      "duration": 9.439
+    },
+    {
+      "text": "then for let's jump into prototyping.",
+      "start": 1442.799,
+      "duration": 9.281
+    },
+    {
+      "text": "So, in prototyping um I will go through",
+      "start": 1449.039,
+      "duration": 5.201
+    },
+    {
+      "text": "the simpler prototyping and then we can",
+      "start": 1452.08,
+      "duration": 5.199
+    },
+    {
+      "text": "dive into components later on as it's a",
+      "start": 1454.24,
+      "duration": 5.2
+    },
+    {
+      "text": "little bit more complicated. But to",
+      "start": 1457.279,
+      "duration": 3.921
+    },
+    {
+      "text": "understand prototyping, it basically",
+      "start": 1459.44,
+      "duration": 4.88
+    },
+    {
+      "text": "allows you to link each of your pages to",
+      "start": 1461.2,
+      "duration": 5.359
+    },
+    {
+      "text": "each other or basically let your buttons",
+      "start": 1464.32,
+      "duration": 6.719
+    },
+    {
+      "text": "work. So on this um working example, uh",
+      "start": 1466.559,
+      "duration": 8.48
+    },
+    {
+      "text": "as you can see in this, if I present",
+      "start": 1471.039,
+      "duration": 5.681
+    },
+    {
+      "text": "this, you'll be able to press on",
+      "start": 1475.039,
+      "duration": 4.961
+    },
+    {
+      "text": "categories and it will navigate to the",
+      "start": 1476.72,
+      "duration": 4.88
+    },
+    {
+      "text": "categories page. And if I click on",
+      "start": 1480.0,
+      "duration": 2.96
+    },
+    {
+      "text": "favorites, it will navigate to the",
+      "start": 1481.6,
+      "duration": 4.8
+    },
+    {
+      "text": "favorites page. So over here you'll be",
+      "start": 1482.96,
+      "duration": 7.599
+    },
+    {
+      "text": "able to see that um you will you will",
+      "start": 1486.4,
+      "duration": 6.96
+    },
+    {
+      "text": "see this blue box that basically that",
+      "start": 1490.559,
+      "duration": 5.441
+    },
+    {
+      "text": "basically signals that you have selected",
+      "start": 1493.36,
+      "duration": 5.6
+    },
+    {
+      "text": "this artboard and this button here",
+      "start": 1496.0,
+      "duration": 5.279
+    },
+    {
+      "text": "signifies that you can prototype it",
+      "start": 1498.96,
+      "duration": 4.24
+    },
+    {
+      "text": "basically link it to the screen that you",
+      "start": 1501.279,
+      "duration": 4.0
+    },
+    {
+      "text": "want it to lead to. But if you select",
+      "start": 1503.2,
+      "duration": 3.68
+    },
+    {
+      "text": "the entire artboard it means that",
+      "start": 1505.279,
+      "duration": 3.52
+    },
+    {
+      "text": "anywhere you click on the artboard will",
+      "start": 1506.88,
+      "duration": 4.72
+    },
+    {
+      "text": "link to that page. So if you wanted to",
+      "start": 1508.799,
+      "duration": 6.401
+    },
+    {
+      "text": "just make one element lead to the next",
+      "start": 1511.6,
+      "duration": 6.0
+    },
+    {
+      "text": "uh the next page then you will have to",
+      "start": 1515.2,
+      "duration": 5.28
+    },
+    {
+      "text": "select the element itself and then um",
+      "start": 1517.6,
+      "duration": 4.48
+    },
+    {
+      "text": "let me just demonstrate this with the",
+      "start": 1520.48,
+      "duration": 4.079
+    },
+    {
+      "text": "shop. So",
+      "start": 1522.08,
+      "duration": 4.16
+    },
+    {
+      "text": "uh it will it will look like this and",
+      "start": 1524.559,
+      "duration": 4.401
+    },
+    {
+      "text": "then there would be an individual blue",
+      "start": 1526.24,
+      "duration": 5.6
+    },
+    {
+      "text": "arrow over here and if you click on that",
+      "start": 1528.96,
+      "duration": 5.44
+    },
+    {
+      "text": "you'll be able to adjust all these",
+      "start": 1531.84,
+      "duration": 5.839
+    },
+    {
+      "text": "settings. So, if I wanted this shop to",
+      "start": 1534.4,
+      "duration": 6.96
+    },
+    {
+      "text": "to um navigate to categories, for",
+      "start": 1537.679,
+      "duration": 7.281
+    },
+    {
+      "text": "example, you will see that this uh let's",
+      "start": 1541.36,
+      "duration": 6.4
+    },
+    {
+      "text": "think. Oops. You will see that this",
+      "start": 1544.96,
+      "duration": 6.0
+    },
+    {
+      "text": "arrow follows um links it to the",
+      "start": 1547.76,
+      "duration": 8.08
+    },
+    {
+      "text": "artboard visually. So, um if I were to",
+      "start": 1550.96,
+      "duration": 7.44
+    },
+    {
+      "text": "adjust the destination, I could just",
+      "start": 1555.84,
+      "duration": 4.8
+    },
+    {
+      "text": "drag this arrow over here and then it",
+      "start": 1558.4,
+      "duration": 5.36
+    },
+    {
+      "text": "will it will be linked to this page. So",
+      "start": 1560.64,
+      "duration": 7.039
+    },
+    {
+      "text": "now if I go into my preview and I click",
+      "start": 1563.76,
+      "duration": 6.88
+    },
+    {
+      "text": "on shop, it will navigate to the",
+      "start": 1567.679,
+      "duration": 5.761
+    },
+    {
+      "text": "categories page which we just linked. So",
+      "start": 1570.64,
+      "duration": 5.279
+    },
+    {
+      "text": "if you wanted to delete it, you can just",
+      "start": 1573.44,
+      "duration": 5.52
+    },
+    {
+      "text": "um press the delete button or you can",
+      "start": 1575.919,
+      "duration": 6.801
+    },
+    {
+      "text": "also adjust some animations. You can",
+      "start": 1578.96,
+      "duration": 6.959
+    },
+    {
+      "text": "slide left and it will look like this.",
+      "start": 1582.72,
+      "duration": 7.52
+    },
+    {
+      "text": "Slide left or you can um slide down as",
+      "start": 1585.919,
+      "duration": 9.521
+    },
+    {
+      "text": "well. And we just go into here. Yep. And",
+      "start": 1590.24,
+      "duration": 8.24
+    },
+    {
+      "text": "then this allows you to have more um",
+      "start": 1595.44,
+      "duration": 5.359
+    },
+    {
+      "text": "freedom in how you want your transitions",
+      "start": 1598.48,
+      "duration": 5.28
+    },
+    {
+      "text": "to roll. And",
+      "start": 1600.799,
+      "duration": 5.841
+    },
+    {
+      "text": "um at the same time, you might also want",
+      "start": 1603.76,
+      "duration": 6.24
+    },
+    {
+      "text": "to adjust the triggers as well. So",
+      "start": 1606.64,
+      "duration": 5.68
+    },
+    {
+      "text": "typically on a website or an app, you",
+      "start": 1610.0,
+      "duration": 4.799
+    },
+    {
+      "text": "would be tapping more than you drag or",
+      "start": 1612.32,
+      "duration": 4.719
+    },
+    {
+      "text": "use keys or voice, but those options are",
+      "start": 1614.799,
+      "duration": 5.36
+    },
+    {
+      "text": "there if you need it. And the transition",
+      "start": 1617.039,
+      "duration": 6.0
+    },
+    {
+      "text": "types are also um important as autoan",
+      "start": 1620.159,
+      "duration": 6.4
+    },
+    {
+      "text": "animate allows you to basically adjust",
+      "start": 1623.039,
+      "duration": 5.52
+    },
+    {
+      "text": "readjust all the elements on the screen",
+      "start": 1626.559,
+      "duration": 6.0
+    },
+    {
+      "text": "to neatly transition to the next screen.",
+      "start": 1628.559,
+      "duration": 6.801
+    },
+    {
+      "text": "Sometimes it becomes a little strange.",
+      "start": 1632.559,
+      "duration": 5.681
+    },
+    {
+      "text": "So you might need to use um you might",
+      "start": 1635.36,
+      "duration": 6.0
+    },
+    {
+      "text": "need to evaluate on that. As as you can",
+      "start": 1638.24,
+      "duration": 5.76
+    },
+    {
+      "text": "see if you go into if we press shop and",
+      "start": 1641.36,
+      "duration": 4.559
+    },
+    {
+      "text": "then you can see these pictures jump",
+      "start": 1644.0,
+      "duration": 4.4
+    },
+    {
+      "text": "into the squares. sometimes a bit",
+      "start": 1645.919,
+      "duration": 5.601
+    },
+    {
+      "text": "strange but at times it could be um it",
+      "start": 1648.4,
+      "duration": 5.92
+    },
+    {
+      "text": "could be useful. So do evaluate on that",
+      "start": 1651.52,
+      "duration": 4.72
+    },
+    {
+      "text": "and then there are also other uh",
+      "start": 1654.32,
+      "duration": 3.76
+    },
+    {
+      "text": "possibilities that you can adjust as",
+      "start": 1656.24,
+      "duration": 4.64
+    },
+    {
+      "text": "well. So",
+      "start": 1658.08,
+      "duration": 6.16
+    },
+    {
+      "text": "then this is basic the most basics of um",
+      "start": 1660.88,
+      "duration": 5.52
+    },
+    {
+      "text": "prototyping. So once you have understood",
+      "start": 1664.24,
+      "duration": 4.4
+    },
+    {
+      "text": "prototyping you will be able to make the",
+      "start": 1666.4,
+      "duration": 6.08
+    },
+    {
+      "text": "actual buttons. So on here let's just",
+      "start": 1668.64,
+      "duration": 7.84
+    },
+    {
+      "text": "clear this. So, going back to our design",
+      "start": 1672.48,
+      "duration": 8.16
+    },
+    {
+      "text": "um page, let's make a button. And I will",
+      "start": 1676.48,
+      "duration": 7.28
+    },
+    {
+      "text": "teach you how to make a component. So,",
+      "start": 1680.64,
+      "duration": 5.279
+    },
+    {
+      "text": "let's just get rid of this grid line.",
+      "start": 1683.76,
+      "duration": 4.72
+    },
+    {
+      "text": "So, I pressed R on my keyboard to",
+      "start": 1685.919,
+      "duration": 5.521
+    },
+    {
+      "text": "instantly make a rectangle. And you can",
+      "start": 1688.48,
+      "duration": 6.079
+    },
+    {
+      "text": "use these um circular dots to adjust the",
+      "start": 1691.44,
+      "duration": 6.56
+    },
+    {
+      "text": "curvatures of the corners. And or you",
+      "start": 1694.559,
+      "duration": 6.801
+    },
+    {
+      "text": "can just adjust it by value over here.",
+      "start": 1698.0,
+      "duration": 6.799
+    },
+    {
+      "text": "Yep. So, um you can also adjust the",
+      "start": 1701.36,
+      "duration": 7.12
+    },
+    {
+      "text": "colors and um the shape of this shape.",
+      "start": 1704.799,
+      "duration": 5.36
+    },
+    {
+      "text": "And you can also adjust the border",
+      "start": 1708.48,
+      "duration": 3.84
+    },
+    {
+      "text": "colors and all that. So, let's just",
+      "start": 1710.159,
+      "duration": 6.161
+    },
+    {
+      "text": "stick with this um box for now. I'm also",
+      "start": 1712.32,
+      "duration": 5.839
+    },
+    {
+      "text": "going to add some text that just says",
+      "start": 1716.32,
+      "duration": 5.599
+    },
+    {
+      "text": "button. Wow, that's looks strange.",
+      "start": 1718.159,
+      "duration": 6.721
+    },
+    {
+      "text": "Okay, so let's just pretend that this is",
+      "start": 1721.919,
+      "duration": 6.081
+    },
+    {
+      "text": "our button.",
+      "start": 1724.88,
+      "duration": 8.24
+    },
+    {
+      "text": "So with this button we want it to first",
+      "start": 1728.0,
+      "duration": 9.36
+    },
+    {
+      "text": "guide us to some other page. So when we",
+      "start": 1733.12,
+      "duration": 6.159
+    },
+    {
+      "text": "want to create components components are",
+      "start": 1737.36,
+      "duration": 5.039
+    },
+    {
+      "text": "basically you are able to",
+      "start": 1739.279,
+      "duration": 6.801
+    },
+    {
+      "text": "um kind of make some elements fixed. So",
+      "start": 1742.399,
+      "duration": 5.52
+    },
+    {
+      "text": "for example buttons if you want to reuse",
+      "start": 1746.08,
+      "duration": 4.479
+    },
+    {
+      "text": "this button you can just duplicate the",
+      "start": 1747.919,
+      "duration": 4.24
+    },
+    {
+      "text": "component and if you change the main",
+      "start": 1750.559,
+      "duration": 4.801
+    },
+    {
+      "text": "component then it will basically change",
+      "start": 1752.159,
+      "duration": 6.801
+    },
+    {
+      "text": "the rest of its copies. So um it will",
+      "start": 1755.36,
+      "duration": 6.799
+    },
+    {
+      "text": "make more sense as I make the component.",
+      "start": 1758.96,
+      "duration": 6.4
+    },
+    {
+      "text": "So if I click this this component plus",
+      "start": 1762.159,
+      "duration": 4.961
+    },
+    {
+      "text": "button over here it will make the",
+      "start": 1765.36,
+      "duration": 3.439
+    },
+    {
+      "text": "component over here it says it has",
+      "start": 1767.12,
+      "duration": 3.6
+    },
+    {
+      "text": "brackets main which means that this is",
+      "start": 1768.799,
+      "duration": 3.6
+    },
+    {
+      "text": "the main component. You can also see",
+      "start": 1770.72,
+      "duration": 4.4
+    },
+    {
+      "text": "that it's main because of this green um",
+      "start": 1772.399,
+      "duration": 4.801
+    },
+    {
+      "text": "diamond shaped symbol over here. It also",
+      "start": 1775.12,
+      "duration": 4.48
+    },
+    {
+      "text": "means that it's the main component. So",
+      "start": 1777.2,
+      "duration": 4.719
+    },
+    {
+      "text": "when you have a component, you have a",
+      "start": 1779.6,
+      "duration": 4.24
+    },
+    {
+      "text": "different states. So state of a",
+      "start": 1781.919,
+      "duration": 3.841
+    },
+    {
+      "text": "component basically just means that this",
+      "start": 1783.84,
+      "duration": 3.68
+    },
+    {
+      "text": "button can have different versions of",
+      "start": 1785.76,
+      "duration": 6.159
+    },
+    {
+      "text": "itself. So if I add um an a hover state",
+      "start": 1787.52,
+      "duration": 7.2
+    },
+    {
+      "text": "for example, it will just automatically",
+      "start": 1791.919,
+      "duration": 4.961
+    },
+    {
+      "text": "animate to change to the hover state",
+      "start": 1794.72,
+      "duration": 5.76
+    },
+    {
+      "text": "when I hover uh in my prototype. So in",
+      "start": 1796.88,
+      "duration": 5.679
+    },
+    {
+      "text": "this hover state, if I selected the",
+      "start": 1800.48,
+      "duration": 4.16
+    },
+    {
+      "text": "hover state and I wanted this button to",
+      "start": 1802.559,
+      "duration": 4.961
+    },
+    {
+      "text": "change colors, um let's just change it",
+      "start": 1804.64,
+      "duration": 6.88
+    },
+    {
+      "text": "to blue for example and then",
+      "start": 1807.52,
+      "duration": 8.48
+    },
+    {
+      "text": "and then change this text to white.",
+      "start": 1811.52,
+      "duration": 6.72
+    },
+    {
+      "text": "In our preview, you'll be able to see",
+      "start": 1816.0,
+      "duration": 5.279
+    },
+    {
+      "text": "that in the default. Okay. Once you",
+      "start": 1818.24,
+      "duration": 6.72
+    },
+    {
+      "text": "hover, it will become blue. Yep. So you",
+      "start": 1821.279,
+      "duration": 7.041
+    },
+    {
+      "text": "can see like this. So, if I were to make",
+      "start": 1824.96,
+      "duration": 5.68
+    },
+    {
+      "text": "um if I were to duplicate this component",
+      "start": 1828.32,
+      "duration": 5.599
+    },
+    {
+      "text": "to uh reuse this style of a button, you",
+      "start": 1830.64,
+      "duration": 6.0
+    },
+    {
+      "text": "can see that it becomes a white um",
+      "start": 1833.919,
+      "duration": 5.36
+    },
+    {
+      "text": "diamond with a green border. And it",
+      "start": 1836.64,
+      "duration": 4.32
+    },
+    {
+      "text": "basically does the same thing, but you",
+      "start": 1839.279,
+      "duration": 4.721
+    },
+    {
+      "text": "are able to change the text. So, button",
+      "start": 1840.96,
+      "duration": 5.439
+    },
+    {
+      "text": "two, if you're able to you you're able",
+      "start": 1844.0,
+      "duration": 4.159
+    },
+    {
+      "text": "to change the text and it wouldn't touch",
+      "start": 1846.399,
+      "duration": 6.481
+    },
+    {
+      "text": "the the main component. However, it will",
+      "start": 1848.159,
+      "duration": 8.721
+    },
+    {
+      "text": "like this thing that um that XD does, it",
+      "start": 1852.88,
+      "duration": 5.919
+    },
+    {
+      "text": "wouldn't update the states all by",
+      "start": 1856.88,
+      "duration": 5.919
+    },
+    {
+      "text": "itself. So, you may have to update it um",
+      "start": 1858.799,
+      "duration": 7.12
+    },
+    {
+      "text": "uh but kind of by yourself. But if",
+      "start": 1862.799,
+      "duration": 5.281
+    },
+    {
+      "text": "you're in a main component and you want",
+      "start": 1865.919,
+      "duration": 4.081
+    },
+    {
+      "text": "to change the text over here, I believe",
+      "start": 1868.08,
+      "duration": 6.319
+    },
+    {
+      "text": "that you would be able to to update it",
+      "start": 1870.0,
+      "duration": 6.96
+    },
+    {
+      "text": "in the hover state as well. So if you",
+      "start": 1874.399,
+      "duration": 5.841
+    },
+    {
+      "text": "wanted to if you have edited the um",
+      "start": 1876.96,
+      "duration": 5.68
+    },
+    {
+      "text": "child components which are basically the",
+      "start": 1880.24,
+      "duration": 4.799
+    },
+    {
+      "text": "duplicates of the main component if you",
+      "start": 1882.64,
+      "duration": 5.68
+    },
+    {
+      "text": "want it to become consistent again there",
+      "start": 1885.039,
+      "duration": 4.88
+    },
+    {
+      "text": "is a button over here I'm not sure you",
+      "start": 1888.32,
+      "duration": 5.92
+    },
+    {
+      "text": "can see okay it can say um where is it",
+      "start": 1889.919,
+      "duration": 8.081
+    },
+    {
+      "text": "here it can say um reset to main state",
+      "start": 1894.24,
+      "duration": 6.159
+    },
+    {
+      "text": "which will basically reset it to its",
+      "start": 1898.0,
+      "duration": 5.36
+    },
+    {
+      "text": "original um",
+      "start": 1900.399,
+      "duration": 5.921
+    },
+    {
+      "text": "its original components. So it will",
+      "start": 1903.36,
+      "duration": 4.799
+    },
+    {
+      "text": "follow the main component as much as you",
+      "start": 1906.32,
+      "duration": 5.28
+    },
+    {
+      "text": "change it. So if I go three and then if",
+      "start": 1908.159,
+      "duration": 5.441
+    },
+    {
+      "text": "I wanted to reset it to main state, it",
+      "start": 1911.6,
+      "duration": 3.28
+    },
+    {
+      "text": "will become two again because it will",
+      "start": 1913.6,
+      "duration": 4.16
+    },
+    {
+      "text": "follow the main component. So yes, that",
+      "start": 1914.88,
+      "duration": 5.279
+    },
+    {
+      "text": "is components hover state. If you wanted",
+      "start": 1917.76,
+      "duration": 6.72
+    },
+    {
+      "text": "it to be oops, if you wanted it to be a",
+      "start": 1920.159,
+      "duration": 7.681
+    },
+    {
+      "text": "toggle which is over here. Uh basically",
+      "start": 1924.48,
+      "duration": 7.12
+    },
+    {
+      "text": "toggles how toggles will work is you can",
+      "start": 1927.84,
+      "duration": 6.0
+    },
+    {
+      "text": "press on it to toggle it like on and",
+      "start": 1931.6,
+      "duration": 4.64
+    },
+    {
+      "text": "off. So",
+      "start": 1933.84,
+      "duration": 7.0
+    },
+    {
+      "text": "over here, if I change the color again,",
+      "start": 1936.24,
+      "duration": 4.6
+    },
+    {
+      "text": "if I change the color over here in the",
+      "start": 1941.12,
+      "duration": 4.48
+    },
+    {
+      "text": "preview, you'll be able to toggle it on",
+      "start": 1943.519,
+      "duration": 4.16
+    },
+    {
+      "text": "and toggle it off. So you can toggle the",
+      "start": 1945.6,
+      "duration": 5.439
+    },
+    {
+      "text": "state on and off. Uh, however, if you",
+      "start": 1947.679,
+      "duration": 8.401
+    },
+    {
+      "text": "wanted to just have it um be be a hover",
+      "start": 1951.039,
+      "duration": 7.921
+    },
+    {
+      "text": "hover state and then you link it to",
+      "start": 1956.08,
+      "duration": 8.4
+    },
+    {
+      "text": "another page, how it would look like is",
+      "start": 1958.96,
+      "duration": 10.64
+    },
+    {
+      "text": "um okay. So, how you would how you would",
+      "start": 1964.48,
+      "duration": 7.76
+    },
+    {
+      "text": "prototype um this button is by going to",
+      "start": 1969.6,
+      "duration": 5.679
+    },
+    {
+      "text": "the prototype page and then this",
+      "start": 1972.24,
+      "duration": 4.64
+    },
+    {
+      "text": "lightning symbol basically just means",
+      "start": 1975.279,
+      "duration": 3.681
+    },
+    {
+      "text": "that it has a hover state attached to",
+      "start": 1976.88,
+      "duration": 6.56
+    },
+    {
+      "text": "it. You can just add a new um link to by",
+      "start": 1978.96,
+      "duration": 6.16
+    },
+    {
+      "text": "pressing this plus button and dragging",
+      "start": 1983.44,
+      "duration": 3.28
+    },
+    {
+      "text": "it to the page that you want it to go",
+      "start": 1985.12,
+      "duration": 5.039
+    },
+    {
+      "text": "to. So over here I will navigate it to",
+      "start": 1986.72,
+      "duration": 6.24
+    },
+    {
+      "text": "our empty categories page and you will",
+      "start": 1990.159,
+      "duration": 5.441
+    },
+    {
+      "text": "realize that you when you hover over it",
+      "start": 1992.96,
+      "duration": 6.0
+    },
+    {
+      "text": "your mouse becomes um a pointer and when",
+      "start": 1995.6,
+      "duration": 5.12
+    },
+    {
+      "text": "you click into it it will go into the",
+      "start": 1998.96,
+      "duration": 6.719
+    },
+    {
+      "text": "categories page like so. Yes. So then",
+      "start": 2000.72,
+      "duration": 8.88
+    },
+    {
+      "text": "that is kind of like the basics of um um",
+      "start": 2005.679,
+      "duration": 6.321
+    },
+    {
+      "text": "components. You can add a bunch of",
+      "start": 2009.6,
+      "duration": 7.52
+    },
+    {
+      "text": "different states as if you want to say",
+      "start": 2012.0,
+      "duration": 7.279
+    },
+    {
+      "text": "um prototype",
+      "start": 2017.12,
+      "duration": 4.88
+    },
+    {
+      "text": "if you wanted to change",
+      "start": 2019.279,
+      "duration": 5.52
+    },
+    {
+      "text": "if you wanted it to change to another",
+      "start": 2022.0,
+      "duration": 6.88
+    },
+    {
+      "text": "like another state you can as well by",
+      "start": 2024.799,
+      "duration": 7.921
+    },
+    {
+      "text": "okay let's say I wanted to add another",
+      "start": 2028.88,
+      "duration": 6.32
+    },
+    {
+      "text": "new state so this is just another state",
+      "start": 2032.72,
+      "duration": 5.28
+    },
+    {
+      "text": "that it will say like clicked",
+      "start": 2035.2,
+      "duration": 6.839
+    },
+    {
+      "text": "let's have a clicked state",
+      "start": 2038.0,
+      "duration": 4.039
+    },
+    {
+      "text": "in prototype. If you wanted to",
+      "start": 2042.24,
+      "duration": 5.76
+    },
+    {
+      "text": "um change the state itself, you can see",
+      "start": 2045.84,
+      "duration": 4.319
+    },
+    {
+      "text": "that the interaction I wanted them to",
+      "start": 2048.0,
+      "duration": 4.96
+    },
+    {
+      "text": "tap it and then and then I wanted it to",
+      "start": 2050.159,
+      "duration": 5.121
+    },
+    {
+      "text": "move into its own state. So how this",
+      "start": 2052.96,
+      "duration": 4.159
+    },
+    {
+      "text": "would work is if you press on the",
+      "start": 2055.28,
+      "duration": 4.319
+    },
+    {
+      "text": "button, it will go to the new state",
+      "start": 2057.119,
+      "duration": 5.361
+    },
+    {
+      "text": "instead of um moving to the next page.",
+      "start": 2059.599,
+      "duration": 4.881
+    },
+    {
+      "text": "So that is also an option that you can",
+      "start": 2062.48,
+      "duration": 4.879
+    },
+    {
+      "text": "make with components. And this is kind",
+      "start": 2064.48,
+      "duration": 5.199
+    },
+    {
+      "text": "of just the basics of the components. Um",
+      "start": 2067.359,
+      "duration": 6.76
+    },
+    {
+      "text": "is there anything else? Um",
+      "start": 2069.679,
+      "duration": 4.44
+    },
+    {
+      "text": "I think that is all for components. Yes.",
+      "start": 2074.8,
+      "duration": 7.68
+    },
+    {
+      "text": "So let's move on to",
+      "start": 2079.04,
+      "duration": 6.079
+    },
+    {
+      "text": "um sharing.",
+      "start": 2082.48,
+      "duration": 5.84
+    },
+    {
+      "text": "So for sharing um I will demonstrate how",
+      "start": 2085.119,
+      "duration": 5.841
+    },
+    {
+      "text": "this will look like. um for sharing.",
+      "start": 2088.32,
+      "duration": 5.44
+    },
+    {
+      "text": ">> See, before you go, sorry, before you go",
+      "start": 2090.96,
+      "duration": 5.04
+    },
+    {
+      "text": "with the sharing, can you remind me",
+      "start": 2093.76,
+      "duration": 4.4
+    },
+    {
+      "text": "again with the",
+      "start": 2096.0,
+      "duration": 4.96
+    },
+    {
+      "text": ">> categories one and favorites one that",
+      "start": 2098.16,
+      "duration": 6.48
+    },
+    {
+      "text": "you made here. So I see that search",
+      "start": 2100.96,
+      "duration": 6.8
+    },
+    {
+      "text": "button all the timing and you know it's",
+      "start": 2104.64,
+      "duration": 6.08
+    },
+    {
+      "text": "kind of a symbol of exactly what we can",
+      "start": 2107.76,
+      "duration": 5.359
+    },
+    {
+      "text": "see in our mobile application because",
+      "start": 2110.72,
+      "duration": 4.48
+    },
+    {
+      "text": "I'm coming from the science background.",
+      "start": 2113.119,
+      "duration": 4.96
+    },
+    {
+      "text": "So I just I'm interested to know all of",
+      "start": 2115.2,
+      "duration": 5.919
+    },
+    {
+      "text": "those component is going to be designed",
+      "start": 2118.079,
+      "duration": 6.641
+    },
+    {
+      "text": "in that uh categories by adding the",
+      "start": 2121.119,
+      "duration": 6.801
+    },
+    {
+      "text": "boxes and all of those symbols",
+      "start": 2124.72,
+      "duration": 6.399
+    },
+    {
+      "text": "before you go to the prototype and",
+      "start": 2127.92,
+      "duration": 5.52
+    },
+    {
+      "text": "connect them together. That's how this",
+      "start": 2131.119,
+      "duration": 6.801
+    },
+    {
+      "text": "is going to be assembled. So each single",
+      "start": 2133.44,
+      "duration": 8.399
+    },
+    {
+      "text": "item a text and everything that is there",
+      "start": 2137.92,
+      "duration": 5.36
+    },
+    {
+      "text": "you add it.",
+      "start": 2141.839,
+      "duration": 3.921
+    },
+    {
+      "text": ">> Yes. Um, so there are also this thing",
+      "start": 2143.28,
+      "duration": 5.12
+    },
+    {
+      "text": "called UI kits that you'll be able to",
+      "start": 2145.76,
+      "duration": 4.72
+    },
+    {
+      "text": "find online if you just Google UI kits",
+      "start": 2148.4,
+      "duration": 3.36
+    },
+    {
+      "text": "and there's like a bunch of different",
+      "start": 2150.48,
+      "duration": 4.16
+    },
+    {
+      "text": "resources. But what I like to use",
+      "start": 2151.76,
+      "duration": 5.92
+    },
+    {
+      "text": "personally is I have a plugin over here",
+      "start": 2154.64,
+      "duration": 5.439
+    },
+    {
+      "text": "called icons for design. So how you can",
+      "start": 2157.68,
+      "duration": 5.12
+    },
+    {
+      "text": "plug in is by pressing this plus button",
+      "start": 2160.079,
+      "duration": 4.721
+    },
+    {
+      "text": "over here to discover plugins and it",
+      "start": 2162.8,
+      "duration": 6.64
+    },
+    {
+      "text": "should open up your Adobe app. Um,",
+      "start": 2164.8,
+      "duration": 7.88
+    },
+    {
+      "text": "hang on.",
+      "start": 2169.44,
+      "duration": 3.24
+    },
+    {
+      "text": "Okay. So, it should open your Adobe",
+      "start": 2174.16,
+      "duration": 7.199
+    },
+    {
+      "text": "Adobe Creative Cloud",
+      "start": 2178.56,
+      "duration": 4.96
+    },
+    {
+      "text": "and",
+      "start": 2181.359,
+      "duration": 3.76
+    },
+    {
+      "text": ">> your Adobe Creative Cloud and you would",
+      "start": 2183.52,
+      "duration": 2.48
+    },
+    {
+      "text": "have",
+      "start": 2185.119,
+      "duration": 3.121
+    },
+    {
+      "text": ">> Yeah, I know that sometimes Oh, okay.",
+      "start": 2186.0,
+      "duration": 2.96
+    },
+    {
+      "text": "You got it.",
+      "start": 2188.24,
+      "duration": 3.52
+    },
+    {
+      "text": ">> Yeah. Okay. Yes. Sorry. Yeah. So, I just",
+      "start": 2188.96,
+      "duration": 4.48
+    },
+    {
+      "text": "clicked discover plugin and it just",
+      "start": 2191.76,
+      "duration": 4.88
+    },
+    {
+      "text": "popped up my Adobe Creative Cloud um",
+      "start": 2193.44,
+      "duration": 5.84
+    },
+    {
+      "text": "tab. And basically there's just a lot of",
+      "start": 2196.64,
+      "duration": 4.4
+    },
+    {
+      "text": "different plugins you can choose from,",
+      "start": 2199.28,
+      "duration": 4.079
+    },
+    {
+      "text": "but I really like to use icons for",
+      "start": 2201.04,
+      "duration": 4.799
+    },
+    {
+      "text": "design. So let me just go back to the",
+      "start": 2203.359,
+      "duration": 6.641
+    },
+    {
+      "text": "example. Um so if I were to click icons",
+      "start": 2205.839,
+      "duration": 6.801
+    },
+    {
+      "text": "for design, you can see that uh let me",
+      "start": 2210.0,
+      "duration": 6.0
+    },
+    {
+      "text": "just search um magnifying glass or just",
+      "start": 2212.64,
+      "duration": 5.92
+    },
+    {
+      "text": "search. So if you click search, there is",
+      "start": 2216.0,
+      "duration": 4.96
+    },
+    {
+      "text": "a bunch of available icons for you to",
+      "start": 2218.56,
+      "duration": 4.799
+    },
+    {
+      "text": "choose from. So you don't have to design",
+      "start": 2220.96,
+      "duration": 4.159
+    },
+    {
+      "text": "everything all by yourself. you just",
+      "start": 2223.359,
+      "duration": 2.801
+    },
+    {
+      "text": "have to",
+      "start": 2225.119,
+      "duration": 3.681
+    },
+    {
+      "text": ">> um arrange it into like arrange the",
+      "start": 2226.16,
+      "duration": 5.04
+    },
+    {
+      "text": "assets into where you want it to go. So",
+      "start": 2228.8,
+      "duration": 4.88
+    },
+    {
+      "text": "in terms of this time and Wi-Fi symbols",
+      "start": 2231.2,
+      "duration": 4.48
+    },
+    {
+      "text": "and all, I believe they're taken from",
+      "start": 2233.68,
+      "duration": 6.159
+    },
+    {
+      "text": "the iOS UI kits and um actually in this",
+      "start": 2235.68,
+      "duration": 7.439
+    },
+    {
+      "text": "workshop example like um this workshop",
+      "start": 2239.839,
+      "duration": 6.081
+    },
+    {
+      "text": "assets page, you will have all these UI",
+      "start": 2243.119,
+      "duration": 5.281
+    },
+    {
+      "text": "kits available. Please contact Adobe Hub",
+      "start": 2245.92,
+      "duration": 4.159
+    },
+    {
+      "text": "because I do not have the current",
+      "start": 2248.4,
+      "duration": 4.8
+    },
+    {
+      "text": "updated link. Um hopefully you would be",
+      "start": 2250.079,
+      "duration": 6.801
+    },
+    {
+      "text": "able to um um have access to that in the",
+      "start": 2253.2,
+      "duration": 6.08
+    },
+    {
+      "text": "near future. But you would be able to",
+      "start": 2256.88,
+      "duration": 4.719
+    },
+    {
+      "text": "create uh recreate the search bar",
+      "start": 2259.28,
+      "duration": 5.12
+    },
+    {
+      "text": "easily. Let me just demonstrate. Um you",
+      "start": 2261.599,
+      "duration": 5.441
+    },
+    {
+      "text": "could use an the R key once again in the",
+      "start": 2264.4,
+      "duration": 7.04
+    },
+    {
+      "text": "design path. The R key to make um a bar",
+      "start": 2267.04,
+      "duration": 6.96
+    },
+    {
+      "text": "and then you can curve the sides using",
+      "start": 2271.44,
+      "duration": 6.48
+    },
+    {
+      "text": "these um blue circles. And then let me",
+      "start": 2274.0,
+      "duration": 8.079
+    },
+    {
+      "text": "just drag this search bar over here. So",
+      "start": 2277.92,
+      "duration": 5.919
+    },
+    {
+      "text": "you can have this search icon and you",
+      "start": 2282.079,
+      "duration": 4.641
+    },
+    {
+      "text": "can change the color of it as well. So",
+      "start": 2283.839,
+      "duration": 4.801
+    },
+    {
+      "text": "if I wanted it to be gray, I can have it",
+      "start": 2286.72,
+      "duration": 5.56
+    },
+    {
+      "text": "gray over here.",
+      "start": 2288.64,
+      "duration": 3.64
+    },
+    {
+      "text": "And then um I wanted it to search. So I",
+      "start": 2292.64,
+      "duration": 6.24
+    },
+    {
+      "text": "can have a search.",
+      "start": 2295.76,
+      "duration": 5.68
+    },
+    {
+      "text": "I can also have it in gray in color. I",
+      "start": 2298.88,
+      "duration": 4.8
+    },
+    {
+      "text": "can also change the font to whatever I",
+      "start": 2301.44,
+      "duration": 5.04
+    },
+    {
+      "text": "want. And",
+      "start": 2303.68,
+      "duration": 5.439
+    },
+    {
+      "text": "I can make it smaller to fit into this",
+      "start": 2306.48,
+      "duration": 6.2
+    },
+    {
+      "text": "box right here.",
+      "start": 2309.119,
+      "duration": 3.561
+    },
+    {
+      "text": "So if you wanted to align your objects",
+      "start": 2313.52,
+      "duration": 4.88
+    },
+    {
+      "text": "as well, this also quite useful to know,",
+      "start": 2316.48,
+      "duration": 4.08
+    },
+    {
+      "text": "but you might be familiar with this with",
+      "start": 2318.4,
+      "duration": 4.56
+    },
+    {
+      "text": "from other Adobe apps. But you'll be",
+      "start": 2320.56,
+      "duration": 4.72
+    },
+    {
+      "text": "able to align your elements using these",
+      "start": 2322.96,
+      "duration": 4.72
+    },
+    {
+      "text": "symbols up here. So if I click this,",
+      "start": 2325.28,
+      "duration": 5.76
+    },
+    {
+      "text": "they will all align on the top um of the",
+      "start": 2327.68,
+      "duration": 6.72
+    },
+    {
+      "text": "edge or they can all centrally align or",
+      "start": 2331.04,
+      "duration": 6.16
+    },
+    {
+      "text": "align on the bottom edge or or this one",
+      "start": 2334.4,
+      "duration": 6.4
+    },
+    {
+      "text": "is called um distribution. So if I were",
+      "start": 2337.2,
+      "duration": 5.12
+    },
+    {
+      "text": "to",
+      "start": 2340.8,
+      "duration": 3.6
+    },
+    {
+      "text": "distribute these objects, how it would",
+      "start": 2342.32,
+      "duration": 6.48
+    },
+    {
+      "text": "look like is if I had a lot of search",
+      "start": 2344.4,
+      "duration": 7.36
+    },
+    {
+      "text": "and if I wanted to make them all um",
+      "start": 2348.8,
+      "duration": 6.08
+    },
+    {
+      "text": "neat, I can align them straight and have",
+      "start": 2351.76,
+      "duration": 5.44
+    },
+    {
+      "text": "them to have equal spacing between them,",
+      "start": 2354.88,
+      "duration": 4.88
+    },
+    {
+      "text": "then this is what this is for. So this",
+      "start": 2357.2,
+      "duration": 6.96
+    },
+    {
+      "text": "is just the um horizontal alignments and",
+      "start": 2359.76,
+      "duration": 7.68
+    },
+    {
+      "text": "this is the vertical alignments.",
+      "start": 2364.16,
+      "duration": 6.56
+    },
+    {
+      "text": "Yeah. So it's you can easily make a",
+      "start": 2367.44,
+      "duration": 5.76
+    },
+    {
+      "text": "search bar. You can basically finish",
+      "start": 2370.72,
+      "duration": 6.48
+    },
+    {
+      "text": "this within 5 seconds. Then you can copy",
+      "start": 2373.2,
+      "duration": 6.879
+    },
+    {
+      "text": "and paste this into your other",
+      "start": 2377.2,
+      "duration": 5.76
+    },
+    {
+      "text": "um your other pages as well. However, I",
+      "start": 2380.079,
+      "duration": 5.04
+    },
+    {
+      "text": "also suggest that if you wanted to keep",
+      "start": 2382.96,
+      "duration": 4.399
+    },
+    {
+      "text": "this consistent, you can make this a",
+      "start": 2385.119,
+      "duration": 5.121
+    },
+    {
+      "text": "component like we um like we discussed",
+      "start": 2387.359,
+      "duration": 5.601
+    },
+    {
+      "text": "earlier. And if you press if you go into",
+      "start": 2390.24,
+      "duration": 5.52
+    },
+    {
+      "text": "favorites and then you have the search",
+      "start": 2392.96,
+      "duration": 5.76
+    },
+    {
+      "text": "bar duplicated across this. If I wanted",
+      "start": 2395.76,
+      "duration": 5.359
+    },
+    {
+      "text": "to change this text, what are you",
+      "start": 2398.72,
+      "duration": 4.48
+    },
+    {
+      "text": "looking for?",
+      "start": 2401.119,
+      "duration": 3.681
+    },
+    {
+      "text": "And then just update it. You can see",
+      "start": 2403.2,
+      "duration": 3.2
+    },
+    {
+      "text": "that all these components have updated",
+      "start": 2404.8,
+      "duration": 3.039
+    },
+    {
+      "text": "as well. So you don't have to go into",
+      "start": 2406.4,
+      "duration": 4.24
+    },
+    {
+      "text": "each page and just copy and paste like",
+      "start": 2407.839,
+      "duration": 5.28
+    },
+    {
+      "text": "repeating the process. You can change it",
+      "start": 2410.64,
+      "duration": 4.479
+    },
+    {
+      "text": "however you want to. But just make sure",
+      "start": 2413.119,
+      "duration": 3.681
+    },
+    {
+      "text": "that if you do touch this, you will have",
+      "start": 2415.119,
+      "duration": 3.681
+    },
+    {
+      "text": "to reset it back to the main state",
+      "start": 2416.8,
+      "duration": 3.84
+    },
+    {
+      "text": "because it will just detach itself from",
+      "start": 2418.8,
+      "duration": 3.52
+    },
+    {
+      "text": "the main component.",
+      "start": 2420.64,
+      "duration": 5.68
+    },
+    {
+      "text": ">> Yeah. So, uh yeah, thank you. So, do you",
+      "start": 2422.32,
+      "duration": 6.0
+    },
+    {
+      "text": "have any other questions? I think I've",
+      "start": 2426.32,
+      "duration": 4.16
+    },
+    {
+      "text": "gone through kind of a crash course of",
+      "start": 2428.32,
+      "duration": 4.64
+    },
+    {
+      "text": "all that. Um seeing as we are kind of in",
+      "start": 2430.48,
+      "duration": 4.72
+    },
+    {
+      "text": "a time crunch, I will go through the",
+      "start": 2432.96,
+      "duration": 5.44
+    },
+    {
+      "text": "share um function. So on the share tab,",
+      "start": 2435.2,
+      "duration": 6.399
+    },
+    {
+      "text": "you can see that um all of these uh all",
+      "start": 2438.4,
+      "duration": 5.439
+    },
+    {
+      "text": "of my artboards have been selected in",
+      "start": 2441.599,
+      "duration": 6.161
+    },
+    {
+      "text": "blue. And if I were to send this link,",
+      "start": 2443.839,
+      "duration": 6.641
+    },
+    {
+      "text": "basically the receiver will be able to",
+      "start": 2447.76,
+      "duration": 6.4
+    },
+    {
+      "text": "open the link uh on the on their like on",
+      "start": 2450.48,
+      "duration": 6.24
+    },
+    {
+      "text": "the web browser and they would be able",
+      "start": 2454.16,
+      "duration": 5.28
+    },
+    {
+      "text": "to see all of my artboards. So I can",
+      "start": 2456.72,
+      "duration": 5.359
+    },
+    {
+      "text": "edit the link name over here. I can have",
+      "start": 2459.44,
+      "duration": 4.24
+    },
+    {
+      "text": "a view setting. There are different view",
+      "start": 2462.079,
+      "duration": 3.841
+    },
+    {
+      "text": "settings. There is a design review which",
+      "start": 2463.68,
+      "duration": 4.639
+    },
+    {
+      "text": "you can just see all your artboards and",
+      "start": 2465.92,
+      "duration": 4.399
+    },
+    {
+      "text": "um how it works and all that. And there",
+      "start": 2468.319,
+      "duration": 4.961
+    },
+    {
+      "text": "are also different um ways you can share",
+      "start": 2470.319,
+      "duration": 5.28
+    },
+    {
+      "text": "your work as well for developers,",
+      "start": 2473.28,
+      "duration": 4.48
+    },
+    {
+      "text": "presentation, user testing or",
+      "start": 2475.599,
+      "duration": 4.561
+    },
+    {
+      "text": "customizing the viewing experience. And",
+      "start": 2477.76,
+      "duration": 5.52
+    },
+    {
+      "text": "you can also adjust your link access um",
+      "start": 2480.16,
+      "duration": 6.0
+    },
+    {
+      "text": "permissions with um these selections",
+      "start": 2483.28,
+      "duration": 4.48
+    },
+    {
+      "text": "over here. And then once you create the",
+      "start": 2486.16,
+      "duration": 5.6
+    },
+    {
+      "text": "link, you will be able to um you'll be",
+      "start": 2487.76,
+      "duration": 6.48
+    },
+    {
+      "text": "able to select like a copy the link and",
+      "start": 2491.76,
+      "duration": 4.24
+    },
+    {
+      "text": "then send it to people you want to share",
+      "start": 2494.24,
+      "duration": 4.56
+    },
+    {
+      "text": "it with. Yeah. So it's just creating the",
+      "start": 2496.0,
+      "duration": 5.839
+    },
+    {
+      "text": "public link for now.",
+      "start": 2498.8,
+      "duration": 6.039
+    },
+    {
+      "text": "Um",
+      "start": 2501.839,
+      "duration": 3.0
+    },
+    {
+      "text": "it will take some time as there are a",
+      "start": 2506.48,
+      "duration": 3.68
+    },
+    {
+      "text": "lot of assets",
+      "start": 2508.4,
+      "duration": 4.64
+    },
+    {
+      "text": "but while it's doing that um yeah so",
+      "start": 2510.16,
+      "duration": 5.04
+    },
+    {
+      "text": "here is the link that you can just um",
+      "start": 2513.04,
+      "duration": 4.64
+    },
+    {
+      "text": "copy add it to the hands and all that.",
+      "start": 2515.2,
+      "duration": 4.24
+    },
+    {
+      "text": "So another thing you might be interested",
+      "start": 2517.68,
+      "duration": 5.36
+    },
+    {
+      "text": "in is to share a flow. So a flow is what",
+      "start": 2519.44,
+      "duration": 7.6
+    },
+    {
+      "text": "you get when you have prototyped",
+      "start": 2523.04,
+      "duration": 6.88
+    },
+    {
+      "text": "when you have prototyped um a series of",
+      "start": 2527.04,
+      "duration": 5.279
+    },
+    {
+      "text": "pages that are linked to each other. So",
+      "start": 2529.92,
+      "duration": 5.199
+    },
+    {
+      "text": "you can see that in here all the um",
+      "start": 2532.319,
+      "duration": 6.081
+    },
+    {
+      "text": "prototyping lines are all connected",
+      "start": 2535.119,
+      "duration": 7.041
+    },
+    {
+      "text": "among these three um artboards whereas",
+      "start": 2538.4,
+      "duration": 6.64
+    },
+    {
+      "text": "none of them are connected to",
+      "start": 2542.16,
+      "duration": 8.32
+    },
+    {
+      "text": "to here. So no element is um is going to",
+      "start": 2545.04,
+      "duration": 7.44
+    },
+    {
+      "text": "navigate to any artboard outside of",
+      "start": 2550.48,
+      "duration": 4.56
+    },
+    {
+      "text": "these three. So what you can do is you",
+      "start": 2552.48,
+      "duration": 5.599
+    },
+    {
+      "text": "can see this gray tab over here. If you",
+      "start": 2555.04,
+      "duration": 5.76
+    },
+    {
+      "text": "press on this gray tab, it will mark",
+      "start": 2558.079,
+      "duration": 5.28
+    },
+    {
+      "text": "this as a homepage. So the first the",
+      "start": 2560.8,
+      "duration": 4.559
+    },
+    {
+      "text": "first screen as a homepage and it will",
+      "start": 2563.359,
+      "duration": 5.121
+    },
+    {
+      "text": "label itself flow one. So basically it",
+      "start": 2565.359,
+      "duration": 5.041
+    },
+    {
+      "text": "will only share these three artboards",
+      "start": 2568.48,
+      "duration": 3.68
+    },
+    {
+      "text": "and all the artboards that are connected",
+      "start": 2570.4,
+      "duration": 5.12
+    },
+    {
+      "text": "to the homepage and all these um this",
+      "start": 2572.16,
+      "duration": 6.08
+    },
+    {
+      "text": "experience basically it will basically",
+      "start": 2575.52,
+      "duration": 4.799
+    },
+    {
+      "text": "just only share these three artboards",
+      "start": 2578.24,
+      "duration": 4.8
+    },
+    {
+      "text": "and if you go into share it would also",
+      "start": 2580.319,
+      "duration": 5.361
+    },
+    {
+      "text": "create a link automatically for you as",
+      "start": 2583.04,
+      "duration": 4.96
+    },
+    {
+      "text": "flow one. So, as you can see, it only",
+      "start": 2585.68,
+      "duration": 5.04
+    },
+    {
+      "text": "selected flow one because if this is",
+      "start": 2588.0,
+      "duration": 4.88
+    },
+    {
+      "text": "what you want to share with um your",
+      "start": 2590.72,
+      "duration": 4.16
+    },
+    {
+      "text": "client or developers and you don't want",
+      "start": 2592.88,
+      "duration": 5.04
+    },
+    {
+      "text": "them to see uh your other artboards that",
+      "start": 2594.88,
+      "duration": 6.479
+    },
+    {
+      "text": "may not be relevant to um your most",
+      "start": 2597.92,
+      "duration": 6.24
+    },
+    {
+      "text": "updated project, then you may choose to",
+      "start": 2601.359,
+      "duration": 4.48
+    },
+    {
+      "text": "share the flow. So, it would just share",
+      "start": 2604.16,
+      "duration": 4.88
+    },
+    {
+      "text": "your final screen and um anything that",
+      "start": 2605.839,
+      "duration": 6.401
+    },
+    {
+      "text": "is interactive within those screens. So",
+      "start": 2609.04,
+      "duration": 4.96
+    },
+    {
+      "text": "same thing you can just create the link",
+      "start": 2612.24,
+      "duration": 3.599
+    },
+    {
+      "text": "and then if you share the link the",
+      "start": 2614.0,
+      "duration": 4.24
+    },
+    {
+      "text": "receiver will only be able to see these",
+      "start": 2615.839,
+      "duration": 4.401
+    },
+    {
+      "text": "artboards",
+      "start": 2618.24,
+      "duration": 4.24
+    },
+    {
+      "text": ">> and you will have to update the link",
+      "start": 2620.24,
+      "duration": 5.839
+    },
+    {
+      "text": "after you make any changes to your um to",
+      "start": 2622.48,
+      "duration": 6.639
+    },
+    {
+      "text": "your prototype or else it wouldn't um be",
+      "start": 2626.079,
+      "duration": 5.201
+    },
+    {
+      "text": "accessible like your newer updates would",
+      "start": 2629.119,
+      "duration": 5.281
+    },
+    {
+      "text": "not be accessible to your receivers.",
+      "start": 2631.28,
+      "duration": 7.76
+    },
+    {
+      "text": "So yes um anything else?",
+      "start": 2634.4,
+      "duration": 11.12
+    },
+    {
+      "text": "Yes. So that's all for sharing and yeah",
+      "start": 2639.04,
+      "duration": 9.52
+    },
+    {
+      "text": "um honestly a lot of these um functions",
+      "start": 2645.52,
+      "duration": 6.24
+    },
+    {
+      "text": "are quite self-explanatory. You would be",
+      "start": 2648.56,
+      "duration": 7.12
+    },
+    {
+      "text": "able to use these tools on other Adobe",
+      "start": 2651.76,
+      "duration": 7.2
+    },
+    {
+      "text": "apps as well and you would be able to",
+      "start": 2655.68,
+      "duration": 6.48
+    },
+    {
+      "text": "create um elements on other Adobe apps",
+      "start": 2658.96,
+      "duration": 6.08
+    },
+    {
+      "text": "and copy paste it into XD and I believe",
+      "start": 2662.16,
+      "duration": 6.72
+    },
+    {
+      "text": "it should be able to um respond properly",
+      "start": 2665.04,
+      "duration": 5.52
+    },
+    {
+      "text": "and",
+      "start": 2668.88,
+      "duration": 4.4
+    },
+    {
+      "text": "you can find out with find out more",
+      "start": 2670.56,
+      "duration": 5.68
+    },
+    {
+      "text": "plugins as well to aid you in simpler",
+      "start": 2673.28,
+      "duration": 7.039
+    },
+    {
+      "text": "design process so you can um save some",
+      "start": 2676.24,
+      "duration": 7.359
+    },
+    {
+      "text": "time on making the elements and just use",
+      "start": 2680.319,
+      "duration": 7.52
+    },
+    {
+      "text": "um these icons for free. And over here I",
+      "start": 2683.599,
+      "duration": 8.081
+    },
+    {
+      "text": "think I could also show you um these are",
+      "start": 2687.839,
+      "duration": 6.081
+    },
+    {
+      "text": "the document assets. So you will have a",
+      "start": 2691.68,
+      "duration": 6.96
+    },
+    {
+      "text": "whole page full of components and if you",
+      "start": 2693.92,
+      "duration": 7.04
+    },
+    {
+      "text": "um look over here there should be some",
+      "start": 2698.64,
+      "duration": 5.199
+    },
+    {
+      "text": "components right here. You can see your",
+      "start": 2700.96,
+      "duration": 4.24
+    },
+    {
+      "text": "collection of components over here. And",
+      "start": 2703.839,
+      "duration": 4.801
+    },
+    {
+      "text": "if you wanted to uh duplicate this main",
+      "start": 2705.2,
+      "duration": 5.919
+    },
+    {
+      "text": "component, you can just drag it onto the",
+      "start": 2708.64,
+      "duration": 5.439
+    },
+    {
+      "text": "artboard and it will um it will",
+      "start": 2711.119,
+      "duration": 5.601
+    },
+    {
+      "text": "duplicate the main component for you.",
+      "start": 2714.079,
+      "duration": 5.28
+    },
+    {
+      "text": "And then on the layers, I think here,",
+      "start": 2716.72,
+      "duration": 4.32
+    },
+    {
+      "text": "yep, on the artboards, you will be able",
+      "start": 2719.359,
+      "duration": 3.76
+    },
+    {
+      "text": "to see all your artboards currently",
+      "start": 2721.04,
+      "duration": 8.079
+    },
+    {
+      "text": "available for you. And if you click into",
+      "start": 2723.119,
+      "duration": 7.921
+    },
+    {
+      "text": "Yep. If you click into here, you'll be",
+      "start": 2729.119,
+      "duration": 4.641
+    },
+    {
+      "text": "able to see, it will open up the page,",
+      "start": 2731.04,
+      "duration": 4.96
+    },
+    {
+      "text": "the artboard, and then you can see",
+      "start": 2733.76,
+      "duration": 5.44
+    },
+    {
+      "text": "specifically your layers. So you can see",
+      "start": 2736.0,
+      "duration": 5.839
+    },
+    {
+      "text": "what is uh you can just adjust what is",
+      "start": 2739.2,
+      "duration": 4.48
+    },
+    {
+      "text": "on the backmost layer and what is on the",
+      "start": 2741.839,
+      "duration": 4.881
+    },
+    {
+      "text": "front most. So yeah, so this is all",
+      "start": 2743.68,
+      "duration": 5.84
+    },
+    {
+      "text": "quite tangible for you to easily design.",
+      "start": 2746.72,
+      "duration": 4.16
+    },
+    {
+      "text": "And there are also a ton of different",
+      "start": 2749.52,
+      "duration": 3.839
+    },
+    {
+      "text": "functions over here varying depending on",
+      "start": 2750.88,
+      "duration": 6.479
+    },
+    {
+      "text": "the element that you have chosen. So um",
+      "start": 2753.359,
+      "duration": 7.121
+    },
+    {
+      "text": "responsive resizing is also a um kind of",
+      "start": 2757.359,
+      "duration": 6.081
+    },
+    {
+      "text": "a whole topic in of itself. You may find",
+      "start": 2760.48,
+      "duration": 4.72
+    },
+    {
+      "text": "more help from Adobe Hub if you would",
+      "start": 2763.44,
+      "duration": 3.919
+    },
+    {
+      "text": "like more information on responsible",
+      "start": 2765.2,
+      "duration": 5.04
+    },
+    {
+      "text": "resizing uh I mean responsive resizing",
+      "start": 2767.359,
+      "duration": 6.24
+    },
+    {
+      "text": "and um which basically means you'll be",
+      "start": 2770.24,
+      "duration": 7.119
+    },
+    {
+      "text": "able to access your prototype on both um",
+      "start": 2773.599,
+      "duration": 6.641
+    },
+    {
+      "text": "laptop screen, mobile screen and all",
+      "start": 2777.359,
+      "duration": 7.601
+    },
+    {
+      "text": "that with ease. And yeah, so um it has a",
+      "start": 2780.24,
+      "duration": 7.92
+    },
+    {
+      "text": "automatic responsive resize, but um you",
+      "start": 2784.96,
+      "duration": 4.879
+    },
+    {
+      "text": "could also change it yourself if you",
+      "start": 2788.16,
+      "duration": 3.12
+    },
+    {
+      "text": "have unique elements that need to be",
+      "start": 2789.839,
+      "duration": 5.441
+    },
+    {
+      "text": "pushed a certain way to fit your screen.",
+      "start": 2791.28,
+      "duration": 7.36
+    },
+    {
+      "text": "And yeah, so different components will",
+      "start": 2795.28,
+      "duration": 7.2
+    },
+    {
+      "text": "have like um different uh layout",
+      "start": 2798.64,
+      "duration": 6.24
+    },
+    {
+      "text": "setting, different appearance setting",
+      "start": 2802.48,
+      "duration": 5.599
+    },
+    {
+      "text": "and then you can experiment on your own",
+      "start": 2804.88,
+      "duration": 6.56
+    },
+    {
+      "text": "by um just making different shapes and",
+      "start": 2808.079,
+      "duration": 6.081
+    },
+    {
+      "text": "experimenting by clicking everything.",
+      "start": 2811.44,
+      "duration": 6.399
+    },
+    {
+      "text": "And I think one of the most important um",
+      "start": 2814.16,
+      "duration": 6.56
+    },
+    {
+      "text": "functions as well could also be this",
+      "start": 2817.839,
+      "duration": 4.961
+    },
+    {
+      "text": "button, these buttons right here. I",
+      "start": 2820.72,
+      "duration": 4.639
+    },
+    {
+      "text": "believe some designers may not be very",
+      "start": 2822.8,
+      "duration": 4.559
+    },
+    {
+      "text": "familiar with these buttons, but this is",
+      "start": 2825.359,
+      "duration": 4.801
+    },
+    {
+      "text": "basically a constraint of scrolling. So",
+      "start": 2827.359,
+      "duration": 5.201
+    },
+    {
+      "text": "if I had",
+      "start": 2830.16,
+      "duration": 6.8
+    },
+    {
+      "text": "uh if I had a repeat grid",
+      "start": 2832.56,
+      "duration": 6.48
+    },
+    {
+      "text": "over here,",
+      "start": 2836.96,
+      "duration": 5.52
+    },
+    {
+      "text": "if I had a repeat grid over here, but I",
+      "start": 2839.04,
+      "duration": 6.64
+    },
+    {
+      "text": "wanted it to be vertically scrollable,",
+      "start": 2842.48,
+      "duration": 5.839
+    },
+    {
+      "text": "you will realize that in a preview you",
+      "start": 2845.68,
+      "duration": 4.639
+    },
+    {
+      "text": "wouldn't be able to scroll it",
+      "start": 2848.319,
+      "duration": 4.481
+    },
+    {
+      "text": "vertically. uh I mean horizontally",
+      "start": 2850.319,
+      "duration": 5.201
+    },
+    {
+      "text": "scrolling it. So how you would tackle",
+      "start": 2852.8,
+      "duration": 5.68
+    },
+    {
+      "text": "that situation is you would press this",
+      "start": 2855.52,
+      "duration": 5.599
+    },
+    {
+      "text": "um scrolling function. So it's called",
+      "start": 2858.48,
+      "duration": 5.04
+    },
+    {
+      "text": "scroll groups and you can basically",
+      "start": 2861.119,
+      "duration": 4.96
+    },
+    {
+      "text": "constrain it to the edges of your screen",
+      "start": 2863.52,
+      "duration": 4.4
+    },
+    {
+      "text": "and then it will be able to scroll",
+      "start": 2866.079,
+      "duration": 4.321
+    },
+    {
+      "text": "horizontally. So if you have a slideshow",
+      "start": 2867.92,
+      "duration": 4.88
+    },
+    {
+      "text": "or anything like that, this scroll group",
+      "start": 2870.4,
+      "duration": 4.719
+    },
+    {
+      "text": "function may be very useful. So in terms",
+      "start": 2872.8,
+      "duration": 5.76
+    },
+    {
+      "text": "of um this um square, it basically",
+      "start": 2875.119,
+      "duration": 6.48
+    },
+    {
+      "text": "allows you to constrain all edges. So",
+      "start": 2878.56,
+      "duration": 6.559
+    },
+    {
+      "text": "you'll be able to navigate around your",
+      "start": 2881.599,
+      "duration": 5.841
+    },
+    {
+      "text": "um your scroll group as this is like a",
+      "start": 2885.119,
+      "duration": 3.921
+    },
+    {
+      "text": "bigger element and you'll be able to",
+      "start": 2887.44,
+      "duration": 4.399
+    },
+    {
+      "text": "constrain it into a small box and then",
+      "start": 2889.04,
+      "duration": 4.64
+    },
+    {
+      "text": "your viewers would be able to like",
+      "start": 2891.839,
+      "duration": 5.28
+    },
+    {
+      "text": "scroll around and explore within the box",
+      "start": 2893.68,
+      "duration": 6.24
+    },
+    {
+      "text": "itself. Yes, I think those are all the",
+      "start": 2897.119,
+      "duration": 5.921
+    },
+    {
+      "text": "main functions. others are quite easy to",
+      "start": 2899.92,
+      "duration": 6.96
+    },
+    {
+      "text": "um figure out. So",
+      "start": 2903.04,
+      "duration": 6.16
+    },
+    {
+      "text": "um yeah, so I would just like to also",
+      "start": 2906.88,
+      "duration": 5.76
+    },
+    {
+      "text": "state that um if you ever need more help",
+      "start": 2909.2,
+      "duration": 7.6
+    },
+    {
+      "text": "um hang on, let me just move to the",
+      "start": 2912.64,
+      "duration": 7.16
+    },
+    {
+      "text": "Adobe",
+      "start": 2916.8,
+      "duration": 3.0
+    },
+    {
+      "text": "to our presentation. Yes to our",
+      "start": 2921.92,
+      "duration": 5.6
+    },
+    {
+      "text": ">> that would be uh informative for",
+      "start": 2924.8,
+      "duration": 4.88
+    },
+    {
+      "text": "students who are looking for more",
+      "start": 2927.52,
+      "duration": 5.76
+    },
+    {
+      "text": "advanced or if you are going to practice",
+      "start": 2929.68,
+      "duration": 6.72
+    },
+    {
+      "text": "considering what's uh share with you",
+      "start": 2933.28,
+      "duration": 6.079
+    },
+    {
+      "text": "today. So that was just the introduction",
+      "start": 2936.4,
+      "duration": 5.28
+    },
+    {
+      "text": "to Adobe XD and all the features",
+      "start": 2939.359,
+      "duration": 4.881
+    },
+    {
+      "text": "available to you. So once you experience",
+      "start": 2941.68,
+      "duration": 4.96
+    },
+    {
+      "text": "and learn by practice. So you are",
+      "start": 2944.24,
+      "duration": 5.68
+    },
+    {
+      "text": "welcome to come back get an appointment",
+      "start": 2946.64,
+      "duration": 8.8
+    },
+    {
+      "text": "with the Adobe coaches and um",
+      "start": 2949.92,
+      "duration": 7.76
+    },
+    {
+      "text": ">> yeah so feel free to visit the Adobe",
+      "start": 2955.44,
+      "duration": 5.28
+    },
+    {
+      "text": "hub. Apologies for this um um image",
+      "start": 2957.68,
+      "duration": 6.639
+    },
+    {
+      "text": "resolution, but um if you would like to",
+      "start": 2960.72,
+      "duration": 6.08
+    },
+    {
+      "text": "um get more information and basically",
+      "start": 2964.319,
+      "duration": 5.361
+    },
+    {
+      "text": "learn more about all the Adobe apps, you",
+      "start": 2966.8,
+      "duration": 6.08
+    },
+    {
+      "text": "can visit us Adobe Hub on level 3 of the",
+      "start": 2969.68,
+      "duration": 6.24
+    },
+    {
+      "text": "library and from Tuesdays to Thursdays",
+      "start": 2972.88,
+      "duration": 5.12
+    },
+    {
+      "text": "from 11:00 a.m. to 2 p.m. there should",
+      "start": 2975.92,
+      "duration": 4.48
+    },
+    {
+      "text": "be Adobe coach over there to help you",
+      "start": 2978.0,
+      "duration": 4.8
+    },
+    {
+      "text": "out with any Adobe apps. And you can",
+      "start": 2980.4,
+      "duration": 4.88
+    },
+    {
+      "text": "also book us like book a session or book",
+      "start": 2982.8,
+      "duration": 6.08
+    },
+    {
+      "text": "a coach using this link down here or you",
+      "start": 2985.28,
+      "duration": 6.4
+    },
+    {
+      "text": "can also follow our Instagram up here or",
+      "start": 2988.88,
+      "duration": 4.32
+    },
+    {
+      "text": "send us an email if you have any",
+      "start": 2991.68,
+      "duration": 4.639
+    },
+    {
+      "text": "questions and yeah we hope to see you",
+      "start": 2993.2,
+      "duration": 4.96
+    },
+    {
+      "text": "soon and good all the best for your",
+      "start": 2996.319,
+      "duration": 4.641
+    },
+    {
+      "text": "design for change competition.",
+      "start": 2998.16,
+      "duration": 5.12
+    },
+    {
+      "text": "Thank you so much Ze uh for your",
+      "start": 3000.96,
+      "duration": 5.28
+    },
+    {
+      "text": "valuable time sharing your experience",
+      "start": 3003.28,
+      "duration": 5.039
+    },
+    {
+      "text": "considering you're the student in a",
+      "start": 3006.24,
+      "duration": 4.24
+    },
+    {
+      "text": "design that's kind of a peer-to-peer",
+      "start": 3008.319,
+      "duration": 4.8
+    },
+    {
+      "text": "support to students and I love this type",
+      "start": 3010.48,
+      "duration": 5.44
+    },
+    {
+      "text": "of the partnership between educators",
+      "start": 3013.119,
+      "duration": 4.641
+    },
+    {
+      "text": "between the students between us",
+      "start": 3015.92,
+      "duration": 5.04
+    },
+    {
+      "text": "educators and the students. So yeah, as",
+      "start": 3017.76,
+      "duration": 6.72
+    },
+    {
+      "text": "as he mentioned, we would love to um you",
+      "start": 3020.96,
+      "duration": 6.399
+    },
+    {
+      "text": "know get uh feedback from you and if you",
+      "start": 3024.48,
+      "duration": 5.599
+    },
+    {
+      "text": "are interested to share your idea, your",
+      "start": 3027.359,
+      "duration": 6.401
+    },
+    {
+      "text": "design idea to any challenge that could",
+      "start": 3030.079,
+      "duration": 6.0
+    },
+    {
+      "text": "be aligned with our vision make the",
+      "start": 3033.76,
+      "duration": 4.96
+    },
+    {
+      "text": "world a better place to live. Please be",
+      "start": 3036.079,
+      "duration": 5.361
+    },
+    {
+      "text": "in contact with us. So as I mentioned",
+      "start": 3038.72,
+      "duration": 6.399
+    },
+    {
+      "text": "the live showcase will be in week 13.",
+      "start": 3041.44,
+      "duration": 5.919
+    },
+    {
+      "text": "I'm sure if there is an assignment, if",
+      "start": 3045.119,
+      "duration": 4.48
+    },
+    {
+      "text": "there is an activity you're involved",
+      "start": 3047.359,
+      "duration": 5.041
+    },
+    {
+      "text": "that should be completed by that time,",
+      "start": 3049.599,
+      "duration": 5.281
+    },
+    {
+      "text": "don't hesitate to contact us. The next",
+      "start": 3052.4,
+      "duration": 6.0
+    },
+    {
+      "text": "training will be Adobe Express video to",
+      "start": 3054.88,
+      "duration": 6.08
+    },
+    {
+      "text": "help you to create 4minut video. Thank",
+      "start": 3058.4,
+      "duration": 4.64
+    },
+    {
+      "text": "you so much everyone.",
+      "start": 3060.96,
+      "duration": 3.599
+    },
+    {
+      "text": ">> Thank you so much. Thank you for having",
+      "start": 3063.04,
+      "duration": 4.88
+    },
+    {
+      "text": "me. Thank you.",
+      "start": 3064.559,
+      "duration": 3.361
+    }
+  ]
+}

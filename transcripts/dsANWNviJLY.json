@@ -1,0 +1,5798 @@
+{
+  "video_id": "dsANWNviJLY",
+  "title": "Workshop 1: Figma (2025)",
+  "channel": "Shaping STEMS Futures ",
+  "published": "2025-09-15T11:57:04Z",
+  "transcript": [
+    {
+      "text": "So hello everyone welcome for joining",
+      "start": 0.08,
+      "duration": 4.719
+    },
+    {
+      "text": "and my name is Zind. I'm part of the",
+      "start": 2.72,
+      "duration": 4.24
+    },
+    {
+      "text": "Adobe coaches here at the super Adobe",
+      "start": 4.799,
+      "duration": 6.001
+    },
+    {
+      "text": "hub and today I'm joined by beta who is",
+      "start": 6.96,
+      "duration": 6.88
+    },
+    {
+      "text": "the lead for design for change 2025. She",
+      "start": 10.8,
+      "duration": 5.2
+    },
+    {
+      "text": "is a senior lecturer in microbio",
+      "start": 13.84,
+      "duration": 4.96
+    },
+    {
+      "text": "biotechnology at will. I'm also joined",
+      "start": 16.0,
+      "duration": 5.76
+    },
+    {
+      "text": "by Carolyn who is also a senior lecturer",
+      "start": 18.8,
+      "duration": 6.0
+    },
+    {
+      "text": "in media and communication and today",
+      "start": 21.76,
+      "duration": 6.0
+    },
+    {
+      "text": "we'll be covering a Figma workshop.",
+      "start": 24.8,
+      "duration": 5.04
+    },
+    {
+      "text": "Okay. So first of all I would like to",
+      "start": 27.76,
+      "duration": 4.4
+    },
+    {
+      "text": "respectfully acknowledge the Burning",
+      "start": 29.84,
+      "duration": 6.16
+    },
+    {
+      "text": "people of the Ken nation",
+      "start": 32.16,
+      "duration": 6.16
+    },
+    {
+      "text": "sorry who are the traditional owners of",
+      "start": 36.0,
+      "duration": 4.32
+    },
+    {
+      "text": "the land on which Swurn's Australian",
+      "start": 38.32,
+      "duration": 4.64
+    },
+    {
+      "text": "campuses are located in Melbourne's east",
+      "start": 40.32,
+      "duration": 5.44
+    },
+    {
+      "text": "and outer east and pay our respect to",
+      "start": 42.96,
+      "duration": 6.56
+    },
+    {
+      "text": "their elders past, present and emerging.",
+      "start": 45.76,
+      "duration": 6.4
+    },
+    {
+      "text": "I would also like to acknowledge and",
+      "start": 49.52,
+      "duration": 4.559
+    },
+    {
+      "text": "respect the traditional owners of lands",
+      "start": 52.16,
+      "duration": 3.919
+    },
+    {
+      "text": "across Australia, their elders,",
+      "start": 54.079,
+      "duration": 5.681
+    },
+    {
+      "text": "ancestors, cultures and heritage.",
+      "start": 56.079,
+      "duration": 6.48
+    },
+    {
+      "text": "Okay. So on to the agenda for today's",
+      "start": 59.76,
+      "duration": 5.6
+    },
+    {
+      "text": "workshop. So at the beginning of this",
+      "start": 62.559,
+      "duration": 5.041
+    },
+    {
+      "text": "workshop, we would like to cover the",
+      "start": 65.36,
+      "duration": 5.36
+    },
+    {
+      "text": "introduction to design for change 2025",
+      "start": 67.6,
+      "duration": 5.519
+    },
+    {
+      "text": "just as a refresher and reminder to tell",
+      "start": 70.72,
+      "duration": 4.96
+    },
+    {
+      "text": "people what design for change is about",
+      "start": 73.119,
+      "duration": 5.36
+    },
+    {
+      "text": "and what it's for. And after that we",
+      "start": 75.68,
+      "duration": 5.759
+    },
+    {
+      "text": "would like to introduce the simple Adobe",
+      "start": 78.479,
+      "duration": 5.201
+    },
+    {
+      "text": "hub how it can help students using",
+      "start": 81.439,
+      "duration": 4.881
+    },
+    {
+      "text": "softwares like the Adobe applications",
+      "start": 83.68,
+      "duration": 5.52
+    },
+    {
+      "text": "and also where they can seek help from.",
+      "start": 86.32,
+      "duration": 5.92
+    },
+    {
+      "text": "And after that we'll move on to the main",
+      "start": 89.2,
+      "duration": 6.32
+    },
+    {
+      "text": "agenda for today which is Figma. Figma",
+      "start": 92.24,
+      "duration": 6.16
+    },
+    {
+      "text": "is an application which allows people to",
+      "start": 95.52,
+      "duration": 5.279
+    },
+    {
+      "text": "create digital interactive prototypes",
+      "start": 98.4,
+      "duration": 5.2
+    },
+    {
+      "text": "with interfaces of desktops and mobiles.",
+      "start": 100.799,
+      "duration": 5.441
+    },
+    {
+      "text": "and we will show you how to log into",
+      "start": 103.6,
+      "duration": 5.36
+    },
+    {
+      "text": "Figma, how to apply for educational",
+      "start": 106.24,
+      "duration": 4.559
+    },
+    {
+      "text": "license, why you need to apply for",
+      "start": 108.96,
+      "duration": 4.159
+    },
+    {
+      "text": "educational license and how to build a",
+      "start": 110.799,
+      "duration": 5.201
+    },
+    {
+      "text": "prototype, how to create shapes, tags",
+      "start": 113.119,
+      "duration": 4.96
+    },
+    {
+      "text": "and finally after you have created your",
+      "start": 116.0,
+      "duration": 5.28
+    },
+    {
+      "text": "prototype, how you can save it and also",
+      "start": 118.079,
+      "duration": 6.4
+    },
+    {
+      "text": "share to other people to view and edit",
+      "start": 121.28,
+      "duration": 6.0
+    },
+    {
+      "text": "and okay so that's all for the workshop",
+      "start": 124.479,
+      "duration": 5.76
+    },
+    {
+      "text": "agenda. I would like to invite Beta to",
+      "start": 127.28,
+      "duration": 5.12
+    },
+    {
+      "text": "talk about the introduction to design",
+      "start": 130.239,
+      "duration": 5.681
+    },
+    {
+      "text": "for change. 2025.",
+      "start": 132.4,
+      "duration": 7.12
+    },
+    {
+      "text": ">> Thank you so much Jen. Um I guess I just",
+      "start": 135.92,
+      "duration": 7.039
+    },
+    {
+      "text": "if you can please come to the slide. Um",
+      "start": 139.52,
+      "duration": 6.079
+    },
+    {
+      "text": "a group of us academic from different",
+      "start": 142.959,
+      "duration": 6.161
+    },
+    {
+      "text": "disciplines. Um thinking about how we",
+      "start": 145.599,
+      "duration": 6.72
+    },
+    {
+      "text": "can support our students to meet the",
+      "start": 149.12,
+      "duration": 6.399
+    },
+    {
+      "text": "requirements of industry needs. in fact",
+      "start": 152.319,
+      "duration": 6.401
+    },
+    {
+      "text": "making the bridge between academia",
+      "start": 155.519,
+      "duration": 5.041
+    },
+    {
+      "text": "all the knowledge your discipline",
+      "start": 158.72,
+      "duration": 3.76
+    },
+    {
+      "text": "knowledge and something that you might",
+      "start": 160.56,
+      "duration": 5.36
+    },
+    {
+      "text": "need with taking with you uh beyond your",
+      "start": 162.48,
+      "duration": 7.44
+    },
+    {
+      "text": "graduation. So um design for change to",
+      "start": 165.92,
+      "duration": 7.2
+    },
+    {
+      "text": "um is a one of the annual competitions",
+      "start": 169.92,
+      "duration": 6.24
+    },
+    {
+      "text": "under a program which is called shaping",
+      "start": 173.12,
+      "duration": 6.88
+    },
+    {
+      "text": "stem fuges. A group of us uh including",
+      "start": 176.16,
+      "duration": 8.079
+    },
+    {
+      "text": "um myself Carolene Kelen Irene from",
+      "start": 180.0,
+      "duration": 8.08
+    },
+    {
+      "text": "Asarak we are leading on this program.",
+      "start": 184.239,
+      "duration": 6.801
+    },
+    {
+      "text": "So specifically for design for change we",
+      "start": 188.08,
+      "duration": 6.0
+    },
+    {
+      "text": "are looking if we go to the next slide",
+      "start": 191.04,
+      "duration": 5.6
+    },
+    {
+      "text": "what we are looking is a lot of the",
+      "start": 194.08,
+      "duration": 6.64
+    },
+    {
+      "text": "students uh they have this prototyping",
+      "start": 196.64,
+      "duration": 7.12
+    },
+    {
+      "text": "solution to the real challenge problem",
+      "start": 200.72,
+      "duration": 6.239
+    },
+    {
+      "text": "as part of their assessments. So what we",
+      "start": 203.76,
+      "duration": 6.0
+    },
+    {
+      "text": "think that this is or your product with",
+      "start": 206.959,
+      "duration": 5.2
+    },
+    {
+      "text": "the collaboration with industry partner",
+      "start": 209.76,
+      "duration": 5.36
+    },
+    {
+      "text": "or without like with your supervisors in",
+      "start": 212.159,
+      "duration": 5.041
+    },
+    {
+      "text": "your discipline. You might come from the",
+      "start": 215.12,
+      "duration": 6.0
+    },
+    {
+      "text": "design you have a website as a solution",
+      "start": 217.2,
+      "duration": 7.52
+    },
+    {
+      "text": "to uh facilitate um um you know an",
+      "start": 221.12,
+      "duration": 6.479
+    },
+    {
+      "text": "activity for your client or customer. So",
+      "start": 224.72,
+      "duration": 5.599
+    },
+    {
+      "text": "whatever it is that prototype whether is",
+      "start": 227.599,
+      "duration": 4.801
+    },
+    {
+      "text": "a physical prototype or digital",
+      "start": 230.319,
+      "duration": 4.721
+    },
+    {
+      "text": "prototype as a recommendation solution",
+      "start": 232.4,
+      "duration": 6.64
+    },
+    {
+      "text": "to the existed challenge that is what we",
+      "start": 235.04,
+      "duration": 7.839
+    },
+    {
+      "text": "are interested with the impact like if",
+      "start": 239.04,
+      "duration": 7.68
+    },
+    {
+      "text": "that has an impact which um helping um",
+      "start": 242.879,
+      "duration": 7.28
+    },
+    {
+      "text": "um you know a client or industry partner",
+      "start": 246.72,
+      "duration": 5.92
+    },
+    {
+      "text": "to satisfy with something that they are",
+      "start": 250.159,
+      "duration": 5.041
+    },
+    {
+      "text": "looking in their workplace and uh they",
+      "start": 252.64,
+      "duration": 5.999
+    },
+    {
+      "text": "have a business side out of these. So if",
+      "start": 255.2,
+      "duration": 7.999
+    },
+    {
+      "text": "you create a 4minut video demonstrating",
+      "start": 258.639,
+      "duration": 9.361
+    },
+    {
+      "text": "your um solution design solution and a",
+      "start": 263.199,
+      "duration": 8.56
+    },
+    {
+      "text": "prototype with the outcome and impact",
+      "start": 268.0,
+      "duration": 7.68
+    },
+    {
+      "text": "align with the vision which could be the",
+      "start": 271.759,
+      "duration": 7.841
+    },
+    {
+      "text": "vision that your industry have or it",
+      "start": 275.68,
+      "duration": 8.32
+    },
+    {
+      "text": "could be the vision that we have to make",
+      "start": 279.6,
+      "duration": 7.76
+    },
+    {
+      "text": "shaping a better world to live in or we",
+      "start": 284.0,
+      "duration": 5.84
+    },
+    {
+      "text": "have our industry partner which is the",
+      "start": 287.36,
+      "duration": 6.0
+    },
+    {
+      "text": "insurance company have a world a safer",
+      "start": 289.84,
+      "duration": 7.12
+    },
+    {
+      "text": "place to live and the other industry and",
+      "start": 293.36,
+      "duration": 5.68
+    },
+    {
+      "text": "community organization we have it's",
+      "start": 296.96,
+      "duration": 5.76
+    },
+    {
+      "text": "supporting women and girls in inspiring",
+      "start": 299.04,
+      "duration": 6.4
+    },
+    {
+      "text": "women and girls into the STEM any of",
+      "start": 302.72,
+      "duration": 5.36
+    },
+    {
+      "text": "these vision or your selected industry",
+      "start": 305.44,
+      "duration": 6.4
+    },
+    {
+      "text": "with a vision so if you target your",
+      "start": 308.08,
+      "duration": 6.16
+    },
+    {
+      "text": "design to be aligned with that vision",
+      "start": 311.84,
+      "duration": 4.56
+    },
+    {
+      "text": "then make the 4m minute video that is",
+      "start": 314.24,
+      "duration": 4.56
+    },
+    {
+      "text": "what we are f looking for the final",
+      "start": 316.4,
+      "duration": 3.92
+    },
+    {
+      "text": "product.",
+      "start": 318.8,
+      "duration": 6.8
+    },
+    {
+      "text": "So um next slides so we also look for um",
+      "start": 320.32,
+      "duration": 8.4
+    },
+    {
+      "text": "some sustainable impact. So of course we",
+      "start": 325.6,
+      "duration": 8.159
+    },
+    {
+      "text": "have a live showcase on Thursday week 13",
+      "start": 328.72,
+      "duration": 7.52
+    },
+    {
+      "text": "and that is where we are going to invite",
+      "start": 333.759,
+      "duration": 6.16
+    },
+    {
+      "text": "the finalists of the selected 4minut",
+      "start": 336.24,
+      "duration": 7.36
+    },
+    {
+      "text": "video and we have the judger uh judging",
+      "start": 339.919,
+      "duration": 7.441
+    },
+    {
+      "text": "panel from uh Swimburn from industry",
+      "start": 343.6,
+      "duration": 7.2
+    },
+    {
+      "text": "from the um community organization. We",
+      "start": 347.36,
+      "duration": 6.08
+    },
+    {
+      "text": "would love them to look at the quality",
+      "start": 350.8,
+      "duration": 5.76
+    },
+    {
+      "text": "of the 4minut video and your design. We",
+      "start": 353.44,
+      "duration": 5.52
+    },
+    {
+      "text": "would like to uh for you to be",
+      "start": 356.56,
+      "duration": 5.84
+    },
+    {
+      "text": "recognized behind the products that you",
+      "start": 358.96,
+      "duration": 6.32
+    },
+    {
+      "text": "created. And then of course we are going",
+      "start": 362.4,
+      "duration": 5.12
+    },
+    {
+      "text": "to have a winner and we are going to",
+      "start": 365.28,
+      "duration": 5.359
+    },
+    {
+      "text": "have a story about your um journey to",
+      "start": 367.52,
+      "duration": 5.36
+    },
+    {
+      "text": "come with this solution and we are going",
+      "start": 370.639,
+      "duration": 5.201
+    },
+    {
+      "text": "to have a cash prize and some um um",
+      "start": 372.88,
+      "duration": 5.84
+    },
+    {
+      "text": "certificate of the participation align",
+      "start": 375.84,
+      "duration": 5.44
+    },
+    {
+      "text": "with some of the program that our",
+      "start": 378.72,
+      "duration": 5.199
+    },
+    {
+      "text": "employability team at Swimburn are",
+      "start": 381.28,
+      "duration": 5.759
+    },
+    {
+      "text": "running. And I guess with that if you",
+      "start": 383.919,
+      "duration": 7.12
+    },
+    {
+      "text": "have any concern, any questions um um on",
+      "start": 387.039,
+      "duration": 6.801
+    },
+    {
+      "text": "behalf of the team shaping stone futures",
+      "start": 391.039,
+      "duration": 6.88
+    },
+    {
+      "text": "we are open and we are passion to um",
+      "start": 393.84,
+      "duration": 6.16
+    },
+    {
+      "text": "talk with you and discuss about your",
+      "start": 397.919,
+      "duration": 5.041
+    },
+    {
+      "text": "idea. So Caroline on behalf of Caroline",
+      "start": 400.0,
+      "duration": 5.84
+    },
+    {
+      "text": "Casteline and Irene we wish you all the",
+      "start": 402.96,
+      "duration": 5.28
+    },
+    {
+      "text": "best and I hope you enjoy the first",
+      "start": 405.84,
+      "duration": 4.72
+    },
+    {
+      "text": "workshop which is Figma. Thank you so",
+      "start": 408.24,
+      "duration": 4.56
+    },
+    {
+      "text": "much",
+      "start": 410.56,
+      "duration": 4.479
+    },
+    {
+      "text": "Caroline. Thank you so much for uh",
+      "start": 412.8,
+      "duration": 5.04
+    },
+    {
+      "text": "covering the rest uh of this uh",
+      "start": 415.039,
+      "duration": 8.16
+    },
+    {
+      "text": "presentation and uh I'm going to um",
+      "start": 417.84,
+      "duration": 8.4
+    },
+    {
+      "text": "take off from Thank you. Have a safe",
+      "start": 423.199,
+      "duration": 4.081
+    },
+    {
+      "text": "afternoon.",
+      "start": 426.24,
+      "duration": 1.519
+    },
+    {
+      "text": ">> Terrific.",
+      "start": 427.28,
+      "duration": 3.44
+    },
+    {
+      "text": ">> Thank you. Thank you so much. So um so",
+      "start": 427.759,
+      "duration": 4.801
+    },
+    {
+      "text": "yes, so we've got a summary slide here",
+      "start": 430.72,
+      "duration": 4.319
+    },
+    {
+      "text": "that um gives you further information.",
+      "start": 432.56,
+      "duration": 4.16
+    },
+    {
+      "text": "So, um, if you're going to be",
+      "start": 435.039,
+      "duration": 3.201
+    },
+    {
+      "text": "participating,",
+      "start": 436.72,
+      "duration": 4.319
+    },
+    {
+      "text": "um, and competing, you need to register",
+      "start": 438.24,
+      "duration": 6.16
+    },
+    {
+      "text": "for the, um, event. So, we've got, uh,",
+      "start": 441.039,
+      "duration": 5.521
+    },
+    {
+      "text": "the Figma event, which is today. Um,",
+      "start": 444.4,
+      "duration": 4.56
+    },
+    {
+      "text": "you've got an Adobe Express video",
+      "start": 446.56,
+      "duration": 5.84
+    },
+    {
+      "text": "workshop on the 10th of April at 400",
+      "start": 448.96,
+      "duration": 5.2
+    },
+    {
+      "text": "p.m., and then startup pitch",
+      "start": 452.4,
+      "duration": 5.6
+    },
+    {
+      "text": "presentation, which will be in um, May,",
+      "start": 454.16,
+      "duration": 5.84
+    },
+    {
+      "text": "early May. And so, you got to register",
+      "start": 458.0,
+      "duration": 4.24
+    },
+    {
+      "text": "for those. And um part of that",
+      "start": 460.0,
+      "duration": 4.56
+    },
+    {
+      "text": "registration is that you submit a",
+      "start": 462.24,
+      "duration": 6.32
+    },
+    {
+      "text": "300word maximum outline of your design",
+      "start": 464.56,
+      "duration": 6.56
+    },
+    {
+      "text": "idea to um beta's email there by the",
+      "start": 468.56,
+      "duration": 5.199
+    },
+    {
+      "text": "30th of May. And then your video",
+      "start": 471.12,
+      "duration": 5.44
+    },
+    {
+      "text": "submission, your fabulous 4-minute video",
+      "start": 473.759,
+      "duration": 5.84
+    },
+    {
+      "text": "on your startup uh for your design idea",
+      "start": 476.56,
+      "duration": 5.28
+    },
+    {
+      "text": "needs to be submitted by the 2nd of",
+      "start": 479.599,
+      "duration": 4.401
+    },
+    {
+      "text": "June. So plenty of time. So it's",
+      "start": 481.84,
+      "duration": 3.28
+    },
+    {
+      "text": "awesome. We're having this workshop",
+      "start": 484.0,
+      "duration": 3.36
+    },
+    {
+      "text": "today to start putting this um thinking",
+      "start": 485.12,
+      "duration": 4.24
+    },
+    {
+      "text": "in motion. And then the competition",
+      "start": 487.36,
+      "duration": 5.44
+    },
+    {
+      "text": "itself showcases on the 5th of June on",
+      "start": 489.36,
+      "duration": 6.0
+    },
+    {
+      "text": "Zoom. And there's, as Bea said, there's",
+      "start": 492.8,
+      "duration": 4.959
+    },
+    {
+      "text": "some fabulous prizes there. $400 for the",
+      "start": 495.36,
+      "duration": 4.559
+    },
+    {
+      "text": "judge's choice and certificate of",
+      "start": 497.759,
+      "duration": 4.0
+    },
+    {
+      "text": "participation. So that's great. You get",
+      "start": 499.919,
+      "duration": 3.84
+    },
+    {
+      "text": "something out of it. Um, everyone's a",
+      "start": 501.759,
+      "duration": 4.961
+    },
+    {
+      "text": "winner when you enter. And then um the",
+      "start": 503.759,
+      "duration": 5.681
+    },
+    {
+      "text": "story of the successful application or",
+      "start": 506.72,
+      "duration": 4.8
+    },
+    {
+      "text": "successful applicant will be published",
+      "start": 509.44,
+      "duration": 4.479
+    },
+    {
+      "text": "in the Swinburn newsletter. Um, so",
+      "start": 511.52,
+      "duration": 3.999
+    },
+    {
+      "text": "you've got lots of information there.",
+      "start": 513.919,
+      "duration": 4.321
+    },
+    {
+      "text": "And next slide. Thanks, Zenlin. Awesome.",
+      "start": 515.519,
+      "duration": 5.52
+    },
+    {
+      "text": "And contact details for beta her email",
+      "start": 518.24,
+      "duration": 5.76
+    },
+    {
+      "text": "there. Um so do just get in contact with",
+      "start": 521.039,
+      "duration": 5.041
+    },
+    {
+      "text": "her if you have any questions. Um",
+      "start": 524.0,
+      "duration": 4.16
+    },
+    {
+      "text": "terrific. So I think that's our last",
+      "start": 526.08,
+      "duration": 3.52
+    },
+    {
+      "text": "slide from us. So we'll hand it over to",
+      "start": 528.16,
+      "duration": 3.119
+    },
+    {
+      "text": "you then Lyn and thank you for your",
+      "start": 529.6,
+      "duration": 3.6
+    },
+    {
+      "text": "fabulous introduction by the way. You",
+      "start": 531.279,
+      "duration": 3.68
+    },
+    {
+      "text": "did wonderfully.",
+      "start": 533.2,
+      "duration": 4.16
+    },
+    {
+      "text": ">> Thank you. Okay. So, right now I'm going",
+      "start": 534.959,
+      "duration": 4.88
+    },
+    {
+      "text": "to change the screen and I'm going to",
+      "start": 537.36,
+      "duration": 5.479
+    },
+    {
+      "text": "talk",
+      "start": 539.839,
+      "duration": 3.0
+    },
+    {
+      "text": "about as you guys know or maybe you",
+      "start": 550.64,
+      "duration": 4.8
+    },
+    {
+      "text": "don't know that Swimburn is actually the",
+      "start": 553.519,
+      "duration": 3.681
+    },
+    {
+      "text": "first Adobe creative campus throughout",
+      "start": 555.44,
+      "duration": 3.92
+    },
+    {
+      "text": "Australia. And what that means for you",
+      "start": 557.2,
+      "duration": 4.4
+    },
+    {
+      "text": "guys or me a student is that you can get",
+      "start": 559.36,
+      "duration": 4.88
+    },
+    {
+      "text": "access to all the Adobe apps like",
+      "start": 561.6,
+      "duration": 4.64
+    },
+    {
+      "text": "Illustrator, Photoshop, Premier Pro,",
+      "start": 564.24,
+      "duration": 4.4
+    },
+    {
+      "text": "After Effects, and so much more for",
+      "start": 566.24,
+      "duration": 5.36
+    },
+    {
+      "text": "completely free. If you log in to with",
+      "start": 568.64,
+      "duration": 6.24
+    },
+    {
+      "text": "your student or like Swimburn email",
+      "start": 571.6,
+      "duration": 5.2
+    },
+    {
+      "text": "account, you can get all these apps for",
+      "start": 574.88,
+      "duration": 4.56
+    },
+    {
+      "text": "completely free. But as we know, the",
+      "start": 576.8,
+      "duration": 5.52
+    },
+    {
+      "text": "Adobe apps are not like the easiest apps",
+      "start": 579.44,
+      "duration": 4.959
+    },
+    {
+      "text": "out there to use.",
+      "start": 582.32,
+      "duration": 3.76
+    },
+    {
+      "text": "It requires some learning to do and",
+      "start": 584.399,
+      "duration": 3.521
+    },
+    {
+      "text": "sometimes it gets frustrated and",
+      "start": 586.08,
+      "duration": 3.36
+    },
+    {
+      "text": "everything",
+      "start": 587.92,
+      "duration": 4.96
+    },
+    {
+      "text": "but don't worries because like Swimburn",
+      "start": 589.44,
+      "duration": 6.88
+    },
+    {
+      "text": "has an Adobe hub which us the Adobe",
+      "start": 592.88,
+      "duration": 5.36
+    },
+    {
+      "text": "coaches work there and we are there to",
+      "start": 596.32,
+      "duration": 4.48
+    },
+    {
+      "text": "support you if you have any issues any",
+      "start": 598.24,
+      "duration": 6.24
+    },
+    {
+      "text": "problems of how to use the Adobe",
+      "start": 600.8,
+      "duration": 6.8
+    },
+    {
+      "text": "applications. So what you can do is",
+      "start": 604.48,
+      "duration": 6.16
+    },
+    {
+      "text": "actually go to the Swimburn",
+      "start": 607.6,
+      "duration": 5.44
+    },
+    {
+      "text": "digital literacies, the Swimburn Adobe",
+      "start": 610.64,
+      "duration": 5.52
+    },
+    {
+      "text": "Hub website and if you come down here",
+      "start": 613.04,
+      "duration": 5.68
+    },
+    {
+      "text": "you can see",
+      "start": 616.16,
+      "duration": 6.88
+    },
+    {
+      "text": "book a coach. If you click that",
+      "start": 618.72,
+      "duration": 6.239
+    },
+    {
+      "text": "it will basically bring you give you two",
+      "start": 623.04,
+      "duration": 3.84
+    },
+    {
+      "text": "options which is a workshop and a",
+      "start": 624.959,
+      "duration": 4.801
+    },
+    {
+      "text": "drop-in session. So if you're a student,",
+      "start": 626.88,
+      "duration": 5.199
+    },
+    {
+      "text": "you can only book in a drop-in session",
+      "start": 629.76,
+      "duration": 4.96
+    },
+    {
+      "text": "which is a 30 minutes and you can ask",
+      "start": 632.079,
+      "duration": 5.281
+    },
+    {
+      "text": "whatever questions you want regarding",
+      "start": 634.72,
+      "duration": 6.239
+    },
+    {
+      "text": "Adobe software or you can just pop in at",
+      "start": 637.36,
+      "duration": 6.08
+    },
+    {
+      "text": "the library level three. We will always",
+      "start": 640.959,
+      "duration": 4.88
+    },
+    {
+      "text": "be there every Tuesday, Wednesday, and",
+      "start": 643.44,
+      "duration": 7.92
+    },
+    {
+      "text": "Thursday from 11 to 2:00 p.m. Yep. So,",
+      "start": 645.839,
+      "duration": 7.601
+    },
+    {
+      "text": "but I think it's best for you to book in",
+      "start": 651.36,
+      "duration": 4.64
+    },
+    {
+      "text": "a drop-in session so that you don't",
+      "start": 653.44,
+      "duration": 4.079
+    },
+    {
+      "text": "clash with other people and then you",
+      "start": 656.0,
+      "duration": 4.0
+    },
+    {
+      "text": "don't get to ask your questions",
+      "start": 657.519,
+      "duration": 7.361
+    },
+    {
+      "text": "and okay, so that's basically it for the",
+      "start": 660.0,
+      "duration": 7.6
+    },
+    {
+      "text": "Super Adobe Hub and I think I'll just",
+      "start": 664.88,
+      "duration": 7.28
+    },
+    {
+      "text": "get started with the Figma workshop.",
+      "start": 667.6,
+      "duration": 8.08
+    },
+    {
+      "text": "Okay, I'm just going to close this. Yep.",
+      "start": 672.16,
+      "duration": 6.72
+    },
+    {
+      "text": "And so in to be able to begin using",
+      "start": 675.68,
+      "duration": 6.399
+    },
+    {
+      "text": "Figma, first of all, you have to go into",
+      "start": 678.88,
+      "duration": 6.32
+    },
+    {
+      "text": "figma.com. It's not within the Adobe",
+      "start": 682.079,
+      "duration": 5.281
+    },
+    {
+      "text": "Creative Club. It's not part of an Adobe",
+      "start": 685.2,
+      "duration": 4.8
+    },
+    {
+      "text": "product. So what you have to do is that",
+      "start": 687.36,
+      "duration": 5.36
+    },
+    {
+      "text": "you need to go to the figma.com",
+      "start": 690.0,
+      "duration": 7.76
+    },
+    {
+      "text": "and just click this get started for free",
+      "start": 692.72,
+      "duration": 7.2
+    },
+    {
+      "text": "and this box will pop up asking you to",
+      "start": 697.76,
+      "duration": 4.079
+    },
+    {
+      "text": "sign in. So, what I'm going to do is I'm",
+      "start": 699.92,
+      "duration": 3.68
+    },
+    {
+      "text": "going to click I'm going to type in",
+      "start": 701.839,
+      "duration": 4.401
+    },
+    {
+      "text": "sorry, type in my student email. And if",
+      "start": 703.6,
+      "duration": 5.44
+    },
+    {
+      "text": "I click continue with email, it's going",
+      "start": 706.24,
+      "duration": 4.32
+    },
+    {
+      "text": "to ask for my password. And I think",
+      "start": 709.04,
+      "duration": 3.359
+    },
+    {
+      "text": "everyone's going to be the same for",
+      "start": 710.56,
+      "duration": 4.88
+    },
+    {
+      "text": "this. So, I'm just going to quickly type",
+      "start": 712.399,
+      "duration": 6.041
+    },
+    {
+      "text": "in",
+      "start": 715.44,
+      "duration": 3.0
+    },
+    {
+      "text": "Oh, sorry.",
+      "start": 718.88,
+      "duration": 3.24
+    },
+    {
+      "text": "Okay, if I click login.",
+      "start": 729.68,
+      "duration": 7.159
+    },
+    {
+      "text": "Oh, password is not correct. Sorry.",
+      "start": 732.32,
+      "duration": 4.519
+    },
+    {
+      "text": "Okay, should be working now. Okay, so",
+      "start": 752.639,
+      "duration": 6.081
+    },
+    {
+      "text": "after it successfully authenticated me",
+      "start": 756.399,
+      "duration": 4.0
+    },
+    {
+      "text": "as a student because I already have an",
+      "start": 758.72,
+      "duration": 3.6
+    },
+    {
+      "text": "account, it will bring me to the main",
+      "start": 760.399,
+      "duration": 5.68
+    },
+    {
+      "text": "page here. But if you don't have an",
+      "start": 762.32,
+      "duration": 6.079
+    },
+    {
+      "text": "existing Figma account, you would have",
+      "start": 766.079,
+      "duration": 4.721
+    },
+    {
+      "text": "to let's say create a password. Like",
+      "start": 768.399,
+      "duration": 3.841
+    },
+    {
+      "text": "after you type in your password, it will",
+      "start": 770.8,
+      "duration": 3.2
+    },
+    {
+      "text": "ask you to create a new account. And",
+      "start": 772.24,
+      "duration": 3.279
+    },
+    {
+      "text": "after you create a new account, you will",
+      "start": 774.0,
+      "duration": 5.04
+    },
+    {
+      "text": "have to select your student and key in",
+      "start": 775.519,
+      "duration": 5.201
+    },
+    {
+      "text": "the verification code that you will",
+      "start": 779.04,
+      "duration": 5.039
+    },
+    {
+      "text": "receive in your email from Figma. Okay.",
+      "start": 780.72,
+      "duration": 6.08
+    },
+    {
+      "text": "So now that you have your account logged",
+      "start": 784.079,
+      "duration": 5.76
+    },
+    {
+      "text": "in, what you have to do is that you have",
+      "start": 786.8,
+      "duration": 6.08
+    },
+    {
+      "text": "to go to",
+      "start": 789.839,
+      "duration": 5.44
+    },
+    {
+      "text": "is that you have to go to I think I will",
+      "start": 792.88,
+      "duration": 7.399
+    },
+    {
+      "text": "just quickly type in bigma.comucation.",
+      "start": 795.279,
+      "duration": 5.0
+    },
+    {
+      "text": "Okay. So after you enter",
+      "start": 804.16,
+      "duration": 3.52
+    },
+    {
+      "text": "figma.com/education,",
+      "start": 806.079,
+      "duration": 3.841
+    },
+    {
+      "text": "it will bring you to this page which is",
+      "start": 807.68,
+      "duration": 4.159
+    },
+    {
+      "text": "where you can get your educational",
+      "start": 809.92,
+      "duration": 4.4
+    },
+    {
+      "text": "license. So the reason why you want to",
+      "start": 811.839,
+      "duration": 5.44
+    },
+    {
+      "text": "get your educational license and not use",
+      "start": 814.32,
+      "duration": 6.079
+    },
+    {
+      "text": "your current one which is free of course",
+      "start": 817.279,
+      "duration": 6.321
+    },
+    {
+      "text": "but there is some limitations to it. So",
+      "start": 820.399,
+      "duration": 5.041
+    },
+    {
+      "text": "you won't be able to use like the",
+      "start": 823.6,
+      "duration": 4.64
+    },
+    {
+      "text": "professional features and there will be",
+      "start": 825.44,
+      "duration": 4.56
+    },
+    {
+      "text": "limited in sharing your projects and",
+      "start": 828.24,
+      "duration": 4.24
+    },
+    {
+      "text": "also creating like design files. So I",
+      "start": 830.0,
+      "duration": 4.0
+    },
+    {
+      "text": "encourage you guys to just use your",
+      "start": 832.48,
+      "duration": 4.64
+    },
+    {
+      "text": "Swimbun student account and register for",
+      "start": 834.0,
+      "duration": 7.68
+    },
+    {
+      "text": "a educational license. Okay. So because",
+      "start": 837.12,
+      "duration": 7.92
+    },
+    {
+      "text": "I have already registered my educational",
+      "start": 841.68,
+      "duration": 6.08
+    },
+    {
+      "text": "license, I'm just going to quickly log",
+      "start": 845.04,
+      "duration": 6.0
+    },
+    {
+      "text": "out and use another account that doesn't",
+      "start": 847.76,
+      "duration": 5.6
+    },
+    {
+      "text": "have it so I can show you guys what the",
+      "start": 851.04,
+      "duration": 5.039
+    },
+    {
+      "text": "form actually looks like",
+      "start": 853.36,
+      "duration": 4.56
+    },
+    {
+      "text": "and I can show you guys how to fill the",
+      "start": 856.079,
+      "duration": 6.281
+    },
+    {
+      "text": "educational form.",
+      "start": 857.92,
+      "duration": 4.44
+    },
+    {
+      "text": "Okay. And if I go back here,",
+      "start": 862.639,
+      "duration": 4.76
+    },
+    {
+      "text": "click on get verified again.",
+      "start": 868.0,
+      "duration": 5.279
+    },
+    {
+      "text": "Yep. And as you can see, it will show",
+      "start": 871.199,
+      "duration": 4.401
+    },
+    {
+      "text": "you bring you to this page which is get",
+      "start": 873.279,
+      "duration": 4.56
+    },
+    {
+      "text": "the free Figma educational plan for a",
+      "start": 875.6,
+      "duration": 4.799
+    },
+    {
+      "text": "classroom. So you're going to click",
+      "start": 877.839,
+      "duration": 8.041
+    },
+    {
+      "text": "student and it's going to ask you",
+      "start": 880.399,
+      "duration": 5.481
+    },
+    {
+      "text": "what institution do you attend or work",
+      "start": 887.199,
+      "duration": 3.601
+    },
+    {
+      "text": "for? You'll just click on higher",
+      "start": 889.36,
+      "duration": 3.68
+    },
+    {
+      "text": "education. And so he will just ask you",
+      "start": 890.8,
+      "duration": 3.92
+    },
+    {
+      "text": "some simple questions like what are you",
+      "start": 893.04,
+      "duration": 3.359
+    },
+    {
+      "text": "going to use Figma for? Why are you",
+      "start": 894.72,
+      "duration": 3.679
+    },
+    {
+      "text": "applying for educational plan? So I'm",
+      "start": 896.399,
+      "duration": 5.041
+    },
+    {
+      "text": "just going to quickly type in I have to",
+      "start": 898.399,
+      "duration": 11.24
+    },
+    {
+      "text": "use Figma or a university course.",
+      "start": 901.44,
+      "duration": 8.199
+    },
+    {
+      "text": "Okay. And we'll just click swimburn for",
+      "start": 910.0,
+      "duration": 6.839
+    },
+    {
+      "text": "the school name.",
+      "start": 913.36,
+      "duration": 3.479
+    },
+    {
+      "text": "Yeah. So make sure you actually select",
+      "start": 918.8,
+      "duration": 4.24
+    },
+    {
+      "text": "the super university of technology and",
+      "start": 920.88,
+      "duration": 6.16
+    },
+    {
+      "text": "not the Sarow campus. Yep. And you just",
+      "start": 923.04,
+      "duration": 7.28
+    },
+    {
+      "text": "go in and choose what the field of your",
+      "start": 927.04,
+      "duration": 6.4
+    },
+    {
+      "text": "study. If it's not placed in the uh",
+      "start": 930.32,
+      "duration": 4.639
+    },
+    {
+      "text": "drop-own form, you can just click",
+      "start": 933.44,
+      "duration": 3.12
+    },
+    {
+      "text": "others.",
+      "start": 934.959,
+      "duration": 5.041
+    },
+    {
+      "text": "Okay. So after filling in all the",
+      "start": 936.56,
+      "duration": 6.8
+    },
+    {
+      "text": "details, Figma will require you to add",
+      "start": 940.0,
+      "duration": 6.959
+    },
+    {
+      "text": "your timetable or class schedule or even",
+      "start": 943.36,
+      "duration": 6.479
+    },
+    {
+      "text": "a proof of enrollment like a COE so that",
+      "start": 946.959,
+      "duration": 4.961
+    },
+    {
+      "text": "they can confirm that you're actually",
+      "start": 949.839,
+      "duration": 3.841
+    },
+    {
+      "text": "the student studying at Swinburn and",
+      "start": 951.92,
+      "duration": 5.279
+    },
+    {
+      "text": "approve your educational license",
+      "start": 953.68,
+      "duration": 5.599
+    },
+    {
+      "text": "and they will also require you to put in",
+      "start": 957.199,
+      "duration": 4.88
+    },
+    {
+      "text": "your graduation date and after agreeing",
+      "start": 959.279,
+      "duration": 4.641
+    },
+    {
+      "text": "to the privacy policy terms and",
+      "start": 962.079,
+      "duration": 3.68
+    },
+    {
+      "text": "conditions and confirm that you are a",
+      "start": 963.92,
+      "duration": 4.96
+    },
+    {
+      "text": "student after you submit subitted,",
+      "start": 965.759,
+      "duration": 5.2
+    },
+    {
+      "text": "you will need to wait for Figma to",
+      "start": 968.88,
+      "duration": 4.0
+    },
+    {
+      "text": "approve",
+      "start": 970.959,
+      "duration": 5.761
+    },
+    {
+      "text": "um to approve and that and to approve",
+      "start": 972.88,
+      "duration": 6.319
+    },
+    {
+      "text": "and give you the",
+      "start": 976.72,
+      "duration": 5.359
+    },
+    {
+      "text": "the student the educational license.",
+      "start": 979.199,
+      "duration": 5.921
+    },
+    {
+      "text": "Sorry, they need to approve your account",
+      "start": 982.079,
+      "duration": 4.88
+    },
+    {
+      "text": "before you can get access to all the",
+      "start": 985.12,
+      "duration": 4.399
+    },
+    {
+      "text": "professional tools. Okay, so I'm just",
+      "start": 986.959,
+      "duration": 4.8
+    },
+    {
+      "text": "going to go back here.",
+      "start": 989.519,
+      "duration": 6.88
+    },
+    {
+      "text": "Sorry, I have to sign in again with my",
+      "start": 991.759,
+      "duration": 8.121
+    },
+    {
+      "text": "student account.",
+      "start": 996.399,
+      "duration": 3.481
+    },
+    {
+      "text": "Okay, perfect.",
+      "start": 1016.079,
+      "duration": 5.361
+    },
+    {
+      "text": "Okay. So once you have successfully",
+      "start": 1019.199,
+      "duration": 6.24
+    },
+    {
+      "text": "signed in you so this is the main page",
+      "start": 1021.44,
+      "duration": 6.16
+    },
+    {
+      "text": "that you are going to see in once you",
+      "start": 1025.439,
+      "duration": 6.48
+    },
+    {
+      "text": "open up Figma. So",
+      "start": 1027.6,
+      "duration": 7.12
+    },
+    {
+      "text": "on default Figma is going to display the",
+      "start": 1031.919,
+      "duration": 4.4
+    },
+    {
+      "text": "recent",
+      "start": 1034.72,
+      "duration": 3.28
+    },
+    {
+      "text": "files that you have created because I",
+      "start": 1036.319,
+      "duration": 3.52
+    },
+    {
+      "text": "have used",
+      "start": 1038.0,
+      "duration": 4.0
+    },
+    {
+      "text": "quite a lot. So I have all the files",
+      "start": 1039.839,
+      "duration": 3.84
+    },
+    {
+      "text": "displayed here the files that have",
+      "start": 1042.0,
+      "duration": 3.439
+    },
+    {
+      "text": "opened up recently. But for you, it may",
+      "start": 1043.679,
+      "duration": 3.441
+    },
+    {
+      "text": "be empty because maybe you don't have",
+      "start": 1045.439,
+      "duration": 4.321
+    },
+    {
+      "text": "you didn't use Figma before. And you can",
+      "start": 1047.12,
+      "duration": 4.799
+    },
+    {
+      "text": "Figma has suggestions of templates that",
+      "start": 1049.76,
+      "duration": 4.799
+    },
+    {
+      "text": "you can select from at the top. But",
+      "start": 1051.919,
+      "duration": 6.481
+    },
+    {
+      "text": "we're just going to leave this here for",
+      "start": 1054.559,
+      "duration": 5.36
+    },
+    {
+      "text": "now. And we are going to focus on the",
+      "start": 1058.4,
+      "duration": 3.519
+    },
+    {
+      "text": "left panel here. So on the left panel,",
+      "start": 1059.919,
+      "duration": 4.561
+    },
+    {
+      "text": "if I click this, this shows like your",
+      "start": 1061.919,
+      "duration": 6.0
+    },
+    {
+      "text": "account. You can check the themes. Let's",
+      "start": 1064.48,
+      "duration": 6.24
+    },
+    {
+      "text": "say I think it's too bright on the",
+      "start": 1067.919,
+      "duration": 4.401
+    },
+    {
+      "text": "interface. If I click on dark, it's",
+      "start": 1070.72,
+      "duration": 3.68
+    },
+    {
+      "text": "going to change it to the dark team.",
+      "start": 1072.32,
+      "duration": 5.359
+    },
+    {
+      "text": "It's better for my eyes. Okay. And then",
+      "start": 1074.4,
+      "duration": 5.519
+    },
+    {
+      "text": "if I come down here, so Figma will",
+      "start": 1077.679,
+      "duration": 4.961
+    },
+    {
+      "text": "create a team for. So what a team is is",
+      "start": 1079.919,
+      "duration": 6.0
+    },
+    {
+      "text": "actually if it's is actually a group",
+      "start": 1082.64,
+      "duration": 5.6
+    },
+    {
+      "text": "which you can add people with a Figma",
+      "start": 1085.919,
+      "duration": 4.88
+    },
+    {
+      "text": "account into that team and allow them to",
+      "start": 1088.24,
+      "duration": 4.88
+    },
+    {
+      "text": "work on and collaborate",
+      "start": 1090.799,
+      "duration": 5.681
+    },
+    {
+      "text": "on projects together. Okay. So under the",
+      "start": 1093.12,
+      "duration": 5.12
+    },
+    {
+      "text": "team there are different options. So I'm",
+      "start": 1096.48,
+      "duration": 4.4
+    },
+    {
+      "text": "just going to click on drafts. So what",
+      "start": 1098.24,
+      "duration": 5.76
+    },
+    {
+      "text": "drafts is is basically",
+      "start": 1100.88,
+      "duration": 5.76
+    },
+    {
+      "text": "so if you create a file no matter what",
+      "start": 1104.0,
+      "duration": 5.12
+    },
+    {
+      "text": "file you create it's going to go into a",
+      "start": 1106.64,
+      "duration": 4.48
+    },
+    {
+      "text": "draft a design draft that you have not",
+      "start": 1109.12,
+      "duration": 5.36
+    },
+    {
+      "text": "shared with anyone. So if I click on all",
+      "start": 1111.12,
+      "duration": 5.919
+    },
+    {
+      "text": "projects you're going to see that",
+      "start": 1114.48,
+      "duration": 5.76
+    },
+    {
+      "text": "there's a team project here which you",
+      "start": 1117.039,
+      "duration": 5.441
+    },
+    {
+      "text": "can add people",
+      "start": 1120.24,
+      "duration": 4.88
+    },
+    {
+      "text": "to your team and they can get access to",
+      "start": 1122.48,
+      "duration": 5.68
+    },
+    {
+      "text": "the files within here. So in order to do",
+      "start": 1125.12,
+      "duration": 6.08
+    },
+    {
+      "text": "that, what you can do is actually go to",
+      "start": 1128.16,
+      "duration": 5.28
+    },
+    {
+      "text": "the right side, the top right, and click",
+      "start": 1131.2,
+      "duration": 5.52
+    },
+    {
+      "text": "on the share button. And so here you can",
+      "start": 1133.44,
+      "duration": 5.599
+    },
+    {
+      "text": "basically type in the person's email in",
+      "start": 1136.72,
+      "duration": 4.959
+    },
+    {
+      "text": "order to share the link. And make sure",
+      "start": 1139.039,
+      "duration": 6.241
+    },
+    {
+      "text": "you select can edit instead of can or",
+      "start": 1141.679,
+      "duration": 4.801
+    },
+    {
+      "text": "else people are just going to look at",
+      "start": 1145.28,
+      "duration": 4.08
+    },
+    {
+      "text": "your design and not be able to edit it.",
+      "start": 1146.48,
+      "duration": 5.12
+    },
+    {
+      "text": "Okay,",
+      "start": 1149.36,
+      "duration": 5.36
+    },
+    {
+      "text": "moving on. So the next one is trash. So",
+      "start": 1151.6,
+      "duration": 5.68
+    },
+    {
+      "text": "what trash is is basically you can just",
+      "start": 1154.72,
+      "duration": 4.8
+    },
+    {
+      "text": "delete a project and it's not going to",
+      "start": 1157.28,
+      "duration": 5.2
+    },
+    {
+      "text": "get permanently delete yet. So it's",
+      "start": 1159.52,
+      "duration": 4.56
+    },
+    {
+      "text": "going to store here and in case you want",
+      "start": 1162.48,
+      "duration": 3.76
+    },
+    {
+      "text": "to retrieve it, you can just come here",
+      "start": 1164.08,
+      "duration": 5.12
+    },
+    {
+      "text": "and work on it. And the next one like",
+      "start": 1166.24,
+      "duration": 5.2
+    },
+    {
+      "text": "admin is basically the same thing like",
+      "start": 1169.2,
+      "duration": 4.64
+    },
+    {
+      "text": "the simple settings for you to like",
+      "start": 1171.44,
+      "duration": 5.76
+    },
+    {
+      "text": "upgrade your plan or just invite more",
+      "start": 1173.84,
+      "duration": 6.959
+    },
+    {
+      "text": "users to the team and other stuff. Yep.",
+      "start": 1177.2,
+      "duration": 6.64
+    },
+    {
+      "text": "And the very bottom here like star is",
+      "start": 1180.799,
+      "duration": 7.441
+    },
+    {
+      "text": "basically a favorite feature. So like if",
+      "start": 1183.84,
+      "duration": 6.56
+    },
+    {
+      "text": "I go back into all projects and if I",
+      "start": 1188.24,
+      "duration": 4.08
+    },
+    {
+      "text": "hover over the team project here you can",
+      "start": 1190.4,
+      "duration": 4.48
+    },
+    {
+      "text": "see there's a yellow star here which if",
+      "start": 1192.32,
+      "duration": 4.96
+    },
+    {
+      "text": "I uncheck it will just disappear from",
+      "start": 1194.88,
+      "duration": 4.799
+    },
+    {
+      "text": "the start. But if I check it will just",
+      "start": 1197.28,
+      "duration": 4.88
+    },
+    {
+      "text": "appear under there. So it makes it",
+      "start": 1199.679,
+      "duration": 4.88
+    },
+    {
+      "text": "easier for me to get access to instead",
+      "start": 1202.16,
+      "duration": 4.399
+    },
+    {
+      "text": "of just going into all projects and",
+      "start": 1204.559,
+      "duration": 4.161
+    },
+    {
+      "text": "select it manually.",
+      "start": 1206.559,
+      "duration": 3.681
+    },
+    {
+      "text": "Okay.",
+      "start": 1208.72,
+      "duration": 3.68
+    },
+    {
+      "text": "Now we will check out this explore",
+      "start": 1210.24,
+      "duration": 6.4
+    },
+    {
+      "text": "community. So Figma has a wide community",
+      "start": 1212.4,
+      "duration": 7.36
+    },
+    {
+      "text": "which people will make designs and post",
+      "start": 1216.64,
+      "duration": 6.08
+    },
+    {
+      "text": "it out. So you can check it out, open it",
+      "start": 1219.76,
+      "duration": 6.24
+    },
+    {
+      "text": "at Figma and get some inspirations and",
+      "start": 1222.72,
+      "duration": 8.24
+    },
+    {
+      "text": "also you can plug in some",
+      "start": 1226.0,
+      "duration": 7.76
+    },
+    {
+      "text": "use some UI elements which people have",
+      "start": 1230.96,
+      "duration": 6.719
+    },
+    {
+      "text": "already created like icons or maybe some",
+      "start": 1233.76,
+      "duration": 6.0
+    },
+    {
+      "text": "designs that you are fond of and you",
+      "start": 1237.679,
+      "duration": 4.721
+    },
+    {
+      "text": "want to let's say make reference of it.",
+      "start": 1239.76,
+      "duration": 4.64
+    },
+    {
+      "text": "You can check out the community and open",
+      "start": 1242.4,
+      "duration": 4.56
+    },
+    {
+      "text": "the files in Figma.",
+      "start": 1244.4,
+      "duration": 6.08
+    },
+    {
+      "text": "Okay. So after all that explanation like",
+      "start": 1246.96,
+      "duration": 5.36
+    },
+    {
+      "text": "how do you actually create a design file",
+      "start": 1250.48,
+      "duration": 3.76
+    },
+    {
+      "text": "and get started to create a prototype in",
+      "start": 1252.32,
+      "duration": 6.0
+    },
+    {
+      "text": "Figma. So if you go to the top right of",
+      "start": 1254.24,
+      "duration": 7.12
+    },
+    {
+      "text": "Figma you will see the create new button",
+      "start": 1258.32,
+      "duration": 5.68
+    },
+    {
+      "text": "here. And if I click on it there's a lot",
+      "start": 1261.36,
+      "duration": 6.24
+    },
+    {
+      "text": "of different types of options. So",
+      "start": 1264.0,
+      "duration": 5.52
+    },
+    {
+      "text": "there's design file which is the one",
+      "start": 1267.6,
+      "duration": 4.24
+    },
+    {
+      "text": "we're going to use which allows you to",
+      "start": 1269.52,
+      "duration": 5.039
+    },
+    {
+      "text": "create a prototype.",
+      "start": 1271.84,
+      "duration": 5.199
+    },
+    {
+      "text": "And the second one, a f jam board is",
+      "start": 1274.559,
+      "duration": 5.201
+    },
+    {
+      "text": "basically for people to do brainstorm",
+      "start": 1277.039,
+      "duration": 4.961
+    },
+    {
+      "text": "sessions to give comments and generate",
+      "start": 1279.76,
+      "duration": 5.12
+    },
+    {
+      "text": "ideas. And the third one, slide deck,",
+      "start": 1282.0,
+      "duration": 6.24
+    },
+    {
+      "text": "allows you to create presentations",
+      "start": 1284.88,
+      "duration": 7.679
+    },
+    {
+      "text": "and save it as a PDF, JPEG",
+      "start": 1288.24,
+      "duration": 6.559
+    },
+    {
+      "text": "file. Yeah. For you to present. So it's",
+      "start": 1292.559,
+      "duration": 4.801
+    },
+    {
+      "text": "basically presentation slides. So the",
+      "start": 1294.799,
+      "duration": 4.641
+    },
+    {
+      "text": "three of this, what's different is that",
+      "start": 1297.36,
+      "duration": 3.92
+    },
+    {
+      "text": "the files that they save are pretty",
+      "start": 1299.44,
+      "duration": 4.08
+    },
+    {
+      "text": "different. So the design file you will",
+      "start": 1301.28,
+      "duration": 5.2
+    },
+    {
+      "text": "save it on a Figma file. A fig gem board",
+      "start": 1303.52,
+      "duration": 5.039
+    },
+    {
+      "text": "you will save on a on a Fig Jam file and",
+      "start": 1306.48,
+      "duration": 4.88
+    },
+    {
+      "text": "the slide deck you will save as a PDF or",
+      "start": 1308.559,
+      "duration": 6.081
+    },
+    {
+      "text": "JPEG like any other percentage or you",
+      "start": 1311.36,
+      "duration": 6.08
+    },
+    {
+      "text": "can go to import if you want to let's",
+      "start": 1314.64,
+      "duration": 5.279
+    },
+    {
+      "text": "say you have an existing design from",
+      "start": 1317.44,
+      "duration": 4.239
+    },
+    {
+      "text": "another Figma file. You have used Figma",
+      "start": 1319.919,
+      "duration": 3.281
+    },
+    {
+      "text": "before or let's say you just want to",
+      "start": 1321.679,
+      "duration": 4.081
+    },
+    {
+      "text": "import an image and work on it. You can",
+      "start": 1323.2,
+      "duration": 6.479
+    },
+    {
+      "text": "import it. It supports like JPEG, PDF",
+      "start": 1325.76,
+      "duration": 8.88
+    },
+    {
+      "text": "and also PNG and almost all file types.",
+      "start": 1329.679,
+      "duration": 7.681
+    },
+    {
+      "text": "Okay. So I'm just going to create a",
+      "start": 1334.64,
+      "duration": 6.36
+    },
+    {
+      "text": "design file here.",
+      "start": 1337.36,
+      "duration": 3.64
+    },
+    {
+      "text": "Okay. So on default this is the um Figma",
+      "start": 1341.039,
+      "duration": 8.241
+    },
+    {
+      "text": "workspace the Figma editor right here.",
+      "start": 1347.039,
+      "duration": 3.841
+    },
+    {
+      "text": "So right now it's all blank because we",
+      "start": 1349.28,
+      "duration": 3.519
+    },
+    {
+      "text": "have not created anything. So before",
+      "start": 1350.88,
+      "duration": 4.4
+    },
+    {
+      "text": "this all gets confusing and everything,",
+      "start": 1352.799,
+      "duration": 4.801
+    },
+    {
+      "text": "let's just focus on the middle pitch",
+      "start": 1355.28,
+      "duration": 5.36
+    },
+    {
+      "text": "black area here. So what this is is",
+      "start": 1357.6,
+      "duration": 6.8
+    },
+    {
+      "text": "basically the editing canvas. So if I",
+      "start": 1360.64,
+      "duration": 6.399
+    },
+    {
+      "text": "let's say I just create a shape here and",
+      "start": 1364.4,
+      "duration": 5.759
+    },
+    {
+      "text": "everything I created, it's going to be",
+      "start": 1367.039,
+      "duration": 5.681
+    },
+    {
+      "text": "within the editing canvas. If I drag it",
+      "start": 1370.159,
+      "duration": 4.161
+    },
+    {
+      "text": "all towards the side, you can see it's",
+      "start": 1372.72,
+      "duration": 4.0
+    },
+    {
+      "text": "not going to go to the left or right",
+      "start": 1374.32,
+      "duration": 6.16
+    },
+    {
+      "text": "panel. Okay. So at the side of it, we",
+      "start": 1376.72,
+      "duration": 6.319
+    },
+    {
+      "text": "have two panels which controls the basic",
+      "start": 1380.48,
+      "duration": 6.72
+    },
+    {
+      "text": "settings of the Figma editor. So we are",
+      "start": 1383.039,
+      "duration": 5.681
+    },
+    {
+      "text": "just going to focus on the left panel",
+      "start": 1387.2,
+      "duration": 3.28
+    },
+    {
+      "text": "right here.",
+      "start": 1388.72,
+      "duration": 6.4
+    },
+    {
+      "text": "So the left panel consists of the layers",
+      "start": 1390.48,
+      "duration": 10.319
+    },
+    {
+      "text": "and pages of the Pikma and I will dive",
+      "start": 1395.12,
+      "duration": 7.919
+    },
+    {
+      "text": "deep into what layers are, what pages",
+      "start": 1400.799,
+      "duration": 4.401
+    },
+    {
+      "text": "are later after we create the prototype.",
+      "start": 1403.039,
+      "duration": 4.401
+    },
+    {
+      "text": "And also you can click on assets which",
+      "start": 1405.2,
+      "duration": 4.08
+    },
+    {
+      "text": "you can get access to like libraries",
+      "start": 1407.44,
+      "duration": 5.28
+    },
+    {
+      "text": "like the UI elements, the logos, the",
+      "start": 1409.28,
+      "duration": 5.279
+    },
+    {
+      "text": "icons that I have mentioned in the",
+      "start": 1412.72,
+      "duration": 4.56
+    },
+    {
+      "text": "community and also if you click on this",
+      "start": 1414.559,
+      "duration": 7.281
+    },
+    {
+      "text": "logo you can check out the file settings",
+      "start": 1417.28,
+      "duration": 7.6
+    },
+    {
+      "text": "and also like the shortcuts and stuff.",
+      "start": 1421.84,
+      "duration": 6.88
+    },
+    {
+      "text": "Okay. And as for the right panel, so the",
+      "start": 1424.88,
+      "duration": 6.56
+    },
+    {
+      "text": "right panel controls the settings of",
+      "start": 1428.72,
+      "duration": 5.36
+    },
+    {
+      "text": "whatever you have selected and created.",
+      "start": 1431.44,
+      "duration": 4.96
+    },
+    {
+      "text": "So let's say if I just create a square",
+      "start": 1434.08,
+      "duration": 5.92
+    },
+    {
+      "text": "here, you can see that a lot of settings",
+      "start": 1436.4,
+      "duration": 7.84
+    },
+    {
+      "text": "you can choose from to adjust and",
+      "start": 1440.0,
+      "duration": 7.12
+    },
+    {
+      "text": "just change whatever you have selected",
+      "start": 1444.24,
+      "duration": 5.679
+    },
+    {
+      "text": "which in our case is a square",
+      "start": 1447.12,
+      "duration": 6.159
+    },
+    {
+      "text": "and I will also dive deep into it later",
+      "start": 1449.919,
+      "duration": 5.921
+    },
+    {
+      "text": "after we create a prototype. So the",
+      "start": 1453.279,
+      "duration": 4.801
+    },
+    {
+      "text": "right panel also allows you to share",
+      "start": 1455.84,
+      "duration": 4.319
+    },
+    {
+      "text": "which I will cover by the end after we",
+      "start": 1458.08,
+      "duration": 4.8
+    },
+    {
+      "text": "create the prototype and also",
+      "start": 1460.159,
+      "duration": 4.801
+    },
+    {
+      "text": "you can preview the designs that you",
+      "start": 1462.88,
+      "duration": 7.2
+    },
+    {
+      "text": "have created. Okay. So we'll focus on",
+      "start": 1464.96,
+      "duration": 8.24
+    },
+    {
+      "text": "the bottom here which you can see a tool",
+      "start": 1470.08,
+      "duration": 5.92
+    },
+    {
+      "text": "bar is floating there. I'll just quickly",
+      "start": 1473.2,
+      "duration": 6.16
+    },
+    {
+      "text": "create something before we dive into",
+      "start": 1476.0,
+      "duration": 5.84
+    },
+    {
+      "text": "what all the functions all the tools",
+      "start": 1479.36,
+      "duration": 5.36
+    },
+    {
+      "text": "down there are. So, I will just show you",
+      "start": 1481.84,
+      "duration": 5.12
+    },
+    {
+      "text": "guys how to navigate around in case you",
+      "start": 1484.72,
+      "duration": 3.68
+    },
+    {
+      "text": "guys just like sitting there and",
+      "start": 1486.96,
+      "duration": 3.199
+    },
+    {
+      "text": "listening to me talking all day. I'll",
+      "start": 1488.4,
+      "duration": 4.159
+    },
+    {
+      "text": "just show you how to move around. Okay.",
+      "start": 1490.159,
+      "duration": 4.481
+    },
+    {
+      "text": "So, if you are using a trackpad, which I",
+      "start": 1492.559,
+      "duration": 5.201
+    },
+    {
+      "text": "am, if you just drag left and right on",
+      "start": 1494.64,
+      "duration": 5.84
+    },
+    {
+      "text": "the trackpad, you will just pan",
+      "start": 1497.76,
+      "duration": 6.24
+    },
+    {
+      "text": "the editing canvas and also up and down",
+      "start": 1500.48,
+      "duration": 6.88
+    },
+    {
+      "text": "as well. If I pinch on the trackpad,",
+      "start": 1504.0,
+      "duration": 6.72
+    },
+    {
+      "text": "it's going to zoom in and zoom out. So,",
+      "start": 1507.36,
+      "duration": 5.84
+    },
+    {
+      "text": "if you say, \"Hold on a second. If I use",
+      "start": 1510.72,
+      "duration": 4.24
+    },
+    {
+      "text": "let's say a mouse, I don't have to",
+      "start": 1513.2,
+      "duration": 3.76
+    },
+    {
+      "text": "track. How do I pinch and everything? So",
+      "start": 1514.96,
+      "duration": 4.719
+    },
+    {
+      "text": "what you can do is if I press on the",
+      "start": 1516.96,
+      "duration": 6.079
+    },
+    {
+      "text": "space bar, you can see the arrows, the",
+      "start": 1519.679,
+      "duration": 5.521
+    },
+    {
+      "text": "cursor turns into like a small hand. So",
+      "start": 1523.039,
+      "duration": 4.561
+    },
+    {
+      "text": "that is called the hand tool. So with",
+      "start": 1525.2,
+      "duration": 6.56
+    },
+    {
+      "text": "the space bar clicked on and if I",
+      "start": 1527.6,
+      "duration": 6.319
+    },
+    {
+      "text": "clicked on the trackpad or the mouse, it",
+      "start": 1531.76,
+      "duration": 5.279
+    },
+    {
+      "text": "grabs the screen and it allows me to",
+      "start": 1533.919,
+      "duration": 7.281
+    },
+    {
+      "text": "move the editing canvas however I want.",
+      "start": 1537.039,
+      "duration": 7.201
+    },
+    {
+      "text": "and also just the basic controls of how",
+      "start": 1541.2,
+      "duration": 5.52
+    },
+    {
+      "text": "to zoom in and zoom out in Figma. It's",
+      "start": 1544.24,
+      "duration": 6.16
+    },
+    {
+      "text": "Ctrl minus for zooming out and Ctrl +",
+      "start": 1546.72,
+      "duration": 7.04
+    },
+    {
+      "text": "for zooming in. Okay, so let's say I'm",
+      "start": 1550.4,
+      "duration": 6.56
+    },
+    {
+      "text": "having a fun time like navigating around",
+      "start": 1553.76,
+      "duration": 5.919
+    },
+    {
+      "text": "and oh every time I have to drag and",
+      "start": 1556.96,
+      "duration": 5.76
+    },
+    {
+      "text": "like move everything in place. So it's",
+      "start": 1559.679,
+      "duration": 6.48
+    },
+    {
+      "text": "not very convenient. So what I will do",
+      "start": 1562.72,
+      "duration": 7.04
+    },
+    {
+      "text": "is I can press shift one. So what this",
+      "start": 1566.159,
+      "duration": 6.081
+    },
+    {
+      "text": "does is to fit whatever you have created",
+      "start": 1569.76,
+      "duration": 4.64
+    },
+    {
+      "text": "on the editing canvas to fit to your",
+      "start": 1572.24,
+      "duration": 5.36
+    },
+    {
+      "text": "screen. So you don't you don't have to",
+      "start": 1574.4,
+      "duration": 5.44
+    },
+    {
+      "text": "let's say you're in the other area you",
+      "start": 1577.6,
+      "duration": 4.4
+    },
+    {
+      "text": "couldn't see anything and you don't know",
+      "start": 1579.84,
+      "duration": 4.64
+    },
+    {
+      "text": "wherever the stuff that you have created",
+      "start": 1582.0,
+      "duration": 5.52
+    },
+    {
+      "text": "is you can just press shift one to just",
+      "start": 1584.48,
+      "duration": 8.0
+    },
+    {
+      "text": "bring everything back to your site. Yep.",
+      "start": 1587.52,
+      "duration": 7.519
+    },
+    {
+      "text": "Okay. Now now that you guys know how to",
+      "start": 1592.48,
+      "duration": 4.96
+    },
+    {
+      "text": "navigate around I would just focus on",
+      "start": 1595.039,
+      "duration": 5.52
+    },
+    {
+      "text": "the toolbar. come back to here again. So",
+      "start": 1597.44,
+      "duration": 5.359
+    },
+    {
+      "text": "this one is the one that I've selected",
+      "start": 1600.559,
+      "duration": 4.0
+    },
+    {
+      "text": "is called the move tool. So it's",
+      "start": 1602.799,
+      "duration": 5.521
+    },
+    {
+      "text": "basically I can just select stuff, move",
+      "start": 1604.559,
+      "duration": 7.36
+    },
+    {
+      "text": "them, move them around however I like.",
+      "start": 1608.32,
+      "duration": 5.68
+    },
+    {
+      "text": "And for the second one is the frame",
+      "start": 1611.919,
+      "duration": 4.401
+    },
+    {
+      "text": "tool. So what the frame tool is is",
+      "start": 1614.0,
+      "duration": 6.96
+    },
+    {
+      "text": "basically allow you to create frames of",
+      "start": 1616.32,
+      "duration": 7.359
+    },
+    {
+      "text": "mobile or desktop interfaces. So you can",
+      "start": 1620.96,
+      "duration": 6.0
+    },
+    {
+      "text": "add like UI elements like pictures and",
+      "start": 1623.679,
+      "duration": 6.961
+    },
+    {
+      "text": "squares inside of the interface. So that",
+      "start": 1626.96,
+      "duration": 8.0
+    },
+    {
+      "text": "did so the frame actually represents the",
+      "start": 1630.64,
+      "duration": 6.48
+    },
+    {
+      "text": "screen of your mobile device or desktop",
+      "start": 1634.96,
+      "duration": 7.12
+    },
+    {
+      "text": "device. And the next one is a rectangle.",
+      "start": 1637.12,
+      "duration": 7.28
+    },
+    {
+      "text": "If I click on the arrow, the down",
+      "start": 1642.08,
+      "duration": 4.64
+    },
+    {
+      "text": "button, you can see there's a lot of",
+      "start": 1644.4,
+      "duration": 4.08
+    },
+    {
+      "text": "stuff to choose from like you can create",
+      "start": 1646.72,
+      "duration": 5.92
+    },
+    {
+      "text": "an ellipse, a polygon or a rectangle.",
+      "start": 1648.48,
+      "duration": 5.92
+    },
+    {
+      "text": "You can also drop down image and video",
+      "start": 1652.64,
+      "duration": 5.68
+    },
+    {
+      "text": "which I will talk about later. And so",
+      "start": 1654.4,
+      "duration": 7.12
+    },
+    {
+      "text": "there is a pen tool which is very common",
+      "start": 1658.32,
+      "duration": 7.76
+    },
+    {
+      "text": "especially in the Adobe software where",
+      "start": 1661.52,
+      "duration": 7.36
+    },
+    {
+      "text": "it allows you to create",
+      "start": 1666.08,
+      "duration": 8.4
+    },
+    {
+      "text": "the free form shapes and allows you to",
+      "start": 1668.88,
+      "duration": 8.159
+    },
+    {
+      "text": "create unique shapes using vector",
+      "start": 1674.48,
+      "duration": 4.96
+    },
+    {
+      "text": "elements. And the next one is text which",
+      "start": 1677.039,
+      "duration": 7.041
+    },
+    {
+      "text": "allows you to type in and create text.",
+      "start": 1679.44,
+      "duration": 7.68
+    },
+    {
+      "text": "And we have the command to Q. So what",
+      "start": 1684.08,
+      "duration": 5.199
+    },
+    {
+      "text": "the command to is let's say someone has",
+      "start": 1687.12,
+      "duration": 4.0
+    },
+    {
+      "text": "already created something and if I click",
+      "start": 1689.279,
+      "duration": 4.561
+    },
+    {
+      "text": "on it I can write a command like let's",
+      "start": 1691.12,
+      "duration": 6.919
+    },
+    {
+      "text": "say hey that's cool",
+      "start": 1693.84,
+      "duration": 4.199
+    },
+    {
+      "text": "okay so when and I'm going to just",
+      "start": 1698.88,
+      "duration": 5.36
+    },
+    {
+      "text": "publish this. So when people are",
+      "start": 1702.159,
+      "duration": 3.841
+    },
+    {
+      "text": "navigating around and let's say you're",
+      "start": 1704.24,
+      "duration": 3.12
+    },
+    {
+      "text": "working together they will see your",
+      "start": 1706.0,
+      "duration": 4.559
+    },
+    {
+      "text": "comment and they they're going to see",
+      "start": 1707.36,
+      "duration": 4.96
+    },
+    {
+      "text": "what you're going to write what's your",
+      "start": 1710.559,
+      "duration": 4.0
+    },
+    {
+      "text": "feedback on the",
+      "start": 1712.32,
+      "duration": 4.239
+    },
+    {
+      "text": "uh prototype and everything. So, I'm",
+      "start": 1714.559,
+      "duration": 5.961
+    },
+    {
+      "text": "just going to remove this.",
+      "start": 1716.559,
+      "duration": 3.961
+    },
+    {
+      "text": "Yep. Delete this thread. Delete. Yep.",
+      "start": 1722.96,
+      "duration": 5.28
+    },
+    {
+      "text": "And the last one",
+      "start": 1725.76,
+      "duration": 5.36
+    },
+    {
+      "text": "allows you to control to see the assets",
+      "start": 1728.24,
+      "duration": 5.679
+    },
+    {
+      "text": "that you have already created or from",
+      "start": 1731.12,
+      "duration": 4.96
+    },
+    {
+      "text": "the community and also install some",
+      "start": 1733.919,
+      "duration": 4.88
+    },
+    {
+      "text": "plugins and widgets. Okay, so that's a",
+      "start": 1736.08,
+      "duration": 5.04
+    },
+    {
+      "text": "lot of talking. So I'm actually going to",
+      "start": 1738.799,
+      "duration": 4.88
+    },
+    {
+      "text": "start creating a",
+      "start": 1741.12,
+      "duration": 5.76
+    },
+    {
+      "text": "an interface for a mobile page. So what",
+      "start": 1743.679,
+      "duration": 5.36
+    },
+    {
+      "text": "you can do is basically click on",
+      "start": 1746.88,
+      "duration": 4.72
+    },
+    {
+      "text": "anywhere on the editor and then just",
+      "start": 1749.039,
+      "duration": 5.201
+    },
+    {
+      "text": "drag it out.",
+      "start": 1751.6,
+      "duration": 5.199
+    },
+    {
+      "text": "So you can create any size of the frame",
+      "start": 1754.24,
+      "duration": 4.72
+    },
+    {
+      "text": "you want. You can just kind of drag it",
+      "start": 1756.799,
+      "duration": 4.081
+    },
+    {
+      "text": "out and everything.",
+      "start": 1758.96,
+      "duration": 4.16
+    },
+    {
+      "text": "But you might say that hold on a second.",
+      "start": 1760.88,
+      "duration": 5.36
+    },
+    {
+      "text": "If I want to create, let's say, the",
+      "start": 1763.12,
+      "duration": 6.24
+    },
+    {
+      "text": "interface of like an iPhone 16, I don't",
+      "start": 1766.24,
+      "duration": 5.6
+    },
+    {
+      "text": "want to just drag it however I want. I",
+      "start": 1769.36,
+      "duration": 5.199
+    },
+    {
+      "text": "don't want it to be whatever size. So,",
+      "start": 1771.84,
+      "duration": 6.0
+    },
+    {
+      "text": "what you can do is actually focus on the",
+      "start": 1774.559,
+      "duration": 5.761
+    },
+    {
+      "text": "right panel here, which there is a lot",
+      "start": 1777.84,
+      "duration": 5.04
+    },
+    {
+      "text": "of presets to choose from. So, I'm just",
+      "start": 1780.32,
+      "duration": 6.719
+    },
+    {
+      "text": "going to click on iPhone 16 and then",
+      "start": 1782.88,
+      "duration": 7.44
+    },
+    {
+      "text": "it's going to create the exact size of",
+      "start": 1787.039,
+      "duration": 5.441
+    },
+    {
+      "text": "what an iPhone 16 interface is going to",
+      "start": 1790.32,
+      "duration": 5.04
+    },
+    {
+      "text": "look like. So, I can move this around",
+      "start": 1792.48,
+      "duration": 6.48
+    },
+    {
+      "text": "and everything. So, if you realize when",
+      "start": 1795.36,
+      "duration": 5.919
+    },
+    {
+      "text": "I'm starting to move stuff around, I'm I",
+      "start": 1798.96,
+      "duration": 5.52
+    },
+    {
+      "text": "always click on the name of the frame",
+      "start": 1801.279,
+      "duration": 5.12
+    },
+    {
+      "text": "because later on if you have too much",
+      "start": 1804.48,
+      "duration": 5.439
+    },
+    {
+      "text": "stuff inside the frame, you're going to",
+      "start": 1806.399,
+      "duration": 5.28
+    },
+    {
+      "text": "select something else and not the frame",
+      "start": 1809.919,
+      "duration": 3.36
+    },
+    {
+      "text": "itself.",
+      "start": 1811.679,
+      "duration": 4.161
+    },
+    {
+      "text": "Okay. So, I'm going to make more frames",
+      "start": 1813.279,
+      "duration": 5.28
+    },
+    {
+      "text": "now. So what you can do is actually Ctrl",
+      "start": 1815.84,
+      "duration": 5.52
+    },
+    {
+      "text": "C or command C if you are using a Mac",
+      "start": 1818.559,
+      "duration": 6.641
+    },
+    {
+      "text": "and Ctrl V to create multiple or what",
+      "start": 1821.36,
+      "duration": 7.52
+    },
+    {
+      "text": "you can do is actually clicking one and",
+      "start": 1825.2,
+      "duration": 6.16
+    },
+    {
+      "text": "press the Alt key or option key on a Mac",
+      "start": 1828.88,
+      "duration": 4.32
+    },
+    {
+      "text": "and then you can see your cursor kind of",
+      "start": 1831.36,
+      "duration": 5.12
+    },
+    {
+      "text": "splitting into two and if I click on it",
+      "start": 1833.2,
+      "duration": 6.16
+    },
+    {
+      "text": "and I drag it this will duplicate an",
+      "start": 1836.48,
+      "duration": 5.76
+    },
+    {
+      "text": "exact copy of what you have selected.",
+      "start": 1839.36,
+      "duration": 5.84
+    },
+    {
+      "text": "Okay. So I'm going to delete that. I'm",
+      "start": 1842.24,
+      "duration": 5.039
+    },
+    {
+      "text": "going to doubleclick on the name of the",
+      "start": 1845.2,
+      "duration": 4.16
+    },
+    {
+      "text": "frame just to rename it. So I'm going to",
+      "start": 1847.279,
+      "duration": 7.361
+    },
+    {
+      "text": "call this home page and the second one",
+      "start": 1849.36,
+      "duration": 6.799
+    },
+    {
+      "text": "the",
+      "start": 1854.64,
+      "duration": 3.84
+    },
+    {
+      "text": "main page",
+      "start": 1856.159,
+      "duration": 4.88
+    },
+    {
+      "text": "and the third one",
+      "start": 1858.48,
+      "duration": 6.76
+    },
+    {
+      "text": "product page.",
+      "start": 1861.039,
+      "duration": 4.201
+    },
+    {
+      "text": "Okay. So after you see that I've created",
+      "start": 1865.52,
+      "duration": 4.56
+    },
+    {
+      "text": "I have something within the editing",
+      "start": 1868.0,
+      "duration": 4.24
+    },
+    {
+      "text": "canvas. If you look at the left panel,",
+      "start": 1870.08,
+      "duration": 7.04
+    },
+    {
+      "text": "it appears on the layers so that you can",
+      "start": 1872.24,
+      "duration": 7.52
+    },
+    {
+      "text": "you can see the elements which one is on",
+      "start": 1877.12,
+      "duration": 6.24
+    },
+    {
+      "text": "top of which and because they are frames",
+      "start": 1879.76,
+      "duration": 5.84
+    },
+    {
+      "text": "they are",
+      "start": 1883.36,
+      "duration": 4.319
+    },
+    {
+      "text": "um they are kind of like folders which",
+      "start": 1885.6,
+      "duration": 4.559
+    },
+    {
+      "text": "is basically if I let's say create a",
+      "start": 1887.679,
+      "duration": 5.281
+    },
+    {
+      "text": "shape within it and I drag it out you",
+      "start": 1890.159,
+      "duration": 6.561
+    },
+    {
+      "text": "can see it kind of creates a sub element",
+      "start": 1892.96,
+      "duration": 6.24
+    },
+    {
+      "text": "under the homepage. So you can see that",
+      "start": 1896.72,
+      "duration": 5.04
+    },
+    {
+      "text": "it's actually under homepage and not",
+      "start": 1899.2,
+      "duration": 4.56
+    },
+    {
+      "text": "something else by itself which you can",
+      "start": 1901.76,
+      "duration": 6.0
+    },
+    {
+      "text": "see it just comes out from the homepage.",
+      "start": 1903.76,
+      "duration": 5.44
+    },
+    {
+      "text": "Okay. So I'm going to delete this",
+      "start": 1907.76,
+      "duration": 4.0
+    },
+    {
+      "text": "square. And right now what I'm going to",
+      "start": 1909.2,
+      "duration": 7.599
+    },
+    {
+      "text": "do is create a logo. So I'm going to",
+      "start": 1911.76,
+      "duration": 6.799
+    },
+    {
+      "text": "click on the down button. I'm going to",
+      "start": 1916.799,
+      "duration": 4.321
+    },
+    {
+      "text": "create I'm going to click on eclipse",
+      "start": 1918.559,
+      "duration": 6.24
+    },
+    {
+      "text": "lips. And by holding down the shift tool",
+      "start": 1921.12,
+      "duration": 7.12
+    },
+    {
+      "text": "I can create a perfect square.",
+      "start": 1924.799,
+      "duration": 6.081
+    },
+    {
+      "text": "so it doesn't become like an oval or",
+      "start": 1928.24,
+      "duration": 4.88
+    },
+    {
+      "text": "distorted.",
+      "start": 1930.88,
+      "duration": 3.76
+    },
+    {
+      "text": "Okay.",
+      "start": 1933.12,
+      "duration": 3.279
+    },
+    {
+      "text": "And I'm also going to choose the",
+      "start": 1934.64,
+      "duration": 4.159
+    },
+    {
+      "text": "rectangle tool and then create a",
+      "start": 1936.399,
+      "duration": 4.16
+    },
+    {
+      "text": "rectangle. So I'm not going to hold down",
+      "start": 1938.799,
+      "duration": 3.281
+    },
+    {
+      "text": "the shift key because that will give me",
+      "start": 1940.559,
+      "duration": 5.161
+    },
+    {
+      "text": "a perfect square.",
+      "start": 1942.08,
+      "duration": 3.64
+    },
+    {
+      "text": "Okay. So on the right side, the right",
+      "start": 1945.76,
+      "duration": 5.36
+    },
+    {
+      "text": "panel, you can see there's a lot of",
+      "start": 1948.96,
+      "duration": 4.319
+    },
+    {
+      "text": "options to",
+      "start": 1951.12,
+      "duration": 4.24
+    },
+    {
+      "text": "to change and adjust, but I'll go",
+      "start": 1953.279,
+      "duration": 5.76
+    },
+    {
+      "text": "through it one by one. So if you come",
+      "start": 1955.36,
+      "duration": 6.24
+    },
+    {
+      "text": "here to the position, I can change the X",
+      "start": 1959.039,
+      "duration": 5.601
+    },
+    {
+      "text": "and Y axis of it. Let's say I want it to",
+      "start": 1961.6,
+      "duration": 7.28
+    },
+    {
+      "text": "be 70. It's going to move to the exact",
+      "start": 1964.64,
+      "duration": 8.0
+    },
+    {
+      "text": "position to the one I keyed in. So I",
+      "start": 1968.88,
+      "duration": 5.36
+    },
+    {
+      "text": "don't want that. I just want it to be",
+      "start": 1972.64,
+      "duration": 4.56
+    },
+    {
+      "text": "center aligned, which I already did. And",
+      "start": 1974.24,
+      "duration": 4.72
+    },
+    {
+      "text": "what you can do is basically if you",
+      "start": 1977.2,
+      "duration": 5.199
+    },
+    {
+      "text": "hover over the square, you can see",
+      "start": 1978.96,
+      "duration": 6.24
+    },
+    {
+      "text": "that there is like this round circles,",
+      "start": 1982.399,
+      "duration": 5.76
+    },
+    {
+      "text": "like small ones. If I click on it and I",
+      "start": 1985.2,
+      "duration": 6.24
+    },
+    {
+      "text": "drag it, it's going to round the corner",
+      "start": 1988.159,
+      "duration": 6.081
+    },
+    {
+      "text": "radius of the square so it doesn't",
+      "start": 1991.44,
+      "duration": 5.44
+    },
+    {
+      "text": "appear like very sharp and edgy. Or what",
+      "start": 1994.24,
+      "duration": 5.919
+    },
+    {
+      "text": "you can do is actually go to here the",
+      "start": 1996.88,
+      "duration": 7.279
+    },
+    {
+      "text": "appearance and under corner radius",
+      "start": 2000.159,
+      "duration": 6.721
+    },
+    {
+      "text": "you can change it manually by typing the",
+      "start": 2004.159,
+      "duration": 5.681
+    },
+    {
+      "text": "exact number and it will change. But",
+      "start": 2006.88,
+      "duration": 5.279
+    },
+    {
+      "text": "let's say hold on a minute I don't want",
+      "start": 2009.84,
+      "duration": 4.0
+    },
+    {
+      "text": "all of the corners to change. I only",
+      "start": 2012.159,
+      "duration": 6.321
+    },
+    {
+      "text": "want some parts. So what you can do is",
+      "start": 2013.84,
+      "duration": 6.24
+    },
+    {
+      "text": "if you look at the right side of the",
+      "start": 2018.48,
+      "duration": 5.12
+    },
+    {
+      "text": "corner radius there is an individual",
+      "start": 2020.08,
+      "duration": 5.68
+    },
+    {
+      "text": "corners an icon say individual corners",
+      "start": 2023.6,
+      "duration": 4.48
+    },
+    {
+      "text": "and after I click that",
+      "start": 2025.76,
+      "duration": 4.56
+    },
+    {
+      "text": "I can choose let's say I want right side",
+      "start": 2028.08,
+      "duration": 6.4
+    },
+    {
+      "text": "to be 50. Yep. And it's going to be very",
+      "start": 2030.32,
+      "duration": 7.599
+    },
+    {
+      "text": "different to the other",
+      "start": 2034.48,
+      "duration": 6.24
+    },
+    {
+      "text": "other edges. Yep.",
+      "start": 2037.919,
+      "duration": 7.6
+    },
+    {
+      "text": "Okay. So, just going to quickly",
+      "start": 2040.72,
+      "duration": 7.439
+    },
+    {
+      "text": "show you like how to get things aligned",
+      "start": 2045.519,
+      "duration": 5.761
+    },
+    {
+      "text": "and everything. So, let's say I",
+      "start": 2048.159,
+      "duration": 5.52
+    },
+    {
+      "text": "want to make it center, but let's say",
+      "start": 2051.28,
+      "duration": 5.839
+    },
+    {
+      "text": "your Figma sometimes it doesn't snap to",
+      "start": 2053.679,
+      "duration": 5.041
+    },
+    {
+      "text": "like the middle or anything. It's like",
+      "start": 2057.119,
+      "duration": 4.24
+    },
+    {
+      "text": "it's slightly off center. So, what",
+      "start": 2058.72,
+      "duration": 4.72
+    },
+    {
+      "text": "should I do? So what you can do is",
+      "start": 2061.359,
+      "duration": 3.76
+    },
+    {
+      "text": "basically",
+      "start": 2063.44,
+      "duration": 4.0
+    },
+    {
+      "text": "click anywhere with your cursor and then",
+      "start": 2065.119,
+      "duration": 7.921
+    },
+    {
+      "text": "drag it until you see a blue box is",
+      "start": 2067.44,
+      "duration": 7.36
+    },
+    {
+      "text": "covering and containing the elements",
+      "start": 2073.04,
+      "duration": 4.799
+    },
+    {
+      "text": "that you want. And then what I can do is",
+      "start": 2074.8,
+      "duration": 5.76
+    },
+    {
+      "text": "go to the alignment and click align",
+      "start": 2077.839,
+      "duration": 5.52
+    },
+    {
+      "text": "horizontal centers",
+      "start": 2080.56,
+      "duration": 5.44
+    },
+    {
+      "text": "and they will align perfectly center.",
+      "start": 2083.359,
+      "duration": 5.121
+    },
+    {
+      "text": "And so I'm going to drag here and move",
+      "start": 2086.0,
+      "duration": 5.119
+    },
+    {
+      "text": "it to the center. Now I'm going to",
+      "start": 2088.48,
+      "duration": 5.919
+    },
+    {
+      "text": "create more shapes by clicking shift",
+      "start": 2091.119,
+      "duration": 6.72
+    },
+    {
+      "text": "this time to create a perfect square.",
+      "start": 2094.399,
+      "duration": 6.561
+    },
+    {
+      "text": "And you can see okay so right now it's",
+      "start": 2097.839,
+      "duration": 5.28
+    },
+    {
+      "text": "like the gaps between the shapes are",
+      "start": 2100.96,
+      "duration": 4.72
+    },
+    {
+      "text": "very uneven. So I want to make it even.",
+      "start": 2103.119,
+      "duration": 5.041
+    },
+    {
+      "text": "So how can I do that? I don't need to",
+      "start": 2105.68,
+      "duration": 6.159
+    },
+    {
+      "text": "actually adjust it till it appears like",
+      "start": 2108.16,
+      "duration": 6.24
+    },
+    {
+      "text": "perfectly. You can do that but sometimes",
+      "start": 2111.839,
+      "duration": 5.441
+    },
+    {
+      "text": "it's a hassle to do that. So what you",
+      "start": 2114.4,
+      "duration": 5.439
+    },
+    {
+      "text": "can do is select everything again. Go to",
+      "start": 2117.28,
+      "duration": 4.4
+    },
+    {
+      "text": "the right panel",
+      "start": 2119.839,
+      "duration": 4.561
+    },
+    {
+      "text": "and position alignment. You'll see the",
+      "start": 2121.68,
+      "duration": 6.159
+    },
+    {
+      "text": "three dots here. Click it and you can",
+      "start": 2124.4,
+      "duration": 6.08
+    },
+    {
+      "text": "click distribute vertical spacing. Oh,",
+      "start": 2127.839,
+      "duration": 4.0
+    },
+    {
+      "text": "because I have everything perfectly",
+      "start": 2130.48,
+      "duration": 3.359
+    },
+    {
+      "text": "aligned. So it's not going to work. Let",
+      "start": 2131.839,
+      "duration": 5.76
+    },
+    {
+      "text": "me just move this and try again.",
+      "start": 2133.839,
+      "duration": 6.481
+    },
+    {
+      "text": "If I click distribute vertical spacing",
+      "start": 2137.599,
+      "duration": 4.641
+    },
+    {
+      "text": "and everything, all the elements is",
+      "start": 2140.32,
+      "duration": 5.36
+    },
+    {
+      "text": "going to have the same gap.",
+      "start": 2142.24,
+      "duration": 5.28
+    },
+    {
+      "text": "Okay.",
+      "start": 2145.68,
+      "duration": 3.76
+    },
+    {
+      "text": "So, I'm just going to delete this and",
+      "start": 2147.52,
+      "duration": 3.599
+    },
+    {
+      "text": "delete this. So, I'm going to teach you",
+      "start": 2149.44,
+      "duration": 4.88
+    },
+    {
+      "text": "guys how to create text in Figma.",
+      "start": 2151.119,
+      "duration": 4.72
+    },
+    {
+      "text": "So,",
+      "start": 2154.32,
+      "duration": 4.48
+    },
+    {
+      "text": "if I press T",
+      "start": 2155.839,
+      "duration": 5.921
+    },
+    {
+      "text": "for the text. So, there's two ways you",
+      "start": 2158.8,
+      "duration": 5.2
+    },
+    {
+      "text": "can create text in Figma. So, one way is",
+      "start": 2161.76,
+      "duration": 4.079
+    },
+    {
+      "text": "that you can click anywhere and drag.",
+      "start": 2164.0,
+      "duration": 4.4
+    },
+    {
+      "text": "You will see a box here and you can type",
+      "start": 2165.839,
+      "duration": 6.401
+    },
+    {
+      "text": "anything you want. But the bad thing",
+      "start": 2168.4,
+      "duration": 7.6
+    },
+    {
+      "text": "about this is that if I type in if type",
+      "start": 2172.24,
+      "duration": 6.32
+    },
+    {
+      "text": "let's say I want a long text if it",
+      "start": 2176.0,
+      "duration": 4.88
+    },
+    {
+      "text": "reaches the edge of the box it will just",
+      "start": 2178.56,
+      "duration": 4.0
+    },
+    {
+      "text": "go to the second line and you will have",
+      "start": 2180.88,
+      "duration": 5.04
+    },
+    {
+      "text": "to adjust the box again.",
+      "start": 2182.56,
+      "duration": 5.68
+    },
+    {
+      "text": "Yep. So what I recommend you guys to do",
+      "start": 2185.92,
+      "duration": 5.36
+    },
+    {
+      "text": "is actually get the text tool and just",
+      "start": 2188.24,
+      "duration": 5.44
+    },
+    {
+      "text": "click anywhere on the canvas. So right",
+      "start": 2191.28,
+      "duration": 5.6
+    },
+    {
+      "text": "now you will see a line just blinking",
+      "start": 2193.68,
+      "duration": 6.64
+    },
+    {
+      "text": "and then no matter how much I type it's",
+      "start": 2196.88,
+      "duration": 5.199
+    },
+    {
+      "text": "going to go on forever and it's not",
+      "start": 2200.32,
+      "duration": 6.6
+    },
+    {
+      "text": "going to go to the next line.",
+      "start": 2202.079,
+      "duration": 4.841
+    },
+    {
+      "text": "Okay, I'm just going to type something",
+      "start": 2209.76,
+      "duration": 4.319
+    },
+    {
+      "text": "like logo and right now it's going to",
+      "start": 2211.599,
+      "duration": 5.201
+    },
+    {
+      "text": "appear very small. So, what I'm going to",
+      "start": 2214.079,
+      "duration": 4.881
+    },
+    {
+      "text": "do is to select the text, go to the",
+      "start": 2216.8,
+      "duration": 6.0
+    },
+    {
+      "text": "right panel, and under typography, I can",
+      "start": 2218.96,
+      "duration": 5.92
+    },
+    {
+      "text": "change it. Let's say I don't like that",
+      "start": 2222.8,
+      "duration": 6.08
+    },
+    {
+      "text": "font, and I can just choose whatever I",
+      "start": 2224.88,
+      "duration": 7.28
+    },
+    {
+      "text": "want. Let's say this one looks cool. And",
+      "start": 2228.88,
+      "duration": 6.08
+    },
+    {
+      "text": "I don't like it to be too thin. I want",
+      "start": 2232.16,
+      "duration": 4.88
+    },
+    {
+      "text": "it to be slightly thicker. So, I can",
+      "start": 2234.96,
+      "duration": 8.04
+    },
+    {
+      "text": "choose bold and adjust the font size.",
+      "start": 2237.04,
+      "duration": 5.96
+    },
+    {
+      "text": "Okay, so that looks good.",
+      "start": 2243.44,
+      "duration": 4.88
+    },
+    {
+      "text": "And right now I'm just going to profile",
+      "start": 2246.4,
+      "duration": 5.199
+    },
+    {
+      "text": "align them centered.",
+      "start": 2248.32,
+      "duration": 6.48
+    },
+    {
+      "text": "And so let's say I want it to be all",
+      "start": 2251.599,
+      "duration": 4.721
+    },
+    {
+      "text": "caps.",
+      "start": 2254.8,
+      "duration": 5.76
+    },
+    {
+      "text": "But I because I didn't type in in with",
+      "start": 2256.32,
+      "duration": 6.96
+    },
+    {
+      "text": "my caps lock on. So it appears like",
+      "start": 2260.56,
+      "duration": 5.2
+    },
+    {
+      "text": "that. So what you can do is you don't",
+      "start": 2263.28,
+      "duration": 5.28
+    },
+    {
+      "text": "have to retype it. You can just go all",
+      "start": 2265.76,
+      "duration": 6.0
+    },
+    {
+      "text": "the way to here, type settings under",
+      "start": 2268.56,
+      "duration": 6.72
+    },
+    {
+      "text": "typography. You click on it and under",
+      "start": 2271.76,
+      "duration": 7.359
+    },
+    {
+      "text": "case you will see an uppercase. If you",
+      "start": 2275.28,
+      "duration": 5.12
+    },
+    {
+      "text": "click on it, it's going to change",
+      "start": 2279.119,
+      "duration": 4.321
+    },
+    {
+      "text": "everything to the upper case.",
+      "start": 2280.4,
+      "duration": 5.199
+    },
+    {
+      "text": "And if you hover over the other",
+      "start": 2283.44,
+      "duration": 4.399
+    },
+    {
+      "text": "settings, Figma is going to show you",
+      "start": 2285.599,
+      "duration": 4.961
+    },
+    {
+      "text": "what exactly they do. So let's say I",
+      "start": 2287.839,
+      "duration": 6.721
+    },
+    {
+      "text": "hover this underline.",
+      "start": 2290.56,
+      "duration": 7.279
+    },
+    {
+      "text": "Is it going to show",
+      "start": 2294.56,
+      "duration": 3.279
+    },
+    {
+      "text": "It doesn't really show, but it it is",
+      "start": 2298.32,
+      "duration": 4.16
+    },
+    {
+      "text": "going to show you like what the effects",
+      "start": 2300.8,
+      "duration": 3.6
+    },
+    {
+      "text": "are going to are going to be, but it",
+      "start": 2302.48,
+      "duration": 4.56
+    },
+    {
+      "text": "doesn't show. You can just click on it",
+      "start": 2304.4,
+      "duration": 5.439
+    },
+    {
+      "text": "and see",
+      "start": 2307.04,
+      "duration": 5.039
+    },
+    {
+      "text": "what it does.",
+      "start": 2309.839,
+      "duration": 2.881
+    },
+    {
+      "text": ">> Okay.",
+      "start": 2312.079,
+      "duration": 3.04
+    },
+    {
+      "text": ">> So, you guys can play with it yourself",
+      "start": 2312.72,
+      "duration": 6.24
+    },
+    {
+      "text": "and explore what all the options are.",
+      "start": 2315.119,
+      "duration": 7.041
+    },
+    {
+      "text": "Okay. So, the text, as you guys know,",
+      "start": 2318.96,
+      "duration": 5.52
+    },
+    {
+      "text": "like the the box around it is not",
+      "start": 2322.16,
+      "duration": 4.08
+    },
+    {
+      "text": "actually the text itself. is actually a",
+      "start": 2324.48,
+      "duration": 4.48
+    },
+    {
+      "text": "container containing the text. So if",
+      "start": 2326.24,
+      "duration": 6.24
+    },
+    {
+      "text": "let's say the box is like too big, too",
+      "start": 2328.96,
+      "duration": 6.0
+    },
+    {
+      "text": "long and I want the logo to be in the",
+      "start": 2332.48,
+      "duration": 4.0
+    },
+    {
+      "text": "middle.",
+      "start": 2334.96,
+      "duration": 3.68
+    },
+    {
+      "text": "So what you can do is actually come here",
+      "start": 2336.48,
+      "duration": 5.68
+    },
+    {
+      "text": "under alignment and click on align",
+      "start": 2338.64,
+      "duration": 6.24
+    },
+    {
+      "text": "center. So it appears at the center no",
+      "start": 2342.16,
+      "duration": 6.32
+    },
+    {
+      "text": "matter how much I expand the box and",
+      "start": 2344.88,
+      "duration": 5.6
+    },
+    {
+      "text": "everything. So it's so it's always going",
+      "start": 2348.48,
+      "duration": 4.56
+    },
+    {
+      "text": "to be at at the center.",
+      "start": 2350.48,
+      "duration": 5.2
+    },
+    {
+      "text": "Okay. So now that we have the look, we",
+      "start": 2353.04,
+      "duration": 5.039
+    },
+    {
+      "text": "have the text, we have the shape. So",
+      "start": 2355.68,
+      "duration": 4.32
+    },
+    {
+      "text": "right now I'm going to show you guys how",
+      "start": 2358.079,
+      "duration": 4.241
+    },
+    {
+      "text": "to add images and pictures thank to",
+      "start": 2360.0,
+      "duration": 4.16
+    },
+    {
+      "text": "Figma.",
+      "start": 2362.32,
+      "duration": 4.4
+    },
+    {
+      "text": "So on your keyboard you can click",
+      "start": 2364.16,
+      "duration": 6.4
+    },
+    {
+      "text": "control alternate K.",
+      "start": 2366.72,
+      "duration": 6.32
+    },
+    {
+      "text": "Oh, it doesn't work. Oh, it's actually",
+      "start": 2370.56,
+      "duration": 5.84
+    },
+    {
+      "text": "control shift K",
+      "start": 2373.04,
+      "duration": 6.16
+    },
+    {
+      "text": "or command shift K on Mac. So, it will",
+      "start": 2376.4,
+      "duration": 6.32
+    },
+    {
+      "text": "bring up your windows and your",
+      "start": 2379.2,
+      "duration": 6.08
+    },
+    {
+      "text": "documents. And then if I go to pictures,",
+      "start": 2382.72,
+      "duration": 8.359
+    },
+    {
+      "text": "I'm going to find the files that I need.",
+      "start": 2385.28,
+      "duration": 5.799
+    },
+    {
+      "text": "Okay. So let's say I select this image",
+      "start": 2414.0,
+      "duration": 5.68
+    },
+    {
+      "text": "and I click on open. So Figma is not",
+      "start": 2416.16,
+      "duration": 6.32
+    },
+    {
+      "text": "going to just throw the image into the",
+      "start": 2419.68,
+      "duration": 5.04
+    },
+    {
+      "text": "editing space. What it will do is you",
+      "start": 2422.48,
+      "duration": 4.48
+    },
+    {
+      "text": "can see a small image that's below your",
+      "start": 2424.72,
+      "duration": 4.56
+    },
+    {
+      "text": "cursor and you can drag it and just",
+      "start": 2426.96,
+      "duration": 4.72
+    },
+    {
+      "text": "whatever size you want. And the other",
+      "start": 2429.28,
+      "duration": 4.559
+    },
+    {
+      "text": "way to drop in an image is that you just",
+      "start": 2431.68,
+      "duration": 5.2
+    },
+    {
+      "text": "open your file",
+      "start": 2433.839,
+      "duration": 5.121
+    },
+    {
+      "text": "and then just drag the image in there.",
+      "start": 2436.88,
+      "duration": 4.56
+    },
+    {
+      "text": "But what that will do is it will just",
+      "start": 2438.96,
+      "duration": 6.32
+    },
+    {
+      "text": "fill the wall frame and it's s it to its",
+      "start": 2441.44,
+      "duration": 6.32
+    },
+    {
+      "text": "original size. I'm just going to delete",
+      "start": 2445.28,
+      "duration": 5.2
+    },
+    {
+      "text": "it",
+      "start": 2447.76,
+      "duration": 5.12
+    },
+    {
+      "text": "and then Okay, now that we have the",
+      "start": 2450.48,
+      "duration": 4.56
+    },
+    {
+      "text": "image brought in, I'm going to show you",
+      "start": 2452.88,
+      "duration": 5.12
+    },
+    {
+      "text": "guys how to quickly adjust or crop the",
+      "start": 2455.04,
+      "duration": 5.2
+    },
+    {
+      "text": "image. So the easiest way to crop the",
+      "start": 2458.0,
+      "duration": 5.44
+    },
+    {
+      "text": "image is basically you hover it and then",
+      "start": 2460.24,
+      "duration": 5.04
+    },
+    {
+      "text": "right click",
+      "start": 2463.44,
+      "duration": 4.879
+    },
+    {
+      "text": "and if you go on to frame selection it",
+      "start": 2465.28,
+      "duration": 6.0
+    },
+    {
+      "text": "will just make the image a frame by",
+      "start": 2468.319,
+      "duration": 4.8
+    },
+    {
+      "text": "itself.",
+      "start": 2471.28,
+      "duration": 4.559
+    },
+    {
+      "text": "So it will just create a a blue",
+      "start": 2473.119,
+      "duration": 5.121
+    },
+    {
+      "text": "container around the image. It's not the",
+      "start": 2475.839,
+      "duration": 5.441
+    },
+    {
+      "text": "image itself but it's a frame similar to",
+      "start": 2478.24,
+      "duration": 6.24
+    },
+    {
+      "text": "the ones we have here. So, as you can",
+      "start": 2481.28,
+      "duration": 4.72
+    },
+    {
+      "text": "see, if I drag it, it doesn't really",
+      "start": 2484.48,
+      "duration": 4.879
+    },
+    {
+      "text": "affect the image because clip content is",
+      "start": 2486.0,
+      "duration": 6.24
+    },
+    {
+      "text": "not on. So, if I click on clip content,",
+      "start": 2489.359,
+      "duration": 6.24
+    },
+    {
+      "text": "it's going to crop the image.",
+      "start": 2492.24,
+      "duration": 6.16
+    },
+    {
+      "text": "And let's say I want the corner radius,",
+      "start": 2495.599,
+      "duration": 4.321
+    },
+    {
+      "text": "the bottom corner radius, I'm going to",
+      "start": 2498.4,
+      "duration": 5.199
+    },
+    {
+      "text": "set it to 30 on the left side and 30 on",
+      "start": 2499.92,
+      "duration": 7.439
+    },
+    {
+      "text": "the right side. And if I doubleclick on",
+      "start": 2503.599,
+      "duration": 6.641
+    },
+    {
+      "text": "the frame, it will go in and select the",
+      "start": 2507.359,
+      "duration": 5.681
+    },
+    {
+      "text": "image or whatever you have inside. And",
+      "start": 2510.24,
+      "duration": 8.32
+    },
+    {
+      "text": "I'm just going to move it and scale it",
+      "start": 2513.04,
+      "duration": 8.64
+    },
+    {
+      "text": "to the size that I want and show what I",
+      "start": 2518.56,
+      "duration": 6.16
+    },
+    {
+      "text": "want. Oh, so if your cursor goes too",
+      "start": 2521.68,
+      "duration": 4.8
+    },
+    {
+      "text": "much outside of the frame, it will just",
+      "start": 2524.72,
+      "duration": 3.52
+    },
+    {
+      "text": "leave the frame. It will just detach",
+      "start": 2526.48,
+      "duration": 4.879
+    },
+    {
+      "text": "from it. Okay. And that's the easiest",
+      "start": 2528.24,
+      "duration": 5.04
+    },
+    {
+      "text": "way of how you can crop an image",
+      "start": 2531.359,
+      "duration": 4.561
+    },
+    {
+      "text": "quickly.",
+      "start": 2533.28,
+      "duration": 2.64
+    },
+    {
+      "text": "So the there's another way that you can",
+      "start": 2536.0,
+      "duration": 4.56
+    },
+    {
+      "text": "do it is basically if you doubleclick on",
+      "start": 2538.319,
+      "duration": 5.601
+    },
+    {
+      "text": "the image, this menu will pop up which",
+      "start": 2540.56,
+      "duration": 5.6
+    },
+    {
+      "text": "you can adjust the exposure, the",
+      "start": 2543.92,
+      "duration": 4.72
+    },
+    {
+      "text": "contrast and the saturation and other",
+      "start": 2546.16,
+      "duration": 4.8
+    },
+    {
+      "text": "stuff just in case you didn't edit your",
+      "start": 2548.64,
+      "duration": 5.52
+    },
+    {
+      "text": "image and you want to make changes.",
+      "start": 2550.96,
+      "duration": 5.6
+    },
+    {
+      "text": "So under field you can click on it and",
+      "start": 2554.16,
+      "duration": 6.88
+    },
+    {
+      "text": "you can click crop. So then you can crop",
+      "start": 2556.56,
+      "duration": 7.12
+    },
+    {
+      "text": "the image manually. And this is kind of",
+      "start": 2561.04,
+      "duration": 4.72
+    },
+    {
+      "text": "like the long way.",
+      "start": 2563.68,
+      "duration": 3.919
+    },
+    {
+      "text": "So with the frame selection, that's the",
+      "start": 2565.76,
+      "duration": 5.2
+    },
+    {
+      "text": "easiest way you can crop an image.",
+      "start": 2567.599,
+      "duration": 5.52
+    },
+    {
+      "text": "So what I'm going to do is select the",
+      "start": 2570.96,
+      "duration": 5.2
+    },
+    {
+      "text": "image, click on alternate to duplicate",
+      "start": 2573.119,
+      "duration": 7.041
+    },
+    {
+      "text": "it to the next frame.",
+      "start": 2576.16,
+      "duration": 6.08
+    },
+    {
+      "text": "Or what you can do is basically because",
+      "start": 2580.16,
+      "duration": 4.32
+    },
+    {
+      "text": "I duplicated using the Alt key and kind",
+      "start": 2582.24,
+      "duration": 5.68
+    },
+    {
+      "text": "of drag it in. So you can see it's not",
+      "start": 2584.48,
+      "duration": 5.359
+    },
+    {
+      "text": "aligned. It's not exactly like the",
+      "start": 2587.92,
+      "duration": 4.48
+    },
+    {
+      "text": "position it was on the first frame. So,",
+      "start": 2589.839,
+      "duration": 4.48
+    },
+    {
+      "text": "I'm going to delete it. I'm going to",
+      "start": 2592.4,
+      "duration": 6.16
+    },
+    {
+      "text": "click on this. Ctrl C for copy. And I",
+      "start": 2594.319,
+      "duration": 6.481
+    },
+    {
+      "text": "click on the next frame. If I click Ctrl",
+      "start": 2598.56,
+      "duration": 5.36
+    },
+    {
+      "text": "+V for paste, it's going to place it the",
+      "start": 2600.8,
+      "duration": 6.48
+    },
+    {
+      "text": "exact position of where it was at the",
+      "start": 2603.92,
+      "duration": 5.84
+    },
+    {
+      "text": "previous frame.",
+      "start": 2607.28,
+      "duration": 6.079
+    },
+    {
+      "text": "Okay. So, I'm going to quickly duplicate",
+      "start": 2609.76,
+      "duration": 6.0
+    },
+    {
+      "text": "this.",
+      "start": 2613.359,
+      "duration": 5.041
+    },
+    {
+      "text": "I'm just going to create",
+      "start": 2615.76,
+      "duration": 6.12
+    },
+    {
+      "text": "four of them",
+      "start": 2618.4,
+      "duration": 3.48
+    },
+    {
+      "text": "and quickly select everything by holding",
+      "start": 2623.839,
+      "duration": 6.24
+    },
+    {
+      "text": "the shift key and then just clicking on",
+      "start": 2627.44,
+      "duration": 7.04
+    },
+    {
+      "text": "it. I'm going to resize it.",
+      "start": 2630.079,
+      "duration": 9.0
+    },
+    {
+      "text": "Oh, I didn't select that one.",
+      "start": 2634.48,
+      "duration": 4.599
+    },
+    {
+      "text": "So again, the shift key and resize it",
+      "start": 2639.839,
+      "duration": 6.0
+    },
+    {
+      "text": "fit the screen.",
+      "start": 2642.24,
+      "duration": 6.16
+    },
+    {
+      "text": "make it centrally aligned.",
+      "start": 2645.839,
+      "duration": 6.48
+    },
+    {
+      "text": "So with multiple objects selected and",
+      "start": 2648.4,
+      "duration": 7.12
+    },
+    {
+      "text": "you hover it, what you can see is that",
+      "start": 2652.319,
+      "duration": 6.481
+    },
+    {
+      "text": "there are this pink circles and what you",
+      "start": 2655.52,
+      "duration": 9.12
+    },
+    {
+      "text": "can do is by dragging it to the other",
+      "start": 2658.8,
+      "duration": 8.0
+    },
+    {
+      "text": "um to the other items that you have",
+      "start": 2664.64,
+      "duration": 5.439
+    },
+    {
+      "text": "selected, it will switch places and yeah",
+      "start": 2666.8,
+      "duration": 4.88
+    },
+    {
+      "text": "it will switch places and it will not",
+      "start": 2670.079,
+      "duration": 3.921
+    },
+    {
+      "text": "get distorted. it will just change",
+      "start": 2671.68,
+      "duration": 3.919
+    },
+    {
+      "text": "places.",
+      "start": 2674.0,
+      "duration": 6.52
+    },
+    {
+      "text": "And the next thing of what you can do is",
+      "start": 2675.599,
+      "duration": 4.921
+    },
+    {
+      "text": "a button. So a button is very important",
+      "start": 2703.76,
+      "duration": 5.52
+    },
+    {
+      "text": "for a prototype is because that it",
+      "start": 2706.96,
+      "duration": 5.52
+    },
+    {
+      "text": "allows you to navigate to other pages",
+      "start": 2709.28,
+      "duration": 6.72
+    },
+    {
+      "text": "from a certain page. So in Figma, you",
+      "start": 2712.48,
+      "duration": 5.599
+    },
+    {
+      "text": "couldn't really just add a button. You",
+      "start": 2716.0,
+      "duration": 4.64
+    },
+    {
+      "text": "have to create it using basic shapes. So",
+      "start": 2718.079,
+      "duration": 4.0
+    },
+    {
+      "text": "what I'm going to do is I'm going to",
+      "start": 2720.64,
+      "duration": 6.8
+    },
+    {
+      "text": "click on R, drag out a rectangle, and",
+      "start": 2722.079,
+      "duration": 10.561
+    },
+    {
+      "text": "click on text. So I'm just going to type",
+      "start": 2727.44,
+      "duration": 7.36
+    },
+    {
+      "text": "next.",
+      "start": 2732.64,
+      "duration": 5.56
+    },
+    {
+      "text": "next page.",
+      "start": 2734.8,
+      "duration": 3.4
+    },
+    {
+      "text": "Going to adjust the size.",
+      "start": 2738.56,
+      "duration": 4.96
+    },
+    {
+      "text": "So, I'm going to come down here. I'm",
+      "start": 2742.079,
+      "duration": 3.04
+    },
+    {
+      "text": "going to change the fill. If I double",
+      "start": 2743.52,
+      "duration": 5.88
+    },
+    {
+      "text": "click this, I can drag it",
+      "start": 2745.119,
+      "duration": 4.281
+    },
+    {
+      "text": "and adjust the corner radius, maybe like",
+      "start": 2749.52,
+      "duration": 7.36
+    },
+    {
+      "text": "20, and add a stroke. I want it to have",
+      "start": 2752.319,
+      "duration": 9.561
+    },
+    {
+      "text": "a weight of two.",
+      "start": 2756.88,
+      "duration": 5.0
+    },
+    {
+      "text": "So if I select the text,",
+      "start": 2762.4,
+      "duration": 5.04
+    },
+    {
+      "text": "currently it's a bit too big. I would",
+      "start": 2765.52,
+      "duration": 4.559
+    },
+    {
+      "text": "want it to be smaller. I can just change",
+      "start": 2767.44,
+      "duration": 7.12
+    },
+    {
+      "text": "the font size to maybe like 16.",
+      "start": 2770.079,
+      "duration": 6.561
+    },
+    {
+      "text": "16 is too small. I'll just choose like",
+      "start": 2774.56,
+      "duration": 5.6
+    },
+    {
+      "text": "20. Yep. And after that, what I can do",
+      "start": 2776.64,
+      "duration": 8.0
+    },
+    {
+      "text": "is basically I drag this into the text",
+      "start": 2780.16,
+      "duration": 7.439
+    },
+    {
+      "text": "into the button, the square.",
+      "start": 2784.64,
+      "duration": 6.32
+    },
+    {
+      "text": "Yep. So right now the button",
+      "start": 2787.599,
+      "duration": 6.161
+    },
+    {
+      "text": "is not very responsive. What I mean by",
+      "start": 2790.96,
+      "duration": 7.2
+    },
+    {
+      "text": "that is that if I drag this square, it's",
+      "start": 2793.76,
+      "duration": 6.64
+    },
+    {
+      "text": "not one thing. It's basically separate.",
+      "start": 2798.16,
+      "duration": 5.28
+    },
+    {
+      "text": "The the text is staying on top of the",
+      "start": 2800.4,
+      "duration": 6.56
+    },
+    {
+      "text": "rectangle and it's not one component. So",
+      "start": 2803.44,
+      "duration": 7.44
+    },
+    {
+      "text": "what I can do is select both of them and",
+      "start": 2806.96,
+      "duration": 8.08
+    },
+    {
+      "text": "I can click control alternate",
+      "start": 2810.88,
+      "duration": 8.719
+    },
+    {
+      "text": "K to create a component. So what a",
+      "start": 2815.04,
+      "duration": 8.72
+    },
+    {
+      "text": "component is is basically a group. But",
+      "start": 2819.599,
+      "duration": 6.161
+    },
+    {
+      "text": "the difference between it and a group is",
+      "start": 2823.76,
+      "duration": 6.0
+    },
+    {
+      "text": "after I duplicate",
+      "start": 2825.76,
+      "duration": 7.24
+    },
+    {
+      "text": "the object",
+      "start": 2829.76,
+      "duration": 3.24
+    },
+    {
+      "text": "and let's say after you have a lot of",
+      "start": 2834.88,
+      "duration": 5.52
+    },
+    {
+      "text": "elements created and you receive",
+      "start": 2837.92,
+      "duration": 4.24
+    },
+    {
+      "text": "feedback that it doesn't look good, you",
+      "start": 2840.4,
+      "duration": 3.36
+    },
+    {
+      "text": "don't have to change everything",
+      "start": 2842.16,
+      "duration": 4.08
+    },
+    {
+      "text": "separately. So what you can do is click",
+      "start": 2843.76,
+      "duration": 6.319
+    },
+    {
+      "text": "on the component you have created. If I",
+      "start": 2846.24,
+      "duration": 8.0
+    },
+    {
+      "text": "change it, let's say I change the color",
+      "start": 2850.079,
+      "duration": 6.561
+    },
+    {
+      "text": "from red to white, you can see all of",
+      "start": 2854.24,
+      "duration": 5.52
+    },
+    {
+      "text": "the instances you created will change",
+      "start": 2856.64,
+      "duration": 6.12
+    },
+    {
+      "text": "according.",
+      "start": 2859.76,
+      "duration": 3.0
+    },
+    {
+      "text": "Okay. So now with the button created,",
+      "start": 2863.359,
+      "duration": 7.521
+    },
+    {
+      "text": "I'm going to go to layout",
+      "start": 2867.2,
+      "duration": 7.28
+    },
+    {
+      "text": "and go to this icon here. Choose auto",
+      "start": 2870.88,
+      "duration": 7.12
+    },
+    {
+      "text": "layout. So what auto layout does is",
+      "start": 2874.48,
+      "duration": 5.599
+    },
+    {
+      "text": "basically make it responsive. So when I",
+      "start": 2878.0,
+      "duration": 4.88
+    },
+    {
+      "text": "drag this,",
+      "start": 2880.079,
+      "duration": 4.401
+    },
+    {
+      "text": "the text is going to stay within the",
+      "start": 2882.88,
+      "duration": 3.36
+    },
+    {
+      "text": "cart.",
+      "start": 2884.48,
+      "duration": 4.48
+    },
+    {
+      "text": "So right now it doesn't do that. What",
+      "start": 2886.24,
+      "duration": 5.28
+    },
+    {
+      "text": "I'm going to do is go to the height,",
+      "start": 2888.96,
+      "duration": 5.119
+    },
+    {
+      "text": "click on the down button, add the hot",
+      "start": 2891.52,
+      "duration": 5.28
+    },
+    {
+      "text": "contents,",
+      "start": 2894.079,
+      "duration": 6.081
+    },
+    {
+      "text": "and doubleclick it and go to the text",
+      "start": 2896.8,
+      "duration": 5.6
+    },
+    {
+      "text": "within it.",
+      "start": 2900.16,
+      "duration": 4.399
+    },
+    {
+      "text": "And with the width I'm going to click",
+      "start": 2902.4,
+      "duration": 5.56
+    },
+    {
+      "text": "fill container.",
+      "start": 2904.559,
+      "duration": 3.401
+    },
+    {
+      "text": "So right now you can see if I",
+      "start": 2908.319,
+      "duration": 8.0
+    },
+    {
+      "text": "let's say resize the button the text is",
+      "start": 2912.8,
+      "duration": 6.16
+    },
+    {
+      "text": "going to",
+      "start": 2916.319,
+      "duration": 5.681
+    },
+    {
+      "text": "the text is going to change according to",
+      "start": 2918.96,
+      "duration": 7.72
+    },
+    {
+      "text": "the size of the container.",
+      "start": 2922.0,
+      "duration": 4.68
+    },
+    {
+      "text": "Okay. So, with all the text, with all",
+      "start": 2928.4,
+      "duration": 5.6
+    },
+    {
+      "text": "the buttons selected, I'm just going to",
+      "start": 2931.92,
+      "duration": 7.159
+    },
+    {
+      "text": "drag one here to the page",
+      "start": 2934.0,
+      "duration": 5.079
+    },
+    {
+      "text": "and one to this page.",
+      "start": 2939.68,
+      "duration": 7.04
+    },
+    {
+      "text": "Okay. So, because the stuff that you",
+      "start": 2942.8,
+      "duration": 6.319
+    },
+    {
+      "text": "have duplicated from the component is",
+      "start": 2946.72,
+      "duration": 4.48
+    },
+    {
+      "text": "affected by the main component itself.",
+      "start": 2949.119,
+      "duration": 3.921
+    },
+    {
+      "text": "So, whatever changes you made to the",
+      "start": 2951.2,
+      "duration": 4.72
+    },
+    {
+      "text": "main component will affect the ones you",
+      "start": 2953.04,
+      "duration": 5.36
+    },
+    {
+      "text": "copied.",
+      "start": 2955.92,
+      "duration": 4.72
+    },
+    {
+      "text": "So, but I can do something called",
+      "start": 2958.4,
+      "duration": 4.719
+    },
+    {
+      "text": "overwrite which is by selecting this the",
+      "start": 2960.64,
+      "duration": 6.56
+    },
+    {
+      "text": "child and if I double click on a field I",
+      "start": 2963.119,
+      "duration": 7.041
+    },
+    {
+      "text": "can select a different color.",
+      "start": 2967.2,
+      "duration": 5.96
+    },
+    {
+      "text": "Oops.",
+      "start": 2970.16,
+      "duration": 3.0
+    },
+    {
+      "text": "Yep. I can select a different color and",
+      "start": 2977.68,
+      "duration": 4.56
+    },
+    {
+      "text": "as you can see it doesn't affect the",
+      "start": 2979.68,
+      "duration": 5.879
+    },
+    {
+      "text": "main component.",
+      "start": 2982.24,
+      "duration": 3.319
+    },
+    {
+      "text": "Okay.",
+      "start": 2986.0,
+      "duration": 2.559
+    },
+    {
+      "text": "So um the next up I'm going to after you",
+      "start": 2989.359,
+      "duration": 6.401
+    },
+    {
+      "text": "have created the interface and",
+      "start": 2993.52,
+      "duration": 6.079
+    },
+    {
+      "text": "everything to however you like on Figma",
+      "start": 2995.76,
+      "duration": 6.0
+    },
+    {
+      "text": "the design",
+      "start": 2999.599,
+      "duration": 4.161
+    },
+    {
+      "text": "the design phase and what I'm going to",
+      "start": 3001.76,
+      "duration": 5.92
+    },
+    {
+      "text": "do is go to the right side panel click",
+      "start": 3003.76,
+      "duration": 7.24
+    },
+    {
+      "text": "on prototype",
+      "start": 3007.68,
+      "duration": 3.32
+    },
+    {
+      "text": "and",
+      "start": 3011.119,
+      "duration": 4.96
+    },
+    {
+      "text": "I can just hover over the buttons and I",
+      "start": 3012.72,
+      "duration": 8.32
+    },
+    {
+      "text": "can see that there are blue circles",
+      "start": 3016.079,
+      "duration": 8.48
+    },
+    {
+      "text": "over the button. So if I click on it, I",
+      "start": 3021.04,
+      "duration": 5.519
+    },
+    {
+      "text": "drag on it, you can see arrows",
+      "start": 3024.559,
+      "duration": 5.361
+    },
+    {
+      "text": "appearing. So what this does is let's",
+      "start": 3026.559,
+      "duration": 9.361
+    },
+    {
+      "text": "say if I point it at the homepage,",
+      "start": 3029.92,
+      "duration": 9.84
+    },
+    {
+      "text": "it what this says is basically if I tap",
+      "start": 3035.92,
+      "duration": 5.76
+    },
+    {
+      "text": "on this button, the trigger, if I tap on",
+      "start": 3039.76,
+      "duration": 4.24
+    },
+    {
+      "text": "this button, it will navigate to the",
+      "start": 3041.68,
+      "duration": 5.32
+    },
+    {
+      "text": "homepage.",
+      "start": 3044.0,
+      "duration": 3.0
+    },
+    {
+      "text": "and it will be an instant interaction.",
+      "start": 3047.44,
+      "duration": 5.2
+    },
+    {
+      "text": "So let me just quickly show you guys how",
+      "start": 3050.559,
+      "duration": 6.321
+    },
+    {
+      "text": "this works. So if I click on this page",
+      "start": 3052.64,
+      "duration": 7.28
+    },
+    {
+      "text": "and I click on present.",
+      "start": 3056.88,
+      "duration": 5.199
+    },
+    {
+      "text": "So it will just create a new window for",
+      "start": 3059.92,
+      "duration": 6.24
+    },
+    {
+      "text": "you and to test out the",
+      "start": 3062.079,
+      "duration": 7.04
+    },
+    {
+      "text": "your prototype that you have created. So",
+      "start": 3066.16,
+      "duration": 6.08
+    },
+    {
+      "text": "if I click on it, yep, it's going to",
+      "start": 3069.119,
+      "duration": 6.24
+    },
+    {
+      "text": "navigate to the homepage. So, I'm just",
+      "start": 3072.24,
+      "duration": 5.68
+    },
+    {
+      "text": "going to go back into it",
+      "start": 3075.359,
+      "duration": 6.321
+    },
+    {
+      "text": "and because the main component has made",
+      "start": 3077.92,
+      "duration": 6.639
+    },
+    {
+      "text": "some changes. So, if I click on the",
+      "start": 3081.68,
+      "duration": 5.52
+    },
+    {
+      "text": "other buttons that are copied and paste",
+      "start": 3084.559,
+      "duration": 4.881
+    },
+    {
+      "text": "from the main component,",
+      "start": 3087.2,
+      "duration": 4.24
+    },
+    {
+      "text": "you can see all the prototype lines, all",
+      "start": 3089.44,
+      "duration": 3.84
+    },
+    {
+      "text": "of the buttons are navigating to the",
+      "start": 3091.44,
+      "duration": 4.56
+    },
+    {
+      "text": "homepage. But I can override it by",
+      "start": 3093.28,
+      "duration": 6.0
+    },
+    {
+      "text": "clicking on the arrow and drag it and",
+      "start": 3096.0,
+      "duration": 6.8
+    },
+    {
+      "text": "point it at the product page. So that is",
+      "start": 3099.28,
+      "duration": 6.72
+    },
+    {
+      "text": "how you can make different pages. You",
+      "start": 3102.8,
+      "duration": 5.2
+    },
+    {
+      "text": "can navigate from a page to the second",
+      "start": 3106.0,
+      "duration": 3.68
+    },
+    {
+      "text": "one.",
+      "start": 3108.0,
+      "duration": 3.28
+    },
+    {
+      "text": "Yep.",
+      "start": 3109.68,
+      "duration": 4.96
+    },
+    {
+      "text": "And under that. Okay. So now right here",
+      "start": 3111.28,
+      "duration": 5.279
+    },
+    {
+      "text": "you can see there's something called a",
+      "start": 3114.64,
+      "duration": 4.959
+    },
+    {
+      "text": "flow. So what the flow is is that if I",
+      "start": 3116.559,
+      "duration": 6.161
+    },
+    {
+      "text": "don't have anything selected",
+      "start": 3119.599,
+      "duration": 7.881
+    },
+    {
+      "text": "and I click present,",
+      "start": 3122.72,
+      "duration": 4.76
+    },
+    {
+      "text": "what it's going to do it's it's going to",
+      "start": 3128.319,
+      "duration": 5.601
+    },
+    {
+      "text": "show it's going to start with that page",
+      "start": 3131.44,
+      "duration": 5.8
+    },
+    {
+      "text": "that has",
+      "start": 3133.92,
+      "duration": 3.32
+    },
+    {
+      "text": "a bit baggy. Come on. Yep. So it will",
+      "start": 3142.079,
+      "duration": 5.201
+    },
+    {
+      "text": "just show that page with the flow",
+      "start": 3145.52,
+      "duration": 4.0
+    },
+    {
+      "text": "selected. So right now you can create",
+      "start": 3147.28,
+      "duration": 5.839
+    },
+    {
+      "text": "multiple flows. If I just click on this",
+      "start": 3149.52,
+      "duration": 8.559
+    },
+    {
+      "text": "and click on another flow. So if I",
+      "start": 3153.119,
+      "duration": 8.921
+    },
+    {
+      "text": "click on present again",
+      "start": 3158.079,
+      "duration": 3.961
+    },
+    {
+      "text": "so let's say later on you will create",
+      "start": 3162.88,
+      "duration": 4.4
+    },
+    {
+      "text": "like specific pages for like blocking.",
+      "start": 3164.88,
+      "duration": 5.439
+    },
+    {
+      "text": "You just want to show people about a",
+      "start": 3167.28,
+      "duration": 5.44
+    },
+    {
+      "text": "certain process like certain pages. you",
+      "start": 3170.319,
+      "duration": 4.8
+    },
+    {
+      "text": "can assign a flow and click that flow so",
+      "start": 3172.72,
+      "duration": 5.839
+    },
+    {
+      "text": "it starts from that page instead of the",
+      "start": 3175.119,
+      "duration": 6.24
+    },
+    {
+      "text": "beginning.",
+      "start": 3178.559,
+      "duration": 5.28
+    },
+    {
+      "text": "Okay, so that's one way to test out your",
+      "start": 3181.359,
+      "duration": 5.921
+    },
+    {
+      "text": "prototype. The other way is that you can",
+      "start": 3183.839,
+      "duration": 6.401
+    },
+    {
+      "text": "click on the arrow",
+      "start": 3187.28,
+      "duration": 6.24
+    },
+    {
+      "text": "and you can go to preview mode. If I",
+      "start": 3190.24,
+      "duration": 8.48
+    },
+    {
+      "text": "click on it, you can see a mobile view.",
+      "start": 3193.52,
+      "duration": 9.039
+    },
+    {
+      "text": "the mobile is popping up and whatever",
+      "start": 3198.72,
+      "duration": 6.96
+    },
+    {
+      "text": "changes I make let's say if I change",
+      "start": 3202.559,
+      "duration": 5.04
+    },
+    {
+      "text": "this if I want to change the color I go",
+      "start": 3205.68,
+      "duration": 4.24
+    },
+    {
+      "text": "back to design",
+      "start": 3207.599,
+      "duration": 5.841
+    },
+    {
+      "text": "I want to change this color to let's say",
+      "start": 3209.92,
+      "duration": 5.12
+    },
+    {
+      "text": "red",
+      "start": 3213.44,
+      "duration": 4.56
+    },
+    {
+      "text": "yep so the preview is adapting and",
+      "start": 3215.04,
+      "duration": 4.559
+    },
+    {
+      "text": "everything so you can kind of work on it",
+      "start": 3218.0,
+      "duration": 4.079
+    },
+    {
+      "text": "and see how it works and if I click on",
+      "start": 3219.599,
+      "duration": 4.72
+    },
+    {
+      "text": "it it's going to be working and",
+      "start": 3222.079,
+      "duration": 6.641
+    },
+    {
+      "text": "interactive as well like the present",
+      "start": 3224.319,
+      "duration": 4.401
+    },
+    {
+      "text": "Okay. So after you have created your",
+      "start": 3229.2,
+      "duration": 6.48
+    },
+    {
+      "text": "prototype,",
+      "start": 3233.68,
+      "duration": 3.919
+    },
+    {
+      "text": "you have tested out and it works and you",
+      "start": 3235.68,
+      "duration": 4.399
+    },
+    {
+      "text": "want to share it with other people, what",
+      "start": 3237.599,
+      "duration": 6.321
+    },
+    {
+      "text": "you can do is go to the share button",
+      "start": 3240.079,
+      "duration": 6.641
+    },
+    {
+      "text": "here. If I click on it, this setting",
+      "start": 3243.92,
+      "duration": 5.76
+    },
+    {
+      "text": "will pop up saying where you want to",
+      "start": 3246.72,
+      "duration": 5.44
+    },
+    {
+      "text": "share this file. What I can do is if I",
+      "start": 3249.68,
+      "duration": 6.399
+    },
+    {
+      "text": "click on copy link and I'll just open up",
+      "start": 3252.16,
+      "duration": 6.88
+    },
+    {
+      "text": "a",
+      "start": 3256.079,
+      "duration": 7.04
+    },
+    {
+      "text": "sorry a new window",
+      "start": 3259.04,
+      "duration": 6.24
+    },
+    {
+      "text": "actually I need incognito window and",
+      "start": 3263.119,
+      "duration": 5.44
+    },
+    {
+      "text": "I'll just place the link here. So when",
+      "start": 3265.28,
+      "duration": 5.68
+    },
+    {
+      "text": "people open up the link this is what",
+      "start": 3268.559,
+      "duration": 4.241
+    },
+    {
+      "text": "they're going to see. So what you are",
+      "start": 3270.96,
+      "duration": 5.599
+    },
+    {
+      "text": "sharing just now is actually the editor",
+      "start": 3272.8,
+      "duration": 5.6
+    },
+    {
+      "text": "like the project you are working on. So",
+      "start": 3276.559,
+      "duration": 3.921
+    },
+    {
+      "text": "people can make edits, leave comments,",
+      "start": 3278.4,
+      "duration": 6.24
+    },
+    {
+      "text": "and make changes. And they can also",
+      "start": 3280.48,
+      "duration": 7.92
+    },
+    {
+      "text": "pre preview it. But if you if the people",
+      "start": 3284.64,
+      "duration": 5.439
+    },
+    {
+      "text": "you are sharing to doesn't have a female",
+      "start": 3288.4,
+      "duration": 3.6
+    },
+    {
+      "text": "account, they are required to sign up",
+      "start": 3290.079,
+      "duration": 5.681
+    },
+    {
+      "text": "and log in. Okay. So that's cool. But",
+      "start": 3292.0,
+      "duration": 6.8
+    },
+    {
+      "text": "what if you only",
+      "start": 3295.76,
+      "duration": 6.16
+    },
+    {
+      "text": "I'm sorry. So what if you only want to",
+      "start": 3298.8,
+      "duration": 4.96
+    },
+    {
+      "text": "let's say share the prototype? You don't",
+      "start": 3301.92,
+      "duration": 3.84
+    },
+    {
+      "text": "want to share the entire file and let",
+      "start": 3303.76,
+      "duration": 4.16
+    },
+    {
+      "text": "people to make changes.",
+      "start": 3305.76,
+      "duration": 4.799
+    },
+    {
+      "text": "So what you can do is I will go back",
+      "start": 3307.92,
+      "duration": 6.24
+    },
+    {
+      "text": "here to the present mode and you can see",
+      "start": 3310.559,
+      "duration": 6.641
+    },
+    {
+      "text": "here there's a share prototype button.",
+      "start": 3314.16,
+      "duration": 7.6
+    },
+    {
+      "text": "If I click on it and I copy this link",
+      "start": 3317.2,
+      "duration": 9.44
+    },
+    {
+      "text": "I will go back to the incognito mode.",
+      "start": 3321.76,
+      "duration": 8.0
+    },
+    {
+      "text": "If I paste this link,",
+      "start": 3326.64,
+      "duration": 6.08
+    },
+    {
+      "text": "it's only going to show people",
+      "start": 3329.76,
+      "duration": 5.04
+    },
+    {
+      "text": "the prototype like the present mode, the",
+      "start": 3332.72,
+      "duration": 4.96
+    },
+    {
+      "text": "preview and show us how your design is",
+      "start": 3334.8,
+      "duration": 4.16
+    },
+    {
+      "text": "going to look like. People cannot make",
+      "start": 3337.68,
+      "duration": 3.439
+    },
+    {
+      "text": "edits.",
+      "start": 3338.96,
+      "duration": 5.76
+    },
+    {
+      "text": "Yep. And people are not required to sign",
+      "start": 3341.119,
+      "duration": 6.161
+    },
+    {
+      "text": "in or log in to Figma in order to try",
+      "start": 3344.72,
+      "duration": 4.0
+    },
+    {
+      "text": "out your prototype and give you",
+      "start": 3347.28,
+      "duration": 4.44
+    },
+    {
+      "text": "feedback.",
+      "start": 3348.72,
+      "duration": 3.0
+    },
+    {
+      "text": "Okay. So, I'm going to go back to here.",
+      "start": 3352.16,
+      "duration": 7.28
+    },
+    {
+      "text": "Click on that again. So the other stuff",
+      "start": 3356.799,
+      "duration": 5.601
+    },
+    {
+      "text": "you can do is basically you can publish",
+      "start": 3359.44,
+      "duration": 5.919
+    },
+    {
+      "text": "the community and other people can get",
+      "start": 3362.4,
+      "duration": 7.28
+    },
+    {
+      "text": "access to your files and also use it",
+      "start": 3365.359,
+      "duration": 6.321
+    },
+    {
+      "text": "and also you can share it to the team.",
+      "start": 3369.68,
+      "duration": 5.52
+    },
+    {
+      "text": "You can move it to the project.",
+      "start": 3371.68,
+      "duration": 6.32
+    },
+    {
+      "text": "select the team project and move it",
+      "start": 3375.2,
+      "duration": 5.44
+    },
+    {
+      "text": "there so that people who join your team",
+      "start": 3378.0,
+      "duration": 5.2
+    },
+    {
+      "text": "can also get access to the files without",
+      "start": 3380.64,
+      "duration": 5.76
+    },
+    {
+      "text": "having to just copy paste the links to",
+      "start": 3383.2,
+      "duration": 5.2
+    },
+    {
+      "text": "the groups or like individual people to",
+      "start": 3386.4,
+      "duration": 5.199
+    },
+    {
+      "text": "get access to your files.",
+      "start": 3388.4,
+      "duration": 7.679
+    },
+    {
+      "text": "Okay, so that's basically how you can",
+      "start": 3391.599,
+      "duration": 6.96
+    },
+    {
+      "text": "work on Figma. How to make your first",
+      "start": 3396.079,
+      "duration": 6.801
+    },
+    {
+      "text": "prototype, how to add shapes, text, and",
+      "start": 3398.559,
+      "duration": 6.721
+    },
+    {
+      "text": "how to share your prototype with other",
+      "start": 3402.88,
+      "duration": 5.4
+    },
+    {
+      "text": "people.",
+      "start": 3405.28,
+      "duration": 3.0
+    }
+  ]
+}

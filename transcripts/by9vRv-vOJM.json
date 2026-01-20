@@ -1,0 +1,433 @@
+{
+  "video_id": "by9vRv-vOJM",
+  "title": "LIDA 2022",
+  "channel": "Shaping STEMS Futures ",
+  "published": "2025-08-29T00:16:33Z",
+  "transcript": [
+    {
+      "text": "My name is Alex and I was one of the",
+      "start": 0.96,
+      "duration": 4.0
+    },
+    {
+      "text": "hardware developers.",
+      "start": 2.96,
+      "duration": 4.0
+    },
+    {
+      "text": ">> My name is Jackson Semons and I was also",
+      "start": 4.96,
+      "duration": 3.52
+    },
+    {
+      "text": "one of the hardware developers on the",
+      "start": 6.96,
+      "duration": 2.4
+    },
+    {
+      "text": "project.",
+      "start": 8.48,
+      "duration": 3.44
+    },
+    {
+      "text": ">> I'm Chundan and I'm the developer for",
+      "start": 9.36,
+      "duration": 4.48
+    },
+    {
+      "text": "this project.",
+      "start": 11.92,
+      "duration": 4.08
+    },
+    {
+      "text": ">> Hi, I'm Ben CK and I'm a front-end",
+      "start": 13.84,
+      "duration": 3.439
+    },
+    {
+      "text": "developer.",
+      "start": 16.0,
+      "duration": 2.88
+    },
+    {
+      "text": ">> Hi, I'm Nick French. I'm a front-end",
+      "start": 17.279,
+      "duration": 3.521
+    },
+    {
+      "text": "developer and we're a part of Leader, an",
+      "start": 18.88,
+      "duration": 3.76
+    },
+    {
+      "text": "innovative way to make composting easy",
+      "start": 20.8,
+      "duration": 3.36
+    },
+    {
+      "text": "and accessible to households or",
+      "start": 22.64,
+      "duration": 3.04
+    },
+    {
+      "text": "businesses with little to no gardening",
+      "start": 24.16,
+      "duration": 3.119
+    },
+    {
+      "text": "experience.",
+      "start": 25.68,
+      "duration": 4.16
+    },
+    {
+      "text": "In Australia, nearly 7.6 6 million tons",
+      "start": 27.279,
+      "duration": 4.4
+    },
+    {
+      "text": "of food is wasted per year. That amounts",
+      "start": 29.84,
+      "duration": 4.399
+    },
+    {
+      "text": "to approximately 312 kilos per person on",
+      "start": 31.679,
+      "duration": 4.641
+    },
+    {
+      "text": "average. 80% of this waste is sent to",
+      "start": 34.239,
+      "duration": 4.0
+    },
+    {
+      "text": "landfill creating 3% of our total",
+      "start": 36.32,
+      "duration": 3.759
+    },
+    {
+      "text": "emissions. That's equivalent to nearly",
+      "start": 38.239,
+      "duration": 3.521
+    },
+    {
+      "text": "13 million tons of carbon dioxide",
+      "start": 40.079,
+      "duration": 3.521
+    },
+    {
+      "text": "annually or as much as Australia's",
+      "start": 41.76,
+      "duration": 3.28
+    },
+    {
+      "text": "highest emitting coal fired power",
+      "start": 43.6,
+      "duration": 3.6
+    },
+    {
+      "text": "station. When organic waste is left to",
+      "start": 45.04,
+      "duration": 3.6
+    },
+    {
+      "text": "decompose in landfill, it doesn't get",
+      "start": 47.2,
+      "duration": 3.28
+    },
+    {
+      "text": "the properation it needs, producing",
+      "start": 48.64,
+      "duration": 4.079
+    },
+    {
+      "text": "methane and carbon dioxide gases. If",
+      "start": 50.48,
+      "duration": 3.68
+    },
+    {
+      "text": "more households composted, we would",
+      "start": 52.719,
+      "duration": 2.961
+    },
+    {
+      "text": "drastically reduce the waste going to",
+      "start": 54.16,
+      "duration": 3.6
+    },
+    {
+      "text": "landfill. But there's a catch. Typical",
+      "start": 55.68,
+      "duration": 3.679
+    },
+    {
+      "text": "household composting takes months to",
+      "start": 57.76,
+      "duration": 3.52
+    },
+    {
+      "text": "complete, often resulting in more food",
+      "start": 59.359,
+      "duration": 3.281
+    },
+    {
+      "text": "waste being produced than can be",
+      "start": 61.28,
+      "duration": 3.36
+    },
+    {
+      "text": "composted. Our client found that by",
+      "start": 62.64,
+      "duration": 3.68
+    },
+    {
+      "text": "optimizing the carbon to nitrogen levels",
+      "start": 64.64,
+      "duration": 3.68
+    },
+    {
+      "text": "of the input and using a closed in",
+      "start": 66.32,
+      "duration": 3.76
+    },
+    {
+      "text": "vessel system, this total composting",
+      "start": 68.32,
+      "duration": 3.839
+    },
+    {
+      "text": "cycle can be reduced to just 60 days.",
+      "start": 70.08,
+      "duration": 5.52
+    },
+    {
+      "text": "This is where Lita comes in. An invesy",
+      "start": 72.159,
+      "duration": 6.081
+    },
+    {
+      "text": "automated by IoT, producing a carefree,",
+      "start": 75.6,
+      "duration": 4.32
+    },
+    {
+      "text": "highquality composting solution for",
+      "start": 78.24,
+      "duration": 3.6
+    },
+    {
+      "text": "households. Lita creates a controlled",
+      "start": 79.92,
+      "duration": 3.28
+    },
+    {
+      "text": "environment for the food processing",
+      "start": 81.84,
+      "duration": 3.68
+    },
+    {
+      "text": "microorganisms to thrive in. It achieves",
+      "start": 83.2,
+      "duration": 3.919
+    },
+    {
+      "text": "through the automated rotation of each",
+      "start": 85.52,
+      "duration": 3.599
+    },
+    {
+      "text": "chamber, aviation of compost, and proper",
+      "start": 87.119,
+      "duration": 4.161
+    },
+    {
+      "text": "heat insulation. By expanding on the",
+      "start": 89.119,
+      "duration": 3.601
+    },
+    {
+      "text": "previous work of last year's students,",
+      "start": 91.28,
+      "duration": 2.799
+    },
+    {
+      "text": "we've been able to take our client",
+      "start": 92.72,
+      "duration": 3.28
+    },
+    {
+      "text": "vision even further. We've improved on",
+      "start": 94.079,
+      "duration": 4.08
+    },
+    {
+      "text": "the existing Arduino Raspberry Pi IoT",
+      "start": 96.0,
+      "duration": 4.4
+    },
+    {
+      "text": "solution with more sensors and controls,",
+      "start": 98.159,
+      "duration": 3.841
+    },
+    {
+      "text": "allowing us to collect more data about",
+      "start": 100.4,
+      "duration": 4.24
+    },
+    {
+      "text": "oxygen, carbon dioxide, methane,",
+      "start": 102.0,
+      "duration": 4.399
+    },
+    {
+      "text": "temperature, and moisture levels of each",
+      "start": 104.64,
+      "duration": 3.36
+    },
+    {
+      "text": "invers",
+      "start": 106.399,
+      "duration": 2.72
+    },
+    {
+      "text": "also providing the system more",
+      "start": 108.0,
+      "duration": 2.96
+    },
+    {
+      "text": "micromanagement control by the use of",
+      "start": 109.119,
+      "duration": 3.761
+    },
+    {
+      "text": "air pumps and motorized paddles.",
+      "start": 110.96,
+      "duration": 3.199
+    },
+    {
+      "text": "Information collected throughout the",
+      "start": 112.88,
+      "duration": 3.12
+    },
+    {
+      "text": "composting life cycle is uploaded to the",
+      "start": 114.159,
+      "duration": 3.441
+    },
+    {
+      "text": "cloud, allowing consumers to view",
+      "start": 116.0,
+      "duration": 3.2
+    },
+    {
+      "text": "details about the process anywhere in",
+      "start": 117.6,
+      "duration": 3.6
+    },
+    {
+      "text": "the world. This information is displayed",
+      "start": 119.2,
+      "duration": 3.76
+    },
+    {
+      "text": "on the Lita mobile app, providing",
+      "start": 121.2,
+      "duration": 3.68
+    },
+    {
+      "text": "real-time sensor readouts, graphs of",
+      "start": 122.96,
+      "duration": 3.519
+    },
+    {
+      "text": "current and previous composting life",
+      "start": 124.88,
+      "duration": 3.76
+    },
+    {
+      "text": "cycles, and system logs when compost is",
+      "start": 126.479,
+      "duration": 4.241
+    },
+    {
+      "text": "mixed or airated, giving customers a",
+      "start": 128.64,
+      "duration": 3.36
+    },
+    {
+      "text": "piece of mind that their composting",
+      "start": 130.72,
+      "duration": 3.04
+    },
+    {
+      "text": "system is working, while also providing",
+      "start": 132.0,
+      "duration": 3.44
+    },
+    {
+      "text": "some educational insight into what's",
+      "start": 133.76,
+      "duration": 3.6
+    },
+    {
+      "text": "going on. The mobile application is",
+      "start": 135.44,
+      "duration": 3.84
+    },
+    {
+      "text": "built using React Native, suitable for",
+      "start": 137.36,
+      "duration": 3.84
+    },
+    {
+      "text": "Android or iOS, making easily accessible",
+      "start": 139.28,
+      "duration": 3.28
+    },
+    {
+      "text": "to everyone, no matter what type of",
+      "start": 141.2,
+      "duration": 3.52
+    },
+    {
+      "text": "device they use. With Fleet, we believe",
+      "start": 142.56,
+      "duration": 3.44
+    },
+    {
+      "text": "we can provide households with a",
+      "start": 144.72,
+      "duration": 3.44
+    },
+    {
+      "text": "carefree composting system without the",
+      "start": 146.0,
+      "duration": 3.44
+    },
+    {
+      "text": "tedious maintenance or knowledge",
+      "start": 148.16,
+      "duration": 3.439
+    },
+    {
+      "text": "required for typical home composting,",
+      "start": 149.44,
+      "duration": 3.84
+    },
+    {
+      "text": "allowing Australia to start reducing his",
+      "start": 151.599,
+      "duration": 3.28
+    },
+    {
+      "text": "overall household waste and get us on",
+      "start": 153.28,
+      "duration": 5.28
+    },
+    {
+      "text": "track for a greener future.",
+      "start": 154.879,
+      "duration": 3.681
+    }
+  ]
+}

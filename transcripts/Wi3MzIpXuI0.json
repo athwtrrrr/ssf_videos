@@ -1,0 +1,623 @@
+{
+  "video_id": "Wi3MzIpXuI0",
+  "title": "The Smart Shoe 2024",
+  "channel": "Shaping STEMS Futures ",
+  "published": "2025-08-29T00:13:33Z",
+  "transcript": [
+    {
+      "text": "Hi everyone, I am Putin Manitwa studying",
+      "start": 1.12,
+      "duration": 4.639
+    },
+    {
+      "text": "robotics and meatronics engineering at",
+      "start": 4.0,
+      "duration": 4.4
+    },
+    {
+      "text": "Swimburn University of Technology.",
+      "start": 5.759,
+      "duration": 4.321
+    },
+    {
+      "text": "During the course of this video, I will",
+      "start": 8.4,
+      "duration": 4.319
+    },
+    {
+      "text": "discuss a key problem in a township in",
+      "start": 10.08,
+      "duration": 4.96
+    },
+    {
+      "text": "the Northern Territory of Australia and",
+      "start": 12.719,
+      "duration": 5.521
+    },
+    {
+      "text": "how I propose we solve it. The township",
+      "start": 15.04,
+      "duration": 5.52
+    },
+    {
+      "text": "in question is Yuendum, a remote",
+      "start": 18.24,
+      "duration": 4.64
+    },
+    {
+      "text": "indigenous community located within",
+      "start": 20.56,
+      "duration": 5.28
+    },
+    {
+      "text": "Australia's Tanami Desert. It is home to",
+      "start": 22.88,
+      "duration": 4.96
+    },
+    {
+      "text": "the Walpiri people and has a population",
+      "start": 25.84,
+      "duration": 6.16
+    },
+    {
+      "text": "of about 700 to 800 citizens. One of the",
+      "start": 27.84,
+      "duration": 7.12
+    },
+    {
+      "text": "biggest, if not the biggest problem that",
+      "start": 32.0,
+      "duration": 6.239
+    },
+    {
+      "text": "this township face is the frequent power",
+      "start": 34.96,
+      "duration": 6.72
+    },
+    {
+      "text": "outages. An average of 82% of the people",
+      "start": 38.239,
+      "duration": 5.601
+    },
+    {
+      "text": "get disconnected from the electricity",
+      "start": 41.68,
+      "duration": 4.559
+    },
+    {
+      "text": "once per day.",
+      "start": 43.84,
+      "duration": 4.719
+    },
+    {
+      "text": "Inherently, this is going to cause major",
+      "start": 46.239,
+      "duration": 4.0
+    },
+    {
+      "text": "disruptions to their everyday life",
+      "start": 48.559,
+      "duration": 4.801
+    },
+    {
+      "text": "activities. The main aspect of those",
+      "start": 50.239,
+      "duration": 6.0
+    },
+    {
+      "text": "that we will focus in this presentation",
+      "start": 53.36,
+      "duration": 5.519
+    },
+    {
+      "text": "would be the communication aspect of the",
+      "start": 56.239,
+      "duration": 4.241
+    },
+    {
+      "text": "issue.",
+      "start": 58.879,
+      "duration": 4.401
+    },
+    {
+      "text": "With these frequent power outages, it is",
+      "start": 60.48,
+      "duration": 5.52
+    },
+    {
+      "text": "granted that you can't necessarily use",
+      "start": 63.28,
+      "duration": 5.12
+    },
+    {
+      "text": "the most advanced communication devices",
+      "start": 66.0,
+      "duration": 5.92
+    },
+    {
+      "text": "such as mobile phones, radios, etc. To",
+      "start": 68.4,
+      "duration": 6.48
+    },
+    {
+      "text": "add to this, due to the remote nature of",
+      "start": 71.92,
+      "duration": 5.04
+    },
+    {
+      "text": "this township, the cellular service of",
+      "start": 74.88,
+      "duration": 5.599
+    },
+    {
+      "text": "this township is extremely poor.",
+      "start": 76.96,
+      "duration": 6.96
+    },
+    {
+      "text": "The objective of this presentation is",
+      "start": 80.479,
+      "duration": 6.481
+    },
+    {
+      "text": "essentially to solve this discussed",
+      "start": 83.92,
+      "duration": 5.12
+    },
+    {
+      "text": "aspect of the issue faced by the people",
+      "start": 86.96,
+      "duration": 4.799
+    },
+    {
+      "text": "of the UNU and increase the living",
+      "start": 89.04,
+      "duration": 5.6
+    },
+    {
+      "text": "standards of these citizens.",
+      "start": 91.759,
+      "duration": 4.801
+    },
+    {
+      "text": "With that contextualization, I will move",
+      "start": 94.64,
+      "duration": 5.119
+    },
+    {
+      "text": "on to my proposition. My design idea is",
+      "start": 96.56,
+      "duration": 5.519
+    },
+    {
+      "text": "to make a shoe that generates",
+      "start": 99.759,
+      "duration": 5.281
+    },
+    {
+      "text": "electricity while you walk. The basic",
+      "start": 102.079,
+      "duration": 5.36
+    },
+    {
+      "text": "way this functions is by harnessing the",
+      "start": 105.04,
+      "duration": 6.0
+    },
+    {
+      "text": "energy us humans generate while walking.",
+      "start": 107.439,
+      "duration": 5.921
+    },
+    {
+      "text": "Every time we take a step, the",
+      "start": 111.04,
+      "duration": 5.039
+    },
+    {
+      "text": "spring-loaded hinge will be pressed in,",
+      "start": 113.36,
+      "duration": 4.719
+    },
+    {
+      "text": "transferring the highinetic energy to a",
+      "start": 116.079,
+      "duration": 3.841
+    },
+    {
+      "text": "wheel, which will then transfer the",
+      "start": 118.079,
+      "duration": 4.4
+    },
+    {
+      "text": "energy to a dynamo to be converted into",
+      "start": 119.92,
+      "duration": 4.08
+    },
+    {
+      "text": "electricity.",
+      "start": 122.479,
+      "duration": 3.92
+    },
+    {
+      "text": "Finally, this electricity will be stored",
+      "start": 124.0,
+      "duration": 5.44
+    },
+    {
+      "text": "in a rechargeable battery to be used for",
+      "start": 126.399,
+      "duration": 6.241
+    },
+    {
+      "text": "later use. The current implementation of",
+      "start": 129.44,
+      "duration": 6.32
+    },
+    {
+      "text": "this shoe is at a very prototype level.",
+      "start": 132.64,
+      "duration": 5.36
+    },
+    {
+      "text": "So it won't look like the most efficient",
+      "start": 135.76,
+      "duration": 4.8
+    },
+    {
+      "text": "piece of tech. But it but it is only",
+      "start": 138.0,
+      "duration": 5.599
+    },
+    {
+      "text": "here to give an idea of the fundamental",
+      "start": 140.56,
+      "duration": 5.12
+    },
+    {
+      "text": "way of the design and functions and",
+      "start": 143.599,
+      "duration": 4.401
+    },
+    {
+      "text": "further calibrations and improvements",
+      "start": 145.68,
+      "duration": 5.04
+    },
+    {
+      "text": "will be made.",
+      "start": 148.0,
+      "duration": 5.12
+    },
+    {
+      "text": "The biggest objectives that I tried to",
+      "start": 150.72,
+      "duration": 5.12
+    },
+    {
+      "text": "fulfill through this design idea was to",
+      "start": 153.12,
+      "duration": 4.479
+    },
+    {
+      "text": "make a portable power source that",
+      "start": 155.84,
+      "duration": 3.6
+    },
+    {
+      "text": "citizens can use to power their",
+      "start": 157.599,
+      "duration": 3.92
+    },
+    {
+      "text": "essential communication devices that",
+      "start": 159.44,
+      "duration": 4.4
+    },
+    {
+      "text": "didn't depend on the power grid because",
+      "start": 161.519,
+      "duration": 5.36
+    },
+    {
+      "text": "of its unreliability while harnessing",
+      "start": 163.84,
+      "duration": 5.759
+    },
+    {
+      "text": "energy from a clean energy source and",
+      "start": 166.879,
+      "duration": 5.761
+    },
+    {
+      "text": "not adapt to nature. Especially because",
+      "start": 169.599,
+      "duration": 5.28
+    },
+    {
+      "text": "indigenous citizens have a massive",
+      "start": 172.64,
+      "duration": 5.679
+    },
+    {
+      "text": "sentimental value to their environment.",
+      "start": 174.879,
+      "duration": 5.601
+    },
+    {
+      "text": "Diving into the technologies used in",
+      "start": 178.319,
+      "duration": 4.401
+    },
+    {
+      "text": "this device. The fundamental concept",
+      "start": 180.48,
+      "duration": 5.039
+    },
+    {
+      "text": "that this idea is based upon will be",
+      "start": 182.72,
+      "duration": 5.28
+    },
+    {
+      "text": "electromagnetic induction which is a",
+      "start": 185.519,
+      "duration": 4.401
+    },
+    {
+      "text": "fancy way of saying producing current",
+      "start": 188.0,
+      "duration": 5.44
+    },
+    {
+      "text": "from cutting a magnetic field by a coil.",
+      "start": 189.92,
+      "duration": 6.0
+    },
+    {
+      "text": "Additionally, we have technologies like",
+      "start": 193.44,
+      "duration": 4.48
+    },
+    {
+      "text": "battery storage to store the electricity",
+      "start": 195.92,
+      "duration": 4.08
+    },
+    {
+      "text": "produced by the shoe. There will be a",
+      "start": 197.92,
+      "duration": 4.8
+    },
+    {
+      "text": "voltage regulator to spit out a more",
+      "start": 200.0,
+      "duration": 5.12
+    },
+    {
+      "text": "stable power output. What this means is",
+      "start": 202.72,
+      "duration": 5.28
+    },
+    {
+      "text": "that it rectifies the sudden bumps in",
+      "start": 205.12,
+      "duration": 5.119
+    },
+    {
+      "text": "voltages that happen every time you take",
+      "start": 208.0,
+      "duration": 4.799
+    },
+    {
+      "text": "a step and you take your foot off. This",
+      "start": 210.239,
+      "duration": 4.56
+    },
+    {
+      "text": "is done by charging capacitors and",
+      "start": 212.799,
+      "duration": 4.481
+    },
+    {
+      "text": "discharging them when the output voltage",
+      "start": 214.799,
+      "duration": 4.561
+    },
+    {
+      "text": "is going down.",
+      "start": 217.28,
+      "duration": 4.239
+    },
+    {
+      "text": "On top of that, I intend to have a",
+      "start": 219.36,
+      "duration": 4.32
+    },
+    {
+      "text": "cellular modem attached to this shoe",
+      "start": 221.519,
+      "duration": 4.561
+    },
+    {
+      "text": "that will amplify cellular networks to",
+      "start": 223.68,
+      "duration": 4.32
+    },
+    {
+      "text": "improve the cellular service you will",
+      "start": 226.08,
+      "duration": 5.2
+    },
+    {
+      "text": "receive. Think of it as a hotspot built",
+      "start": 228.0,
+      "duration": 6.0
+    },
+    {
+      "text": "into your shoe. And finally, there will",
+      "start": 231.28,
+      "duration": 5.2
+    },
+    {
+      "text": "be health monitoring sensors built in so",
+      "start": 234.0,
+      "duration": 4.239
+    },
+    {
+      "text": "every user can have their vitals",
+      "start": 236.48,
+      "duration": 4.399
+    },
+    {
+      "text": "monitored all the time.",
+      "start": 238.239,
+      "duration": 4.321
+    },
+    {
+      "text": "Before concluding this presentation, I",
+      "start": 240.879,
+      "duration": 3.681
+    },
+    {
+      "text": "would like to give some attention to a",
+      "start": 242.56,
+      "duration": 4.239
+    },
+    {
+      "text": "few weaknesses this design idea",
+      "start": 244.56,
+      "duration": 4.16
+    },
+    {
+      "text": "currently possess. Like mentioned",
+      "start": 246.799,
+      "duration": 4.0
+    },
+    {
+      "text": "previously, the design idea of this shoe",
+      "start": 248.72,
+      "duration": 4.64
+    },
+    {
+      "text": "is currently not very userfriendly. So,",
+      "start": 250.799,
+      "duration": 5.28
+    },
+    {
+      "text": "it may incentivize people to not use it",
+      "start": 253.36,
+      "duration": 5.76
+    },
+    {
+      "text": "as much. Secondly, the lithium batteries",
+      "start": 256.079,
+      "duration": 5.28
+    },
+    {
+      "text": "inside the shoe will degrade over time",
+      "start": 259.12,
+      "duration": 4.0
+    },
+    {
+      "text": "and these shoes will have to be",
+      "start": 261.359,
+      "duration": 4.4
+    },
+    {
+      "text": "considered e-waste eventually.",
+      "start": 263.12,
+      "duration": 5.28
+    },
+    {
+      "text": "And one other huge limitation of the",
+      "start": 265.759,
+      "duration": 4.481
+    },
+    {
+      "text": "shoe is that it can only power",
+      "start": 268.4,
+      "duration": 5.44
+    },
+    {
+      "text": "electronics in a very small scale.",
+      "start": 270.24,
+      "duration": 5.44
+    },
+    {
+      "text": "Basically, anything that can be powered",
+      "start": 273.84,
+      "duration": 4.4
+    },
+    {
+      "text": "by USB. And with all that said, I would",
+      "start": 275.68,
+      "duration": 5.04
+    },
+    {
+      "text": "like to say that this idea does have a",
+      "start": 278.24,
+      "duration": 4.32
+    },
+    {
+      "text": "lot of potential and could potentially",
+      "start": 280.72,
+      "duration": 3.199
+    },
+    {
+      "text": "grow out of these constraints and",
+      "start": 282.56,
+      "duration": 3.919
+    },
+    {
+      "text": "limitations. I will make sure the design",
+      "start": 283.919,
+      "duration": 4.72
+    },
+    {
+      "text": "idea is further elaborated and improved",
+      "start": 286.479,
+      "duration": 4.561
+    },
+    {
+      "text": "to make sure the maximum benefits are",
+      "start": 288.639,
+      "duration": 4.321
+    },
+    {
+      "text": "taken and improve the communication",
+      "start": 291.04,
+      "duration": 4.56
+    },
+    {
+      "text": "quality of the people in YMU amongst the",
+      "start": 292.96,
+      "duration": 5.84
+    },
+    {
+      "text": "township and with the rest of the world.",
+      "start": 295.6,
+      "duration": 6.08
+    },
+    {
+      "text": "I am Putin Waitn and this is my design",
+      "start": 298.8,
+      "duration": 5.17
+    },
+    {
+      "text": "idea the smart shoe.",
+      "start": 301.68,
+      "duration": 20.48
+    },
+    {
+      "text": "[Music]",
+      "start": 303.97,
+      "duration": 20.43
+    },
+    {
+      "text": "Hey,",
+      "start": 322.16,
+      "duration": 2.24
+    }
+  ]
+}
