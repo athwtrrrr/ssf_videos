@@ -1,1 +1,3 @@
+# VIDEO: Workshop 1  : Adobe Illustrator (2022) | CHANNEL: Shaping STEMS Futures  | DATE: 2025-09-15
+
 The pen tool is really great for doing curves and things like that. If you want to create a circle or a square you can hold the shift key and it will keep those dimensions locked in. The transform tool will show the position which is here the X and Y coordinates of where your shape is on your screen.

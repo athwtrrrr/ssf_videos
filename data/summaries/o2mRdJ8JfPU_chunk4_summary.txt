@@ -1,1 +1,3 @@
+# VIDEO: Workshop 4: Effective Storytelling with Data Visualisation 2025 | CHANNEL: Shaping STEMS Futures  | DATE: 2025-10-15
+
 There are two types of objective when you want to use data visualization to tell story. First mainly I think it's internal like as a data scientist data analyst together with our team member we may use the visualization to explore if there are any interesting patterns. There is a fine line between showing the important data in the explanatory storytelling or manipulating presentation to fit our subjective opinions. Once you have decided, you will need to design a story board.

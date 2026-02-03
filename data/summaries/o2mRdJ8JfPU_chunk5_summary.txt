@@ -1,1 +1,3 @@
+# VIDEO: Workshop 4: Effective Storytelling with Data Visualisation 2025 | CHANNEL: Shaping STEMS Futures  | DATE: 2025-10-15
+
 Michael: I would like to end with a hands-on but it's nothands-on just me sharing how we are applying these design guidelines and best practices in our day-to-day work. So normally we are using these three software to design visualizations and present them using a dashboard okay in a storytelling manner. PowerBI is part of your Microsoft product, Tableau and Lucal Studio which is a Google product which is free. So there are all BI tools, business intelligent tools where you can import your data inside.
