@@ -1,0 +1,1 @@
+If you didn't start at the proper commons raw baseline, you are actually trying to distort the data by showing the differences actually are appear to be very big but in actual fact it is not that big. The relative size the axis of the bar chart should always start at zero. Another best practice would be the chart data to ratio. Your graphics must not quote data out of context.

@@ -1,0 +1,1 @@
+When you have a component, you have different states. State of a component basically just means that this button can have different versions of itself. If I add an a hover state for example, it will just automatically animate to change to the hover state when I hover in my prototype. And this is kind of just the basics of the components.

@@ -1,0 +1,1 @@
+Adobe's new design tool allows you to share your artboards with other users. The tool is designed to be responsive to different screen sizes and resolutions. It can also be used to share a flow, which is what you get when you have prototyped a series of pages.

@@ -7,7 +7,6 @@ os.makedirs(RAW_TRANSCRIPTS_DIR, exist_ok=True)
 
 video_ids = [
     #Paste video transcript here
-    "UJbf_6giwk4"
 ]
 
 extractor = YouTubeTranscriptExtractor(YOUTUBE_API_KEY)

@@ -1,0 +1,1 @@
+Adobe Express is a web paste platform. It allows you to upload your own media by just selecting upload from device in the media section. You can also alter the speed of the video just by scrolling the speed bar. It's a slow process but it's quite important for your workflow.

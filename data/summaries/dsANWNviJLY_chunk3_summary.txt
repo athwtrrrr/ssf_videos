@@ -1,0 +1,1 @@
+Figma has a wide community which people will make designs and post it out. It supports like JPEG, PDF and also PNG and almost all file types. The design file you will save it on a Figma file. A fig gem board is basically for people to do brainstorm sessions. And the slide deck, allows you to create presentations and save it as a PDF.

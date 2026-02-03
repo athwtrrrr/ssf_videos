@@ -1,0 +1,1 @@
+After you have created the interface and everything to however you like on Figma the design the design phase and what I'm going to do is go to the right side panel click on prototype. What you are sharing just now is actually the editor like the project you are working on. So people can make edits, leave comments, and make changes.

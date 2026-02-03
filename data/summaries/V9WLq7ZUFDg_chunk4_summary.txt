@@ -1,0 +1,1 @@
+So, we had a very brief look at these tools over here before. Let's go into those in a bit more detail. So, we have our title sort of looking how we want, , it's sort of this nice sort of brush stroke that's going to come across and then disappear. We can use this to zoom in and out of our clip. And you'll see that it's snapping to the point where the video underneath it ends.

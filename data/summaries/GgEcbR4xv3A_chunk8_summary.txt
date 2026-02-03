@@ -1,0 +1,1 @@
+Just click on the export button. It will take a few minutes to export depending on how complicated your project is and how many transitions and effects you have and it will export to that destination. And then again once you're happy with your settings again feel free to go with automatic or one of the presets.

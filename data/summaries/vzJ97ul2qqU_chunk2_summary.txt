@@ -1,0 +1,1 @@
+So, we want to look at making an introduction scene for, you know, whatever story you want to tell. So, we're going to go into templates and we'regoing to search up title screen. And I'm going to add it as a page which will let me allow me to copy elements from this onto my project.
