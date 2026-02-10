@@ -1,0 +1,26 @@
+Combined chunk summaries for: pGm_b5WkgnI
+============================================================
+
+# VIDEO: Workshop 1 : Adobe XD (2024) | CHANNEL: Shaping STEMS Futures  | DATE: 2025-09-15
+
+So, in prototyping, it basically allows you to link each of your pages to each other or basically let your buttons work. Once you have a wireframe ready, you may want to decorate it, add images. And then after you are complete you may come up with an app design that looks like this.
+
+# VIDEO: Workshop 1 : Adobe XD (2024) | CHANNEL: Shaping STEMS Futures  | DATE: 2025-09-15
+
+Ze: So that was just the introduction to Adobe XD and all the features available to you. So once you experience and learn by practice. So you are welcome to come back get an appointment with the Adobe coaches. The next training will be Adobe Express video to help you to create 4minut video. The live showcase will be in week 13.
+
+# VIDEO: Workshop 1 : Adobe XD (2024) | CHANNEL: Shaping STEMS Futures  | DATE: 2025-09-15
+
+Adobe's new design tool allows you to share your artboards with other users. The tool is designed to be responsive to different screen sizes and resolutions. It can also be used to share a flow, which is what you get when you have prototyped a series of pages.
+
+# VIDEO: Workshop 1 : Adobe XD (2024) | CHANNEL: Shaping STEMS Futures  | DATE: 2025-09-15
+
+Adobe XD is a free app that lets you create your own websites and apps. The app is designed to be used for prototyping new products. It is available on iOS and Android and is free to download.
+
+# VIDEO: Workshop 1 : Adobe XD (2024) | CHANNEL: Shaping STEMS Futures  | DATE: 2025-09-15
+
+The design for change competition is a prototyping competition for students at Swimburn University of Technology in Australia. Students will be able to create a digital prototype a website or a mobile application as a design solution to a challenge. The final product in the competition or any of these competitions that ST shaping stem futures offer is a 4 minutes video.
+
+# VIDEO: Workshop 1 : Adobe XD (2024) | CHANNEL: Shaping STEMS Futures  | DATE: 2025-09-15
+
+When you have a component, you have different states. State of a component basically just means that this button can have different versions of itself. If I add an a hover state for example, it will just automatically animate to change to the hover state when I hover in my prototype. And this is kind of just the basics of the components.

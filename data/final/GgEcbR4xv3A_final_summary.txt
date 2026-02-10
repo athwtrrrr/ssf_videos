@@ -1,0 +1,8 @@
+Video: Workshop 1: Adobe Rush (2021)
+Channel: Shaping STEMS Futures 
+Published: 2025-09-24T08:35:34Z
+Original Transcript Chunks: 1593
+Summary Chunks Combined: 8
+============================================================
+
+Adobe Rush is a software which is tailored to the needs of people who are not video editors. Unlike the flagship kind of video editing software Adobe provides which is Premiere Pro Raj doesn't have perhaps that much functionality but it lets you do pretty much everything you need. Students can use Adobe Premiere to create their own videos. They can import images from the creative cloud and add their own text to them. The video can be exported to a variety of different sizes, resolutions and audio levels.

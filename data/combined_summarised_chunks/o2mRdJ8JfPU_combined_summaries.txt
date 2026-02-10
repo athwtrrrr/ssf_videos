@@ -1,0 +1,22 @@
+Combined chunk summaries for: o2mRdJ8JfPU
+============================================================
+
+# VIDEO: Workshop 4: Effective Storytelling with Data Visualisation 2025 | CHANNEL: Shaping STEMS Futures  | DATE: 2025-10-15
+
+Michael: I would like to end with a hands-on but it's nothands-on just me sharing how we are applying these design guidelines and best practices in our day-to-day work. So normally we are using these three software to design visualizations and present them using a dashboard okay in a storytelling manner. PowerBI is part of your Microsoft product, Tableau and Lucal Studio which is a Google product which is free. So there are all BI tools, business intelligent tools where you can import your data inside.
+
+# VIDEO: Workshop 4: Effective Storytelling with Data Visualisation 2025 | CHANNEL: Shaping STEMS Futures  | DATE: 2025-10-15
+
+If you didn't start at the proper commons raw baseline, you are actually trying to distort the data by showing the differences actually are appear to be very big but in actual fact it is not that big. The relative size the axis of the bar chart should always start at zero. Another best practice would be the chart data to ratio. Your graphics must not quote data out of context.
+
+# VIDEO: Workshop 4: Effective Storytelling with Data Visualisation 2025 | CHANNEL: Shaping STEMS Futures  | DATE: 2025-10-15
+
+Swinburn University of Technology is hosting a one hour session on effective storytelling with data visualization. Dr. Beta Zepharanolu, a senior lecturer at Zimban Sarawa, will talk about the importance of a good data visualization in telling the story. He will also share some of the technique that you can use while trying to tell a story using your visualizations. And lastly, he will share some tools that he personally use to create data visualization and share an example project.
+
+# VIDEO: Workshop 4: Effective Storytelling with Data Visualisation 2025 | CHANNEL: Shaping STEMS Futures  | DATE: 2025-10-15
+
+There are two types of objective when you want to use data visualization to tell story. First mainly I think it's internal like as a data scientist data analyst together with our team member we may use the visualization to explore if there are any interesting patterns. There is a fine line between showing the important data in the explanatory storytelling or manipulating presentation to fit our subjective opinions. Once you have decided, you will need to design a story board.
+
+# VIDEO: Workshop 4: Effective Storytelling with Data Visualisation 2025 | CHANNEL: Shaping STEMS Futures  | DATE: 2025-10-15
+
+Using visualization is even more important because we know we are living in the era of big data. We need to somehow use visualizations to summarize data so that we can look at the trend. A good visualization will be able to represent more than two dimension. The ability to take data to understand it to process it and extract value from it is an important skill in the next deca.
