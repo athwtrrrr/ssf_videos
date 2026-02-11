@@ -10,12 +10,22 @@ from youtube_transcript_api import YouTubeTranscriptApi
 from youtube_transcript_api._errors import TranscriptsDisabled, NoTranscriptFound
 from dotenv import load_dotenv
 from google import genai  
+from ytnoti import YouTubeNotifier, Video
+import ngrok
+from requests.auth import HTTPBasicAuth
+import requests
+
 
 # ===================== CONFIGURATION =====================
 load_dotenv()
 
 YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+WORDPRESS_APP_KEY = os.getenv("WORDPRESS_APP_KEY")
+# The URL of the server (API gateway)
+CALLBACK_URL = os.getenv("CALLBACK_URL")
+# Channel ID of Shaping STEM Futures
+YOUTUBE_CHANNEL_ID = os.getenv("YOUTUBE_CHANNEL_ID")
 
 # Directories 
 RAW_TRANSCRIPTS_DIR = "data/transcripts"
@@ -328,20 +338,30 @@ def process_video(video_id: str,
             return False  # not write a summary file
         
         # Write summary only if summarization succeeded
-        metadata_header = f"""VIDEO: {data.get('title', 'Unknown')}
-    CHANNEL: {data.get('channel', 'Unknown')}
-    PUBLISHED: {data.get('published', 'Unknown')[:10]}
-    VIDEO ID: {video_id}
-    TRANSCRIPT WORDS: {data.get('word_count', 0):,}
-    {'='*60}
-
-    """
+        video_title = f"{data.get('title', 'Unknown')}"
         with open(summary_path, "w", encoding="utf-8") as f:
-            f.write(metadata_header + summary)
+            f.write(video_title + summary)
         print(f"   Summary saved")
+    
+    return video_title, summary
 
+def push_to_wordpress(video_title: str, content: str):
+    WORDPRESS_ENDPOINT = "https://shapingstemfutures.org/wp-json/wp/v2/embeddings"
 
-def main():
+    response = requests.post(
+        WORDPRESS_ENDPOINT,
+        auth=("ssfadmin", WORDPRESS_APP_KEY),
+        headers={"User-Agent": "SSF-automation-pipeline"},
+        json={
+            "status": "private",
+            "title": f"Video summary - {video_title}",
+            "content": content
+        }
+    )
+    print(response.content)
+    print(f"Submitted embeddings for {video_title}")
+
+def main(video_id: str):
     init_directories()
 
     # API key checks
@@ -358,38 +378,29 @@ def main():
     cleaner = TranscriptCleaner()
     summarizer = GeminiSummarizer(GEMINI_API_KEY, model_name="gemini-2.5-pro")
 
-    # --- List video IDs here ---
-    video_ids = [
-        # Paste actual IDs
-        'dXXRD3zxa6Y',
-        'Ul35-p7riEo',
-        'kKYEQyJ1GLc',
-        '0RZczdJeTZ0'
-    ]
-
-    if not video_ids:
-        print("Please add video IDs to the `video_ids` list in main().")
+    if not video_id:
+        print("ERROR: Video ID is empty. Check the YouTubeNotifier")
         return
 
 
     # Process each video – skip if already done
-    results = []
-    for vid in video_ids:
-        success = process_video(vid, extractor, cleaner, summarizer, force=False)
-        results.append((vid, success))
-        if vid != video_ids[-1]:
-            time.sleep(1)  # delay
+    video_title, summary = process_video(video_id, extractor, cleaner, summarizer, force=False)
+
+    push_to_wordpress(video_title, summary)
 
     # Final report
     print("\n" + "="*60)
-    print("PROCESSING COMPLETE")
+    print("PROCESSING COMPLETE. EMBEDDINGS PUSHED TO WORDPRESS")
     print("="*60)
-    successful = sum(1 for _, s in results if s)
-    print(f"\n Successfully processed: {successful}/{len(video_ids)} videos")
-    print(f"\n Output folders:")
-    print(f"   {RAW_TRANSCRIPTS_DIR}/  (raw JSON)")
-    print(f"   {CLEAN_DIR}/            (.txt)")
-    print(f"   {GEMINI_SUMMARY_DIR}/   (final summaries)")
+    
 
-if __name__ == "__main__":
-    main()
+notifier = YouTubeNotifier(CALLBACK_URL)
+
+@notifier.upload()
+async def listener(video: Video):
+    print(f"New video uploaded: {video.title}")
+    main(video.id)
+
+notifier.subscribe(callback_url=YOUTUBE_CHANNEL_ID)
+notifier.run()
+print("Notifier running....")
