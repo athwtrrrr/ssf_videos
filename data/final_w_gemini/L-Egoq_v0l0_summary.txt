@@ -1,0 +1,8 @@
+VIDEO: SisterCloud 2021
+    CHANNEL: Shaping STEMS Futures 
+    PUBLISHED: 2025-08-29
+    VIDEO ID: L-Egoq_v0l0
+    TRANSCRIPT WORDS: 0
+    ============================================================
+
+    A team of technology design students presented a design concept for an application called SisterCloud, created for the Design for Change 2021 challenge. The project aims to address the underrepresentation of women in STEM by connecting young girls with peers, mentors, and role models. Targeting girls aged 10 to 15, the app seeks to fill a gap left by existing professional platforms by providing a fun, gamified experience. The core of the app is a landing page with "islands" representing different STEM fields. Within these areas, users can find peers ("Little Sisters"), mentors ("Big Sisters"), and interest groups ("Villages"). To encourage engagement, a "Sister of the Day" feature promotes active and helpful mentors based on metrics like activity level and response times. Users can request to join Villages, which use a unique design language for their sections. For instance, a Village includes a "Town Hall" for announcements, a "Library" for documents, and a "Theater" for integrated voice and video chat. The team's initial rollout strategy involves partnering with schools to populate the app with users and recruiting established women in STEM to act as mentors. The ultimate goal is to empower young girls, tackle STEM stereotypes, and create a supportive community for sharing experiences. The team also identified future development possibilities, emphasizing that robust and continuous moderation is a critical priority due to the young target audience.

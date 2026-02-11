@@ -1,0 +1,8 @@
+VIDEO: Erfan Mangani 2023
+    CHANNEL: Shaping STEMS Futures 
+    PUBLISHED: 2025-08-29
+    VIDEO ID: 1eAfPtv39j4
+    TRANSCRIPT WORDS: 0
+    ============================================================
+
+    Von, a second-year Swinburne engineering and law student, developed a solution for water contamination in rural Indigenous communities as part of a university project. His team focused on the township of Aurukun and its water issues, leading to the creation of a 3D-printed device that purifies water using solar distillation. The device attaches to two plastic bottles, where sunlight evaporates contaminated water from the bottom container, which then rises through a nozzle and condenses as clean water in the top container. Using 3D printing allows for design flexibility and enables communities to modify the component themselves. The main body is intentionally hollow to reduce material use, shorten print time, and decrease the probability of print failures. It features connection points on its sides, allowing multiple units to be linked together to filter larger volumes of water, and includes mounting holes for stability. The nozzle is printed separately so users can select an appropriate length for different bottle sizes. This nozzle is shaped like a triangular prism rather than a tube because it is significantly easier, more reliable, and more affordable to 3D print with fewer support structures. To overcome printing tolerance issues, the nozzle's width varies, and it is designed to be press-fitted from underneath and glued, ensuring a reliable seal even with different print settings. Von believes the project provides a simple yet effective design for accessing clean water and considers it a valuable learning experience for his career.

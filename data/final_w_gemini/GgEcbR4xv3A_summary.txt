@@ -1,0 +1,10 @@
+VIDEO: Workshop 1: Adobe Rush (2021)
+    CHANNEL: Shaping STEMS Futures 
+    PUBLISHED: 2025-09-24
+    VIDEO ID: GgEcbR4xv3A
+    TRANSCRIPT WORDS: 0
+    ============================================================
+
+    This workshop introduces Adobe Rush as a tool for STEM communication, particularly for students entering the "Start Talking" public speaking competition. The competition requires a 4-minute video submission by October 11th for a chance to win $400. The presenter, Tatiana, explains that Rush is a simple, intuitive video editor available for free to Swinburne students via their school account. To begin, users create a new project by importing media like videos and images, which can be arranged on a multi-track timeline. The interface features basic tools on the left and advanced tools on the right, with options to expand audio tracks and lock layers to prevent accidental changes.
+
+Key editing functions include cutting clips with the scissors tool, trimming their duration by dragging the ends, and separating audio from video for independent editing. Users can record voiceovers directly in the software and use audio tools to reduce background noise or echo. The transform panel allows for adjusting a clip's position, scale, and rotation, enabling picture-in-picture effects where images or other videos appear alongside the main speaker. Graphics, including animated titles and solid color backgrounds, can be added from a built-in library and customized with different fonts and colors. Other features include applying color correction, adjusting video speed, and adding simple transitions like dissolves between clips. To finalize a project, users export the video as a local MP4 file, using presets like "YouTube 1080p" for optimal settings. The workshop concludes by reminding students that Adobe coaches are available for one-on-one help during daily drop-in sessions.

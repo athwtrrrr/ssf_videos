@@ -1,0 +1,8 @@
+VIDEO: Design for Change: Showcase 2022
+    CHANNEL: Shaping STEMS Futures 
+    PUBLISHED: 2025-09-01
+    VIDEO ID: 6yRHVOTGCM0
+    TRANSCRIPT WORDS: 0
+    ============================================================
+
+    The Design for Change 2022 showcase is a STEM prototype competition at Swinburne University aimed at developing students' technical, communication, and entrepreneurial skills. The event featured presentations from three finalist teams, evaluated by a judging panel from industry and the university. The first finalist, "AI Implant Dentistry," presented a deep learning system to automatically identify dental implant types from X-rays, addressing a common problem for dentists treating patients without medical records. Their solution uses a novel AI algorithm to classify implants with high accuracy, saving time and reducing the need for multiple consultations. The second team, "Safer Trucking Logistics," developed a comprehensive application to prevent truck accidents caused by unsuitable navigation routes. Their platform allows fleet managers to create custom

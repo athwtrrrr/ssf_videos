@@ -1,0 +1,12 @@
+VIDEO: Workshop 3: Storytelling with Express (2024)
+    CHANNEL: Shaping STEMS Futures 
+    PUBLISHED: 2025-09-25
+    VIDEO ID: vzJ97ul2qqU
+    TRANSCRIPT WORDS: 0
+    ============================================================
+
+    This workshop teaches storytelling using Adobe Express, focusing on creating videos for the "Start Talking" science communication competition. The competition requires students to submit a four-minute video addressing a real-world challenge for a broad audience, with finalists presenting live for cash prizes. To begin in Adobe Express, users should log in with their student ID, start a new project using a standard video template like the YouTube format, and rename their file. The main interface features a timeline at the bottom where users can add scenes, adjust their duration, and place transitions between them.
+
+Content can be added by uploading personal media (videos, images, audio), using stock assets, or selecting from pre-made templates. Key to professional storytelling is the use of animations, which can be applied to any element to control how it enters, loops, and exits a scene, with customizable properties like duration and direction. The platform includes a background removal tool for images and a layer panel to manage the stacking order of different elements, which can also be grouped to move as one unit. Users can precisely time when elements like graphs or text appear on screen to sync with their narration.
+
+For audio, Adobe Express now supports multiple tracks, allowing for narration to be layered with background music. It is crucial to adjust the volume of background music to be lower than the speaker's voice and to use fade effects for smooth transitions. The software also integrates an AI feature to generate custom images from text prompts. Finally, when the video is complete, it can be downloaded as an MP4 file or shared using a view-only link for feedback. Swinburn students can also book one-on-one online consultations for additional support.

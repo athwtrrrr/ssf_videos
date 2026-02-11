@@ -1,0 +1,10 @@
+VIDEO: This Bacteria Wants to Eat Your Plastic Waste (2021)
+    CHANNEL: Shaping STEMS Futures 
+    PUBLISHED: 2025-11-09
+    VIDEO ID: l_nF0DF-v1o
+    TRANSCRIPT WORDS: 0
+    ============================================================
+
+    Plastic waste in the ocean breaks down into harmful microplastics, defined as particles less than 5mm in size, which are then consumed by marine life. Scientists in Japan have discovered a bacterium, *Ideonella sakaiensis*, that is capable of breaking down plastic. This bacterium produces two primary enzymes, PETase and MHETase, which fully decompose the common plastic polymer polyethylene terephthalate (PET). The breakdown of PET yields ethylene glycol and terephthalic acid, which the bacteria then use for their own metabolism. Current wastewater treatment systems, which involve screening, clarification, and filtration, are insufficient for completely removing microplastics from water before it is released into the environment.
+
+A proposed solution is to add a dedicated microplastic removal chamber containing *Ideonella sakaiensis* to the existing wastewater treatment process. In this chamber, the bacteria would specifically degrade PET microplastics found in the wastewater. The subsequent chlorination stage, a standard step in water treatment, would then kill all microorganisms, including the plastic-eating bacteria. This ensures the final water is clean and safe for release into rivers and oceans. The primary benefits of this system are the reduction of microplastic pollution and the potential to reuse the breakdown products to create new PET plastic. However, the solution has limitations, including the high potential cost of mass-producing the bacteria. Furthermore, the enzymes are currently only known to work on PET plastics, and *Ideonella sakaiensis* is the only known bacterium with this ability.

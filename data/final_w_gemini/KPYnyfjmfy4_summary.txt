@@ -1,0 +1,10 @@
+VIDEO: Workshop 3: How to do a winning pitch (2024)
+    CHANNEL: Shaping STEMS Futures 
+    PUBLISHED: 2025-09-15
+    VIDEO ID: KPYnyfjmfy4
+    TRANSCRIPT WORDS: 0
+    ============================================================
+
+    A pitch is a short, engaging story designed to convince an audience, such as investors or judges, that a startup idea is worth supporting. It should clearly define a problem, spark interest, and establish the founder's credibility without overwhelming the audience with excessive features or confusing data. Early pitch decks from successful companies like Airbnb, Tinder, and Dropbox focused on simple, relatable problems such as the high cost of travel, fear of rejection, and messy file storage. A standard pitch deck follows a structured format, beginning with a title slide and a concise vision statement to capture attention. The core of the pitch must articulate a specific problem and identify the target users, often through customer personas to make the issue more tangible. This is followed by defining the target market size to demonstrate the scale of the opportunity, even if it requires making clear, logical assumptions.
+
+The solution should be presented as a direct answer to the stated problem, using visuals like mockups or screenshots to illustrate the product and its unique selling point. An analysis of the competition is crucial to show differentiation, while also potentially validating the market's existence. The business model slide explains the revenue strategy, such as subscriptions or commissions, and provides simple financial projections. To prove viability, a "traction" slide should present evidence of progress through metrics like user interviews, pre-registrations, or search volume data. The presentation should also introduce the team, highlighting relevant expertise and identifying any skill gaps. Every pitch must conclude with a clear "ask," which is a specific call to action requesting investment, mentorship, or a competition win. Key delivery tips include practicing extensively, avoiding reading from a script, maintaining eye contact, and using clean, simple slide formatting.

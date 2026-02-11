@@ -1,0 +1,10 @@
+VIDEO: Workshop 1: Figma (2025)
+    CHANNEL: Shaping STEMS Futures 
+    PUBLISHED: 2025-09-15
+    VIDEO ID: dsANWNviJLY
+    TRANSCRIPT WORDS: 0
+    ============================================================
+
+    This workshop introduces the "Design for Change 2025" competition, a program requiring students to create a four-minute video demonstrating a prototype solution to a real-world challenge, with video submissions due by June 2nd. The session also highlights the Swinburne Adobe Hub, which provides students with free access to Adobe Creative Cloud and offers coaching support. The main focus is a comprehensive tutorial on Figma, a tool for creating interactive digital prototypes. To begin, users should create an account at figma.com with their student email and apply for a free educational license to access professional features by providing proof of enrollment.
+
+The Figma workspace consists of a central editing canvas, a left panel for managing layers and pages, and a right panel for adjusting the properties of selected objects. The tutorial demonstrates how to create a mobile app

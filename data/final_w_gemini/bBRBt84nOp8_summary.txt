@@ -1,0 +1,10 @@
+VIDEO: Workshop 1  : Adobe Illustrator (2022)
+    CHANNEL: Shaping STEMS Futures 
+    PUBLISHED: 2025-09-15
+    VIDEO ID: bBRBt84nOp8
+    TRANSCRIPT WORDS: 0
+    ============================================================
+
+    This workshop introduces the "Design for Change 2021" competition, which challenges multidisciplinary student groups to design and pitch a STEM prototype. Participants can choose between two visions: creating a physical, laser-cut prototype with Adobe Illustrator to inspire school-age girls in STEM, or developing a digital prototype with Adobe XD to support the goals of industry partner Insurance Australia Group (IAG). The competition requires a 300-word outline and a four-minute startup video created with Adobe Rush, with the winning team receiving $1,000 and professional experience. The main portion of the workshop is a tutorial on Adobe Illustrator, led by presenter Elliot, who uses his own design of a laser-cut trebuchet as an educational example. He explains that Illustrator uses vector graphics, which are scalable without quality loss, unlike pixel-based images. Key tools covered include the Shape tools for basic geometry, the Pen tool for creating custom curves and shapes, and the Type tool for adding text, which must be converted to outlines for laser cutting.
+
+The Pathfinder tool is also demonstrated for combining or subtracting shapes from one another. A significant focus is placed on preparing files for laser cutting, which requires specific settings in the RGB color mode. Cut lines must be a pure red stroke (R:255, G:0, B:0), vector etch lines must be a pure blue stroke (R:0, G:0, B:255), and fill etching requires a pure black fill (R:0, G:0, B:0). All cut and vector etch lines must have a precise stroke weight of 0.01mm. Elliot emphasizes the importance of a thorough design process, including research, sketching, and building a physical cardboard prototype before finalizing

@@ -1,0 +1,12 @@
+VIDEO: Workshop 1  Adobe XD (2023)
+    CHANNEL: Shaping STEMS Futures 
+    PUBLISHED: 2025-09-15
+    VIDEO ID: M_BatqpvohQ
+    TRANSCRIPT WORDS: 0
+    ============================================================
+
+    This Adobe XD workshop introduces the software in the context of the "Design for Change" competition, which challenges Swinburne students to solve real-world problems. Participants in the competition are required to create a digital prototype and present it in a four-minute pitch video. The tutorial begins with an overview of the Adobe XD interface, explaining fundamental tools like select, shape creation (rectangle, ellipse), pen, text, and artboards. The instructor, Tom, demonstrates how to create basic shapes, use the shift key for perfect proportions, and modify properties such as fill and border color. A key feature highlighted is the "Repeat Grid," which allows for the rapid duplication of elements like buttons or image placeholders to build layouts efficiently.
+
+To create wireframes, the workshop shows how to install and use the "Lorem Ipsum" plugin to generate placeholder text within text boxes. The process involves building two sample wireframe pages: a homepage with a menu and image grid, and a project page with text and headers. The instructor also explains how to extend an artboard's height to enable vertical scrolling in the final prototype. The session then transitions from wireframing to creating a high-fidelity, interactive prototype by populating the layout with pre-made visual assets.
+
+A central part of the prototyping lesson is creating interactive elements. The instructor demonstrates how to create a "hover state," where an overlay with a title appears when a user's mouse moves over an image. He then shows how to link elements between artboards to create navigation and pop-ups. Specifically, he sets up a "tap" trigger on an image that activates an "overlay" action, causing a new artboard to appear as a pop-up window with a dissolve animation. Finally, the workshop covers how to share a finished prototype by setting a "flow" starting from the home screen and generating a

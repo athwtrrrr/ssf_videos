@@ -1,0 +1,10 @@
+VIDEO: Workshop 2: Storytelling with Adobe Rush (2022)
+    CHANNEL: Shaping STEMS Futures 
+    PUBLISHED: 2025-09-24
+    VIDEO ID: V9WLq7ZUFDg
+    TRANSCRIPT WORDS: 0
+    ============================================================
+
+    This workshop provides a comprehensive introduction to Adobe Rush, framed within the context of Swinburne's "Start Talking 2022" STEM public speaking competition. The competition challenges students to create a four-minute video on a STEM idea with a social impact, with submissions due by October 10th for a chance to win cash prizes. As Swinburne is an Adobe Creative Campus, students have free access to the software. The tutorial begins by demonstrating how to create a new project and import media like videos and images, which can then be rearranged on the timeline by dragging and dropping. Key editing functions covered include trimming the length of clips, splitting them with the scissors tool, and adjusting playback speed.
+
+The workshop explains how to add and customize professional-looking titles using Rush's built-in graphic templates, allowing users to change text, fonts, and colors. A significant feature highlighted is the ability to create picture-in-picture effects by placing one video clip on a layer above another and using the transform tools to resize and reposition it, which is useful for showing a speaker alongside a demonstration. The audio editing process involves recording voiceovers directly into the program or adding music from Rush's royalty-free library. The "auto-duck" feature is also explained, which automatically lowers music volume during spoken parts. Additionally, the tutorial touches on applying visual effects like transitions and performing color correction using presets or manual adjustments. Finally, the process of exporting the finished project is detailed, including choosing a file name, save location, and appropriate settings for resolution and quality, with 1080p recommended for web sharing. The session concludes by reinforcing the value of these video editing skills for future academic and professional opportunities.

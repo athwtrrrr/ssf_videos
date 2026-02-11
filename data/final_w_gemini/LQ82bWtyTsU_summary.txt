@@ -1,0 +1,10 @@
+VIDEO: Workshop 2: Adobe Rush (2022)
+    CHANNEL: Shaping STEMS Futures 
+    PUBLISHED: 2025-09-15
+    VIDEO ID: LQ82bWtyTsU
+    TRANSCRIPT WORDS: 0
+    ============================================================
+
+    This workshop, part of the "Design for Change" STEM prototyping competition, introduces students to Adobe Rush for creating their required 4-minute video pitch. The session begins with an overview of the Rush interface, explaining how to create a new project, import video and image assets, and navigate the main timeline. Key tools are detailed, including the scissors for cutting clips, the "Add Media" button for importing additional files, and the main editing panels for graphics, effects, color, audio, and transformations. To add text, users can select a preset from the "Graphics" panel, customize the font and color, and adjust the title's duration by dragging its edges on the timeline. The "Effects" panel allows for adding transitions like dissolves between clips, though it is recommended to use them sparingly for a professional appearance.
+
+For still images, the "Pan and Zoom" effect can be enabled to create subtle movement and add visual interest. Rush supports multi-track editing, which enables layering clips to create picture-in-picture effects, useful for showing a presenter speaking alongside a project demonstration. The "Transform" panel is then used to resize, reposition, and crop these layered video clips. The software includes a library of royalty-free soundtracks that can be added to an audio track, and users can also record voice-overs directly into the program. A key feature highlighted is "auto-ducking," which automatically lowers music volume during spoken parts to ensure clarity. The "Color" panel offers various presets to adjust the video's look and feel

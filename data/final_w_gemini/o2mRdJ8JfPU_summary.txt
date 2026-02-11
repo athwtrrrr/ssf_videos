@@ -1,0 +1,8 @@
+VIDEO: Workshop 4: Effective Storytelling with Data Visualisation 2025
+    CHANNEL: Shaping STEMS Futures 
+    PUBLISHED: 2025-10-15
+    VIDEO ID: o2mRdJ8JfPU
+    TRANSCRIPT WORDS: 0
+    ============================================================
+
+    Effective data visualization is a crucial skill for communicating complex scientific findings clearly and transparently to a broader audience. Good visualizations act as a form of "external cognition," reducing the mental burden on the viewer by presenting information graphically rather than through raw numbers. Historical examples, such as Charles Minard's map of Napoleon's Russian campaign and John Snow's cholera map, demonstrate how a single graphic can represent multiple dimensions of data and lead to significant insights. A key design principle is graphical integrity, which requires visualizations to be clear and free from distortion to honestly represent the data. Common integrity issues to avoid include bar charts with y-axes that do not start at zero and 3D pie charts, as both can misrepresent proportions and exaggerate differences. Presenters should also maximize the "data-ink ratio" by removing unnecessary "chart junk" like heavy gridlines and backgrounds, ensuring the focus remains on the data itself. It is critical to present data in its full context, as a short-term view can be

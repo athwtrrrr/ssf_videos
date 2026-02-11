@@ -1,0 +1,8 @@
+VIDEO: LIDA 2022
+    CHANNEL: Shaping STEMS Futures 
+    PUBLISHED: 2025-08-29
+    VIDEO ID: by9vRv-vOJM
+    TRANSCRIPT WORDS: 0
+    ============================================================
+
+    Lida is an innovative, automated composting system designed to make composting easy and accessible for households and businesses with little gardening experience. The project addresses Australia's significant food waste problem, where 7.6 million tons are wasted annually, with 80% sent to landfills, creating 3% of the nation's total emissions. This landfill waste decomposes anaerobically, producing harmful methane and carbon dioxide gases. While traditional composting is a solution, it is slow, often taking months to complete. Lida utilizes an in-vessel system that optimizes carbon-to-nitrogen levels to reduce the composting cycle to just 60 days. It creates a controlled environment for microorganisms through automated chamber rotation, aeration, and heat insulation. The system is powered by an Arduino and Raspberry Pi IoT solution featuring sensors that monitor oxygen, carbon dioxide, methane, temperature, and moisture. It also includes air pumps and motorized paddles for micromanagement of the compost. All collected data is uploaded to the cloud and made accessible through the Lida mobile app. Built with React Native for both Android and iOS, the app provides real-time sensor readouts, graphs of composting cycles, and system logs. This gives users peace of mind and educational insight into the process. The goal of Lida is to provide a carefree composting system without the tedious maintenance or knowledge required for traditional methods. By doing so, it aims to help Australian households reduce waste and contribute to a greener future.
